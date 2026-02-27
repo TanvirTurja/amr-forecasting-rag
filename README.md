@@ -2,7 +2,7 @@
 
 This project forecasts antimicrobial resistance (AMR) rates using WHO GLASS surveillance data and pairs those forecasts with a local RAG-based Q&A system that can answer policy questions grounded in WHO documents.
 
-The paper is on arXiv: **[link coming soon]**
+The paper is on arXiv: **[arxiv.org/abs/2602.22673](https://arxiv.org/abs/2602.22673)**
 
 ---
 
