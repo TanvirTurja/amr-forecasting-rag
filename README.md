@@ -81,6 +81,26 @@ Model evaluation on the 2023 held-out test set with 95% Bootstrap Confidence Int
 
 Regional MAE ranged from 4.16% (European Region) to 10.14% (South-East Asia Region), closely tracking with surveillance data availability.
 
+## Citation
+
+If you use this code or data in your research, please cite the preprint:
+
+**Plain text:**
+> Turja, M. T. H. (2026). Forecasting Antimicrobial Resistance Trends Using Machine Learning on WHO GLASS Surveillance Data: A Retrieval-Augmented Generation Approach for Policy Decision Support. *arXiv preprint arXiv:2602.22673*.
+
+**BibTeX:**
+```bibtex
+@misc{turja2026forecastingantimicrobialresistancetrends,
+      title={Forecasting Antimicrobial Resistance Trends Using Machine Learning on WHO GLASS Surveillance Data: A Retrieval-Augmented Generation Approach for Policy Decision Support}, 
+      author={Md Tanvir Hasan Turja},
+      year={2026},
+      eprint={2602.22673},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.22673}, 
+}
+```
+
 ---
 
 ## Author
