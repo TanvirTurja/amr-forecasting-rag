@@ -7841,7 +7841,7 @@ Gemma 4 (Ollama) ──► Grounded policy answer
 <div class="jp-InputPrompt jp-InputArea-prompt">In [1]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="c1"># Run once — skip if already installed</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Run once — skip if already installed</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">subprocess</span><span class="o">,</span><span class="w"> </span><span class="nn">sys</span>
 
 <span class="n">packages</span> <span class="o">=</span> <span class="p">[</span><span class="s2">"chromadb"</span><span class="p">,</span> <span class="s2">"sentence-transformers"</span><span class="p">,</span> <span class="s2">"ollama"</span><span class="p">,</span> <span class="s2">"pymupdf"</span><span class="p">,</span> <span class="s2">"langchain-text-splitters"</span><span class="p">,</span> <span class="s2">"rank_bm25"</span><span class="p">]</span>
@@ -7913,7 +7913,7 @@ Gemma 4 (Ollama) ──► Grounded policy answer
 <div class="jp-InputPrompt jp-InputArea-prompt">In [2]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">chromadb</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">chromadb</span>
 <span class="kn">from</span><span class="w"> </span><span class="nn">chromadb.utils</span><span class="w"> </span><span class="kn">import</span> <span class="n">embedding_functions</span>
 <span class="kn">from</span><span class="w"> </span><span class="nn">sentence_transformers</span><span class="w"> </span><span class="kn">import</span> <span class="n">SentenceTransformer</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">ollama</span>
@@ -7959,7 +7959,7 @@ Gemma 4 (Ollama) ──► Grounded policy answer
 <div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="c1"># ─── Configuration ────────────────────────────────────────────────────────</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># ─── Configuration ────────────────────────────────────────────────────────</span>
 <span class="n">MODEL_NAME</span>       <span class="o">=</span> <span class="s2">"gemma4:e4b"</span>        <span class="c1"># Ollama model — change freely</span>
 <span class="n">EMBEDDING_MODEL</span>  <span class="o">=</span> <span class="s2">"all-MiniLM-L6-v2"</span> <span class="c1"># Lightweight sentence embeddings</span>
 <span class="n">COLLECTION_NAME</span>  <span class="o">=</span> <span class="s2">"amr_policy_docs"</span>
@@ -8015,7 +8015,7 @@ Real WHO PDF documents are loaded in Section 4b.</p>
 <div class="jp-InputPrompt jp-InputArea-prompt">In [4]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="c1"># Knowledge base — populated entirely from real WHO PDFs (Section 4b)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Knowledge base — populated entirely from real WHO PDFs (Section 4b)</span>
 <span class="n">WHO_DOCUMENTS</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="nb">print</span><span class="p">(</span><span class="s2">"Knowledge base initialized (empty) — will be populated from WHO PDFs."</span><span class="p">)</span>
@@ -8126,7 +8126,7 @@ Real WHO PDF documents are loaded in Section 4b.</p>
 <div class="jp-InputPrompt jp-InputArea-prompt">In [5]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">os</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">_os</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">os</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">_os</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">glob</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">_glob</span>
 
 <span class="n">PDF_FILES</span> <span class="o">=</span> <span class="p">[</span>
@@ -8214,7 +8214,7 @@ Real WHO PDF documents are loaded in Section 4b.</p>
 <div class="jp-InputPrompt jp-InputArea-prompt">In [6]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="c1"># ── GPU auto-detection with hardware probe ───────────────────────────────────</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># ── GPU auto-detection with hardware probe ───────────────────────────────────</span>
 <span class="c1"># torch.cuda.is_available() returns True even when the installed PyTorch build</span>
 <span class="c1"># has no compiled kernel for the GPU architecture (e.g. RTX 5060 / sm_120).</span>
 <span class="c1"># We run a tiny tensor op to confirm CUDA actually works before trusting it.</span>
@@ -8315,7 +8315,7 @@ Indexing 1097 documents...
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>Batches: 100%|██████████| 35/35 [00:02&lt;00:00, 12.11it/s]
+<pre>Batches: 100%|██████████| 35/35 [00:02&lt;00:00, 11.70it/s]
 </pre>
 </div>
 </div>
@@ -8351,7 +8351,7 @@ Ready to retrieve WHO policy context!
 <div class="jp-InputPrompt jp-InputArea-prompt">In [7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="c1"># ── Load model comparison results ────────────────────────────────────────────</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># ── Load model comparison results ────────────────────────────────────────────</span>
 <span class="kn">import</span><span class="w"> </span><span class="nn">os</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">_os</span>
 
 <span class="n">_csv_path</span> <span class="o">=</span> <span class="s2">"model_comparison_results.csv"</span>
@@ -8485,10 +8485,10 @@ Linear Regression        8.635278  8.234515        12.923747  11.962802       0.
             Ridge        8.639178  8.245513        12.898719  11.948087       0.797033 0.821343
           XGBoost        7.092339  7.069361        11.623738  10.803452       0.835174 0.853935
          LightGBM        7.226457  7.170185        11.810058  10.837808       0.829848 0.853004
-             LSTM             NaN  6.993859              NaN   9.993937            NaN 0.874663
+             LSTM             NaN  7.316904              NaN  10.971747            NaN 0.849348
 
 
-=== AMR FORECASTING RESULTS (LSTM, Best Model) ===
+=== AMR FORECASTING RESULTS (XGBoost, Best Model) ===
 Training data: WHO GLASS 2021-2023 | 44 countries | 5,909 observations
 
 Model Performance (Test Set, Year 2023):
@@ -8497,8 +8497,8 @@ Model Performance (Test Set, Year 2023):
   - Ridge                  |  MAE: 8.25%  |  R²: 0.821
   - XGBoost                |  MAE: 7.07%  |  R²: 0.854
   - LightGBM               |  MAE: 7.17%  |  R²: 0.853
-  - LSTM                   |  MAE: 6.99%  |  R²: 0.875
-  - Naive baseline       |  MAE: 41.83% (6× worse than LSTM)
+  - LSTM                   |  MAE: 7.32%  |  R²: 0.849
+  - Naive baseline       |  MAE: 41.83% (6× worse than XGBoost)
 
 Top Predictive Features:
   1. Resistance_lag1 (50.5% importance) — prior year resistance is the strongest predictor
@@ -8507,7 +8507,7 @@ Top Predictive Features:
   4. PathogenName (6.0%)               — pathogen identity is important
   5. Antibiotic consumption DID (4.8%) — higher consumption correlates with higher resistance
 
-MAE by WHO Region (LSTM on 2023 test data):
+MAE by WHO Region (XGBoost on 2023 test data):
   European Region              : 4.2%  (most accurate — best surveillance)
   Western Pacific Region       : 7.3%
   African Region               : 8.7%  (sparse data = higher uncertainty)
@@ -8541,7 +8541,7 @@ Regions with weaker GLASS participation have 2.4× higher forecast error.
 <div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">_clean_chunk</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">_clean_chunk</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
 <span class="w">    </span><span class="sd">"""Remove instruction-like artifacts from retrieved chunks."""</span>
     <span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
     <span class="n">text</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="sa">r</span><span class="s1">'##\s*(Your task|Instruction|Solution|Response):.*'</span><span class="p">,</span> <span class="s1">''</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">flags</span><span class="o">=</span><span class="n">re</span><span class="o">.</span><span class="n">DOTALL</span><span class="p">)</span>
@@ -8703,9 +8703,9 @@ Regions with weaker GLASS participation have 2.4× higher forecast error.
 <div class="jp-InputPrompt jp-InputArea-prompt">In [9]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="c1"># Run all 5 demo questions</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Run all 5 demo questions</span>
 <span class="n">DEMO_QUESTIONS</span> <span class="o">=</span> <span class="p">[</span>
-    <span class="s2">"Which WHO regions have the highest resistance volatility according to the LSTM forecast, and what factors drive this?"</span><span class="p">,</span>
+    <span class="s2">"Which WHO regions have the highest resistance volatility according to the forecast, and what factors drive this?"</span><span class="p">,</span>
     <span class="s2">"Which pathogens does WHO classify as critical priority for new antibiotic development?"</span><span class="p">,</span>
     <span class="s2">"Which WHO regions are forecasted to have the highest resistance uncertainty and why?"</span><span class="p">,</span>
     <span class="s2">"What are the key gaps in AMR surveillance coverage identified in the GLASS reports?"</span><span class="p">,</span>
@@ -8729,77 +8729,76 @@ Regions with weaker GLASS participation have 2.4× higher forecast error.
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>
 =================================================================
-? Which WHO regions have the highest resistance volatility according to the LSTM forecast, and what factors drive this?
+? Which WHO regions have the highest resistance volatility according to the forecast, and what factors drive this?
 =================================================================
 
   The South-East Asia Region was identified as having the highest resistance
-   volatility with an MAE of 10.1% based on the LSTM forecast for 2023
-   [FORECASTING DATA]. The overall model accuracy strongly correlates with the
-   quality of surveillance data, suggesting that regions with weaker GLASS
-   participation tend to have a higher forecast error [FORECASTING DATA].
-   Furthermore, key predictive features indicate that prior year resistance
-   (Resistance\_lag1) is the strongest predictor, while country-level
-   heterogeneity and antibiotic consumption also play significant roles in
-   driving these patterns [FORECASTING DATA].
+   volatility with a Mean Absolute Error (MAE) of 10.1% based on the XGBoost
+   forecast model [AMR FORECASTING RESULTS]. The overall analysis indicates that
+   model accuracy is strongly correlated with the quality of surveillance data,
+   suggesting that regions with weaker GLASS participation tend to have higher
+   forecast errors and thus greater uncertainty regarding resistance trends [AMR
+   FORECASTING RESULTS].
 
 
 =================================================================
 ? Which pathogens does WHO classify as critical priority for new antibiotic development?
 =================================================================
 
-  WHO classifies several groups of pathogens as critical priority for antibiotic
-   development and public health measures [Source 3]. These include Gram-
-   negative bacteria resistant to last-resort antibiotics, such as
-   *Acinetobacter baumannii* and various pathogens in the Enterobacterales
-   order, alongside rifampicin-resistant (*RR*) *Mycobacterium tuberculosis*
-   [Source 3]. Additionally, four GLASS target pathogens are designated as
-   critical priority: these include *Acinetobacter spp.* and *P. aeruginosa*
-   resistant to carbapenems, as well as *E. coli* and *K. pneumoniae* resistant
-   to carbapenems or third-generation cephalosporins [Source 2].
+  The WHO classifies several groups of pathogens as critical priority for research
+   and development [Source 3]. These include Gram-negative bacteria resistant to
+   last-resort antibiotics, such as *Acinetobacter baumannii*, and various
+   pathogens within the Enterobacterales order [Source 3]. Additionally,
+   rifampicin-resistant (*RR*) *Mycobacterium tuberculosis* is listed as a
+   critical AMR pathogen [Source 3]. Furthermore, four GLASS target pathogens
+   are designated as critical priority: these include *Acinetobacter spp.* and
+   *P. aeruginosa* resistant to carbapenems, alongside *E. coli* and *K.
+   pneumoniae* resistant to carbapenems or third-generation cephalosporins
+   [Source 2].
 
 
 =================================================================
 ? Which WHO regions are forecasted to have the highest resistance uncertainty and why?
 =================================================================
 
-  The South-East Asia Region is forecasted to have the highest resistance
-   uncertainty with a Mean Absolute Error (MAE) of 10.1% [FORECASTING DATA]. The
-   African Region also shows high uncertainty, reporting an MAE of 8.7%, which
-   is attributed to sparse data [FORECASTING DATA]. Overall, model accuracy
-   strongly correlates with surveillance data quality; specifically, regions
-   with weaker GLASS participation are predicted to have a significantly higher
-   forecast error rate (2.4×) [FORECASTING DATA].
+  Based on the provided forecasting results, the South-East Asia Region is
+   forecasted to have the highest resistance uncertainty, with a Mean Absolute
+   Error (MAE) of 10.1% [FORECASTING DATA]. The African Region and Eastern
+   Mediterranean Region also show high levels of forecast error [FORECASTING
+   DATA]. Generally, model accuracy strongly correlates with surveillance data
+   quality; consequently, regions with weaker GLASS participation are predicted
+   to have significantly higher forecast errors, specifically 2.4× higher than
+   better-surveilled areas [FORECASTING DATA].
 
 
 =================================================================
 ? What are the key gaps in AMR surveillance coverage identified in the GLASS reports?
 =================================================================
 
-  Considerable gaps persist in understanding the magnitude, distribution, and
-   trends of drug-resistant infections at both national and global levels
-   [Source 3]. Developing robust national surveillance systems is particularly
-   challenging in Low- and Middle-Income Countries (LMICs) [Source 3]. These
-   robust systems require comprehensive population coverage, access to quality-
-   assured laboratory services, adequate diagnostic stewardship, and strong
-   reporting mechanisms [Source 3]. Furthermore, despite the information
-   gathered by GLASS, many gaps remain, necessitating significant improvement in
-   methodological and technological approaches and enhancing the use of
-   surveillance data for policy making [Source 5].
+  Key gaps identified in AMR surveillance include considerable deficiencies in
+   understanding the magnitude, distribution, and trends of drug-resistant
+   infections at both national and global levels [Source 3]. Developing robust
+   national surveillance systems is challenging, particularly within Low- and
+   Middle-Income Countries (LMICs) [Source 3]. To achieve robustness, coverage
+   must be ensured across the population, alongside access to quality assured
+   laboratory services, adequate diagnostic stewardship, and strong reporting
+   mechanisms [Source 3]. Furthermore, despite progress, many gaps remain in
+   methodological and technological approaches, necessitating improvement in how
+   surveillance data is utilized for policy making [Source 5].
 
 
 =================================================================
 ? What surveillance investments does WHO prioritize for low-resource settings?
 =================================================================
 
-  WHO's guidance indicates that low- and middle-income countries need support in
-   several areas of surveillance improvement [Source 2]. Specifically, these
-   regions are advised to increase the coverage, representativeness, and quality
-   assurance of laboratory testing to adhere to effective governance principles
-   [Source 2]. The WHO is tasked with developing strategic approaches to assist
-   countries in strengthening these critical components of AMR surveillance
-   [Source 2]. Furthermore, reports highlight that less-resourced CTAs often
-   struggle to provide high-coverage quality data, which raises concerns about
-   data representativeness and quality across the global system [Source 1].
+  WHO suggests that many countries, particularly low- and middle-income nations,
+   must enhance their surveillance efforts by increasing the coverage,
+   representativeness, and quality assurance of laboratory testing [Source 2].
+   To support this, WHO is advised to develop strategic approaches designed to
+   help these countries strengthen the core components of their surveillance
+   systems [Source 2]. These improvements are necessary for adherence to
+   effective governance, coordination, and monitoring principles in AMR
+   surveillance [Source 2].
 
 </pre>
 </div>
@@ -8825,7 +8824,7 @@ Regions with weaker GLASS participation have 2.4× higher forecast error.
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-python"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"AMR Policy Q&amp;A System — powered by Phi-3 Mini + WHO Documents + XGBoost Forecasts"</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"AMR Policy Q&amp;A System — powered by gemma4:e4b + WHO Documents + XGBoost Forecasts"</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"Type 'quit' to exit | Type 'verbose' before query for source details</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
 
 <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
@@ -8859,7 +8858,7 @@ Regions with weaker GLASS participation have 2.4× higher forecast error.
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>AMR Policy Q&amp;A System — powered by Phi-3 Mini + WHO Documents + XGBoost Forecasts
+<pre>AMR Policy Q&amp;A System — powered by gemma4:e4b + WHO Documents + XGBoost Forecasts
 Type 'quit' to exit | Type 'verbose' before query for source details
 
 </pre>
