@@ -106,5 +106,5 @@ If you use this code or data in your research, please cite the preprint:
 ## Author
 
 Md Tanvir Hasan Turja  
-MSc Data Science, Middlesex University London  
+Independent Researcher
 [github.com/TanvirTurja](https://github.com/TanvirTurja)
