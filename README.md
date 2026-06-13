@@ -19,11 +19,11 @@ Six models are trained on WHO GLASS data (2021–2023) to predict resistance per
 - LightGBM
 - LSTM
 
-XGBoost achieved the highest performance with a test MAE of 7.07% (95% CI: 6.73--7.41) and an $R^2$ of 0.854, representing an **83.1% error reduction** over the Naive Baseline. We also implemented **SHAP** analysis to provide mathematically consistent, direction-aware interpretations of how prior-year resistance and antibiotic consumption drive forecasts.
+XGBoost achieved the highest performance with a test MAE of 6.13% (95% CI: 5.83--6.44) and an $R^2$ of 0.885, representing an **85.3% error reduction** over the Naive Baseline. We also implemented **SHAP** analysis to provide mathematically consistent, direction-aware interpretations of how prior-year resistance and antibiotic consumption drive forecasts.
 
 **Part 2 — Policy Q&A**
 
-A Retrieval-Augmented Generation (RAG) pipeline built with ChromaDB and Phi-3 Mini translates the computational forecasts into actionable policy. We deliberately constrained the knowledge base to **six foundational WHO policy documents** to minimize retrieval noise and guarantee 100% citation faithfulness. It runs fully locally — no API keys, no cloud services.
+A Retrieval-Augmented Generation (RAG) pipeline built with ChromaDB and Gemma 4 translates the computational forecasts into actionable policy. We deliberately constrained the knowledge base to **six foundational WHO policy documents** to minimize retrieval noise and guarantee 100% citation faithfulness. It runs fully locally — no API keys, no cloud services.
 
 ---
 
@@ -52,10 +52,10 @@ pip install pandas numpy scikit-learn xgboost lightgbm torch matplotlib seaborn 
 3. Open `training.ipynb` and run all cells to reproduce the forecasts and SHAP values.
 4. Open `rag_pipeline.ipynb` to query the WHO policy system.
 
-For the RAG/Q&A part, you also need [Ollama](https://ollama.com) installed with the Phi-3 Mini model pulled:
+For the RAG/Q&A part, you also need [Ollama](https://ollama.com) installed with the Gemma 4 model pulled:
 
 ```bash
-ollama pull phi3:mini
+ollama pull gemma4:e4b
 ```
 
 ---
@@ -72,14 +72,14 @@ Model evaluation on the 2023 held-out test set with 95% Bootstrap Confidence Int
 
 | Model | Test MAE | 95% CI | Test R² |
 |-------|----------|--------|---------|
-| Naive Baseline | 41.83% | [24.17, 25.38] | — |
-| Linear Regression | 8.23% | [7.87, 8.62] | 0.821 |
-| Ridge | 8.25% | [7.88, 8.62] | 0.821 |
-| LightGBM | 7.17% | [6.84, 7.52] | 0.853 |
-| LSTM | 7.16% | [6.85, 7.49] | 0.872 |
-| **XGBoost** | **7.07%** | **[6.73, 7.41]** | **0.854** |
+| Naive Baseline | 41.79% | [40.77, 42.79] | — |
+| Linear Regression | 8.13% | [7.78, 8.49] | 0.830 |
+| Ridge | 8.15% | [7.79, 8.50] | 0.830 |
+| LSTM | 7.15% | [6.79, 7.52] | 0.853 |
+| LightGBM | 6.30% | [6.00, 6.63] | 0.881 |
+| **XGBoost** | **6.13%** | **[5.83, 6.44]** | **0.885** |
 
-Regional MAE ranged from 4.16% (European Region) to 10.14% (South-East Asia Region), closely tracking with surveillance data availability.
+Regional MAE ranged from 3.65% (European Region) to 8.61% (South-East Asia Region), closely tracking with surveillance data availability.
 
 ## Citation
 
