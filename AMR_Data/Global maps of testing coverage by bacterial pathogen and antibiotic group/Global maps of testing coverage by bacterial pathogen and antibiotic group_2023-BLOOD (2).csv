@@ -1,0 +1,105 @@
+Filters
+"Year filter: 2023"
+"Region filter: All"
+"Infection type filter: Bloodstream"
+"Bacterial pathogen filter: Escherichia coli"
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Escherichia coli BCIs per million population","Absolute number of Escherichia coli BCIs","Total Escherichia coli BCIs with AST (3GCs) per million population","Absolute number of Escherichia coli BCIs with AST (3GCs)","% of Escherichia coli BCIs with AST"
+"Algeria",6.2,284,4.2,196,69
+"Argentina",56.7,2580,52.4,2384,92.4
+"Australia",206.2,5455,204.2,5402,99
+"Austria",508.1,4639,336.2,3070,66.2
+"Bahrain",170.1,267,169.5,266,99.6
+"Bangladesh",0.3,50,0.3,50,100
+"Belgium",394.4,4619,251.1,2941,63.7
+"Benin",12.5,177,12.5,176,99.4
+"Bhutan",47.1,37,45.8,36,97.3
+"Bosnia and Herzegovina",106.4,339,106.4,339,100
+"Brazil",3.7,789,3.6,765,97
+"Brunei Darussalam",575.2,264,573,263,99.6
+"Burkina Faso",3,69,1.1,26,37.7
+"Cambodia",30.4,529,30.4,529,100
+"Cameroon",3,85,2.1,60,70.6
+"Canada",190.7,7494,74.2,2917,38.9
+"China, Hong Kong SAR",863.3,6425,748.5,5571,86.7
+"Colombia",288.8,15112,281,14700,97.3
+"Croatia",333.4,1299,212.3,827,63.7
+"Cyprus",215.6,290,102.6,138,47.6
+"Czechia",359.7,3888,215.7,2332,60
+"C<U+00F4>te d<U+2019>Ivoire",0.4,13,0.4,12,92.3
+"Democratic Republic of the Congo",1.5,162,1.5,156,96.3
+"Denmark",978.8,5822,787.5,4684,80.5
+"Egypt",1.6,187,1.3,147,78.6
+"Estonia",770.9,1054,512.7,701,66.5
+"Eswatini",4.9,6,3.3,4,66.7
+"Ethiopia",2.2,278,1.6,211,75.9
+"Finland",741.8,4155,498.3,2791,67.2
+"Georgia",59.1,225,59.1,225,100
+"Germany",341.7,28894,170.7,14436,50
+"Ghana",3,102,1.5,52,51
+"Greece",179.3,1837,132,1352,73.6
+"Guinea",0.3,4,0.3,4,100
+"Iceland",665.7,258,665.7,258,100
+"India",6.9,9866,4.6,6564,66.5
+"Indonesia",8.1,2264,7.6,2139,94.5
+"Iran (Islamic Republic of)",9.1,826,7.6,685,82.9
+"Iraq",10.9,492,9.1,410,83.3
+"Ireland",586.7,3049,273.8,1423,46.7
+"Italy",417.5,24841,231.9,13795,55.5
+"Japan",802.3,99783,775.6,96462,96.7
+"Jordan",57.6,659,38.6,442,67.1
+"Kenya",4.2,233,3.9,215,92.3
+"Kosovo",14.1,24,14.1,24,100
+"Kuwait",121.1,586,100.4,486,82.9
+"Lao People's Democratic Republic",32.9,252,32.9,252,100
+"Latvia",174.8,329,174.8,329,100
+"Lebanon",1.7,10,1.2,7,70
+"Lithuania",509.4,1454,234.4,669,46
+"Luxembourg",693.1,461,693.1,461,100
+"Madagascar",0.4,11,0.4,11,100
+"Malawi",3.6,76,2.7,56,73.7
+"Malaysia",211.6,7431,202.9,7127,95.9
+"Maldives",79.8,42,51.3,27,64.3
+"Mali",3,72,3,72,100
+"Malta",934.4,498,932.5,497,99.8
+"Mauritius",339.2,432,339.2,432,100
+"Morocco",6.7,254,6.5,247,97.2
+"Mozambique",0.3,11,0.3,10,90.9
+"Myanmar",1,53,0.9,51,96.2
+"Namibia",16.2,48,13.5,40,83.3
+"Nepal",16.3,483,6.3,186,38.5
+"Netherlands (Kingdom of the)",401,7255,190.1,3440,47.4
+"Nigeria",0.2,42,0.1,33,78.6
+"North Macedonia",28.4,52,27.8,51,98.1
+"Norway",715.5,3949,437,2412,61.1
+"Oman",151.5,765,133.5,674,88.1
+"Pakistan",15.5,3843,12.1,3007,78.2
+"Papua New Guinea",2,21,1.3,14,66.7
+"Peru",12.5,422,5.2,175,41.5
+"Philippines",13.3,1531,12.7,1454,95
+"Poland",78.2,3031,61.5,2384,78.7
+"Qatar",200.7,598,200.4,597,99.8
+"Republic of Korea",55,2844,55,2844,100
+"Republic of Moldova",22.2,68,22.2,68,100
+"Russian Federation",11.2,1627,9.9,1438,88.4
+"Saudi Arabia",14.6,485,10.9,362,74.6
+"Singapore",261.7,1515,242.4,1403,92.6
+"South Africa",73.1,4622,71.6,4525,97.9
+"Sri Lanka",48.5,1115,31.3,719,64.5
+"Sweden",1015.7,10717,1015.7,10717,100
+"Switzerland",775.4,6878,766.8,6802,98.9
+"Thailand",79.7,5716,61.5,4407,77.1
+"Timor-Leste",33.2,46,33.2,46,100
+"Trinidad and Tobago",0.7,1,0.7,1,100
+"Tunisia",17.4,212,15.1,184,86.8
+"T<U+00FC>rkiye",68.8,6000,68.7,5992,99.9
+"Uganda",0.4,21,0.3,16,76.2
+"Ukraine",5.6,212,5.5,207,97.6
+"United Arab Emirates",140.9,1499,134.1,1427,95.2
+"United Kingdom of Great Britain and Northern Ireland",530.9,36466,461.6,31704,86.9
+"United Republic of Tanzania",4.2,278,3.9,259,93.2
+"Yemen",4.2,165,2.2,88,53.3
+"Zambia",4.8,99,1.9,39,39.4
+"occupied Palestinian territory, including east Jerusalem",77.3,418,54.5,295,70.6

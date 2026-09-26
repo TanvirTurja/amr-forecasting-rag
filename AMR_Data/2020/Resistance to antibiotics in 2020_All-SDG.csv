@@ -1,0 +1,94 @@
+Filters
+Region filter: All
+Infection type filter: BLOOD
+Bacterial pathogen filter: Escherichia coli
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance",5.330174711,18.238993711,40,64.285714286,94.871794872,77,180592
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance",5.330174711,8.555015815,10.641799232,14.850701743,49.591280654,19,154326
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","ARE","United Arab Emirates","Eastern Mediterranean Region",392,212,54.081632653
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","ARG","Argentina","Region of the Americas",1254,266,21.212121212
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","AUS","Australia","Western Pacific Region",4867,650,13.35524964
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","AUT","Austria","European Region",4933,465,9.426312589
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","BEL","Belgium","European Region",2701,279,10.32950759
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","BFA","Burkina Faso","African Region",11,7,63.636363636
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","BHR","Bahrain","Eastern Mediterranean Region",127,75,59.05511811
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","BIH","Bosnia and Herzegovina","European Region",179,42,23.463687151
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","BRA","Brazil","Region of the Americas",114,37,32.456140351
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","BRN","Brunei Darussalam","Western Pacific Region",185,32,17.297297297
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","BTN","Bhutan","South-East Asia Region",89,48,53.93258427
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","CHE","Switzerland","European Region",523,58,11.089866157
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","CIV","C<U+00F4>te d<U+2019>Ivoire","African Region",10,9,90
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","CYP","Cyprus","European Region",62,32,51.612903226
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","CZE","Czechia","European Region",2995,392,13.088480801
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","DEU","Germany","European Region",19955,2035,10.197945377
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","DNK","Denmark","European Region",2216,161,7.26534296
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","EGY","Egypt","Eastern Mediterranean Region",48,43,89.583333333
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","ETH","Ethiopia","African Region",20,13,65
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","FIN","Finland","European Region",6068,402,6.624917601
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","FRA","France","European Region",5718,596,10.423224904
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",14362,1500,10.444227823
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","GEO","Georgia","European Region",126,55,43.650793651
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","GHA","Ghana","African Region",14,9,64.285714286
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","GRC","Greece","European Region",323,79,24.458204334
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","HRV","Croatia","European Region",159,29,18.238993711
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","IDN","Indonesia","South-East Asia Region",160,121,75.625
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","IND","India","South-East Asia Region",91,79,86.813186813
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","IRL","Ireland","European Region",1823,194,10.641799232
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",325,225,69.230769231
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","IRQ","Iraq","Eastern Mediterranean Region",39,37,94.871794872
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","ITA","Italy","European Region",1825,523,28.657534247
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","JOR","Jordan","Eastern Mediterranean Region",93,60,64.516129032
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","JPN","Japan","Western Pacific Region",57677,11914,20.656414169
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","KHM","Cambodia","Western Pacific Region",392,289,73.724489796
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","KOR","Republic of Korea","Western Pacific Region",2209,832,37.664101403
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","KWT","Kuwait","Eastern Mediterranean Region",78,40,51.282051282
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LAO","Lao People's Democratic Republic","Western Pacific Region",177,90,50.847457627
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LBN","Lebanon","Eastern Mediterranean Region",117,66,56.41025641
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LBR","Liberia","African Region",30,12,40
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LBY","Libya","Eastern Mediterranean Region",13,8,61.538461538
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LKA","Sri Lanka","South-East Asia Region",260,161,61.923076923
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LTU","Lithuania","European Region",832,136,16.346153846
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LUX","Luxembourg","European Region",428,46,10.747663551
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","LVA","Latvia","European Region",39,13,33.333333333
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MKD","North Macedonia","European Region",21,18,85.714285714
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MLI","Mali","African Region",74,45,60.810810811
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MLT","Malta","European Region",277,33,11.913357401
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MMR","Myanmar","South-East Asia Region",36,29,80.555555556
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MOZ","Mozambique","African Region",19,6,31.578947368
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MUS","Mauritius","African Region",367,182,49.591280654
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MWI","Malawi","African Region",356,201,56.460674157
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","MYS","Malaysia","Western Pacific Region",4766,1229,25.786823332
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","NGA","Nigeria","African Region",26,21,80.769230769
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","NLD","Netherlands (Kingdom of the)","European Region",6793,445,6.550861181
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","NOR","Norway","European Region",3377,180,5.330174711
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","NPL","Nepal","South-East Asia Region",37,27,72.972972973
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","OMN","Oman","Eastern Mediterranean Region",128,101,78.90625
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","PAK","Pakistan","Eastern Mediterranean Region",463,381,82.289416847
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","PER","Peru","Region of the Americas",53,38,71.698113208
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","PHL","Philippines","Western Pacific Region",452,161,35.619469027
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","POL","Poland","European Region",1713,300,17.513134851
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",285,135,47.368421053
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","QAT","Qatar","Eastern Mediterranean Region",10,4,40
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","RUS","Russian Federation","European Region",41,30,73.170731707
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","SAU","Saudi Arabia","Eastern Mediterranean Region",405,236,58.271604938
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","SGP","Singapore","Western Pacific Region",502,153,30.478087649
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","SWE","Sweden","European Region",19704,1514,7.683719042
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","THA","Thailand","South-East Asia Region",2089,823,39.396840594
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","TLS","Timor-Leste","South-East Asia Region",13,8,61.538461538
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","TTO","Trinidad and Tobago","Region of the Americas",19,5,26.315789474
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","TUN","Tunisia","Eastern Mediterranean Region",74,23,31.081081081
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","TZA","United Republic of Tanzania","African Region",28,21,75
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","UGA","Uganda","African Region",17,15,88.235294118
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","UKR","Ukraine","European Region",24,12,50
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","XKX","Kosovo","European Region",10,3,30
+"BLOOD","Escherichia coli","Third generation cephalosporins resistance","ZAF","South Africa","African Region",4354,1228,28.20395039

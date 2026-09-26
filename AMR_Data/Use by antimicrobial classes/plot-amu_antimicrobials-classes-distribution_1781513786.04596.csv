@@ -1,0 +1,33 @@
+Filters
+"Antimicrobial class filter: Antimalarials"
+"Year filter: 2021"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","For antibiotics: only J01 and P01AB reported"
+"b","Only use in the public sector reported"
+"c","Data incomplete since not collected from all sources of data"
+
+
+"CountryTerritoryArea","COUNTRY","WHORegionName","footnotes","DID_antibiotics"
+"Armenia","ARM","European Region","",0.010610403
+"Benin","BEN","African Region","",3.515385003
+"Burkina Faso","BFA","African Region","a",3.732181924
+"Bangladesh","BGD","South-East Asia Region","",0.135435076
+"Belarus","BLR","European Region","",0.033709323
+"Switzerland","CHE","European Region","",0.095028842
+"Ethiopia","ETH","African Region","a",0.136103372
+"Gabon","GAB","African Region","",1.107272751
+"Georgia","GEO","European Region","",0.176038261
+"Iran (Islamic Republic of)","IRN","Eastern Mediterranean Region","",0.992439294
+"Jordan","JOR","Eastern Mediterranean Region","",0.242046038
+"Maldives","MDV","South-East Asia Region","",0.840413216
+"Montenegro","MNE","European Region","",1.050857056
+"Nepal","NPL","South-East Asia Region","",0.202034995
+"Qatar","QAT","Eastern Mediterranean Region","b,c",0.016539192
+"Tajikistan","TJK","European Region","",0.001960435
+"Uganda","UGA","African Region","",1.804526088
+"South Africa","ZAF","African Region","b",0.020090487

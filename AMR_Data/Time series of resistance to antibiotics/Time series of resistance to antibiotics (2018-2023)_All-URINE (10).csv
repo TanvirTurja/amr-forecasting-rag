@@ -1,0 +1,162 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Meropenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Escherichia coli","Meropenem",0,0.432533993,1.030927835,5.021741245,38.728725252
+2019,"URINE","Escherichia coli","Meropenem",0,0.100097983,1.384083045,3.370489402,33.333333333
+2020,"URINE","Escherichia coli","Meropenem",0,0.116306754,1.629375052,3.136966127,24.21875
+2021,"URINE","Escherichia coli","Meropenem",0.008606972,0.242124309,1.656831702,7.855194057,37.617370892
+2022,"URINE","Escherichia coli","Meropenem",0,0.201062074,1.79331206,7.002748289,23.507462687
+2023,"URINE","Escherichia coli","Meropenem",0,0.342797031,2.424426861,8.45039802,32.080200501
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"URINE","Escherichia coli","Meropenem",44553,23408,50,0.213602187
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",3706,921,6,0.651465798
+"BRA","Brazil","Region of the Americas",2018,"URINE","Escherichia coli","Meropenem",2818,291,3,1.030927835
+"ETH","Ethiopia","African Region",2018,"URINE","Escherichia coli","Meropenem",388,170,6,3.529411765
+"IND","India","South-East Asia Region",2018,"URINE","Escherichia coli","Meropenem",25203,8637,3345,38.728725252
+"IDN","Indonesia","South-East Asia Region",2018,"URINE","Escherichia coli","Meropenem",2820,1074,61,5.679702048
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",3640,1375,31,2.254545455
+"IRQ","Iraq","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",177,139,7,5.035971223
+"JPN","Japan","Western Pacific Region",2018,"URINE","Escherichia coli","Meropenem",423516,346704,142,0.040957128
+"JOR","Jordan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",2676,745,7,0.939597315
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"URINE","Escherichia coli","Meropenem",120,38,1,2.631578947
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",3964,1232,12,0.974025974
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Meropenem",4866,1242,134,10.789049919
+"NOR","Norway","European Region",2018,"URINE","Escherichia coli","Meropenem",2117,1423,0,0
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",3636,1305,13,0.996168582
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",14284,3110,327,10.514469453
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Meropenem",8074,4962,225,4.534461911
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Meropenem",8554,7255,3,0.041350793
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",5627,3912,93,2.377300613
+"SWE","Sweden","European Region",2018,"URINE","Escherichia coli","Meropenem",115520,13399,6,0.044779461
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Meropenem",4301,1997,100,5.007511267
+"UGA","Uganda","African Region",2018,"URINE","Escherichia coli","Meropenem",70,61,6,9.836065574
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Meropenem",22331,14727,114,0.774088409
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Meropenem",863293,296601,125,0.04214416
+"ARG","Argentina","Region of the Americas",2019,"URINE","Escherichia coli","Meropenem",35830,21393,34,0.158930491
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",4535,1587,31,1.953371141
+"BRA","Brazil","Region of the Americas",2019,"URINE","Escherichia coli","Meropenem",4289,1662,3,0.180505415
+"ETH","Ethiopia","African Region",2019,"URINE","Escherichia coli","Meropenem",449,289,5,1.730103806
+"IND","India","South-East Asia Region",2019,"URINE","Escherichia coli","Meropenem",47746,16414,2826,17.21700987
+"IDN","Indonesia","South-East Asia Region",2019,"URINE","Escherichia coli","Meropenem",3383,2092,52,2.485659656
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",7065,1322,22,1.664145234
+"IRQ","Iraq","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",859,581,38,6.540447504
+"JPN","Japan","Western Pacific Region",2019,"URINE","Escherichia coli","Meropenem",453889,371517,150,0.040375003
+"JOR","Jordan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",5265,2312,32,1.384083045
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"URINE","Escherichia coli","Meropenem",175,53,0,0
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",1363,94,4,4.255319149
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Meropenem",9953,3587,168,4.683579593
+"NOR","Norway","European Region",2019,"URINE","Escherichia coli","Meropenem",2187,1501,0,0
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",8941,3312,30,0.905797101
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",15455,11372,705,6.199437214
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Meropenem",9132,5717,343,5.999650166
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Meropenem",8565,7270,3,0.041265475
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",5587,3387,50,1.476232654
+"SWE","Sweden","European Region",2019,"URINE","Escherichia coli","Meropenem",229294,45370,13,0.028653295
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Meropenem",9011,5206,107,2.055320784
+"UGA","Uganda","African Region",2019,"URINE","Escherichia coli","Meropenem",214,93,1,1.075268817
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Meropenem",27055,17690,88,0.49745619
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Meropenem",880701,397232,157,0.039523503
+"ARG","Argentina","Region of the Americas",2020,"URINE","Escherichia coli","Meropenem",29170,16017,23,0.143597428
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",3517,1045,14,1.339712919
+"BRA","Brazil","Region of the Americas",2020,"URINE","Escherichia coli","Meropenem",2805,1009,2,0.198216056
+"ETH","Ethiopia","African Region",2020,"URINE","Escherichia coli","Meropenem",576,281,11,3.914590747
+"IND","India","South-East Asia Region",2020,"URINE","Escherichia coli","Meropenem",18235,8682,1443,16.620594333
+"IDN","Indonesia","South-East Asia Region",2020,"URINE","Escherichia coli","Meropenem",1595,911,18,1.975850714
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",4235,818,14,1.711491443
+"IRQ","Iraq","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",1502,700,68,9.714285714
+"JPN","Japan","Western Pacific Region",2020,"URINE","Escherichia coli","Meropenem",475584,387025,171,0.044183192
+"JOR","Jordan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",5385,2154,54,2.506963788
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"URINE","Escherichia coli","Meropenem",253,176,4,2.272727273
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",3918,531,13,2.448210923
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Meropenem",5975,1958,119,6.077630235
+"NOR","Norway","European Region",2020,"URINE","Escherichia coli","Meropenem",3219,2520,0,0
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",3343,706,8,1.133144476
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",28695,5009,311,6.208824117
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Meropenem",4560,2831,259,9.148710703
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Meropenem",8567,7293,7,0.095982449
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",4464,2973,46,1.547258661
+"SWE","Sweden","European Region",2020,"URINE","Escherichia coli","Meropenem",441656,104736,30,0.028643446
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Meropenem",11131,7275,235,3.23024055
+"UGA","Uganda","African Region",2020,"URINE","Escherichia coli","Meropenem",452,105,3,2.857142857
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Meropenem",29681,19240,130,0.675675676
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Meropenem",651538,300783,135,0.044882856
+"ARG","Argentina","Region of the Americas",2021,"URINE","Escherichia coli","Meropenem",37956,21499,82,0.381413089
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",4056,1080,19,1.759259259
+"BRA","Brazil","Region of the Americas",2021,"URINE","Escherichia coli","Meropenem",2972,1022,2,0.195694716
+"ETH","Ethiopia","African Region",2021,"URINE","Escherichia coli","Meropenem",768,211,16,7.582938389
+"IND","India","South-East Asia Region",2021,"URINE","Escherichia coli","Meropenem",64919,28026,4453,15.888817527
+"IDN","Indonesia","South-East Asia Region",2021,"URINE","Escherichia coli","Meropenem",3900,1737,185,10.65054692
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",4521,929,13,1.399354144
+"IRQ","Iraq","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",3797,1814,182,10.033076075
+"JPN","Japan","Western Pacific Region",2021,"URINE","Escherichia coli","Meropenem",498905,406880,127,0.031213134
+"JOR","Jordan","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",13316,1704,641,37.617370892
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"URINE","Escherichia coli","Meropenem",232,184,1,0.543478261
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",2927,1148,157,13.675958188
+"NPL","Nepal","South-East Asia Region",2021,"URINE","Escherichia coli","Meropenem",7928,2779,161,5.793450882
+"NOR","Norway","European Region",2021,"URINE","Escherichia coli","Meropenem",2069,1335,1,0.074906367
+"OMN","Oman","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",7380,1586,22,1.387137453
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",47908,27636,2957,10.69981184
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Escherichia coli","Meropenem",5654,3700,294,7.945945946
+"KOR","Republic of Korea","Western Pacific Region",2021,"URINE","Escherichia coli","Meropenem",9408,7901,3,0.037969877
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",2641,1737,27,1.554404145
+"SWE","Sweden","European Region",2021,"URINE","Escherichia coli","Meropenem",241241,56918,8,0.014055308
+"THA","Thailand","South-East Asia Region",2021,"URINE","Escherichia coli","Meropenem",10402,6316,153,2.422419253
+"UGA","Uganda","African Region",2021,"URINE","Escherichia coli","Meropenem",269,161,8,4.968944099
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Meropenem",49312,33816,297,0.87828247
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2021,"URINE","Escherichia coli","Meropenem",725182,331265,95,0.028677947
+"ARG","Argentina","Region of the Americas",2022,"URINE","Escherichia coli","Meropenem",40377,21485,106,0.493367466
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",4214,1458,14,0.960219479
+"BRA","Brazil","Region of the Americas",2022,"URINE","Escherichia coli","Meropenem",3568,1320,7,0.53030303
+"ETH","Ethiopia","African Region",2022,"URINE","Escherichia coli","Meropenem",1311,432,34,7.87037037
+"IND","India","South-East Asia Region",2022,"URINE","Escherichia coli","Meropenem",96309,43022,6582,15.299149272
+"IDN","Indonesia","South-East Asia Region",2022,"URINE","Escherichia coli","Meropenem",7106,4657,285,6.119819626
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",6161,1288,22,1.708074534
+"IRQ","Iraq","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",5960,3286,364,11.077297626
+"JPN","Japan","Western Pacific Region",2022,"URINE","Escherichia coli","Meropenem",535682,436382,115,0.026353058
+"JOR","Jordan","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",18196,6279,147,2.341137124
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"URINE","Escherichia coli","Meropenem",443,373,6,1.608579088
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",3672,1494,73,4.886211513
+"NPL","Nepal","South-East Asia Region",2022,"URINE","Escherichia coli","Meropenem",12921,5302,349,6.582421728
+"NOR","Norway","European Region",2022,"URINE","Escherichia coli","Meropenem",2030,1308,0,0
+"OMN","Oman","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",9426,2289,43,1.878549585
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",79700,40755,4816,11.816954975
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Escherichia coli","Meropenem",8324,5564,458,8.231488138
+"KOR","Republic of Korea","Western Pacific Region",2022,"URINE","Escherichia coli","Meropenem",10028,8465,1,0.011813349
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",6824,4419,70,1.584068794
+"SWE","Sweden","European Region",2022,"URINE","Escherichia coli","Meropenem",248868,56271,27,0.047982087
+"THA","Thailand","South-East Asia Region",2022,"URINE","Escherichia coli","Meropenem",6488,3820,143,3.743455497
+"UGA","Uganda","African Region",2022,"URINE","Escherichia coli","Meropenem",124,52,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Meropenem",57098,38340,355,0.925925926
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2022,"URINE","Escherichia coli","Meropenem",945966,372794,156,0.041846167
+"ARG","Argentina","Region of the Americas",2023,"URINE","Escherichia coli","Meropenem",46185,20213,97,0.47988918
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",7827,3862,953,24.676333506
+"BRA","Brazil","Region of the Americas",2023,"URINE","Escherichia coli","Meropenem",7866,3455,32,0.926193922
+"ETH","Ethiopia","African Region",2023,"URINE","Escherichia coli","Meropenem",1402,693,56,8.080808081
+"IND","India","South-East Asia Region",2023,"URINE","Escherichia coli","Meropenem",104947,55030,9569,17.388697074
+"IDN","Indonesia","South-East Asia Region",2023,"URINE","Escherichia coli","Meropenem",11518,7613,549,7.211349008
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",6797,2175,274,12.597701149
+"IRQ","Iraq","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",8451,4588,561,12.227550131
+"JPN","Japan","Western Pacific Region",2023,"URINE","Escherichia coli","Meropenem",591596,477922,91,0.019040764
+"JOR","Jordan","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",25767,9858,239,2.424426861
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"URINE","Escherichia coli","Meropenem",562,469,7,1.492537313
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",619,44,0,0
+"NPL","Nepal","South-East Asia Region",2023,"URINE","Escherichia coli","Meropenem",17372,6644,586,8.819987959
+"NOR","Norway","European Region",2023,"URINE","Escherichia coli","Meropenem",2253,1478,0,0
+"OMN","Oman","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",11541,5103,76,1.489320008
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",78151,36411,4283,11.762928785
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Escherichia coli","Meropenem",10948,7251,564,7.778237484
+"KOR","Republic of Korea","Western Pacific Region",2023,"URINE","Escherichia coli","Meropenem",2163,1813,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",12683,6714,78,1.161751564
+"SWE","Sweden","European Region",2023,"URINE","Escherichia coli","Meropenem",243714,48136,33,0.068555759
+"THA","Thailand","South-East Asia Region",2023,"URINE","Escherichia coli","Meropenem",22725,14283,707,4.949940489
+"UGA","Uganda","African Region",2023,"URINE","Escherichia coli","Meropenem",188,117,6,5.128205128
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Meropenem",58693,41942,350,0.834485718
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2023,"URINE","Escherichia coli","Meropenem",1011886,418058,276,0.066019548

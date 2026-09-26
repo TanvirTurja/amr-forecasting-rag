@@ -1,0 +1,303 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Gastrointestinal","Salmonella spp.","Cefotaxime",0,1.477540498,2.389102838,8.998548621,60.526315789,38,12145
+"Gastrointestinal","Salmonella spp.","Ceftazidime",0,0.831204315,1.51658904,4.326522102,63.829787234,34,13741
+"Gastrointestinal","Salmonella spp.","Ceftriaxone",0,2.605882422,6.775956284,12.664473684,60,36,16861
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin",0,8.002317833,18.376068376,29.395424837,88.888888889,55,30783
+"Gastrointestinal","Salmonella spp.","Doripenem",0,1.666666667,3.333333333,5,6.666666667,2,51
+"Gastrointestinal","Salmonella spp.","Ertapenem",0,0,0,0.967050967,13.333333333,20,6001
+"Gastrointestinal","Salmonella spp.","Imipenem",0,0,0,0.257314525,28.571428571,28,5111
+"Gastrointestinal","Salmonella spp.","Levofloxacin",1.680672269,11.755952381,17.698133415,22.105864433,57.142857143,16,2107
+"Gastrointestinal","Salmonella spp.","Meropenem",0,0,0,0.256410256,7.142857143,41,19813
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Gastrointestinal","Salmonella spp.","Cefotaxime",0,0.519105078,1.51761347,2.017045455,3.141361257,10,3332
+"Gastrointestinal","Salmonella spp.","Ceftazidime",0,0.865800866,0.972364381,1.307189542,2.312138728,9,5415
+"Gastrointestinal","Salmonella spp.","Ceftriaxone",0.758396533,1.724137931,2.702702703,5.647058824,6.885245902,9,13033
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin",4.543559817,7.729972476,18.407458287,25.619322874,35.379061372,14,14702
+"Gastrointestinal","Salmonella spp.","Doripenem",0,0,0,0,0,1,36
+"Gastrointestinal","Salmonella spp.","Ertapenem",0,0.082987552,0.877192982,1.165501166,2.608695652,5,2818
+"Gastrointestinal","Salmonella spp.","Imipenem",0,0,0,0.534381932,1.076426265,7,3751
+"Gastrointestinal","Salmonella spp.","Levofloxacin",1.680672269,7.56302521,11.544239147,15.619046132,21.782178218,4,642
+"Gastrointestinal","Salmonella spp.","Meropenem",0,0,0,0,0.877192982,10,10179
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Gastrointestinal","Salmonella spp.","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",573,18,3.141361257
+"Gastrointestinal","Salmonella spp.","Ceftazidime","ARE","United Arab Emirates","Eastern Mediterranean Region",327,12,3.669724771
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",850,48,5.647058824
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",1053,90,8.547008547
+"Gastrointestinal","Salmonella spp.","Ertapenem","ARE","United Arab Emirates","Eastern Mediterranean Region",858,10,1.165501166
+"Gastrointestinal","Salmonella spp.","Imipenem","ARE","United Arab Emirates","Eastern Mediterranean Region",929,10,1.076426265
+"Gastrointestinal","Salmonella spp.","Levofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",317,43,13.56466877
+"Gastrointestinal","Salmonella spp.","Meropenem","ARE","United Arab Emirates","Eastern Mediterranean Region",954,4,0.419287212
+"Gastrointestinal","Salmonella spp.","Cefotaxime","ARG","Argentina","Region of the Americas",188,11,5.85106383
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","ARG","Argentina","Region of the Americas",883,22,2.491506229
+"Gastrointestinal","Salmonella spp.","Meropenem","ARG","Argentina","Region of the Americas",203,1,0.492610837
+"Gastrointestinal","Salmonella spp.","Cefotaxime","AUS","Australia","Western Pacific Region",164,2,1.219512195
+"Gastrointestinal","Salmonella spp.","Ceftazidime","AUS","Australia","Western Pacific Region",1954,19,0.972364381
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","AUS","Australia","Western Pacific Region",2243,27,1.203744984
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","AUS","Australia","Western Pacific Region",2271,125,5.504183179
+"Gastrointestinal","Salmonella spp.","Ertapenem","AUS","Australia","Western Pacific Region",1205,1,0.082987552
+"Gastrointestinal","Salmonella spp.","Meropenem","AUS","Australia","Western Pacific Region",2103,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","BEL","Belgium","European Region",394,12,3.045685279
+"Gastrointestinal","Salmonella spp.","Ceftazidime","BEL","Belgium","European Region",394,9,2.284263959
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","BEL","Belgium","European Region",394,123,31.218274112
+"Gastrointestinal","Salmonella spp.","Meropenem","BEL","Belgium","European Region",394,0,0
+"Gastrointestinal","Salmonella spp.","Ceftazidime","BFA","Burkina Faso","African Region",13,2,15.384615385
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","BFA","Burkina Faso","African Region",12,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","BFA","Burkina Faso","African Region",13,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","BFA","Burkina Faso","African Region",10,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","BGD","Bangladesh","South-East Asia Region",13,1,7.692307692
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","BGD","Bangladesh","South-East Asia Region",13,2,15.384615385
+"Gastrointestinal","Salmonella spp.","Ceftazidime","BHR","Bahrain","Eastern Mediterranean Region",15,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",305,21,6.885245902
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",263,16,6.08365019
+"Gastrointestinal","Salmonella spp.","Ertapenem","BHR","Bahrain","Eastern Mediterranean Region",16,1,6.25
+"Gastrointestinal","Salmonella spp.","Imipenem","BHR","Bahrain","Eastern Mediterranean Region",66,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","BHR","Bahrain","Eastern Mediterranean Region",17,1,5.882352941
+"Gastrointestinal","Salmonella spp.","Meropenem","BHR","Bahrain","Eastern Mediterranean Region",36,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","CAN","Canada","Region of the Americas",4578,106,2.315421581
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","CAN","Canada","Region of the Americas",4578,1458,31.847968545
+"Gastrointestinal","Salmonella spp.","Meropenem","CAN","Canada","Region of the Americas",4578,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","CHE","Switzerland","European Region",61,1,1.639344262
+"Gastrointestinal","Salmonella spp.","Ceftazidime","CHE","Switzerland","European Region",367,4,1.089918256
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","CHE","Switzerland","European Region",374,3,0.802139037
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","CHE","Switzerland","European Region",613,102,16.639477977
+"Gastrointestinal","Salmonella spp.","Ertapenem","CHE","Switzerland","European Region",300,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","CHE","Switzerland","European Region",105,10,9.523809524
+"Gastrointestinal","Salmonella spp.","Meropenem","CHE","Switzerland","European Region",234,0,0
+"Gastrointestinal","Salmonella spp.","Ceftazidime","CMR","Cameroon","African Region",15,6,40
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","CMR","Cameroon","African Region",11,5,45.454545455
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","CMR","Cameroon","African Region",13,4,30.769230769
+"Gastrointestinal","Salmonella spp.","Imipenem","CMR","Cameroon","African Region",14,4,28.571428571
+"Gastrointestinal","Salmonella spp.","Levofloxacin","CMR","Cameroon","African Region",16,3,18.75
+"Gastrointestinal","Salmonella spp.","Cefotaxime","COL","Colombia","Region of the Americas",74,16,21.621621622
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","COL","Colombia","Region of the Americas",929,230,24.75780409
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","COL","Colombia","Region of the Americas",971,268,27.600411946
+"Gastrointestinal","Salmonella spp.","Ertapenem","COL","Colombia","Region of the Americas",952,2,0.210084034
+"Gastrointestinal","Salmonella spp.","Imipenem","COL","Colombia","Region of the Americas",324,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","COL","Colombia","Region of the Americas",195,45,23.076923077
+"Gastrointestinal","Salmonella spp.","Meropenem","COL","Colombia","Region of the Americas",973,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","CYP","Cyprus","European Region",48,1,2.083333333
+"Gastrointestinal","Salmonella spp.","Ceftazidime","CYP","Cyprus","European Region",122,1,0.819672131
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","CYP","Cyprus","European Region",122,38,31.147540984
+"Gastrointestinal","Salmonella spp.","Meropenem","CYP","Cyprus","European Region",122,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","CZE","Czechia","European Region",171,4,2.339181287
+"Gastrointestinal","Salmonella spp.","Ceftazidime","CZE","Czechia","European Region",171,4,2.339181287
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","CZE","Czechia","European Region",171,42,24.561403509
+"Gastrointestinal","Salmonella spp.","Meropenem","CZE","Czechia","European Region",171,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","DEU","Germany","European Region",2239,37,1.652523448
+"Gastrointestinal","Salmonella spp.","Ceftazidime","DEU","Germany","European Region",2140,37,1.728971963
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","DEU","Germany","European Region",1265,11,0.869565217
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","DEU","Germany","European Region",2364,432,18.274111675
+"Gastrointestinal","Salmonella spp.","Ertapenem","DEU","Germany","European Region",1426,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","DEU","Germany","European Region",2039,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","DEU","Germany","European Region",817,136,16.64626683
+"Gastrointestinal","Salmonella spp.","Meropenem","DEU","Germany","European Region",2257,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","EST","Estonia","European Region",173,0,0
+"Gastrointestinal","Salmonella spp.","Ceftazidime","EST","Estonia","European Region",173,4,2.312138728
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","EST","Estonia","European Region",173,45,26.011560694
+"Gastrointestinal","Salmonella spp.","Meropenem","EST","Estonia","European Region",173,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","FIN","Finland","European Region",94,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","FIN","Finland","European Region",94,10,10.638297872
+"Gastrointestinal","Salmonella spp.","Meropenem","FIN","Finland","European Region",94,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","FRA","France","European Region",1191,18,1.511335013
+"Gastrointestinal","Salmonella spp.","Ceftazidime","FRA","France","European Region",1191,16,1.3434089
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","FRA","France","European Region",1191,303,25.440806045
+"Gastrointestinal","Salmonella spp.","Meropenem","FRA","France","European Region",1191,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",3825,788,20.60130719
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","GEO","Georgia","European Region",30,1,3.333333333
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","GEO","Georgia","European Region",30,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","GEO","Georgia","European Region",30,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","GEO","Georgia","European Region",30,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","GRC","Greece","European Region",390,1,0.256410256
+"Gastrointestinal","Salmonella spp.","Ceftazidime","GRC","Greece","European Region",390,2,0.512820513
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","GRC","Greece","European Region",390,151,38.717948718
+"Gastrointestinal","Salmonella spp.","Meropenem","GRC","Greece","European Region",390,1,0.256410256
+"Gastrointestinal","Salmonella spp.","Ceftazidime","HRV","Croatia","European Region",924,8,0.865800866
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","HRV","Croatia","European Region",923,7,0.758396533
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","HRV","Croatia","European Region",554,196,35.379061372
+"Gastrointestinal","Salmonella spp.","Cefotaxime","IDN","Indonesia","South-East Asia Region",38,23,60.526315789
+"Gastrointestinal","Salmonella spp.","Ceftazidime","IDN","Indonesia","South-East Asia Region",47,30,63.829787234
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","IDN","Indonesia","South-East Asia Region",35,21,60
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","IDN","Indonesia","South-East Asia Region",31,16,51.612903226
+"Gastrointestinal","Salmonella spp.","Doripenem","IDN","Indonesia","South-East Asia Region",15,1,6.666666667
+"Gastrointestinal","Salmonella spp.","Ertapenem","IDN","Indonesia","South-East Asia Region",15,2,13.333333333
+"Gastrointestinal","Salmonella spp.","Imipenem","IDN","Indonesia","South-East Asia Region",33,3,9.090909091
+"Gastrointestinal","Salmonella spp.","Levofloxacin","IDN","Indonesia","South-East Asia Region",29,11,37.931034483
+"Gastrointestinal","Salmonella spp.","Meropenem","IDN","Indonesia","South-East Asia Region",39,2,5.128205128
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","IND","India","South-East Asia Region",17,1,5.882352941
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","IND","India","South-East Asia Region",340,96,28.235294118
+"Gastrointestinal","Salmonella spp.","Imipenem","IND","India","South-East Asia Region",10,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",14,2,14.285714286
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",10,2,20
+"Gastrointestinal","Salmonella spp.","Cefotaxime","ITA","Italy","European Region",1475,29,1.966101695
+"Gastrointestinal","Salmonella spp.","Ceftazidime","ITA","Italy","European Region",1475,24,1.627118644
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","ITA","Italy","European Region",1473,264,17.922606925
+"Gastrointestinal","Salmonella spp.","Meropenem","ITA","Italy","European Region",1475,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","JOR","Jordan","Eastern Mediterranean Region",30,7,23.333333333
+"Gastrointestinal","Salmonella spp.","Ceftazidime","JOR","Jordan","Eastern Mediterranean Region",22,1,4.545454545
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","JOR","Jordan","Eastern Mediterranean Region",25,2,8
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","JOR","Jordan","Eastern Mediterranean Region",36,11,30.555555556
+"Gastrointestinal","Salmonella spp.","Ertapenem","JOR","Jordan","Eastern Mediterranean Region",15,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","JOR","Jordan","Eastern Mediterranean Region",28,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","JOR","Jordan","Eastern Mediterranean Region",24,3,12.5
+"Gastrointestinal","Salmonella spp.","Meropenem","JOR","Jordan","Eastern Mediterranean Region",18,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","JPN","Japan","Western Pacific Region",149,3,2.013422819
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","JPN","Japan","Western Pacific Region",149,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","JPN","Japan","Western Pacific Region",149,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","JPN","Japan","Western Pacific Region",149,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","KEN","Kenya","African Region",19,2,10.526315789
+"Gastrointestinal","Salmonella spp.","Ceftazidime","KEN","Kenya","African Region",16,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","KEN","Kenya","African Region",20,1,5
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","KEN","Kenya","African Region",17,1,5.882352941
+"Gastrointestinal","Salmonella spp.","Meropenem","KEN","Kenya","African Region",16,1,6.25
+"Gastrointestinal","Salmonella spp.","Cefotaxime","KOR","Republic of Korea","Western Pacific Region",194,30,15.463917526
+"Gastrointestinal","Salmonella spp.","Ceftazidime","KOR","Republic of Korea","Western Pacific Region",194,21,10.824742268
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","KOR","Republic of Korea","Western Pacific Region",194,1,0.515463918
+"Gastrointestinal","Salmonella spp.","Imipenem","KOR","Republic of Korea","Western Pacific Region",194,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","KWT","Kuwait","Eastern Mediterranean Region",97,1,1.030927835
+"Gastrointestinal","Salmonella spp.","Ceftazidime","KWT","Kuwait","Eastern Mediterranean Region",68,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",222,6,2.702702703
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","KWT","Kuwait","Eastern Mediterranean Region",231,52,22.510822511
+"Gastrointestinal","Salmonella spp.","Imipenem","KWT","Kuwait","Eastern Mediterranean Region",69,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","KWT","Kuwait","Eastern Mediterranean Region",133,0,0
+"Gastrointestinal","Salmonella spp.","Ceftazidime","LAO","Lao People's Democratic Republic","Western Pacific Region",15,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",55,6,10.909090909
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","LAO","Lao People's Democratic Republic","Western Pacific Region",26,6,23.076923077
+"Gastrointestinal","Salmonella spp.","Imipenem","LAO","Lao People's Democratic Republic","Western Pacific Region",28,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","LAO","Lao People's Democratic Republic","Western Pacific Region",15,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","LBN","Lebanon","Eastern Mediterranean Region",15,3,20
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","LBN","Lebanon","Eastern Mediterranean Region",15,8,53.333333333
+"Gastrointestinal","Salmonella spp.","Ertapenem","LBN","Lebanon","Eastern Mediterranean Region",13,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","LBN","Lebanon","Eastern Mediterranean Region",15,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","LBN","Lebanon","Eastern Mediterranean Region",14,8,57.142857143
+"Gastrointestinal","Salmonella spp.","Cefotaxime","LTU","Lithuania","European Region",274,0,0
+"Gastrointestinal","Salmonella spp.","Ceftazidime","LTU","Lithuania","European Region",237,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","LTU","Lithuania","European Region",313,44,14.057507987
+"Gastrointestinal","Salmonella spp.","Meropenem","LTU","Lithuania","European Region",244,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","LUX","Luxembourg","European Region",153,2,1.307189542
+"Gastrointestinal","Salmonella spp.","Ceftazidime","LUX","Luxembourg","European Region",153,2,1.307189542
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","LUX","Luxembourg","European Region",153,33,21.568627451
+"Gastrointestinal","Salmonella spp.","Meropenem","LUX","Luxembourg","European Region",153,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","MDA","Republic of Moldova","European Region",82,2,2.43902439
+"Gastrointestinal","Salmonella spp.","Ceftazidime","MDA","Republic of Moldova","European Region",132,2,1.515151515
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","MDA","Republic of Moldova","European Region",127,2,1.57480315
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","MDA","Republic of Moldova","European Region",18,16,88.888888889
+"Gastrointestinal","Salmonella spp.","Doripenem","MDA","Republic of Moldova","European Region",36,0,0
+"Gastrointestinal","Salmonella spp.","Ertapenem","MDA","Republic of Moldova","European Region",115,3,2.608695652
+"Gastrointestinal","Salmonella spp.","Imipenem","MDA","Republic of Moldova","European Region",69,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","MDA","Republic of Moldova","European Region",119,2,1.680672269
+"Gastrointestinal","Salmonella spp.","Meropenem","MDA","Republic of Moldova","European Region",120,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","MDV","Maldives","South-East Asia Region",11,1,9.090909091
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","MDV","Maldives","South-East Asia Region",12,5,41.666666667
+"Gastrointestinal","Salmonella spp.","Ertapenem","MDV","Maldives","South-East Asia Region",11,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","MDV","Maldives","South-East Asia Region",12,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","MDV","Maldives","South-East Asia Region",12,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","MLT","Malta","European Region",114,3,2.631578947
+"Gastrointestinal","Salmonella spp.","Ceftazidime","MLT","Malta","European Region",114,1,0.877192982
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","MLT","Malta","European Region",114,23,20.175438596
+"Gastrointestinal","Salmonella spp.","Ertapenem","MLT","Malta","European Region",114,1,0.877192982
+"Gastrointestinal","Salmonella spp.","Imipenem","MLT","Malta","European Region",114,1,0.877192982
+"Gastrointestinal","Salmonella spp.","Meropenem","MLT","Malta","European Region",114,1,0.877192982
+"Gastrointestinal","Salmonella spp.","Cefotaxime","MUS","Mauritius","African Region",55,1,1.818181818
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","MUS","Mauritius","African Region",55,1,1.818181818
+"Gastrointestinal","Salmonella spp.","Cefotaxime","MYS","Malaysia","Western Pacific Region",121,49,40.495867769
+"Gastrointestinal","Salmonella spp.","Ceftazidime","MYS","Malaysia","Western Pacific Region",72,25,34.722222222
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","MYS","Malaysia","Western Pacific Region",2602,167,6.418139892
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","MYS","Malaysia","Western Pacific Region",2399,109,4.543559817
+"Gastrointestinal","Salmonella spp.","Ertapenem","MYS","Malaysia","Western Pacific Region",65,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","MYS","Malaysia","Western Pacific Region",65,1,1.538461538
+"Gastrointestinal","Salmonella spp.","Meropenem","MYS","Malaysia","Western Pacific Region",72,1,1.388888889
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","NAM","Namibia","African Region",15,1,6.666666667
+"Gastrointestinal","Salmonella spp.","Cefotaxime","NLD","Netherlands (Kingdom of the)","European Region",1211,19,1.56895128
+"Gastrointestinal","Salmonella spp.","Ceftazidime","NLD","Netherlands (Kingdom of the)","European Region",1211,15,1.238645747
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","NLD","Netherlands (Kingdom of the)","European Region",1211,296,24.442609414
+"Gastrointestinal","Salmonella spp.","Meropenem","NLD","Netherlands (Kingdom of the)","European Region",1211,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","NOR","Norway","European Region",341,5,1.46627566
+"Gastrointestinal","Salmonella spp.","Ceftazidime","NOR","Norway","European Region",341,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","NOR","Norway","European Region",341,54,15.835777126
+"Gastrointestinal","Salmonella spp.","Meropenem","NOR","Norway","European Region",341,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","NPL","Nepal","South-East Asia Region",17,2,11.764705882
+"Gastrointestinal","Salmonella spp.","Cefotaxime","OMN","Oman","Eastern Mediterranean Region",24,1,4.166666667
+"Gastrointestinal","Salmonella spp.","Ceftazidime","OMN","Oman","Eastern Mediterranean Region",27,2,7.407407407
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",788,27,3.426395939
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",885,66,7.457627119
+"Gastrointestinal","Salmonella spp.","Ertapenem","OMN","Oman","Eastern Mediterranean Region",22,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","OMN","Oman","Eastern Mediterranean Region",23,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","OMN","Oman","Eastern Mediterranean Region",47,9,19.14893617
+"Gastrointestinal","Salmonella spp.","Meropenem","OMN","Oman","Eastern Mediterranean Region",53,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",39,10,25.641025641
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",42,16,38.095238095
+"Gastrointestinal","Salmonella spp.","Imipenem","PAK","Pakistan","Eastern Mediterranean Region",22,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","PAK","Pakistan","Eastern Mediterranean Region",26,0,0
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","PER","Peru","Region of the Americas",46,26,56.52173913
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","PER","Peru","Region of the Americas",69,7,10.144927536
+"Gastrointestinal","Salmonella spp.","Cefotaxime","PHL","Philippines","Western Pacific Region",22,4,18.181818182
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","PHL","Philippines","Western Pacific Region",38,5,13.157894737
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","PHL","Philippines","Western Pacific Region",33,1,3.03030303
+"Gastrointestinal","Salmonella spp.","Imipenem","PHL","Philippines","Western Pacific Region",13,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","PHL","Philippines","Western Pacific Region",14,1,7.142857143
+"Gastrointestinal","Salmonella spp.","Cefotaxime","POL","Poland","European Region",981,5,0.509683996
+"Gastrointestinal","Salmonella spp.","Ceftazidime","POL","Poland","European Region",761,5,0.657030223
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","POL","Poland","European Region",62,0,0
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","POL","Poland","European Region",822,341,41.484184915
+"Gastrointestinal","Salmonella spp.","Ertapenem","POL","Poland","European Region",25,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","POL","Poland","European Region",37,0,0
+"Gastrointestinal","Salmonella spp.","Meropenem","POL","Poland","European Region",741,8,1.079622132
+"Gastrointestinal","Salmonella spp.","Ceftazidime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",14,1,7.142857143
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",12,1,8.333333333
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",14,1,7.142857143
+"Gastrointestinal","Salmonella spp.","Cefotaxime","QAT","Qatar","Eastern Mediterranean Region",82,1,1.219512195
+"Gastrointestinal","Salmonella spp.","Ceftazidime","QAT","Qatar","Eastern Mediterranean Region",527,8,1.518026565
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",522,9,1.724137931
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",106,27,25.471698113
+"Gastrointestinal","Salmonella spp.","Ertapenem","QAT","Qatar","Eastern Mediterranean Region",526,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","QAT","Qatar","Eastern Mediterranean Region",522,1,0.191570881
+"Gastrointestinal","Salmonella spp.","Levofloxacin","QAT","Qatar","Eastern Mediterranean Region",101,22,21.782178218
+"Gastrointestinal","Salmonella spp.","Meropenem","QAT","Qatar","Eastern Mediterranean Region",527,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","SAU","Saudi Arabia","Eastern Mediterranean Region",53,5,9.433962264
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",81,9,11.111111111
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",129,29,22.480620155
+"Gastrointestinal","Salmonella spp.","Levofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",64,12,18.75
+"Gastrointestinal","Salmonella spp.","Cefotaxime","SGP","Singapore","Western Pacific Region",152,10,6.578947368
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","SGP","Singapore","Western Pacific Region",83,4,4.819277108
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","SGP","Singapore","Western Pacific Region",234,43,18.376068376
+"Gastrointestinal","Salmonella spp.","Meropenem","SGP","Singapore","Western Pacific Region",153,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","THA","Thailand","South-East Asia Region",515,51,9.902912621
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","THA","Thailand","South-East Asia Region",366,31,8.469945355
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","THA","Thailand","South-East Asia Region",1125,56,4.977777778
+"Gastrointestinal","Salmonella spp.","Ertapenem","THA","Thailand","South-East Asia Region",222,2,0.900900901
+"Gastrointestinal","Salmonella spp.","Imipenem","THA","Thailand","South-East Asia Region",220,1,0.454545455
+"Gastrointestinal","Salmonella spp.","Levofloxacin","THA","Thailand","South-East Asia Region",174,22,12.643678161
+"Gastrointestinal","Salmonella spp.","Meropenem","THA","Thailand","South-East Asia Region",226,1,0.442477876
+"Gastrointestinal","Salmonella spp.","Cefotaxime","TUN","Tunisia","Eastern Mediterranean Region",31,1,3.225806452
+"Gastrointestinal","Salmonella spp.","Ceftazidime","TUN","Tunisia","Eastern Mediterranean Region",32,1,3.125
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","TUN","Tunisia","Eastern Mediterranean Region",26,8,30.769230769
+"Gastrointestinal","Salmonella spp.","Ertapenem","TUN","Tunisia","Eastern Mediterranean Region",30,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","TUN","Tunisia","Eastern Mediterranean Region",27,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","TUN","Tunisia","Eastern Mediterranean Region",10,3,30
+"Gastrointestinal","Salmonella spp.","Meropenem","TUN","Tunisia","Eastern Mediterranean Region",17,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","YEM","Yemen","Eastern Mediterranean Region",120,20,16.666666667
+"Gastrointestinal","Salmonella spp.","Ceftazidime","YEM","Yemen","Eastern Mediterranean Region",87,37,42.528735632
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","YEM","Yemen","Eastern Mediterranean Region",73,10,13.698630137
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","YEM","Yemen","Eastern Mediterranean Region",92,10,10.869565217
+"Gastrointestinal","Salmonella spp.","Ertapenem","YEM","Yemen","Eastern Mediterranean Region",57,7,12.280701754
+"Gastrointestinal","Salmonella spp.","Imipenem","YEM","Yemen","Eastern Mediterranean Region",11,0,0
+"Gastrointestinal","Salmonella spp.","Levofloxacin","YEM","Yemen","Eastern Mediterranean Region",58,5,8.620689655
+"Gastrointestinal","Salmonella spp.","Meropenem","YEM","Yemen","Eastern Mediterranean Region",13,0,0
+"Gastrointestinal","Salmonella spp.","Cefotaxime","ZMB","Zambia","African Region",52,4,7.692307692
+"Gastrointestinal","Salmonella spp.","Ceftriaxone","ZMB","Zambia","African Region",64,8,12.5
+"Gastrointestinal","Salmonella spp.","Ciprofloxacin","ZMB","Zambia","African Region",68,7,10.294117647
+"Gastrointestinal","Salmonella spp.","Ertapenem","ZMB","Zambia","African Region",14,0,0
+"Gastrointestinal","Salmonella spp.","Imipenem","ZMB","Zambia","African Region",38,1,2.631578947
+"Gastrointestinal","Salmonella spp.","Meropenem","ZMB","Zambia","African Region",28,2,7.142857143

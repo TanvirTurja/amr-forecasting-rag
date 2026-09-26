@@ -1,0 +1,65 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Infection type filter: Urinary tract"
+"Bacterial pathogen filter: Escherichia coli"
+"Antibiotic group filter: Sulfonamides and trimethoprim"
+
+
+"CountryTerritoryArea","Total Escherichia coli BCIs per million population","Absolute number of Escherichia coli BCIs","Total Escherichia coli BCIs with AST (Sulfonamides and trimethoprim) per million population","Absolute number of Escherichia coli BCIs with AST (Sulfonamides and trimethoprim)","% of Escherichia coli BCIs with AST"
+"Afghanistan",0.7,27,0.3,13,48.1
+"Argentina",719.8,32617,707.2,32047,98.3
+"Australia",4412.2,114526,2642.7,68595,59.9
+"Bahrain",1975.7,2967,1963.7,2949,99.4
+"Bangladesh",1.2,209,1.2,196,93.8
+"Brazil",10,2090,9.7,2039,97.6
+"Burkina Faso",34.5,759,14,308,40.6
+"Cameroon",14.3,384,2.6,71,18.5
+"Colombia",2469,126386,2267.9,116088,91.9
+"Egypt",0.6,70,0.4,42,60
+"Ethiopia",4.7,573,1.9,229,40
+"Finland",22203.3,123030,12936.3,71681,58.3
+"Germany",6148.4,514603,6133.1,513325,99.8
+"India",35.5,50205,30.9,43699,87
+"Indonesia",9,2483,5.4,1497,60.3
+"Iran (Islamic Republic of)",38,3361,27.5,2434,72.4
+"Iraq",75.5,3254,36.2,1558,47.9
+"Japan",3277.3,411891,2683.8,337296,81.9
+"Jordan",996.2,11024,247.2,2736,24.8
+"Kenya",3.3,174,2,109,62.6
+"Kuwait",549.2,2395,409.3,1785,74.5
+"Lao People's Democratic Republic",26,194,25.9,193,99.5
+"Latvia",579.7,1093,309.7,584,53.4
+"Lebanon",460.8,2635,245.5,1404,53.3
+"Liberia",4.9,26,1.7,9,34.6
+"Malawi",7.2,145,3.4,69,47.6
+"Malaysia",343.8,11788,285.1,9773,82.9
+"Mali",9.1,204,3.8,85,41.7
+"Mauritius",1851.3,2369,1851.3,2369,100
+"Morocco",30,1108,29.9,1105,99.7
+"Myanmar",2.4,127,2.2,120,94.5
+"Nepal",226.3,6671,154,4539,68
+"Norway",246.9,1335,246.9,1335,100
+"Oman",1296.1,5833,1287.2,5793,99.3
+"Pakistan",167.9,40204,148.7,35610,88.6
+"Peru",196.3,6508,179.1,5938,91.2
+"Philippines",34.2,3871,33.1,3746,96.8
+"Qatar",2246.2,6323,2242.3,6312,99.8
+"Republic of Korea",152.4,7901,152.4,7901,100
+"Republic of Moldova",435.9,1318,145.8,441,33.5
+"Saudi Arabia",57,1787,46,1442,80.7
+"Singapore",1123.6,6232,382.4,2121,34
+"Somalia",4.1,70,0.2,3,4.3
+"Sri Lanka",76.3,1733,57.5,1305,75.3
+"Sudan",2.7,131,1.1,55,42
+"Sweden",21005.5,218796,20938.6,218099,99.7
+"Syrian Arab Republic",6.8,146,5.2,113,77.4
+"Thailand",106.2,7617,83.1,5961,78.3
+"Timor-Leste",48.1,65,45.2,61,93.8
+"Tunisia",331.1,3989,291.6,3513,88.1
+"Uganda",5.1,232,3.8,175,75.4
+"United Arab Emirates",3811.8,37314,3686.1,36083,96.7
+"United Kingdom of Great Britain and Northern Ireland",9911.6,670708,885.7,59937,8.9
+"United Republic of Tanzania",17.1,1074,11.3,709,66
+"Zambia",36.9,723,10.7,210,29
+"occupied Palestinian territory, including east Jerusalem",927,4807,774.5,4016,83.5

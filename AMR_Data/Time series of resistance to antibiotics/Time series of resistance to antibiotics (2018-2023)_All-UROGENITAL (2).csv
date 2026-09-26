@@ -1,0 +1,60 @@
+Filters
+Region filter: All
+Infection type filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Ceftriaxone
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",0,0,0.588235294,2.352941176,4.04040404
+2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",0,0,0.358211649,4.753176931,10.810810811
+2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",0,0,0.217662662,2.03030303,6.818181818
+2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",0,0,0.013386881,6.197478992,37.931034483
+2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",0,0,0,1.238128705,10.130718954
+2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",0,0.28097996,1.10701107,1.881834215,10.891089109
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"AUS","Australia","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",9006,9006,6,0.066622252
+"JPN","Japan","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",1167,1167,41,3.513281919
+"NOR","Norway","European Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",226,226,0,0
+"OMN","Oman","Eastern Mediterranean Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",19,11,0,0
+"PHL","Philippines","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",103,99,4,4.04040404
+"ZAF","South Africa","African Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",167,167,0,0
+"THA","Thailand","South-East Asia Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",170,136,1,0.735294118
+"AUS","Australia","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",5649,5649,9,0.159320234
+"JPN","Japan","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",1023,1023,55,5.376344086
+"NOR","Norway","European Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",325,325,0,0
+"OMN","Oman","Eastern Mediterranean Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",54,48,0,0
+"PHL","Philippines","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",140,83,3,3.614457831
+"ZAF","South Africa","African Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",227,227,0,0
+"THA","Thailand","South-East Asia Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",79,22,1,4.545454545
+"AUS","Australia","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",4420,4420,4,0.090497738
+"JPN","Japan","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",825,825,22,2.666666667
+"NOR","Norway","European Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",475,475,0,0
+"OMN","Oman","Eastern Mediterranean Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",23,20,0,0
+"PHL","Philippines","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",44,41,0,0
+"ZAF","South Africa","African Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",316,316,0,0
+"THA","Thailand","South-East Asia Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",42,35,1,2.857142857
+"AUS","Australia","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",3735,3735,1,0.026773762
+"JPN","Japan","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",698,698,5,0.716332378
+"NOR","Norway","European Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",115,115,0,0
+"OMN","Oman","Eastern Mediterranean Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",41,34,0,0
+"PHL","Philippines","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",14,14,1,7.142857143
+"ZAF","South Africa","African Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",510,510,0,0
+"THA","Thailand","South-East Asia Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",70,67,0,0
+"AUS","Australia","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",4643,4643,27,0.581520569
+"JPN","Japan","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",950,950,18,1.894736842
+"NOR","Norway","European Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",441,441,0,0
+"OMN","Oman","Eastern Mediterranean Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",41,40,0,0
+"PHL","Philippines","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",42,37,0,0
+"ZAF","South Africa","African Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",362,362,0,0
+"THA","Thailand","South-East Asia Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",96,80,0,0
+"AUS","Australia","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",6002,6002,19,0.316561146
+"JPN","Japan","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",1134,1134,20,1.76366843
+"NOR","Norway","European Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",815,815,2,0.245398773
+"OMN","Oman","Eastern Mediterranean Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",52,38,0,0
+"PHL","Philippines","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",26,26,2,7.692307692
+"ZAF","South Africa","African Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",341,341,0,0
+"THA","Thailand","South-East Asia Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ceftriaxone",264,215,1,0.465116279

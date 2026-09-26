@@ -1,0 +1,93 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Infection type filter: Bloodstream"
+"Bacterial pathogen filter: Klebsiella pneumoniae"
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Klebsiella pneumoniae BCIs per million population","Absolute number of Klebsiella pneumoniae BCIs","Total Klebsiella pneumoniae BCIs with AST (3GCs) per million population","Absolute number of Klebsiella pneumoniae BCIs with AST (3GCs)","% of Klebsiella pneumoniae BCIs with AST"
+"Argentina",53.5,2423,52.4,2373,97.9
+"Australia",48,1247,47.7,1239,99.4
+"Austria",139.5,1251,133,1193,95.4
+"Bahrain",147.2,221,144.5,217,98.2
+"Bangladesh",0.1,9,0.1,9,100
+"Belgium",80,926,71.8,831,89.7
+"Bosnia and Herzegovina",86.3,280,86.3,280,100
+"Brazil",1.4,291,1.3,275,94.5
+"Brunei Darussalam",274.5,124,252.4,114,91.9
+"Burkina Faso",2.2,48,1.8,40,83.3
+"Cameroon",0.6,16,0.4,10,62.5
+"Colombia",176.5,9036,173.5,8880,98.3
+"Croatia",91.7,360,91.7,360,100
+"Cyprus",107,141,103.2,136,96.5
+"Czechia",153.6,1618,153.6,1618,100
+"Democratic Republic of the Congo",0.6,56,0.6,56,100
+"Denmark",354.8,2078,265.7,1556,74.9
+"Egypt",0,1,0,1,100
+"Estonia",176.5,235,175.7,234,99.6
+"Ethiopia",2.6,318,1.7,202,63.5
+"Finland",194.7,1079,194,1075,99.6
+"France",68.2,4656,68.2,4656,100
+"Georgia",50.9,193,50.9,193,100
+"Germany",77.9,6523,76.9,6438,98.7
+"Ghana",4.9,160,4.1,133,83.1
+"Greece",132.1,1398,126.9,1343,96.1
+"India",5.6,7927,4.1,5745,72.5
+"Indonesia",3,837,2.4,669,79.9
+"Iran (Islamic Republic of)",4.6,410,4.6,403,98.3
+"Iraq",2.9,125,1.4,62,49.6
+"Ireland",99.4,500,85.1,428,85.6
+"Italy",150,8958,150,8958,100
+"Japan",230.6,28976,223.8,28126,97.1
+"Jordan",29.7,329,6.4,71,21.6
+"Kenya",1.7,90,1.5,80,88.9
+"Kosovo",51.7,90,51.7,90,100
+"Kuwait",46.3,202,43.3,189,93.6
+"Lao People's Democratic Republic",10.5,78,10.5,78,100
+"Latvia",203.1,383,164.9,311,81.2
+"Lebanon",14.9,85,12.2,70,82.4
+"Liberia",4.8,25,4,21,84
+"Lithuania",182.5,510,181.8,508,99.6
+"Luxembourg",157.7,101,157.7,101,100
+"Malawi",0.5,11,0.4,9,81.8
+"Malaysia",180.5,6187,171.3,5873,94.9
+"Mali",1.3,30,1.3,30,100
+"Malta",257.4,135,257.4,135,100
+"Mauritius",297,380,297,380,100
+"Morocco",4.5,168,4.5,168,100
+"Mozambique",1,31,1,31,100
+"Myanmar",0.1,3,0.1,3,100
+"Nepal",11.1,326,5.6,165,50.6
+"Netherlands (Kingdom of the)",71.6,1270,71.6,1270,100
+"Nigeria",0.1,28,0.1,17,60.7
+"North Macedonia",58.3,108,58.3,108,100
+"Norway",144.8,783,132.9,719,91.8
+"Oman",111.3,501,80.4,362,72.3
+"Pakistan",6.5,1560,6.4,1530,98.1
+"Peru",11.7,387,11.5,382,98.7
+"Philippines",11.7,1322,11.6,1314,99.4
+"Poland",37.4,1422,31,1180,83
+"Qatar",64.3,181,64.3,181,100
+"Republic of Korea",18.5,957,18.5,957,100
+"Republic of Moldova",35.7,108,35.7,108,100
+"Russian Federation",7.5,1088,7.3,1060,97.4
+"Saudi Arabia",12.9,404,12.9,404,100
+"Singapore",102.6,569,98.4,546,96
+"South Africa",112,6887,110.6,6800,98.7
+"Sri Lanka",14.1,320,13.6,308,96.2
+"Sudan",0.5,24,0.5,23,95.8
+"Sweden",192,2000,192,2000,100
+"Switzerland",157.6,1372,157.5,1371,99.9
+"Thailand",18.8,1350,17.4,1245,92.2
+"Timor-Leste",18.5,25,18.5,25,100
+"Trinidad and Tobago",16.1,24,16.1,24,100
+"Tunisia",22.6,272,20.9,252,92.6
+"T<U+00FC>rkiye",55.9,4844,54.6,4731,97.7
+"Uganda",0.3,14,0.3,14,100
+"Ukraine",5.2,230,5.2,229,99.6
+"United Arab Emirates",121.5,1189,119.4,1169,98.3
+"United Kingdom of Great Britain and Northern Ireland",103.6,7013,92.4,6254,89.2
+"United Republic of Tanzania",4.4,279,4.1,259,92.8
+"Zambia",6.2,122,5.9,115,94.3
+"occupied Palestinian territory, including east Jerusalem",29.3,152,26.8,139,91.4

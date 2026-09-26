@@ -1,0 +1,112 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Shigella spp.
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Gastrointestinal","Shigella spp.","Azithromycin",0,1.956181534,12,25,39.344262295,9,1911
+"Gastrointestinal","Shigella spp.","Cefotaxime",0,0,36.301369863,47.826086957,100,13,1153
+"Gastrointestinal","Shigella spp.","Ceftazidime",0,0,3.180440153,10.960193653,43.421052632,16,2453
+"Gastrointestinal","Shigella spp.","Ceftriaxone",0,1.329787234,40.054495913,69.230769231,83.333333333,17,2206
+"Gastrointestinal","Shigella spp.","Ciprofloxacin",0,5.426490985,18.909210382,37.5,71.428571429,22,4552
+"Gastrointestinal","Shigella spp.","Levofloxacin",0,20.089285714,31.964285714,40.377358491,61.290322581,8,252
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Gastrointestinal","Shigella spp.","Azithromycin",1.956181534,11.303201724,20.650221914,29.997242105,39.344262295,2,1461
+"Gastrointestinal","Shigella spp.","Cefotaxime",0,18.150684932,36.301369863,38.28957382,40.277777778,3,407
+"Gastrointestinal","Shigella spp.","Ceftazidime",0,0,1.54109589,11.296018836,35.9375,4,1003
+"Gastrointestinal","Shigella spp.","Ceftriaxone",0.897666068,48.271291517,70.189144737,78.070175439,83.333333333,4,671
+"Gastrointestinal","Shigella spp.","Ciprofloxacin",0,4.576163161,21.578947368,29.956140351,62.5,6,2053
+"Gastrointestinal","Shigella spp.","Levofloxacin",26.785714286,35.411866359,44.038018433,52.664170507,61.290322581,2,87
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Gastrointestinal","Shigella spp.","Azithromycin","ARE","United Arab Emirates","Eastern Mediterranean Region",12,1,8.333333333
+"Gastrointestinal","Shigella spp.","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",46,22,47.826086957
+"Gastrointestinal","Shigella spp.","Ceftazidime","ARE","United Arab Emirates","Eastern Mediterranean Region",71,4,5.633802817
+"Gastrointestinal","Shigella spp.","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",40,28,70
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",85,34,40
+"Gastrointestinal","Shigella spp.","Levofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",10,3,30
+"Gastrointestinal","Shigella spp.","Azithromycin","ARG","Argentina","Region of the Americas",1278,25,1.956181534
+"Gastrointestinal","Shigella spp.","Cefotaxime","ARG","Argentina","Region of the Americas",330,8,2.424242424
+"Gastrointestinal","Shigella spp.","Ceftazidime","ARG","Argentina","Region of the Americas",575,0,0
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","ARG","Argentina","Region of the Americas",1569,26,1.657106437
+"Gastrointestinal","Shigella spp.","Azithromycin","AUS","Australia","Western Pacific Region",16,4,25
+"Gastrointestinal","Shigella spp.","Ceftazidime","AUS","Australia","Western Pacific Region",92,2,2.173913043
+"Gastrointestinal","Shigella spp.","Ceftriaxone","AUS","Australia","Western Pacific Region",112,15,13.392857143
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","AUS","Australia","Western Pacific Region",115,18,15.652173913
+"Gastrointestinal","Shigella spp.","Cefotaxime","BEL","Belgium","European Region",292,106,36.301369863
+"Gastrointestinal","Shigella spp.","Ceftazidime","BEL","Belgium","European Region",292,9,3.082191781
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","BEL","Belgium","European Region",260,78,30
+"Gastrointestinal","Shigella spp.","Ceftazidime","BFA","Burkina Faso","African Region",15,1,6.666666667
+"Gastrointestinal","Shigella spp.","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",12,10,83.333333333
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",12,0,0
+"Gastrointestinal","Shigella spp.","Cefotaxime","COL","Colombia","Region of the Americas",73,0,0
+"Gastrointestinal","Shigella spp.","Ceftazidime","COL","Colombia","Region of the Americas",388,2,0.515463918
+"Gastrointestinal","Shigella spp.","Ceftriaxone","COL","Colombia","Region of the Americas",376,5,1.329787234
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","COL","Colombia","Region of the Americas",397,88,22.166246851
+"Gastrointestinal","Shigella spp.","Levofloxacin","COL","Colombia","Region of the Americas",56,15,26.785714286
+"Gastrointestinal","Shigella spp.","Azithromycin","DEU","Germany","European Region",17,3,17.647058824
+"Gastrointestinal","Shigella spp.","Cefotaxime","DEU","Germany","European Region",66,41,62.121212121
+"Gastrointestinal","Shigella spp.","Ceftazidime","DEU","Germany","European Region",76,33,43.421052632
+"Gastrointestinal","Shigella spp.","Ceftriaxone","DEU","Germany","European Region",50,21,42
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","DEU","Germany","European Region",87,35,40.229885057
+"Gastrointestinal","Shigella spp.","Levofloxacin","DEU","Germany","European Region",53,22,41.509433962
+"Gastrointestinal","Shigella spp.","Azithromycin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",183,72,39.344262295
+"Gastrointestinal","Shigella spp.","Cefotaxime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",137,60,43.795620438
+"Gastrointestinal","Shigella spp.","Ceftazidime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",169,28,16.568047337
+"Gastrointestinal","Shigella spp.","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",367,147,40.054495913
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",615,255,41.463414634
+"Gastrointestinal","Shigella spp.","Levofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",56,19,33.928571429
+"Gastrointestinal","Shigella spp.","Ceftriaxone","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",13,9,69.230769231
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",14,10,71.428571429
+"Gastrointestinal","Shigella spp.","Ceftazidime","IRQ","Iraq","Eastern Mediterranean Region",11,1,9.090909091
+"Gastrointestinal","Shigella spp.","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",14,8,57.142857143
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","IRQ","Iraq","Eastern Mediterranean Region",12,1,8.333333333
+"Gastrointestinal","Shigella spp.","Cefotaxime","JPN","Japan","Western Pacific Region",14,0,0
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","JPN","Japan","Western Pacific Region",14,1,7.142857143
+"Gastrointestinal","Shigella spp.","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",17,0,0
+"Gastrointestinal","Shigella spp.","Cefotaxime","NAM","Namibia","African Region",43,0,0
+"Gastrointestinal","Shigella spp.","Ceftazidime","NAM","Namibia","African Region",33,0,0
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","NAM","Namibia","African Region",50,0,0
+"Gastrointestinal","Shigella spp.","Cefotaxime","NOR","Norway","European Region",72,29,40.277777778
+"Gastrointestinal","Shigella spp.","Ceftazidime","NOR","Norway","European Region",72,0,0
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","NOR","Norway","European Region",72,45,62.5
+"Gastrointestinal","Shigella spp.","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",38,29,76.315789474
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",45,6,13.333333333
+"Gastrointestinal","Shigella spp.","Azithromycin","PAK","Pakistan","Eastern Mediterranean Region",92,0,0
+"Gastrointestinal","Shigella spp.","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",146,110,75.342465753
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",154,43,27.922077922
+"Gastrointestinal","Shigella spp.","Ceftazidime","PER","Peru","Region of the Americas",61,2,3.278688525
+"Gastrointestinal","Shigella spp.","Ceftriaxone","PER","Peru","Region of the Americas",94,5,5.319148936
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","PER","Peru","Region of the Americas",103,5,4.854368932
+"Gastrointestinal","Shigella spp.","Levofloxacin","PER","Peru","Region of the Americas",21,0,0
+"Gastrointestinal","Shigella spp.","Azithromycin","PHL","Philippines","Western Pacific Region",13,0,0
+"Gastrointestinal","Shigella spp.","Cefotaxime","PHL","Philippines","Western Pacific Region",10,0,0
+"Gastrointestinal","Shigella spp.","Ceftriaxone","PHL","Philippines","Western Pacific Region",15,0,0
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","PHL","Philippines","Western Pacific Region",14,0,0
+"Gastrointestinal","Shigella spp.","Cefotaxime","QAT","Qatar","Eastern Mediterranean Region",16,8,50
+"Gastrointestinal","Shigella spp.","Ceftazidime","QAT","Qatar","Eastern Mediterranean Region",64,23,35.9375
+"Gastrointestinal","Shigella spp.","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",64,41,64.0625
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",57,17,29.824561404
+"Gastrointestinal","Shigella spp.","Levofloxacin","QAT","Qatar","Eastern Mediterranean Region",31,19,61.290322581
+"Gastrointestinal","Shigella spp.","Cefotaxime","TUN","Tunisia","Eastern Mediterranean Region",18,18,100
+"Gastrointestinal","Shigella spp.","Ceftazidime","TUN","Tunisia","Eastern Mediterranean Region",17,3,17.647058824
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","TUN","Tunisia","Eastern Mediterranean Region",14,9,64.285714286
+"Gastrointestinal","Shigella spp.","Levofloxacin","TUN","Tunisia","Eastern Mediterranean Region",10,4,40
+"Gastrointestinal","Shigella spp.","Azithromycin","USA","United States of America","Region of the Americas",275,74,26.909090909
+"Gastrointestinal","Shigella spp.","Ceftriaxone","USA","United States of America","Region of the Americas",275,32,11.636363636
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","USA","United States of America","Region of the Americas",275,76,27.636363636
+"Gastrointestinal","Shigella spp.","Ceftazidime","ZAF","South Africa","African Region",503,0,0
+"Gastrointestinal","Shigella spp.","Ceftriaxone","ZAF","South Africa","African Region",557,5,0.897666068
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","ZAF","South Africa","African Region",556,3,0.539568345
+"Gastrointestinal","Shigella spp.","Azithromycin","ZMB","Zambia","African Region",25,3,12
+"Gastrointestinal","Shigella spp.","Cefotaxime","ZMB","Zambia","African Region",36,3,8.333333333
+"Gastrointestinal","Shigella spp.","Ceftazidime","ZMB","Zambia","African Region",14,0,0
+"Gastrointestinal","Shigella spp.","Ceftriaxone","ZMB","Zambia","African Region",16,0,0
+"Gastrointestinal","Shigella spp.","Ciprofloxacin","ZMB","Zambia","African Region",32,5,15.625
+"Gastrointestinal","Shigella spp.","Levofloxacin","ZMB","Zambia","African Region",15,0,0

@@ -1,0 +1,558 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Klebsiella pneumoniae
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Urinary tract","Klebsiella pneumoniae","Cefepime",3.803860878,23.416289593,44.094673442,60.072933549,94.444444444,48,243019
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime",3.333906169,26.524304748,49.317357605,66.472234497,92.307692308,46,239732
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime",3.5395189,24.813744101,44.399005387,60.336134454,85.185185185,56,332913
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone",4.235294118,35.562015504,48.874598071,65.978011625,93.333333333,47,236406
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin",5.414661991,28.461538462,40.224358974,55.50295858,74.175824176,57,377073
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole",6.352941176,30.386882581,45.02883657,59.577922078,89.473684211,52,265930
+"Urinary tract","Klebsiella pneumoniae","Colistin",0,1.803872638,5.536398467,9.856627513,28.947368421,30,22548
+"Urinary tract","Klebsiella pneumoniae","Doripenem",7.142857143,8.617193836,13.97139714,24.662466247,41.666666667,6,1236
+"Urinary tract","Klebsiella pneumoniae","Ertapenem",0.156862745,6.797928294,14.841124909,22.663297933,86.757990868,40,189066
+"Urinary tract","Klebsiella pneumoniae","Imipenem",0.063011223,4.876615746,14.055080722,24.705338476,63.157894737,51,204360
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin",4.341939448,22.389221557,41.509884117,57.144455187,100,32,183697
+"Urinary tract","Klebsiella pneumoniae","Meropenem",0,2.688616566,11.387966039,24.698126489,63.333333333,54,356860
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Urinary tract","Klebsiella pneumoniae","Cefepime",3.803860878,7.964538185,15.655781239,25.796967109,62.953995157,12,203380
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime",3.333906169,11.766454559,22.069607098,29.985679381,67.30506156,12,206587
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime",3.5395189,8.556640325,14.124272076,23.858369081,75.521821632,14,291897
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone",5.808045166,12.904450383,25.8780944,37.101476658,87.712665406,12,177888
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin",5.414661991,9.123336177,19.743099497,34.885803558,61.012311902,14,307865
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole",9.391412149,17.969356486,24.776386404,32.69045323,57.729138167,13,190513
+"Urinary tract","Klebsiella pneumoniae","Colistin",1.149425287,3.952269411,7.64099974,11.635406182,28.947368421,8,8868
+"Urinary tract","Klebsiella pneumoniae","Doripenem",7.142857143,7.303614877,7.46437261,7.625130344,7.785888078,2,836
+"Urinary tract","Klebsiella pneumoniae","Ertapenem",0.625372245,1.047813455,2.626064493,7.204118046,12.702078522,10,150486
+"Urinary tract","Klebsiella pneumoniae","Imipenem",0.063011223,0.875810766,3.257170637,14.055080722,35.349716446,13,148336
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin",4.341939448,8.279067372,12.296885579,22.940708137,74.598930481,8,175895
+"Urinary tract","Klebsiella pneumoniae","Meropenem",0.146623056,0.415723164,0.996424945,7.486580006,37.051039698,14,302718
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Urinary tract","Klebsiella pneumoniae","Cefepime","ARE","United Arab Emirates","Eastern Mediterranean Region",11442,1444,12.620171299
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",7808,2018,25.845286885
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","ARE","United Arab Emirates","Eastern Mediterranean Region",11272,2142,19.002838893
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",6275,1585,25.258964143
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",12675,2697,21.278106509
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","ARE","United Arab Emirates","Eastern Mediterranean Region",12638,2885,22.827979111
+"Urinary tract","Klebsiella pneumoniae","Colistin","ARE","United Arab Emirates","Eastern Mediterranean Region",898,37,4.120267261
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","ARE","United Arab Emirates","Eastern Mediterranean Region",9843,569,5.780757899
+"Urinary tract","Klebsiella pneumoniae","Imipenem","ARE","United Arab Emirates","Eastern Mediterranean Region",10500,420,4
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",2688,384,14.285714286
+"Urinary tract","Klebsiella pneumoniae","Meropenem","ARE","United Arab Emirates","Eastern Mediterranean Region",11503,490,4.259758324
+"Urinary tract","Klebsiella pneumoniae","Cefepime","ARG","Argentina","Region of the Americas",4340,2131,49.101382488
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","ARG","Argentina","Region of the Americas",3314,1841,55.552202776
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","ARG","Argentina","Region of the Americas",4321,2207,51.076139782
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","ARG","Argentina","Region of the Americas",5444,2472,45.407788391
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","ARG","Argentina","Region of the Americas",5439,2465,45.320831035
+"Urinary tract","Klebsiella pneumoniae","Colistin","ARG","Argentina","Region of the Americas",2253,220,9.7647581
+"Urinary tract","Klebsiella pneumoniae","Imipenem","ARG","Argentina","Region of the Americas",4587,1202,26.204490953
+"Urinary tract","Klebsiella pneumoniae","Meropenem","ARG","Argentina","Region of the Americas",4582,1219,26.604103012
+"Urinary tract","Klebsiella pneumoniae","Cefepime","AUS","Australia","Western Pacific Region",12277,467,3.803860878
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","AUS","Australia","Western Pacific Region",1523,138,9.06106369
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","AUS","Australia","Western Pacific Region",11465,635,5.538595726
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","AUS","Australia","Western Pacific Region",14170,823,5.808045166
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","AUS","Australia","Western Pacific Region",11742,752,6.404360416
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","AUS","Australia","Western Pacific Region",11528,1360,11.797362942
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","AUS","Australia","Western Pacific Region",631,45,7.131537242
+"Urinary tract","Klebsiella pneumoniae","Meropenem","AUS","Australia","Western Pacific Region",12425,38,0.30583501
+"Urinary tract","Klebsiella pneumoniae","Cefepime","BFA","Burkina Faso","African Region",187,98,52.406417112
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","BFA","Burkina Faso","African Region",80,52,65
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","BFA","Burkina Faso","African Region",326,152,46.625766871
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","BFA","Burkina Faso","African Region",308,188,61.038961039
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","BFA","Burkina Faso","African Region",69,4,5.797101449
+"Urinary tract","Klebsiella pneumoniae","Imipenem","BFA","Burkina Faso","African Region",313,38,12.14057508
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","BFA","Burkina Faso","African Region",90,38,42.222222222
+"Urinary tract","Klebsiella pneumoniae","Cefepime","BGD","Bangladesh","South-East Asia Region",36,15,41.666666667
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","BGD","Bangladesh","South-East Asia Region",20,9,45
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","BGD","Bangladesh","South-East Asia Region",43,23,53.488372093
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","BGD","Bangladesh","South-East Asia Region",31,13,41.935483871
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","BGD","Bangladesh","South-East Asia Region",43,22,51.162790698
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","BGD","Bangladesh","South-East Asia Region",38,14,36.842105263
+"Urinary tract","Klebsiella pneumoniae","Meropenem","BGD","Bangladesh","South-East Asia Region",25,1,4
+"Urinary tract","Klebsiella pneumoniae","Cefepime","BHR","Bahrain","Eastern Mediterranean Region",224,106,47.321428571
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","BHR","Bahrain","Eastern Mediterranean Region",48,17,35.416666667
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","BHR","Bahrain","Eastern Mediterranean Region",218,108,49.541284404
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",1030,343,33.300970874
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",1038,189,18.208092486
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","BHR","Bahrain","Eastern Mediterranean Region",1037,339,32.69045323
+"Urinary tract","Klebsiella pneumoniae","Colistin","BHR","Bahrain","Eastern Mediterranean Region",76,22,28.947368421
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","BHR","Bahrain","Eastern Mediterranean Region",258,75,29.069767442
+"Urinary tract","Klebsiella pneumoniae","Imipenem","BHR","Bahrain","Eastern Mediterranean Region",255,68,26.666666667
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","BHR","Bahrain","Eastern Mediterranean Region",50,50,100
+"Urinary tract","Klebsiella pneumoniae","Meropenem","BHR","Bahrain","Eastern Mediterranean Region",455,64,14.065934066
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","BRA","Brazil","Region of the Americas",316,254,80.379746835
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","BRA","Brazil","Region of the Americas",820,441,53.780487805
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","BRA","Brazil","Region of the Americas",845,469,55.50295858
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","BRA","Brazil","Region of the Americas",781,378,48.399487836
+"Urinary tract","Klebsiella pneumoniae","Imipenem","BRA","Brazil","Region of the Americas",152,96,63.157894737
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","BRA","Brazil","Region of the Americas",16,16,100
+"Urinary tract","Klebsiella pneumoniae","Meropenem","BRA","Brazil","Region of the Americas",684,252,36.842105263
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","CAN","Canada","Region of the Americas",1273,48,3.770620581
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","CAN","Canada","Region of the Americas",1275,54,4.235294118
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","CAN","Canada","Region of the Americas",1275,112,8.784313725
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","CAN","Canada","Region of the Americas",1275,81,6.352941176
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","CAN","Canada","Region of the Americas",1275,2,0.156862745
+"Urinary tract","Klebsiella pneumoniae","Meropenem","CAN","Canada","Region of the Americas",1275,0,0
+"Urinary tract","Klebsiella pneumoniae","Cefepime","CMR","Cameroon","African Region",63,40,63.492063492
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","CMR","Cameroon","African Region",73,47,64.383561644
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","CMR","Cameroon","African Region",110,59,53.636363636
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","CMR","Cameroon","African Region",54,43,79.62962963
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","CMR","Cameroon","African Region",98,51,52.040816327
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","CMR","Cameroon","African Region",58,47,81.034482759
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","CMR","Cameroon","African Region",48,9,18.75
+"Urinary tract","Klebsiella pneumoniae","Imipenem","CMR","Cameroon","African Region",119,8,6.722689076
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","CMR","Cameroon","African Region",61,28,45.901639344
+"Urinary tract","Klebsiella pneumoniae","Meropenem","CMR","Cameroon","African Region",41,4,9.756097561
+"Urinary tract","Klebsiella pneumoniae","Cefepime","COL","Colombia","Region of the Americas",33304,6145,18.451237089
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","COL","Colombia","Region of the Americas",7990,2050,25.657071339
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","COL","Colombia","Region of the Americas",32791,6914,21.085053826
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","COL","Colombia","Region of the Americas",27384,7256,26.497224657
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","COL","Colombia","Region of the Americas",33287,9349,28.086039595
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","COL","Colombia","Region of the Americas",30466,8536,28.018118558
+"Urinary tract","Klebsiella pneumoniae","Colistin","COL","Colombia","Region of the Americas",4350,240,5.517241379
+"Urinary tract","Klebsiella pneumoniae","Doripenem","COL","Colombia","Region of the Americas",822,64,7.785888078
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","COL","Colombia","Region of the Americas",31415,2927,9.317205157
+"Urinary tract","Klebsiella pneumoniae","Imipenem","COL","Colombia","Region of the Americas",13941,1553,11.139803457
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","COL","Colombia","Region of the Americas",9847,1949,19.792830304
+"Urinary tract","Klebsiella pneumoniae","Meropenem","COL","Colombia","Region of the Americas",32772,2806,8.562187233
+"Urinary tract","Klebsiella pneumoniae","Cefepime","DEU","Germany","European Region",35683,2876,8.059860438
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","DEU","Germany","European Region",79485,6578,8.275775304
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","DEU","Germany","European Region",81607,6940,8.504172436
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","DEU","Germany","European Region",49767,3978,7.993248538
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","DEU","Germany","European Region",88600,7957,8.980812641
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","DEU","Germany","European Region",88730,8333,9.391412149
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","DEU","Germany","European Region",50642,374,0.738517436
+"Urinary tract","Klebsiella pneumoniae","Imipenem","DEU","Germany","European Region",27289,239,0.875810766
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","DEU","Germany","European Region",56393,4843,8.587945312
+"Urinary tract","Klebsiella pneumoniae","Meropenem","DEU","Germany","European Region",84442,292,0.345799484
+"Urinary tract","Klebsiella pneumoniae","Cefepime","EGY","Egypt","Eastern Mediterranean Region",18,17,94.444444444
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","EGY","Egypt","Eastern Mediterranean Region",44,25,56.818181818
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","EGY","Egypt","Eastern Mediterranean Region",47,28,59.574468085
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","EGY","Egypt","Eastern Mediterranean Region",22,13,59.090909091
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","EGY","Egypt","Eastern Mediterranean Region",61,28,45.901639344
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","EGY","Egypt","Eastern Mediterranean Region",41,25,60.975609756
+"Urinary tract","Klebsiella pneumoniae","Cefepime","ETH","Ethiopia","African Region",50,46,92
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","ETH","Ethiopia","African Region",65,60,92.307692308
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","ETH","Ethiopia","African Region",108,92,85.185185185
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","ETH","Ethiopia","African Region",120,112,93.333333333
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","ETH","Ethiopia","African Region",182,135,74.175824176
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","ETH","Ethiopia","African Region",152,136,89.473684211
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","ETH","Ethiopia","African Region",35,17,48.571428571
+"Urinary tract","Klebsiella pneumoniae","Imipenem","ETH","Ethiopia","African Region",24,5,20.833333333
+"Urinary tract","Klebsiella pneumoniae","Meropenem","ETH","Ethiopia","African Region",121,45,37.190082645
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","FIN","Finland","European Region",4728,412,8.714043993
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","FIN","Finland","European Region",12263,664,5.414661991
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","FIN","Finland","European Region",8621,1083,12.562347755
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","FIN","Finland","European Region",3358,21,0.625372245
+"Urinary tract","Klebsiella pneumoniae","Imipenem","FIN","Finland","European Region",29,2,6.896551724
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","FIN","Finland","European Region",167,36,21.556886228
+"Urinary tract","Klebsiella pneumoniae","Cefepime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",14813,1905,12.86032539
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",31558,3822,12.111033652
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",39594,4680,11.819972723
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",11217,1166,10.394936257
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",63766,8167,12.807765894
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",12929,2989,23.118570655
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",47247,648,1.371515652
+"Urinary tract","Klebsiella pneumoniae","Imipenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",3625,29,0.8
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",5794,426,7.352433552
+"Urinary tract","Klebsiella pneumoniae","Meropenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",44422,244,0.549277385
+"Urinary tract","Klebsiella pneumoniae","Cefepime","HKG","China, Hong Kong SAR","Western Pacific Region",972,73,7.510288066
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","HKG","China, Hong Kong SAR","Western Pacific Region",2999,454,15.13837946
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","HKG","China, Hong Kong SAR","Western Pacific Region",2849,250,8.775008775
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","HKG","China, Hong Kong SAR","Western Pacific Region",2656,349,13.140060241
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","HKG","China, Hong Kong SAR","Western Pacific Region",1321,278,21.044663134
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","HKG","China, Hong Kong SAR","Western Pacific Region",5127,1054,20.55783109
+"Urinary tract","Klebsiella pneumoniae","Colistin","HKG","China, Hong Kong SAR","Western Pacific Region",15,1,6.666666667
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","HKG","China, Hong Kong SAR","Western Pacific Region",2979,28,0.939912722
+"Urinary tract","Klebsiella pneumoniae","Imipenem","HKG","China, Hong Kong SAR","Western Pacific Region",989,16,1.617795753
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","HKG","China, Hong Kong SAR","Western Pacific Region",4220,435,10.308056872
+"Urinary tract","Klebsiella pneumoniae","Meropenem","HKG","China, Hong Kong SAR","Western Pacific Region",3847,28,0.727839875
+"Urinary tract","Klebsiella pneumoniae","Cefepime","IDN","Indonesia","South-East Asia Region",1956,1072,54.805725971
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","IDN","Indonesia","South-East Asia Region",1395,937,67.168458781
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","IDN","Indonesia","South-East Asia Region",2044,1319,64.530332681
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","IDN","Indonesia","South-East Asia Region",1919,1273,66.336633663
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","IDN","Indonesia","South-East Asia Region",1886,1380,73.170731707
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","IDN","Indonesia","South-East Asia Region",395,244,61.772151899
+"Urinary tract","Klebsiella pneumoniae","Colistin","IDN","Indonesia","South-East Asia Region",65,12,18.461538462
+"Urinary tract","Klebsiella pneumoniae","Doripenem","IDN","Indonesia","South-East Asia Region",55,15,27.272727273
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","IDN","Indonesia","South-East Asia Region",834,177,21.223021583
+"Urinary tract","Klebsiella pneumoniae","Imipenem","IDN","Indonesia","South-East Asia Region",1133,251,22.153574581
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","IDN","Indonesia","South-East Asia Region",941,559,59.404888417
+"Urinary tract","Klebsiella pneumoniae","Meropenem","IDN","Indonesia","South-East Asia Region",2011,379,18.846345102
+"Urinary tract","Klebsiella pneumoniae","Cefepime","IND","India","South-East Asia Region",10139,5781,57.017457343
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","IND","India","South-East Asia Region",11719,7995,68.222544586
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","IND","India","South-East Asia Region",6062,3986,65.753876608
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","IND","India","South-East Asia Region",7798,5117,65.619389587
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","IND","India","South-East Asia Region",17447,10934,62.669799966
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","IND","India","South-East Asia Region",17315,9523,54.998556165
+"Urinary tract","Klebsiella pneumoniae","Colistin","IND","India","South-East Asia Region",7888,154,1.952332657
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","IND","India","South-East Asia Region",9750,4384,44.964102564
+"Urinary tract","Klebsiella pneumoniae","Imipenem","IND","India","South-East Asia Region",15949,5722,35.876857483
+"Urinary tract","Klebsiella pneumoniae","Meropenem","IND","India","South-East Asia Region",12882,4937,38.324794287
+"Urinary tract","Klebsiella pneumoniae","Cefepime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",852,559,65.610328638
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",601,385,64.059900166
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",1006,688,68.389662028
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",1380,955,69.202898551
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",1406,918,65.291607397
+"Urinary tract","Klebsiella pneumoniae","Colistin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",160,0,0
+"Urinary tract","Klebsiella pneumoniae","Imipenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",932,401,43.025751073
+"Urinary tract","Klebsiella pneumoniae","Meropenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",602,281,46.677740864
+"Urinary tract","Klebsiella pneumoniae","Cefepime","IRQ","Iraq","Eastern Mediterranean Region",445,247,55.505617978
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","IRQ","Iraq","Eastern Mediterranean Region",205,121,59.024390244
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","IRQ","Iraq","Eastern Mediterranean Region",467,293,62.740899358
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",371,234,63.07277628
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","IRQ","Iraq","Eastern Mediterranean Region",551,214,38.838475499
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","IRQ","Iraq","Eastern Mediterranean Region",428,251,58.644859813
+"Urinary tract","Klebsiella pneumoniae","Colistin","IRQ","Iraq","Eastern Mediterranean Region",12,3,25
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","IRQ","Iraq","Eastern Mediterranean Region",130,10,7.692307692
+"Urinary tract","Klebsiella pneumoniae","Imipenem","IRQ","Iraq","Eastern Mediterranean Region",542,132,24.354243542
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","IRQ","Iraq","Eastern Mediterranean Region",395,145,36.708860759
+"Urinary tract","Klebsiella pneumoniae","Meropenem","IRQ","Iraq","Eastern Mediterranean Region",511,113,22.113502935
+"Urinary tract","Klebsiella pneumoniae","Cefepime","JOR","Jordan","Eastern Mediterranean Region",1210,437,36.115702479
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","JOR","Jordan","Eastern Mediterranean Region",864,363,42.013888889
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","JOR","Jordan","Eastern Mediterranean Region",1945,806,41.439588689
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","JOR","Jordan","Eastern Mediterranean Region",1952,940,48.155737705
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","JOR","Jordan","Eastern Mediterranean Region",1957,773,39.499233521
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","JOR","Jordan","Eastern Mediterranean Region",1787,872,48.796866256
+"Urinary tract","Klebsiella pneumoniae","Colistin","JOR","Jordan","Eastern Mediterranean Region",116,4,3.448275862
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","JOR","Jordan","Eastern Mediterranean Region",1369,201,14.682249817
+"Urinary tract","Klebsiella pneumoniae","Imipenem","JOR","Jordan","Eastern Mediterranean Region",2106,296,14.055080722
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","JOR","Jordan","Eastern Mediterranean Region",341,92,26.979472141
+"Urinary tract","Klebsiella pneumoniae","Meropenem","JOR","Jordan","Eastern Mediterranean Region",1245,170,13.654618474
+"Urinary tract","Klebsiella pneumoniae","Cefepime","JPN","Japan","Western Pacific Region",89010,6807,7.647455342
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","JPN","Japan","Western Pacific Region",65687,7050,10.73271728
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","JPN","Japan","Western Pacific Region",94434,7414,7.850985874
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","JPN","Japan","Western Pacific Region",70276,8572,12.197620809
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","JPN","Japan","Western Pacific Region",53787,3359,6.245003439
+"Urinary tract","Klebsiella pneumoniae","Imipenem","JPN","Japan","Western Pacific Region",84112,53,0.063011223
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","JPN","Japan","Western Pacific Region",96017,4169,4.341939448
+"Urinary tract","Klebsiella pneumoniae","Meropenem","JPN","Japan","Western Pacific Region",97529,143,0.146623056
+"Urinary tract","Klebsiella pneumoniae","Cefepime","KEN","Kenya","African Region",16,9,56.25
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","KEN","Kenya","African Region",10,4,40
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","KEN","Kenya","African Region",23,14,60.869565217
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","KEN","Kenya","African Region",21,12,57.142857143
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","KEN","Kenya","African Region",11,9,81.818181818
+"Urinary tract","Klebsiella pneumoniae","Meropenem","KEN","Kenya","African Region",21,2,9.523809524
+"Urinary tract","Klebsiella pneumoniae","Cefepime","KOR","Republic of Korea","Western Pacific Region",1563,460,29.430582214
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","KOR","Republic of Korea","Western Pacific Region",1563,589,37.683941139
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","KOR","Republic of Korea","Western Pacific Region",1563,388,24.824056302
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","KOR","Republic of Korea","Western Pacific Region",1563,495,31.669865643
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","KOR","Republic of Korea","Western Pacific Region",1563,548,35.06078055
+"Urinary tract","Klebsiella pneumoniae","Colistin","KOR","Republic of Korea","Western Pacific Region",1563,27,1.727447217
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","KOR","Republic of Korea","Western Pacific Region",1563,50,3.198976328
+"Urinary tract","Klebsiella pneumoniae","Imipenem","KOR","Republic of Korea","Western Pacific Region",1563,36,2.303262956
+"Urinary tract","Klebsiella pneumoniae","Meropenem","KOR","Republic of Korea","Western Pacific Region",1563,40,2.559181062
+"Urinary tract","Klebsiella pneumoniae","Cefepime","KWT","Kuwait","Eastern Mediterranean Region",679,269,39.617083947
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","KWT","Kuwait","Eastern Mediterranean Region",1508,787,52.188328912
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","KWT","Kuwait","Eastern Mediterranean Region",1285,560,43.579766537
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",1169,567,48.502994012
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","KWT","Kuwait","Eastern Mediterranean Region",1836,717,39.052287582
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","KWT","Kuwait","Eastern Mediterranean Region",1866,805,43.140407288
+"Urinary tract","Klebsiella pneumoniae","Colistin","KWT","Kuwait","Eastern Mediterranean Region",385,46,11.948051948
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","KWT","Kuwait","Eastern Mediterranean Region",589,119,20.203735144
+"Urinary tract","Klebsiella pneumoniae","Imipenem","KWT","Kuwait","Eastern Mediterranean Region",1407,285,20.255863539
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","KWT","Kuwait","Eastern Mediterranean Region",121,55,45.454545455
+"Urinary tract","Klebsiella pneumoniae","Meropenem","KWT","Kuwait","Eastern Mediterranean Region",1713,338,19.731465266
+"Urinary tract","Klebsiella pneumoniae","Cefepime","LAO","Lao People's Democratic Republic","Western Pacific Region",39,9,23.076923077
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","LAO","Lao People's Democratic Republic","Western Pacific Region",40,13,32.5
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",66,22,33.333333333
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","LAO","Lao People's Democratic Republic","Western Pacific Region",54,17,31.481481481
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","LAO","Lao People's Democratic Republic","Western Pacific Region",65,28,43.076923077
+"Urinary tract","Klebsiella pneumoniae","Imipenem","LAO","Lao People's Democratic Republic","Western Pacific Region",40,1,2.5
+"Urinary tract","Klebsiella pneumoniae","Meropenem","LAO","Lao People's Democratic Republic","Western Pacific Region",65,2,3.076923077
+"Urinary tract","Klebsiella pneumoniae","Cefepime","LBN","Lebanon","Eastern Mediterranean Region",238,92,38.655462185
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","LBN","Lebanon","Eastern Mediterranean Region",126,50,39.682539683
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","LBN","Lebanon","Eastern Mediterranean Region",233,100,42.918454936
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","LBN","Lebanon","Eastern Mediterranean Region",169,80,47.337278107
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","LBN","Lebanon","Eastern Mediterranean Region",234,81,34.615384615
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","LBN","Lebanon","Eastern Mediterranean Region",183,74,40.43715847
+"Urinary tract","Klebsiella pneumoniae","Colistin","LBN","Lebanon","Eastern Mediterranean Region",164,13,7.926829268
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","LBN","Lebanon","Eastern Mediterranean Region",174,18,10.344827586
+"Urinary tract","Klebsiella pneumoniae","Imipenem","LBN","Lebanon","Eastern Mediterranean Region",230,34,14.782608696
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","LBN","Lebanon","Eastern Mediterranean Region",183,33,18.032786885
+"Urinary tract","Klebsiella pneumoniae","Meropenem","LBN","Lebanon","Eastern Mediterranean Region",126,16,12.698412698
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","LKA","Sri Lanka","South-East Asia Region",343,171,49.854227405
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","LKA","Sri Lanka","South-East Asia Region",311,152,48.874598071
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","LKA","Sri Lanka","South-East Asia Region",400,230,57.5
+"Urinary tract","Klebsiella pneumoniae","Imipenem","LKA","Sri Lanka","South-East Asia Region",112,47,41.964285714
+"Urinary tract","Klebsiella pneumoniae","Meropenem","LKA","Sri Lanka","South-East Asia Region",307,66,21.498371336
+"Urinary tract","Klebsiella pneumoniae","Cefepime","LTU","Lithuania","European Region",24,17,70.833333333
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","LTU","Lithuania","European Region",28,21,75
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","LTU","Lithuania","European Region",28,22,78.571428571
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","LTU","Lithuania","European Region",59,25,42.372881356
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","LTU","Lithuania","European Region",38,17,44.736842105
+"Urinary tract","Klebsiella pneumoniae","Meropenem","LTU","Lithuania","European Region",28,0,0
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","LVA","Latvia","European Region",433,176,40.64665127
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","LVA","Latvia","European Region",433,173,39.953810624
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","LVA","Latvia","European Region",432,170,39.351851852
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","LVA","Latvia","European Region",430,205,47.674418605
+"Urinary tract","Klebsiella pneumoniae","Colistin","LVA","Latvia","European Region",18,1,5.555555556
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","LVA","Latvia","European Region",433,55,12.702078522
+"Urinary tract","Klebsiella pneumoniae","Imipenem","LVA","Latvia","European Region",432,10,2.314814815
+"Urinary tract","Klebsiella pneumoniae","Meropenem","LVA","Latvia","European Region",433,14,3.233256351
+"Urinary tract","Klebsiella pneumoniae","Cefepime","MAR","Morocco","Eastern Mediterranean Region",492,150,30.487804878
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","MAR","Morocco","Eastern Mediterranean Region",618,248,40.129449838
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","MAR","Morocco","Eastern Mediterranean Region",845,350,41.420118343
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","MAR","Morocco","Eastern Mediterranean Region",894,364,40.715883669
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","MAR","Morocco","Eastern Mediterranean Region",785,301,38.343949045
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","MAR","Morocco","Eastern Mediterranean Region",747,309,41.365461847
+"Urinary tract","Klebsiella pneumoniae","Colistin","MAR","Morocco","Eastern Mediterranean Region",377,5,1.326259947
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","MAR","Morocco","Eastern Mediterranean Region",789,133,16.856780735
+"Urinary tract","Klebsiella pneumoniae","Imipenem","MAR","Morocco","Eastern Mediterranean Region",804,54,6.71641791
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","MAR","Morocco","Eastern Mediterranean Region",481,182,37.837837838
+"Urinary tract","Klebsiella pneumoniae","Meropenem","MAR","Morocco","Eastern Mediterranean Region",167,15,8.982035928
+"Urinary tract","Klebsiella pneumoniae","Cefepime","MDA","Republic of Moldova","European Region",413,260,62.953995157
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","MDA","Republic of Moldova","European Region",445,299,67.191011236
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","MDA","Republic of Moldova","European Region",464,278,59.913793103
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","MDA","Republic of Moldova","European Region",390,270,69.230769231
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","MDA","Republic of Moldova","European Region",446,313,70.179372197
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","MDA","Republic of Moldova","European Region",98,35,35.714285714
+"Urinary tract","Klebsiella pneumoniae","Colistin","MDA","Republic of Moldova","European Region",114,2,1.754385965
+"Urinary tract","Klebsiella pneumoniae","Doripenem","MDA","Republic of Moldova","European Region",14,1,7.142857143
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","MDA","Republic of Moldova","European Region",453,217,47.902869757
+"Urinary tract","Klebsiella pneumoniae","Imipenem","MDA","Republic of Moldova","European Region",443,111,25.056433409
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","MDA","Republic of Moldova","European Region",374,279,74.598930481
+"Urinary tract","Klebsiella pneumoniae","Meropenem","MDA","Republic of Moldova","European Region",446,127,28.475336323
+"Urinary tract","Klebsiella pneumoniae","Cefepime","MLI","Mali","African Region",31,21,67.741935484
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","MLI","Mali","African Region",44,28,63.636363636
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","MLI","Mali","African Region",58,27,46.551724138
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","MLI","Mali","African Region",23,18,78.260869565
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","MLI","Mali","African Region",72,32,44.444444444
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","MLI","Mali","African Region",50,33,66
+"Urinary tract","Klebsiella pneumoniae","Colistin","MLI","Mali","African Region",14,0,0
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","MLI","Mali","African Region",44,9,20.454545455
+"Urinary tract","Klebsiella pneumoniae","Imipenem","MLI","Mali","African Region",58,4,6.896551724
+"Urinary tract","Klebsiella pneumoniae","Cefepime","MLT","Malta","European Region",1120,86,7.678571429
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","MLT","Malta","European Region",1120,207,18.482142857
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","MLT","Malta","European Region",1120,184,16.428571429
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","MLT","Malta","European Region",1120,295,26.339285714
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","MLT","Malta","European Region",1119,285,25.469168901
+"Urinary tract","Klebsiella pneumoniae","Colistin","MLT","Malta","European Region",261,3,1.149425287
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","MLT","Malta","European Region",1120,86,7.678571429
+"Urinary tract","Klebsiella pneumoniae","Imipenem","MLT","Malta","European Region",1120,29,2.589285714
+"Urinary tract","Klebsiella pneumoniae","Meropenem","MLT","Malta","European Region",1120,19,1.696428571
+"Urinary tract","Klebsiella pneumoniae","Cefepime","MMR","Myanmar","South-East Asia Region",127,76,59.842519685
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","MMR","Myanmar","South-East Asia Region",119,73,61.344537815
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","MMR","Myanmar","South-East Asia Region",24,11,45.833333333
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","MMR","Myanmar","South-East Asia Region",125,91,72.8
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","MMR","Myanmar","South-East Asia Region",118,74,62.711864407
+"Urinary tract","Klebsiella pneumoniae","Imipenem","MMR","Myanmar","South-East Asia Region",127,40,31.496062992
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","MMR","Myanmar","South-East Asia Region",120,80,66.666666667
+"Urinary tract","Klebsiella pneumoniae","Meropenem","MMR","Myanmar","South-East Asia Region",125,43,34.4
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","MUS","Mauritius","African Region",731,492,67.30506156
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","MUS","Mauritius","African Region",527,398,75.521821632
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","MUS","Mauritius","African Region",529,464,87.712665406
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","MUS","Mauritius","African Region",731,446,61.012311902
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","MUS","Mauritius","African Region",731,422,57.729138167
+"Urinary tract","Klebsiella pneumoniae","Colistin","MUS","Mauritius","African Region",529,61,11.531190926
+"Urinary tract","Klebsiella pneumoniae","Imipenem","MUS","Mauritius","African Region",529,187,35.349716446
+"Urinary tract","Klebsiella pneumoniae","Meropenem","MUS","Mauritius","African Region",529,196,37.051039698
+"Urinary tract","Klebsiella pneumoniae","Cefepime","NAM","Namibia","African Region",129,16,12.403100775
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","NAM","Namibia","African Region",122,30,24.590163934
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","NAM","Namibia","African Region",129,29,22.480620155
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","NAM","Namibia","African Region",134,34,25.373134328
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","NAM","Namibia","African Region",134,57,42.537313433
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","NAM","Namibia","African Region",133,28,21.052631579
+"Urinary tract","Klebsiella pneumoniae","Imipenem","NAM","Namibia","African Region",129,10,7.751937984
+"Urinary tract","Klebsiella pneumoniae","Meropenem","NAM","Namibia","African Region",129,13,10.07751938
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","NOR","Norway","European Region",722,42,5.817174515
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","NOR","Norway","European Region",722,35,4.847645429
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","NOR","Norway","European Region",722,66,9.141274238
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","NOR","Norway","European Region",722,114,15.789473684
+"Urinary tract","Klebsiella pneumoniae","Meropenem","NOR","Norway","European Region",722,1,0.138504155
+"Urinary tract","Klebsiella pneumoniae","Cefepime","NPL","Nepal","South-East Asia Region",617,372,60.291734198
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","NPL","Nepal","South-East Asia Region",629,439,69.793322734
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","NPL","Nepal","South-East Asia Region",1183,569,48.09805579
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","NPL","Nepal","South-East Asia Region",1248,502,40.224358974
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","NPL","Nepal","South-East Asia Region",1173,438,37.340153453
+"Urinary tract","Klebsiella pneumoniae","Imipenem","NPL","Nepal","South-East Asia Region",788,213,27.030456853
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","NPL","Nepal","South-East Asia Region",652,266,40.797546012
+"Urinary tract","Klebsiella pneumoniae","Meropenem","NPL","Nepal","South-East Asia Region",1110,249,22.432432432
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","OMN","Oman","Eastern Mediterranean Region",576,354,61.458333333
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","OMN","Oman","Eastern Mediterranean Region",1179,903,76.590330789
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",1200,898,74.833333333
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",1798,668,37.152391546
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","OMN","Oman","Eastern Mediterranean Region",1939,749,38.628158845
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","OMN","Oman","Eastern Mediterranean Region",219,190,86.757990868
+"Urinary tract","Klebsiella pneumoniae","Imipenem","OMN","Oman","Eastern Mediterranean Region",350,170,48.571428571
+"Urinary tract","Klebsiella pneumoniae","Meropenem","OMN","Oman","Eastern Mediterranean Region",858,271,31.585081585
+"Urinary tract","Klebsiella pneumoniae","Cefepime","PAK","Pakistan","Eastern Mediterranean Region",1163,725,62.33877902
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","PAK","Pakistan","Eastern Mediterranean Region",3987,2696,67.619764234
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","PAK","Pakistan","Eastern Mediterranean Region",1205,617,51.203319502
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",13888,7838,56.437211982
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",12854,6089,47.370468337
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","PAK","Pakistan","Eastern Mediterranean Region",12283,6133,49.930798665
+"Urinary tract","Klebsiella pneumoniae","Colistin","PAK","Pakistan","Eastern Mediterranean Region",1153,114,9.88725065
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","PAK","Pakistan","Eastern Mediterranean Region",5853,892,15.240047839
+"Urinary tract","Klebsiella pneumoniae","Imipenem","PAK","Pakistan","Eastern Mediterranean Region",7396,1702,23.012439156
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","PAK","Pakistan","Eastern Mediterranean Region",1006,690,68.588469185
+"Urinary tract","Klebsiella pneumoniae","Meropenem","PAK","Pakistan","Eastern Mediterranean Region",8912,1765,19.80475763
+"Urinary tract","Klebsiella pneumoniae","Cefepime","PER","Peru","Region of the Americas",616,270,43.831168831
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","PER","Peru","Region of the Americas",54,39,72.222222222
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","PER","Peru","Region of the Americas",666,329,49.399399399
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","PER","Peru","Region of the Americas",606,369,60.891089109
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","PER","Peru","Region of the Americas",666,414,62.162162162
+"Urinary tract","Klebsiella pneumoniae","Colistin","PER","Peru","Region of the Americas",13,1,7.692307692
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","PER","Peru","Region of the Americas",666,90,13.513513514
+"Urinary tract","Klebsiella pneumoniae","Imipenem","PER","Peru","Region of the Americas",438,71,16.210045662
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","PER","Peru","Region of the Americas",390,181,46.41025641
+"Urinary tract","Klebsiella pneumoniae","Meropenem","PER","Peru","Region of the Americas",588,75,12.755102041
+"Urinary tract","Klebsiella pneumoniae","Cefepime","PHL","Philippines","Western Pacific Region",2437,832,34.140336479
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","PHL","Philippines","Western Pacific Region",947,492,51.953537487
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","PHL","Philippines","Western Pacific Region",2444,1169,47.831423895
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","PHL","Philippines","Western Pacific Region",2457,1278,52.014652015
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","PHL","Philippines","Western Pacific Region",2429,1362,56.072457802
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","PHL","Philippines","Western Pacific Region",2464,1290,52.353896104
+"Urinary tract","Klebsiella pneumoniae","Colistin","PHL","Philippines","Western Pacific Region",570,91,15.964912281
+"Urinary tract","Klebsiella pneumoniae","Doripenem","PHL","Philippines","Western Pacific Region",18,2,11.111111111
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","PHL","Philippines","Western Pacific Region",2289,403,17.605941459
+"Urinary tract","Klebsiella pneumoniae","Imipenem","PHL","Philippines","Western Pacific Region",2450,466,19.020408163
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","PHL","Philippines","Western Pacific Region",523,207,39.579349904
+"Urinary tract","Klebsiella pneumoniae","Meropenem","PHL","Philippines","Western Pacific Region",2449,473,19.314005717
+"Urinary tract","Klebsiella pneumoniae","Cefepime","QAT","Qatar","Eastern Mediterranean Region",2197,410,18.661811561
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","QAT","Qatar","Eastern Mediterranean Region",347,93,26.801152738
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","QAT","Qatar","Eastern Mediterranean Region",2187,542,24.782807499
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",2185,521,23.844393593
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",795,424,53.333333333
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","QAT","Qatar","Eastern Mediterranean Region",2236,554,24.776386404
+"Urinary tract","Klebsiella pneumoniae","Colistin","QAT","Qatar","Eastern Mediterranean Region",116,4,3.448275862
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","QAT","Qatar","Eastern Mediterranean Region",2201,38,1.72648796
+"Urinary tract","Klebsiella pneumoniae","Imipenem","QAT","Qatar","Eastern Mediterranean Region",2057,67,3.257170637
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","QAT","Qatar","Eastern Mediterranean Region",562,182,32.384341637
+"Urinary tract","Klebsiella pneumoniae","Meropenem","QAT","Qatar","Eastern Mediterranean Region",2203,26,1.180208806
+"Urinary tract","Klebsiella pneumoniae","Cefepime","SAU","Saudi Arabia","Eastern Mediterranean Region",1932,857,44.358178054
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","SAU","Saudi Arabia","Eastern Mediterranean Region",1230,564,45.853658537
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","SAU","Saudi Arabia","Eastern Mediterranean Region",2039,922,45.218244237
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",1430,654,45.734265734
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",2001,850,42.47876062
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","SAU","Saudi Arabia","Eastern Mediterranean Region",1467,712,48.534423995
+"Urinary tract","Klebsiella pneumoniae","Colistin","SAU","Saudi Arabia","Eastern Mediterranean Region",675,118,17.481481481
+"Urinary tract","Klebsiella pneumoniae","Doripenem","SAU","Saudi Arabia","Eastern Mediterranean Region",24,10,41.666666667
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","SAU","Saudi Arabia","Eastern Mediterranean Region",1140,320,28.070175439
+"Urinary tract","Klebsiella pneumoniae","Imipenem","SAU","Saudi Arabia","Eastern Mediterranean Region",1958,413,21.092951992
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",1361,607,44.599559148
+"Urinary tract","Klebsiella pneumoniae","Meropenem","SAU","Saudi Arabia","Eastern Mediterranean Region",1944,454,23.353909465
+"Urinary tract","Klebsiella pneumoniae","Cefepime","SGP","Singapore","Western Pacific Region",2218,470,21.190261497
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","SGP","Singapore","Western Pacific Region",1449,383,26.432022084
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","SGP","Singapore","Western Pacific Region",2218,633,28.539224527
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","SGP","Singapore","Western Pacific Region",1247,358,28.708901363
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","SGP","Singapore","Western Pacific Region",971,310,31.92584964
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","SGP","Singapore","Western Pacific Region",969,244,25.180598555
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","SGP","Singapore","Western Pacific Region",1248,44,3.525641026
+"Urinary tract","Klebsiella pneumoniae","Imipenem","SGP","Singapore","Western Pacific Region",969,5,0.515995872
+"Urinary tract","Klebsiella pneumoniae","Meropenem","SGP","Singapore","Western Pacific Region",2215,18,0.812641084
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","SWE","Sweden","European Region",5819,194,3.333906169
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","SWE","Sweden","European Region",5820,206,3.5395189
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","SWE","Sweden","European Region",24427,2333,9.550906783
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","SWE","Sweden","European Region",24475,4398,17.969356486
+"Urinary tract","Klebsiella pneumoniae","Imipenem","SWE","Sweden","European Region",3619,25,0.690798563
+"Urinary tract","Klebsiella pneumoniae","Meropenem","SWE","Sweden","European Region",7543,28,0.371205091
+"Urinary tract","Klebsiella pneumoniae","Cefepime","SWZ","Eswatini","African Region",17,4,23.529411765
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","SWZ","Eswatini","African Region",21,9,42.857142857
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","SWZ","Eswatini","African Region",15,7,46.666666667
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","SWZ","Eswatini","African Region",22,7,31.818181818
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","SWZ","Eswatini","African Region",22,13,59.090909091
+"Urinary tract","Klebsiella pneumoniae","Imipenem","SWZ","Eswatini","African Region",16,1,6.25
+"Urinary tract","Klebsiella pneumoniae","Meropenem","SWZ","Eswatini","African Region",20,1,5
+"Urinary tract","Klebsiella pneumoniae","Cefepime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",59,45,76.271186441
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",57,52,91.228070175
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",39,27,69.230769231
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","SYR","Syrian Arab Republic","Eastern Mediterranean Region",62,51,82.258064516
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","SYR","Syrian Arab Republic","Eastern Mediterranean Region",65,42,64.615384615
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","SYR","Syrian Arab Republic","Eastern Mediterranean Region",64,50,78.125
+"Urinary tract","Klebsiella pneumoniae","Colistin","SYR","Syrian Arab Republic","Eastern Mediterranean Region",14,1,7.142857143
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","SYR","Syrian Arab Republic","Eastern Mediterranean Region",21,13,61.904761905
+"Urinary tract","Klebsiella pneumoniae","Imipenem","SYR","Syrian Arab Republic","Eastern Mediterranean Region",46,20,43.47826087
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","SYR","Syrian Arab Republic","Eastern Mediterranean Region",36,27,75
+"Urinary tract","Klebsiella pneumoniae","Meropenem","SYR","Syrian Arab Republic","Eastern Mediterranean Region",20,6,30
+"Urinary tract","Klebsiella pneumoniae","Cefepime","THA","Thailand","South-East Asia Region",340,140,41.176470588
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","THA","Thailand","South-East Asia Region",894,459,51.342281879
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","THA","Thailand","South-East Asia Region",1201,585,48.709408826
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","THA","Thailand","South-East Asia Region",1152,644,55.902777778
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","THA","Thailand","South-East Asia Region",1204,660,54.817275748
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","THA","Thailand","South-East Asia Region",1022,512,50.097847358
+"Urinary tract","Klebsiella pneumoniae","Colistin","THA","Thailand","South-East Asia Region",396,11,2.777777778
+"Urinary tract","Klebsiella pneumoniae","Doripenem","THA","Thailand","South-East Asia Region",303,51,16.831683168
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","THA","Thailand","South-East Asia Region",1412,401,28.399433428
+"Urinary tract","Klebsiella pneumoniae","Imipenem","THA","Thailand","South-East Asia Region",1367,314,22.970007315
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","THA","Thailand","South-East Asia Region",549,264,48.087431694
+"Urinary tract","Klebsiella pneumoniae","Meropenem","THA","Thailand","South-East Asia Region",1368,344,25.14619883
+"Urinary tract","Klebsiella pneumoniae","Cefepime","TLS","Timor-Leste","South-East Asia Region",20,12,60
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","TLS","Timor-Leste","South-East Asia Region",20,12,60
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","TLS","Timor-Leste","South-East Asia Region",20,12,60
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","TLS","Timor-Leste","South-East Asia Region",20,10,50
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","TLS","Timor-Leste","South-East Asia Region",20,13,65
+"Urinary tract","Klebsiella pneumoniae","Colistin","TLS","Timor-Leste","South-East Asia Region",20,0,0
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","TLS","Timor-Leste","South-East Asia Region",20,3,15
+"Urinary tract","Klebsiella pneumoniae","Imipenem","TLS","Timor-Leste","South-East Asia Region",20,2,10
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","TLS","Timor-Leste","South-East Asia Region",20,6,30
+"Urinary tract","Klebsiella pneumoniae","Meropenem","TLS","Timor-Leste","South-East Asia Region",20,2,10
+"Urinary tract","Klebsiella pneumoniae","Cefepime","TTO","Trinidad and Tobago","Region of the Americas",61,49,80.327868852
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","TTO","Trinidad and Tobago","Region of the Americas",119,36,30.25210084
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","TTO","Trinidad and Tobago","Region of the Americas",172,65,37.790697674
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","TTO","Trinidad and Tobago","Region of the Americas",122,45,36.885245902
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","TTO","Trinidad and Tobago","Region of the Americas",63,17,26.984126984
+"Urinary tract","Klebsiella pneumoniae","Imipenem","TTO","Trinidad and Tobago","Region of the Americas",39,8,20.512820513
+"Urinary tract","Klebsiella pneumoniae","Meropenem","TTO","Trinidad and Tobago","Region of the Americas",40,11,27.5
+"Urinary tract","Klebsiella pneumoniae","Cefepime","TUN","Tunisia","Eastern Mediterranean Region",692,214,30.924855491
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","TUN","Tunisia","Eastern Mediterranean Region",768,261,33.984375
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","TUN","Tunisia","Eastern Mediterranean Region",772,265,34.32642487
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","TUN","Tunisia","Eastern Mediterranean Region",650,185,28.461538462
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","TUN","Tunisia","Eastern Mediterranean Region",510,159,31.176470588
+"Urinary tract","Klebsiella pneumoniae","Colistin","TUN","Tunisia","Eastern Mediterranean Region",301,15,4.983388704
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","TUN","Tunisia","Eastern Mediterranean Region",789,57,7.224334601
+"Urinary tract","Klebsiella pneumoniae","Imipenem","TUN","Tunisia","Eastern Mediterranean Region",703,38,5.405405405
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","TUN","Tunisia","Eastern Mediterranean Region",75,17,22.666666667
+"Urinary tract","Klebsiella pneumoniae","Meropenem","TUN","Tunisia","Eastern Mediterranean Region",30,19,63.333333333
+"Urinary tract","Klebsiella pneumoniae","Cefepime","TZA","United Republic of Tanzania","African Region",510,280,54.901960784
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","TZA","United Republic of Tanzania","African Region",82,40,48.780487805
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","TZA","United Republic of Tanzania","African Region",523,295,56.405353728
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","TZA","United Republic of Tanzania","African Region",544,324,59.558823529
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","TZA","United Republic of Tanzania","African Region",533,242,45.403377111
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","TZA","United Republic of Tanzania","African Region",478,342,71.548117155
+"Urinary tract","Klebsiella pneumoniae","Imipenem","TZA","United Republic of Tanzania","African Region",29,8,27.586206897
+"Urinary tract","Klebsiella pneumoniae","Meropenem","TZA","United Republic of Tanzania","African Region",513,40,7.797270955
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","UGA","Uganda","African Region",10,7,70
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","UGA","Uganda","African Region",11,7,63.636363636
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","UGA","Uganda","African Region",15,10,66.666666667
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","UGA","Uganda","African Region",14,11,78.571428571
+"Urinary tract","Klebsiella pneumoniae","Colistin","UGA","Uganda","African Region",10,0,0
+"Urinary tract","Klebsiella pneumoniae","Imipenem","UGA","Uganda","African Region",13,1,7.692307692
+"Urinary tract","Klebsiella pneumoniae","Meropenem","UGA","Uganda","African Region",13,0,0
+"Urinary tract","Klebsiella pneumoniae","Cefepime","YEM","Yemen","Eastern Mediterranean Region",164,106,64.634146341
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","YEM","Yemen","Eastern Mediterranean Region",145,116,80
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","YEM","Yemen","Eastern Mediterranean Region",160,119,74.375
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","YEM","Yemen","Eastern Mediterranean Region",105,95,90.476190476
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","YEM","Yemen","Eastern Mediterranean Region",157,95,60.50955414
+"Urinary tract","Klebsiella pneumoniae","Colistin","YEM","Yemen","Eastern Mediterranean Region",22,2,9.090909091
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","YEM","Yemen","Eastern Mediterranean Region",106,41,38.679245283
+"Urinary tract","Klebsiella pneumoniae","Imipenem","YEM","Yemen","Eastern Mediterranean Region",135,28,20.740740741
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","YEM","Yemen","Eastern Mediterranean Region",133,75,56.390977444
+"Urinary tract","Klebsiella pneumoniae","Meropenem","YEM","Yemen","Eastern Mediterranean Region",125,39,31.2
+"Urinary tract","Klebsiella pneumoniae","Cefepime","ZAF","South Africa","African Region",8043,2738,34.04202412
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","ZAF","South Africa","African Region",8264,3293,39.847531462
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","ZAF","South Africa","African Region",8291,3528,42.552164998
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","ZAF","South Africa","African Region",8304,2554,30.756262042
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","ZAF","South Africa","African Region",8324,3976,47.765497357
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","ZAF","South Africa","African Region",7819,901,11.523212687
+"Urinary tract","Klebsiella pneumoniae","Imipenem","ZAF","South Africa","African Region",8261,731,8.84880765
+"Urinary tract","Klebsiella pneumoniae","Meropenem","ZAF","South Africa","African Region",7937,782,9.852589139
+"Urinary tract","Klebsiella pneumoniae","Cefepime","ZMB","Zambia","African Region",41,21,51.219512195
+"Urinary tract","Klebsiella pneumoniae","Cefotaxime","ZMB","Zambia","African Region",166,121,72.891566265
+"Urinary tract","Klebsiella pneumoniae","Ceftazidime","ZMB","Zambia","African Region",46,20,43.47826087
+"Urinary tract","Klebsiella pneumoniae","Ceftriaxone","ZMB","Zambia","African Region",93,63,67.741935484
+"Urinary tract","Klebsiella pneumoniae","Ciprofloxacin","ZMB","Zambia","African Region",99,55,55.555555556
+"Urinary tract","Klebsiella pneumoniae","Co-trimoxazole","ZMB","Zambia","African Region",137,114,83.211678832
+"Urinary tract","Klebsiella pneumoniae","Ertapenem","ZMB","Zambia","African Region",39,6,15.384615385
+"Urinary tract","Klebsiella pneumoniae","Imipenem","ZMB","Zambia","African Region",115,5,4.347826087
+"Urinary tract","Klebsiella pneumoniae","Levofloxacin","ZMB","Zambia","African Region",50,22,44
+"Urinary tract","Klebsiella pneumoniae","Meropenem","ZMB","Zambia","African Region",84,13,15.476190476

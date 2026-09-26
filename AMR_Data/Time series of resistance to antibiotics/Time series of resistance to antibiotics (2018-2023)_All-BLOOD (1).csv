@@ -1,0 +1,84 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+Antibiotic filter: Colistin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Acinetobacter spp.","Colistin",0,0,1.270639835,4.5995671,10.526315789
+2019,"BLOOD","Acinetobacter spp.","Colistin",0,0,2.210452757,7.702248113,24.137931034
+2020,"BLOOD","Acinetobacter spp.","Colistin",0,0.503355705,2.665995526,7.643485547,36.697247706
+2021,"BLOOD","Acinetobacter spp.","Colistin",0,1.012882525,2.303262956,6.737815023,46.153846154
+2022,"BLOOD","Acinetobacter spp.","Colistin",0,2.580658085,3.244839975,8.042621515,26.344086022
+2023,"BLOOD","Acinetobacter spp.","Colistin",0,1.373210092,3.863519092,9.164531479,38.709677419
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Acinetobacter spp.","Colistin",7385,352,9,2.556818182
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Acinetobacter spp.","Colistin",841,63,3,4.761904762
+"IND","India","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Colistin",14459,42,0,0
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Colistin",1826,246,20,8.130081301
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Colistin",345,38,4,10.526315789
+"XKX","Kosovo","European Region",2018,"BLOOD","Acinetobacter spp.","Colistin",164,60,0,0
+"MKD","North Macedonia","European Region",2018,"BLOOD","Acinetobacter spp.","Colistin",176,21,0,0
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Colistin",5595,408,5,1.225490196
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Colistin",2420,257,21,8.171206226
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Colistin",2629,72,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Colistin",2452,22,1,4.545454545
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Acinetobacter spp.","Colistin",5783,198,2,1.01010101
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Acinetobacter spp.","Colistin",1020,60,0,0
+"IND","India","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Colistin",24223,330,15,4.545454545
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Colistin",2277,105,10,9.523809524
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Colistin",627,52,0,0
+"XKX","Kosovo","European Region",2019,"BLOOD","Acinetobacter spp.","Colistin",151,45,0,0
+"MKD","North Macedonia","European Region",2019,"BLOOD","Acinetobacter spp.","Colistin",276,35,0,0
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Colistin",6468,513,13,2.53411306
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Colistin",2528,238,28,11.764705882
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Colistin",5463,195,5,2.564102564
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Colistin",2464,23,1,4.347826087
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Acinetobacter spp.","Colistin",7376,500,11,2.2
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Acinetobacter spp.","Colistin",954,60,0,0
+"IND","India","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Colistin",12371,371,3,0.808625337
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Colistin",1854,115,23,20
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Colistin",446,30,0,0
+"XKX","Kosovo","European Region",2020,"BLOOD","Acinetobacter spp.","Colistin",161,59,0,0
+"MKD","North Macedonia","European Region",2020,"BLOOD","Acinetobacter spp.","Colistin",293,38,2,5.263157895
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Colistin",4276,447,14,3.131991051
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Colistin",2458,386,49,12.694300518
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Colistin",6159,407,5,1.228501229
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Colistin",2925,25,0,0
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Acinetobacter spp.","Colistin",9243,498,8,1.606425703
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Acinetobacter spp.","Colistin",1457,109,4,3.669724771
+"IND","India","South-East Asia Region",2021,"BLOOD","Acinetobacter spp.","Colistin",34056,3880,79,2.036082474
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Colistin",2037,272,21,7.720588235
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Colistin",1611,52,24,46.153846154
+"XKX","Kosovo","European Region",2021,"BLOOD","Acinetobacter spp.","Colistin",213,93,0,0
+"MKD","North Macedonia","European Region",2021,"BLOOD","Acinetobacter spp.","Colistin",284,33,0,0
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Acinetobacter spp.","Colistin",4850,500,206,41.2
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Colistin",1126,133,1,0.751879699
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Acinetobacter spp.","Colistin",6559,218,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Acinetobacter spp.","Colistin",3989,53,1,1.886792453
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Acinetobacter spp.","Colistin",8366,221,7,3.167420814
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Acinetobacter spp.","Colistin",1207,79,0,0
+"IND","India","South-East Asia Region",2022,"BLOOD","Acinetobacter spp.","Colistin",43929,4955,38,0.766902119
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Colistin",2263,36,2,5.555555556
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Colistin",2027,181,4,2.209944751
+"XKX","Kosovo","European Region",2022,"BLOOD","Acinetobacter spp.","Colistin",189,35,1,2.857142857
+"MKD","North Macedonia","European Region",2022,"BLOOD","Acinetobacter spp.","Colistin",279,13,1,7.692307692
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Acinetobacter spp.","Colistin",5937,527,43,8.159392789
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Colistin",1962,135,14,10.37037037
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Acinetobacter spp.","Colistin",9544,301,10,3.322259136
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Acinetobacter spp.","Colistin",4194,29,3,10.344827586
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Acinetobacter spp.","Colistin",9290,164,8,4.87804878
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Acinetobacter spp.","Colistin",1271,67,1,1.492537313
+"IND","India","South-East Asia Region",2023,"BLOOD","Acinetobacter spp.","Colistin",41375,6726,65,0.966399048
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Colistin",2925,55,4,7.272727273
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Colistin",3297,197,1,0.507614213
+"XKX","Kosovo","European Region",2023,"BLOOD","Acinetobacter spp.","Colistin",164,29,4,13.793103448
+"MKD","North Macedonia","European Region",2023,"BLOOD","Acinetobacter spp.","Colistin",283,20,0,0
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Acinetobacter spp.","Colistin",7705,398,10,2.512562814
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Colistin",1927,88,11,12.5
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Acinetobacter spp.","Colistin",14722,1110,9,0.810810811
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Acinetobacter spp.","Colistin",3959,23,3,13.043478261

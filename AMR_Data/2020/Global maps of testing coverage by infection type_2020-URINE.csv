@@ -1,0 +1,64 @@
+Filters
+"Year filter: 2020"
+"Infection type filter: Urinary tract"
+
+
+"CountryTerritoryArea","BCIsPerMillion","TotalSpecimenIsolates","IsolsPerMillion","TotalSpecimenIsolatesWithAST","ASTResult"
+"Afghanistan",0.9,36,0.9,34,94.4
+"Argentina",645.5,29170,632.1,28564,97.9
+"Australia",3389.4,87257,3386.4,87179,99.9
+"Bahrain",2371.4,3517,2300.6,3412,97
+"Bangladesh",1.6,261,1.5,250,95.8
+"Bhutan",2109.1,1624,2101.3,1618,99.6
+"Brazil",13.4,2805,13.4,2805,100
+"Burkina Faso",35.2,755,32.5,698,92.5
+"C<U+00F4>te d<U+2019>Ivoire",8,231,7.9,228,98.7
+"Djibouti",49.8,55,49.8,55,100
+"Egypt",0,4,0,4,100
+"Ethiopia",4.8,576,4.3,514,89.2
+"Finland",26422.8,146108,19597.4,108366,74.2
+"Germany",6640.2,555313,6625,554039,99.8
+"India",13,18235,11.2,15670,85.9
+"Indonesia",5.8,1595,5.2,1420,89
+"Iran (Islamic Republic of)",48.3,4235,44.8,3934,92.9
+"Iraq",35.7,1502,30.1,1268,84.4
+"Japan",3765.4,475584,3761,475031,99.9
+"Jordan",495.6,5385,455.5,4949,91.9
+"Kenya",3.1,163,2.6,134,82.2
+"Kuwait",280.7,1235,280.7,1235,100
+"Lao People's Democratic Republic",34.4,253,34.2,251,99.2
+"Lebanon",687.1,3918,493.5,2814,71.8
+"Liberia",17.1,88,16.1,83,94.3
+"Libya",21.6,152,20,141,92.8
+"Malawi",50.3,983,50.3,983,100
+"Malaysia",534.8,18124,506.8,17175,94.8
+"Mali",15.6,339,13.7,297,87.6
+"Mauritius",3474.1,4458,3472.5,4456,100
+"Morocco",0.7,26,0.7,26,100
+"Myanmar",22.4,1185,19.8,1048,88.4
+"Nepal",206.3,5975,160.9,4660,78
+"Norway",598.4,3219,598.4,3219,100
+"Oman",739.2,3343,707.1,3198,95.7
+"Pakistan",122.1,28695,30.3,7111,24.8
+"Peru",119.7,3930,104.3,3426,87.2
+"Philippines",40.7,4560,39.6,4435,97.3
+"Qatar",2937.9,8236,2937.9,8236,100
+"Republic of Korea",165.2,8567,165.2,8567,100
+"Saudi Arabia",144,4464,143.8,4458,99.9
+"Singapore",861.9,4844,860.5,4836,99.8
+"Somalia",2.3,38,2.2,36,94.7
+"Sri Lanka",91.1,2056,90.6,2045,99.5
+"Sudan",5,235,4.5,211,89.8
+"Sweden",42656.9,441656,42431.8,439326,99.5
+"Switzerland",17740.2,153286,17413.3,150461,98.2
+"Syrian Arab Republic",9.8,207,7.7,162,78.3
+"Thailand",155.4,11131,145.7,10437,93.8
+"Timor-Leste",41.5,55,40,53,96.4
+"Tunisia",443.4,5309,302.2,3619,68.2
+"Uganda",10.2,452,10,446,98.7
+"United Arab Emirates",3141.3,29681,2905.5,27453,92.5
+"United Kingdom of Great Britain and Northern Ireland",9673.6,651538,9673.6,651535,100
+"United Republic of Tanzania",7.1,435,6.8,414,95.2
+"Yemen",9.6,348,3,109,31.3
+"Zambia",28.4,541,10.3,197,36.4
+"occupied Palestinian territory, including east Jerusalem",1094.3,5548,1089.6,5524,99.6

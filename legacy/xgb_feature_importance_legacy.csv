@@ -1,0 +1,14 @@
+Feature,Importance
+Resistance_lag1,0.50548255
+CountryTerritoryArea_te,0.0902238
+AntibioticName_te,0.0673775
+PathogenName,0.05976136
+InfectionType,0.05283763
+IncomeGroup,0.05056307
+AntibioticClass,0.04358278
+WHORegionName,0.0413191
+Total_DID,0.026774546
+DID_lag1,0.021119209
+Country_Observation_Count,0.02092409
+High_Quality_Country,0.020034403
+Year,0.0

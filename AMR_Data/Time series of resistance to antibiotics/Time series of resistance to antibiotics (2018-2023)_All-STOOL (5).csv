@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Meropenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"STOOL","Salmonella spp.","Meropenem",0,0,0,0,0.5
+2019,"STOOL","Salmonella spp.","Meropenem",0,0,0,0.130890052,0.581395349
+2020,"STOOL","Salmonella spp.","Meropenem",0,0,0,0,0
+2021,"STOOL","Salmonella spp.","Meropenem",0,0,0,0,0.410958904
+2022,"STOOL","Salmonella spp.","Meropenem",0,0,0,0.077239959,0.531914894
+2023,"STOOL","Salmonella spp.","Meropenem",0,0,0.209643606,0.639363661,1.388888889
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Salmonella spp.","Meropenem",3376,200,1,0.5
+"POL","Poland","European Region",2018,"STOOL","Salmonella spp.","Meropenem",539,143,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Meropenem",818,446,0,0
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Salmonella spp.","Meropenem",2892,191,1,0.523560209
+"POL","Poland","European Region",2019,"STOOL","Salmonella spp.","Meropenem",232,37,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Meropenem",1005,599,0,0
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Salmonella spp.","Meropenem",2201,155,0,0
+"POL","Poland","European Region",2020,"STOOL","Salmonella spp.","Meropenem",156,46,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Meropenem",1068,590,0,0
+"ARG","Argentina","Region of the Americas",2021,"STOOL","Salmonella spp.","Meropenem",2270,144,0,0
+"POL","Poland","European Region",2021,"STOOL","Salmonella spp.","Meropenem",260,81,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Meropenem",1289,730,3,0.410958904
+"ARG","Argentina","Region of the Americas",2022,"STOOL","Salmonella spp.","Meropenem",2265,188,1,0.531914894
+"POL","Poland","European Region",2022,"STOOL","Salmonella spp.","Meropenem",293,51,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Meropenem",1509,971,1,0.102986612
+"ARG","Argentina","Region of the Americas",2023,"STOOL","Salmonella spp.","Meropenem",3273,203,1,0.492610837
+"POL","Poland","European Region",2023,"STOOL","Salmonella spp.","Meropenem",1051,741,8,1.079622132
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Meropenem",1777,954,4,0.419287212

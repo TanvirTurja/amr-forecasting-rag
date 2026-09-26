@@ -1,0 +1,132 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Cefotaxime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Cefotaxime",9.653647752,32.32095537,48.47260274,66.282051282,91.379310345
+2019,"BLOOD","Escherichia coli","Cefotaxime",7.217107217,17.721493547,33.002693725,56.999427918,84.615384615
+2020,"BLOOD","Escherichia coli","Cefotaxime",5.734767025,17.2213896,30.178571429,61.088877339,85.714285714
+2021,"BLOOD","Escherichia coli","Cefotaxime",4.676258993,15.435422214,27.471338957,48.066805638,85.157699443
+2022,"BLOOD","Escherichia coli","Cefotaxime",6.666666667,16.460073216,26.811594203,55.777857408,87.5
+2023,"BLOOD","Escherichia coli","Cefotaxime",7.774898186,17.146390721,27.055842915,55.015103056,89.411764706
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Cefotaxime",7385,1471,296,20.122365738
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Cefotaxime",841,248,48,19.35483871
+"GEO","Georgia","European Region",2018,"BLOOD","Escherichia coli","Cefotaxime",216,48,25,52.083333333
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Cefotaxime",14459,1954,1547,79.170931423
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Escherichia coli","Cefotaxime",1381,71,62,87.323943662
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefotaxime",1826,195,129,66.153846154
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Cefotaxime",126859,54633,10741,19.660278586
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefotaxime",345,16,12,75
+"XKX","Kosovo","European Region",2018,"BLOOD","Escherichia coli","Cefotaxime",164,12,7,58.333333333
+"MLT","Malta","European Region",2018,"BLOOD","Escherichia coli","Cefotaxime",1116,352,60,17.045454545
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefotaxime",631,84,45,53.571428571
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefotaxime",7410,100,49,49
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Cefotaxime",5595,602,245,40.697674419
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Cefotaxime",3519,1724,666,38.631090487
+"RUS","Russian Federation","European Region",2018,"BLOOD","Escherichia coli","Cefotaxime",427,81,54,66.666666667
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Cefotaxime",19539,1357,131,9.653647752
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Cefotaxime",2629,994,366,36.820925553
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefotaxime",1660,250,85,34
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefotaxime",2452,584,280,47.945205479
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Cefotaxime",5783,1212,230,18.97689769
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Cefotaxime",1020,290,59,20.344827586
+"GEO","Georgia","European Region",2019,"BLOOD","Escherichia coli","Cefotaxime",433,76,43,56.578947368
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Cefotaxime",24223,3883,3138,80.81380376
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Escherichia coli","Cefotaxime",2314,221,143,64.705882353
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefotaxime",2277,401,282,70.324189526
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Cefotaxime",136246,59170,12290,20.770660808
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefotaxime",627,27,18,66.666666667
+"XKX","Kosovo","European Region",2019,"BLOOD","Escherichia coli","Cefotaxime",151,17,7,41.176470588
+"MLT","Malta","European Region",2019,"BLOOD","Escherichia coli","Cefotaxime",624,358,65,18.156424581
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefotaxime",1007,203,111,54.679802956
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefotaxime",8980,91,77,84.615384615
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Cefotaxime",6468,750,293,39.066666667
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Cefotaxime",3646,1939,719,37.080969572
+"RUS","Russian Federation","European Region",2019,"BLOOD","Escherichia coli","Cefotaxime",1173,115,67,58.260869565
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Cefotaxime",10424,548,56,10.218978102
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Cefotaxime",5463,2010,749,37.263681592
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefotaxime",932,108,39,36.111111111
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefotaxime",2464,528,228,43.181818182
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Cefotaxime",7376,1254,266,21.212121212
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Cefotaxime",954,179,42,23.463687151
+"GEO","Georgia","European Region",2020,"BLOOD","Escherichia coli","Cefotaxime",741,126,51,40.476190476
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Cefotaxime",12371,2500,1999,79.96
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Escherichia coli","Cefotaxime",1676,160,121,75.625
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefotaxime",1854,325,225,69.230769231
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Cefotaxime",142185,64405,12953,20.111792563
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefotaxime",446,93,60,64.516129032
+"XKX","Kosovo","European Region",2020,"BLOOD","Escherichia coli","Cefotaxime",161,10,3,30
+"MLT","Malta","European Region",2020,"BLOOD","Escherichia coli","Cefotaxime",530,277,32,11.55234657
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefotaxime",876,62,47,75.806451613
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefotaxime",5623,153,123,80.392156863
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Cefotaxime",4276,452,161,35.619469027
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Cefotaxime",4095,2209,832,37.664101403
+"RUS","Russian Federation","European Region",2020,"BLOOD","Escherichia coli","Cefotaxime",1305,93,60,64.516129032
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Cefotaxime",10256,523,58,11.089866157
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Cefotaxime",6159,2089,823,39.396840594
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefotaxime",917,80,24,30
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefotaxime",2925,522,251,48.084291188
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Escherichia coli","Cefotaxime",9243,1422,281,19.760900141
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Escherichia coli","Cefotaxime",1457,201,58,28.855721393
+"GEO","Georgia","European Region",2021,"BLOOD","Escherichia coli","Cefotaxime",666,82,29,35.365853659
+"IND","India","South-East Asia Region",2021,"BLOOD","Escherichia coli","Cefotaxime",34056,3806,2953,77.588018917
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Escherichia coli","Cefotaxime",3070,264,171,64.772727273
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Cefotaxime",2037,309,213,68.932038835
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Escherichia coli","Cefotaxime",148205,65221,12732,19.52131982
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Cefotaxime",1611,48,29,60.416666667
+"XKX","Kosovo","European Region",2021,"BLOOD","Escherichia coli","Cefotaxime",213,10,6,60
+"MLT","Malta","European Region",2021,"BLOOD","Escherichia coli","Cefotaxime",569,299,39,13.043478261
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Cefotaxime",1621,97,62,63.917525773
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Cefotaxime",10931,539,459,85.157699443
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Cefotaxime",4850,511,225,44.031311155
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Escherichia coli","Cefotaxime",4488,2165,793,36.62817552
+"RUS","Russian Federation","European Region",2021,"BLOOD","Escherichia coli","Cefotaxime",2762,235,128,54.468085106
+"CHE","Switzerland","European Region",2021,"BLOOD","Escherichia coli","Cefotaxime",10322,445,36,8.08988764
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Cefotaxime",6559,1957,732,37.404190087
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Cefotaxime",854,125,42,33.6
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Cefotaxime",3989,894,403,45.078299776
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Escherichia coli","Cefotaxime",8366,1464,329,22.472677596
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Escherichia coli","Cefotaxime",1207,276,74,26.811594203
+"GEO","Georgia","European Region",2022,"BLOOD","Escherichia coli","Cefotaxime",1007,155,72,46.451612903
+"IND","India","South-East Asia Region",2022,"BLOOD","Escherichia coli","Cefotaxime",43929,7037,5432,77.191985221
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Escherichia coli","Cefotaxime",5596,671,462,68.852459016
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Cefotaxime",2263,398,277,69.59798995
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Escherichia coli","Cefotaxime",158356,65804,12971,19.711567686
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Cefotaxime",2027,161,85,52.795031056
+"XKX","Kosovo","European Region",2022,"BLOOD","Escherichia coli","Cefotaxime",189,13,5,38.461538462
+"MLT","Malta","European Region",2022,"BLOOD","Escherichia coli","Cefotaxime",706,382,51,13.35078534
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Cefotaxime",2075,181,132,72.928176796
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Cefotaxime",16099,672,540,80.357142857
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Cefotaxime",5937,540,237,43.888888889
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Escherichia coli","Cefotaxime",4484,2281,886,38.842612889
+"RUS","Russian Federation","European Region",2022,"BLOOD","Escherichia coli","Cefotaxime",4369,540,349,64.62962963
+"CHE","Switzerland","European Region",2022,"BLOOD","Escherichia coli","Cefotaxime",11308,411,37,9.00243309
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Cefotaxime",9544,1451,490,33.769813921
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Cefotaxime",858,96,19,19.791666667
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Cefotaxime",4194,1005,500,49.751243781
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Escherichia coli","Cefotaxime",9290,1743,372,21.342512909
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Escherichia coli","Cefotaxime",1271,332,74,22.289156627
+"GEO","Georgia","European Region",2023,"BLOOD","Escherichia coli","Cefotaxime",898,128,54,42.1875
+"IND","India","South-East Asia Region",2023,"BLOOD","Escherichia coli","Cefotaxime",41375,6564,5258,80.103595369
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Escherichia coli","Cefotaxime",9180,1197,861,71.929824561
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Cefotaxime",2925,660,476,72.121212121
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Escherichia coli","Cefotaxime",169604,67259,13403,19.927444654
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Cefotaxime",3297,261,175,67.049808429
+"XKX","Kosovo","European Region",2023,"BLOOD","Escherichia coli","Cefotaxime",164,24,9,37.5
+"MLT","Malta","European Region",2023,"BLOOD","Escherichia coli","Cefotaxime",859,497,63,12.676056338
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Cefotaxime",2586,273,162,59.340659341
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Cefotaxime",13338,627,531,84.688995215
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Cefotaxime",7705,608,214,35.197368421
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Escherichia coli","Cefotaxime",5416,2844,1107,38.924050633
+"RUS","Russian Federation","European Region",2023,"BLOOD","Escherichia coli","Cefotaxime",9671,1230,803,65.284552846
+"CHE","Switzerland","European Region",2023,"BLOOD","Escherichia coli","Cefotaxime",12511,659,59,8.952959029
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Cefotaxime",14722,2051,792,38.615309605
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Cefotaxime",1332,184,48,26.086956522
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Cefotaxime",3959,804,391,48.631840796

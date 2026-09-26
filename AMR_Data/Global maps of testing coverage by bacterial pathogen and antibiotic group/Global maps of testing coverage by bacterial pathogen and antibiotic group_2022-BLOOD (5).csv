@@ -1,0 +1,83 @@
+Filters
+"Year filter: 2022"
+"Region filter: All"
+"Infection type filter: Bloodstream"
+"Bacterial pathogen filter: Salmonella spp."
+"Antibiotic group filter: Fluoroquinolones"
+
+
+"CountryTerritoryArea","Total Salmonella spp. BCIs per million population","Absolute number of Salmonella spp. BCIs","Total Salmonella spp. BCIs with AST (Fluoroquinolones) per million population","Absolute number of Salmonella spp. BCIs with AST (Fluoroquinolones)","% of Salmonella spp. BCIs with AST"
+"Argentina",13.8,626,13.5,612,97.8
+"Australia",5.2,135,5.2,135,100
+"Bahrain",10.4,16,10.4,16,100
+"Bangladesh",0.2,26,0.2,26,100
+"Belgium",8.2,95,8.2,95,100
+"Benin",0.9,12,0.7,9,75
+"Bosnia and Herzegovina",0.9,3,0.9,3,100
+"Brazil",0,6,0,5,83.3
+"Brunei Darussalam",48.3,22,11,5,22.7
+"Burkina Faso",0.2,4,0.1,2,50
+"Cambodia",1.9,33,1.9,33,100
+"Cameroon",0.5,13,0.3,9,69.2
+"Canada",17.5,679,17.5,679,100
+"China, Hong Kong SAR",26.7,199,26.5,198,99.5
+"Colombia",17.3,893,16.7,863,96.6
+"Croatia",0.8,3,0.5,2,66.7
+"Cyprus",3.8,5,3.8,5,100
+"Democratic Republic of the Congo",4,411,3.9,404,98.3
+"Egypt",0,1,0,1,100
+"Estonia",5.9,8,5.9,8,100
+"Ethiopia",0.1,16,0.1,8,50
+"France",0.8,54,0.8,54,100
+"Georgia",0.5,2,0.5,2,100
+"Germany",3.2,269,3,255,94.8
+"Ghana",0.8,27,0.4,14,51.9
+"Greece",0.7,7,0.7,7,100
+"India",2.4,3484,2.3,3261,93.6
+"Indonesia",0.5,149,0.2,69,46.3
+"Iran (Islamic Republic of)",0.1,12,0.1,10,83.3
+"Iraq",0.9,38,0.6,27,71.1
+"Italy",1.2,69,1.2,69,100
+"Japan",6,746,5.6,703,94.2
+"Jordan",1.6,18,0.6,7,38.9
+"Kenya",0.4,24,0.2,12,50
+"Kosovo",0.6,1,0.6,1,100
+"Kuwait",8.3,38,7.2,33,86.8
+"Lao People's Democratic Republic",1.7,13,0.7,5,38.5
+"Latvia",1.6,3,1.6,3,100
+"Lebanon",0.2,1,0.2,1,100
+"Lithuania",1.8,5,1.8,5,100
+"Luxembourg",7.7,5,7.7,5,100
+"Mali",2.9,66,2.9,66,100
+"Malta",24.6,13,24.6,13,100
+"Mauritius",4.7,6,4.7,6,100
+"Myanmar",0.1,4,0.1,4,100
+"Namibia",0.3,1,0.3,1,100
+"Nepal",4.4,130,4.2,125,96.2
+"Netherlands (Kingdom of the)",4.6,82,4.6,82,100
+"Nigeria",0,4,0,1,25
+"North Macedonia",1.1,2,0.5,1,50
+"Norway",10.6,58,10.6,58,100
+"Oman",17.3,82,15.4,73,89
+"Pakistan",1,249,0.7,164,65.9
+"Peru",1.2,41,1,34,82.9
+"Philippines",1.2,140,1.1,126,90
+"Poland",1.5,59,1.3,48,81.4
+"Qatar",9.7,28,6.9,20,71.4
+"Republic of Korea",0.9,49,0.9,49,100
+"Russian Federation",0.2,28,0,4,14.3
+"Saudi Arabia",1.1,35,1,33,94.3
+"Singapore",6.7,38,5.1,29,76.3
+"South Africa",11.8,733,10.5,655,89.4
+"Sri Lanka",0.8,18,0.7,17,94.4
+"Switzerland",11.3,99,10.1,89,89.9
+"Thailand",4.6,327,3.1,221,67.6
+"Timor-Leste",5.8,8,4.4,6,75
+"Tunisia",1.9,23,1.2,14,60.9
+"T<U+00FC>rkiye",1,84,0.8,71,84.5
+"Ukraine",0,2,0,2,100
+"United Arab Emirates",15,154,13.2,135,87.7
+"United Kingdom of Great Britain and Northern Ireland",0.6,38,0.5,36,94.7
+"United Republic of Tanzania",0.4,23,0.3,21,91.3
+"United States of America",0.6,197,0.6,197,100
+"Zambia",0.1,3,0.1,3,100

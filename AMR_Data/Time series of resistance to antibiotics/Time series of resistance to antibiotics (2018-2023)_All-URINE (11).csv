@@ -1,0 +1,126 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Cefepime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Klebsiella pneumoniae","Cefepime",5.041273135,28.377662127,47.829600554,56.155908147,81.081081081
+2019,"URINE","Klebsiella pneumoniae","Cefepime",5.897008804,26.872586873,43.538268507,58.844765343,81.967213115
+2020,"URINE","Klebsiella pneumoniae","Cefepime",6.501378148,28.935395814,43.450479233,61.842105263,95.652173913
+2021,"URINE","Klebsiella pneumoniae","Cefepime",7.171906675,26.874585269,39.775910364,56.000589015,91.428571429
+2022,"URINE","Klebsiella pneumoniae","Cefepime",7.647455342,30.177718853,41.666666667,56.26153766,92
+2023,"URINE","Klebsiella pneumoniae","Cefepime",8.003831418,32.452081956,42.404281597,59.236453202,80.152671756
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"URINE","Klebsiella pneumoniae","Cefepime",44553,3593,1632,45.421653215
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",412,56,29,51.785714286
+"ETH","Ethiopia","African Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",388,57,44,77.192982456
+"IND","India","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",25203,477,299,62.683438155
+"IDN","Indonesia","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",2820,615,334,54.308943089
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",3640,610,352,57.704918033
+"IRQ","Iraq","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",177,37,30,81.081081081
+"JPN","Japan","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",423516,65539,3304,5.041273135
+"JOR","Jordan","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",2676,305,150,49.180327869
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",3964,493,173,35.09127789
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",4866,143,113,79.020979021
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",14284,213,99,46.478873239
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",8074,1921,859,44.716293597
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",8554,1299,362,27.867590454
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",5627,1587,883,55.639571519
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",12711,1650,469,28.424242424
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",22331,3641,594,16.314199396
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Klebsiella pneumoniae","Cefepime",863293,15128,2060,13.617133792
+"ARG","Argentina","Region of the Americas",2019,"URINE","Klebsiella pneumoniae","Cefepime",35830,3434,1551,45.165987187
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",488,76,24,31.578947368
+"ETH","Ethiopia","African Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",449,56,42,75
+"IND","India","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",47746,2190,1399,63.881278539
+"IDN","Indonesia","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",3383,722,363,50.27700831
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",7065,1011,654,64.6884273
+"IRQ","Iraq","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",859,61,50,81.967213115
+"JPN","Japan","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",453889,71443,4213,5.897008804
+"JOR","Jordan","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",5265,422,182,43.127962085
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",1363,254,94,37.007874016
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",9953,250,177,70.8
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",15455,123,82,66.666666667
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",9132,2391,1041,43.538268507
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",8565,1295,348,26.872586873
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",5587,1543,842,54.569021387
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",5444,726,236,32.506887052
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",27055,4496,642,14.279359431
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Klebsiella pneumoniae","Cefepime",880701,14294,2058,14.397649363
+"ARG","Argentina","Region of the Americas",2020,"URINE","Klebsiella pneumoniae","Cefepime",29170,2977,1336,44.877393349
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",261,47,15,31.914893617
+"ETH","Ethiopia","African Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",576,38,23,60.526315789
+"IND","India","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",18235,654,429,65.596330275
+"IDN","Indonesia","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",1595,428,193,45.093457944
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",4235,664,411,61.897590361
+"IRQ","Iraq","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",1502,124,95,76.612903226
+"JPN","Japan","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",475584,74738,4859,6.501378148
+"JOR","Jordan","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",5385,445,229,51.460674157
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",3918,313,136,43.450479233
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",5975,228,141,61.842105263
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",28695,172,127,73.837209302
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",4560,1407,593,42.146410803
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",8567,1274,359,28.178963893
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",4464,1464,815,55.669398907
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",5309,599,207,34.557595993
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",29681,4849,667,13.755413487
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Klebsiella pneumoniae","Cefepime",651538,12273,1612,13.134522937
+"ARG","Argentina","Region of the Americas",2021,"URINE","Klebsiella pneumoniae","Cefepime",37956,4139,1957,47.281952162
+"BGD","Bangladesh","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",241,25,8,32
+"ETH","Ethiopia","African Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",768,26,21,80.769230769
+"IND","India","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",64919,6791,3803,56.000589015
+"IDN","Indonesia","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",3900,815,387,47.484662577
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",4521,780,477,61.153846154
+"IRQ","Iraq","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",3797,320,203,63.4375
+"JPN","Japan","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",498905,79421,5696,7.171906675
+"JOR","Jordan","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",13316,311,116,37.29903537
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",2927,201,78,38.805970149
+"NPL","Nepal","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",7928,312,191,61.217948718
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",47908,485,294,60.618556701
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",5654,1726,644,37.31170336
+"KOR","Republic of Korea","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",9408,1507,405,26.874585269
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",2641,846,412,48.699763593
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",5334,1027,306,29.795520935
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",49312,10478,1439,13.733536935
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2021,"URINE","Klebsiella pneumoniae","Cefepime",725182,13534,1706,12.60529038
+"ARG","Argentina","Region of the Americas",2022,"URINE","Klebsiella pneumoniae","Cefepime",40377,4340,2131,49.101382488
+"BGD","Bangladesh","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",342,36,15,41.666666667
+"ETH","Ethiopia","African Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",1311,50,46,92
+"IND","India","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",96309,10139,5781,57.017457343
+"IDN","Indonesia","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",7106,1956,1072,54.805725971
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",6161,852,559,65.610328638
+"IRQ","Iraq","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",5960,445,247,55.505617978
+"JPN","Japan","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",535682,89010,6807,7.647455342
+"JOR","Jordan","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",18196,1210,437,36.115702479
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",3672,238,92,38.655462185
+"NPL","Nepal","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",12921,617,372,60.291734198
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",79700,1163,725,62.33877902
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",8324,2437,832,34.140336479
+"KOR","Republic of Korea","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",10028,1563,460,29.430582214
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",6824,1932,857,44.358178054
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",5231,692,214,30.924855491
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",57098,11442,1444,12.620171299
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2022,"URINE","Klebsiella pneumoniae","Cefepime",945966,14813,1905,12.86032539
+"ARG","Argentina","Region of the Americas",2023,"URINE","Klebsiella pneumoniae","Cefepime",46185,5151,2153,41.797709183
+"BGD","Bangladesh","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",591,135,63,46.666666667
+"ETH","Ethiopia","African Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",1402,131,105,80.152671756
+"IND","India","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",104947,13059,7903,60.517650662
+"IDN","Indonesia","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",11518,2764,1489,53.871201158
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",6797,933,609,65.273311897
+"IRQ","Iraq","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",8451,843,449,53.262158956
+"JPN","Japan","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",591596,104400,8356,8.003831418
+"JOR","Jordan","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",25767,2078,743,35.755534167
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",619,41,20,48.780487805
+"NPL","Nepal","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",17372,1010,601,59.504950495
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",78151,812,481,59.236453202
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",10948,3148,1048,33.290978399
+"KOR","Republic of Korea","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",2163,350,115,32.857142857
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",12683,2429,1030,42.404281597
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",8083,1513,491,32.452081956
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",58693,11442,2067,18.065023597
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2023,"URINE","Klebsiella pneumoniae","Cefepime",1011886,13126,1929,14.69602316

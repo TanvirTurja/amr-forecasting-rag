@@ -1,0 +1,132 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ertapenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Ertapenem",0,0.186497576,1.465201465,3.225806452,34.470046083
+2019,"BLOOD","Escherichia coli","Ertapenem",0,0.114828315,1.155346924,3.894716395,25.128205128
+2020,"BLOOD","Escherichia coli","Ertapenem",0,0.064583609,0.655737705,3.743632059,24.80620155
+2021,"BLOOD","Escherichia coli","Ertapenem",0,0.127826413,1.084990958,3.835462707,40
+2022,"BLOOD","Escherichia coli","Ertapenem",0,0.336881104,1.66915311,4.77901812,71.91011236
+2023,"BLOOD","Escherichia coli","Ertapenem",0,0.47055131,1.186854484,4.960813086,30.026555387
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Ertapenem",7385,1711,12,0.701344243
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Ertapenem",841,172,0,0
+"BRA","Brazil","Region of the Americas",2018,"BLOOD","Escherichia coli","Ertapenem",314,53,0,0
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ertapenem",14459,1085,374,34.470046083
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ertapenem",1381,301,6,1.993355482
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ertapenem",345,41,0,0
+"XKX","Kosovo","European Region",2018,"BLOOD","Escherichia coli","Ertapenem",164,12,0,0
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ertapenem",330,157,5,3.184713376
+"MLI","Mali","African Region",2018,"BLOOD","Escherichia coli","Ertapenem",422,67,11,16.417910448
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Ertapenem",176,31,1,3.225806452
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ertapenem",5595,846,24,2.836879433
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ertapenem",3519,1724,3,0.174013921
+"RUS","Russian Federation","European Region",2018,"BLOOD","Escherichia coli","Ertapenem",427,81,1,1.234567901
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ertapenem",2420,327,12,3.669724771
+"ZAF","South Africa","African Region",2018,"BLOOD","Escherichia coli","Ertapenem",20691,3567,12,0.336417157
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Ertapenem",19539,8043,15,0.186497576
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ertapenem",2629,845,8,0.946745562
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ertapenem",1660,273,4,1.465201465
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ertapenem",2452,391,10,2.557544757
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Ertapenem",5783,1339,14,1.045556385
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Ertapenem",1020,137,0,0
+"BRA","Brazil","Region of the Americas",2019,"BLOOD","Escherichia coli","Ertapenem",606,81,1,1.234567901
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ertapenem",24223,2688,494,18.37797619
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ertapenem",2314,474,10,2.109704641
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ertapenem",627,78,3,3.846153846
+"XKX","Kosovo","European Region",2019,"BLOOD","Escherichia coli","Ertapenem",151,17,0,0
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ertapenem",218,79,4,5.063291139
+"MLI","Mali","African Region",2019,"BLOOD","Escherichia coli","Ertapenem",387,78,16,20.512820513
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Ertapenem",276,48,4,8.333333333
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ertapenem",6468,1200,56,4.666666667
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ertapenem",3646,1939,6,0.309437855
+"RUS","Russian Federation","European Region",2019,"BLOOD","Escherichia coli","Ertapenem",1173,122,5,4.098360656
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ertapenem",2528,365,8,2.191780822
+"ZAF","South Africa","African Region",2019,"BLOOD","Escherichia coli","Ertapenem",20489,3902,22,0.563813429
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Ertapenem",10424,3877,2,0.051586278
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ertapenem",5463,1487,26,1.748486886
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ertapenem",932,143,1,0.699300699
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ertapenem",2464,381,9,2.362204724
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Ertapenem",7376,1433,20,1.395673412
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Ertapenem",954,131,0,0
+"BRA","Brazil","Region of the Americas",2020,"BLOOD","Escherichia coli","Ertapenem",584,67,0,0
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ertapenem",12371,1889,414,21.916357861
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ertapenem",1676,280,12,4.285714286
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ertapenem",446,70,0,0
+"XKX","Kosovo","European Region",2020,"BLOOD","Escherichia coli","Ertapenem",161,10,0,0
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ertapenem",565,113,7,6.194690265
+"MLI","Mali","African Region",2020,"BLOOD","Escherichia coli","Ertapenem",297,70,9,12.857142857
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Ertapenem",293,30,0,0
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ertapenem",4276,725,43,5.931034483
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ertapenem",4095,2209,1,0.045269353
+"RUS","Russian Federation","European Region",2020,"BLOOD","Escherichia coli","Ertapenem",1305,67,4,5.970149254
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ertapenem",2458,362,13,3.591160221
+"ZAF","South Africa","African Region",2020,"BLOOD","Escherichia coli","Ertapenem",23840,4240,22,0.518867925
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Ertapenem",10256,4463,10,0.224064531
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ertapenem",6159,2088,35,1.676245211
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ertapenem",917,77,3,3.896103896
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ertapenem",2925,449,8,1.781737194
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Escherichia coli","Ertapenem",9243,1602,27,1.685393258
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Escherichia coli","Ertapenem",1457,182,0,0
+"BRA","Brazil","Region of the Americas",2021,"BLOOD","Escherichia coli","Ertapenem",953,68,0,0
+"IND","India","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ertapenem",34056,3492,1040,29.782359679
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ertapenem",3070,324,16,4.938271605
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ertapenem",1611,30,12,40
+"XKX","Kosovo","European Region",2021,"BLOOD","Escherichia coli","Ertapenem",213,10,0,0
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ertapenem",315,64,3,4.6875
+"MLI","Mali","African Region",2021,"BLOOD","Escherichia coli","Ertapenem",280,69,9,13.043478261
+"MKD","North Macedonia","European Region",2021,"BLOOD","Escherichia coli","Ertapenem",284,33,4,12.121212121
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ertapenem",4850,808,63,7.797029703
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Escherichia coli","Ertapenem",4488,2165,4,0.184757506
+"RUS","Russian Federation","European Region",2021,"BLOOD","Escherichia coli","Ertapenem",2762,211,18,8.530805687
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ertapenem",1126,148,3,2.027027027
+"ZAF","South Africa","African Region",2021,"BLOOD","Escherichia coli","Ertapenem",23334,3871,42,1.084990958
+"CHE","Switzerland","European Region",2021,"BLOOD","Escherichia coli","Ertapenem",10322,4739,8,0.168811986
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Ertapenem",6559,1974,25,1.266464032
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ertapenem",854,124,1,0.806451613
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Ertapenem",3989,905,27,2.983425414
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Escherichia coli","Ertapenem",8366,1737,38,2.187679908
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Escherichia coli","Ertapenem",1207,248,2,0.806451613
+"BRA","Brazil","Region of the Americas",2022,"BLOOD","Escherichia coli","Ertapenem",776,115,2,1.739130435
+"IND","India","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ertapenem",43929,4768,1301,27.286073826
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ertapenem",5596,764,35,4.581151832
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ertapenem",2027,271,27,9.963099631
+"XKX","Kosovo","European Region",2022,"BLOOD","Escherichia coli","Ertapenem",189,13,0,0
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ertapenem",1084,274,25,9.124087591
+"MLI","Mali","African Region",2022,"BLOOD","Escherichia coli","Ertapenem",286,69,9,13.043478261
+"MKD","North Macedonia","European Region",2022,"BLOOD","Escherichia coli","Ertapenem",279,49,2,4.081632653
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ertapenem",5937,1109,119,10.730387737
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Escherichia coli","Ertapenem",4484,2281,7,0.306882946
+"RUS","Russian Federation","European Region",2022,"BLOOD","Escherichia coli","Ertapenem",4369,577,31,5.372616984
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ertapenem",1962,303,13,4.290429043
+"ZAF","South Africa","African Region",2022,"BLOOD","Escherichia coli","Ertapenem",24658,4245,88,2.073027091
+"CHE","Switzerland","European Region",2022,"BLOOD","Escherichia coli","Ertapenem",11308,5034,17,0.337703615
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Ertapenem",9544,2823,49,1.735742118
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ertapenem",858,102,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Ertapenem",4194,1135,30,2.643171806
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Escherichia coli","Ertapenem",9290,1752,16,0.913242009
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Escherichia coli","Ertapenem",1271,307,3,0.977198697
+"BRA","Brazil","Region of the Americas",2023,"BLOOD","Escherichia coli","Ertapenem",3041,472,11,2.330508475
+"IND","India","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ertapenem",41375,5272,1583,30.026555387
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ertapenem",9180,1052,47,4.467680608
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ertapenem",3297,297,19,6.397306397
+"XKX","Kosovo","European Region",2023,"BLOOD","Escherichia coli","Ertapenem",164,24,0,0
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ertapenem",54,10,1,10
+"MLI","Mali","African Region",2023,"BLOOD","Escherichia coli","Ertapenem",275,71,5,7.042253521
+"MKD","North Macedonia","European Region",2023,"BLOOD","Escherichia coli","Ertapenem",283,40,0,0
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ertapenem",7705,1368,115,8.406432749
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Escherichia coli","Ertapenem",5416,2844,19,0.668073136
+"RUS","Russian Federation","European Region",2023,"BLOOD","Escherichia coli","Ertapenem",9671,1153,75,6.504770165
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ertapenem",1927,301,6,1.993355482
+"ZAF","South Africa","African Region",2023,"BLOOD","Escherichia coli","Ertapenem",26026,4440,199,4.481981982
+"CHE","Switzerland","European Region",2023,"BLOOD","Escherichia coli","Ertapenem",12511,5564,17,0.305535586
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Ertapenem",14722,4481,174,3.883061817
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ertapenem",1332,156,5,3.205128205
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Ertapenem",3959,1043,43,4.122722915

@@ -1,0 +1,54 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Levofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Salmonella spp.","Levofloxacin",0,4.021406728,13.484848485,15.409090909,85.714285714
+2019,"BLOOD","Salmonella spp.","Levofloxacin",0,5.105547374,10.526315789,30.666666667,99.18699187
+2020,"BLOOD","Salmonella spp.","Levofloxacin",0.74906367,9.166666667,15.789473684,28.03030303,95
+2021,"BLOOD","Salmonella spp.","Levofloxacin",0.2,10.5,16.949152542,20,50.495049505
+2022,"BLOOD","Salmonella spp.","Levofloxacin",0.142247511,3.495115995,14.814814815,24.663928305,30.434782609
+2023,"BLOOD","Salmonella spp.","Levofloxacin",0.59311981,6.001765225,21.428571429,25.541125541,27.472527473
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Levofloxacin",126859,545,5,0.917431193
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Levofloxacin",7410,14,12,85.714285714
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Levofloxacin",2420,25,4,16
+"CHE","Switzerland","European Region",2018,"BLOOD","Salmonella spp.","Levofloxacin",19539,60,8,13.333333333
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Levofloxacin",2629,31,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Levofloxacin",2452,22,3,13.636363636
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Levofloxacin",136246,582,4,0.687285223
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Levofloxacin",8980,246,244,99.18699187
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Levofloxacin",2528,21,2,9.523809524
+"CHE","Switzerland","European Region",2019,"BLOOD","Salmonella spp.","Levofloxacin",10424,19,2,10.526315789
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Levofloxacin",5463,56,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Levofloxacin",2464,15,6,40
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Levofloxacin",142185,534,4,0.74906367
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Levofloxacin",5623,260,247,95
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Levofloxacin",2458,22,5,22.727272727
+"CHE","Switzerland","European Region",2020,"BLOOD","Salmonella spp.","Levofloxacin",10256,19,3,15.789473684
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Levofloxacin",6159,60,4,6.666666667
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Levofloxacin",2925,21,7,33.333333333
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Levofloxacin",148205,500,1,0.2
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Levofloxacin",10931,303,153,50.495049505
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Levofloxacin",1126,10,2,20
+"CHE","Switzerland","European Region",2021,"BLOOD","Salmonella spp.","Levofloxacin",10322,20,3,15
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Levofloxacin",6559,50,3,6
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Levofloxacin",3989,40,8,20
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Levofloxacin",158356,703,1,0.142247511
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Levofloxacin",16099,27,4,14.814814815
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Levofloxacin",1962,23,7,30.434782609
+"CHE","Switzerland","European Region",2022,"BLOOD","Salmonella spp.","Levofloxacin",11308,28,1,3.571428571
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Levofloxacin",9544,117,4,3.418803419
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Levofloxacin",4194,26,5,19.230769231
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Levofloxacin",169604,843,5,0.59311981
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Levofloxacin",13338,14,3,21.428571429
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Levofloxacin",1927,21,5,23.80952381
+"CHE","Switzerland","European Region",2023,"BLOOD","Salmonella spp.","Levofloxacin",12511,33,3,9.090909091
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Levofloxacin",14722,206,6,2.912621359
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Levofloxacin",3959,33,9,27.272727273

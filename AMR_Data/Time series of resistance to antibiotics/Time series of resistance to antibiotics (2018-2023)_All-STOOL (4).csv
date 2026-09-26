@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"STOOL","Salmonella spp.","Imipenem",0,0,0,0,0
+2019,"STOOL","Salmonella spp.","Imipenem",0,0,0,0.044130627,0.500834725
+2020,"STOOL","Salmonella spp.","Imipenem",0,0,0,0,0.503355705
+2021,"STOOL","Salmonella spp.","Imipenem",0,0,0,0.140449438,8.695652174
+2022,"STOOL","Salmonella spp.","Imipenem",0,0,0,0.13397642,0.535905681
+2023,"STOOL","Salmonella spp.","Imipenem",0,0,0,0.538213132,1.538461538
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"POL","Poland","European Region",2018,"STOOL","Salmonella spp.","Imipenem",539,97,0,0
+"KOR","Republic of Korea","Western Pacific Region",2018,"STOOL","Salmonella spp.","Imipenem",165,163,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Imipenem",818,443,0,0
+"POL","Poland","European Region",2019,"STOOL","Salmonella spp.","Imipenem",232,36,0,0
+"KOR","Republic of Korea","Western Pacific Region",2019,"STOOL","Salmonella spp.","Imipenem",140,140,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Imipenem",1005,599,3,0.500834725
+"POL","Poland","European Region",2020,"STOOL","Salmonella spp.","Imipenem",156,46,0,0
+"KOR","Republic of Korea","Western Pacific Region",2020,"STOOL","Salmonella spp.","Imipenem",102,102,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Imipenem",1068,596,3,0.503355705
+"POL","Poland","European Region",2021,"STOOL","Salmonella spp.","Imipenem",260,16,0,0
+"KOR","Republic of Korea","Western Pacific Region",2021,"STOOL","Salmonella spp.","Imipenem",157,157,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Imipenem",1289,712,2,0.280898876
+"POL","Poland","European Region",2022,"STOOL","Salmonella spp.","Imipenem",293,17,0,0
+"KOR","Republic of Korea","Western Pacific Region",2022,"STOOL","Salmonella spp.","Imipenem",171,170,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Imipenem",1509,933,5,0.535905681
+"POL","Poland","European Region",2023,"STOOL","Salmonella spp.","Imipenem",1051,37,0,0
+"KOR","Republic of Korea","Western Pacific Region",2023,"STOOL","Salmonella spp.","Imipenem",194,194,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Imipenem",1777,929,10,1.076426265

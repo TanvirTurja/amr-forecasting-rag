@@ -1,0 +1,64 @@
+Filters
+"Antimicrobial class filter: Antifungals"
+"Year filter: 2022"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","For antibiotics: only J01 and P01AB reported"
+"b","Only use in the community reported"
+"c","For antifungals: only use in the hospital reported"
+"d","Only use in the public sector reported"
+"e","For antituberculosis medicines: data are incomplete"
+"f","Data incomplete since not collected from all sources of data"
+
+
+"CountryTerritoryArea","COUNTRY","WHORegionName","footnotes","DID_antibiotics"
+"Armenia","ARM","European Region","",1.373868997
+"Austria","AUT","European Region","",0.832581532
+"Belgium","BEL","European Region","",3.195426787
+"Benin","BEN","African Region","",1.702776752
+"Bangladesh","BGD","South-East Asia Region","",2.817166504
+"Belarus","BLR","European Region","",0.914019676
+"Switzerland","CHE","European Region","",1.096660545
+"Colombia","COL","Region of the Americas","",2.610380451
+"Cyprus","CYP","European Region","",4.155317147
+"Czechia","CZE","European Region","",0.794082191
+"Germany","DEU","European Region","b",0.848140534
+"Denmark","DNK","European Region","",1.745776038
+"Egypt","EGY","Eastern Mediterranean Region","",0.68476289
+"Spain","ESP","European Region","",0.851623698
+"Estonia","EST","European Region","",1.394635984
+"Ethiopia","ETH","African Region","a",0.011687162
+"Finland","FIN","European Region","",1.937964203
+"France","FRA","European Region","a",1.419024647
+"United Kingdom of Great Britain and Northern Ireland","GBR","European Region","d",1.049424713
+"Georgia","GEO","European Region","",1.455278185
+"Croatia","HRV","European Region","",0.542938494
+"Hungary","HUN","European Region","",1.043243928
+"Ireland","IRL","European Region","c",0.09607376
+"Iran (Islamic Republic of)","IRN","Eastern Mediterranean Region","",1.329074301
+"Iceland","ISL","European Region","",3.236926922
+"Italy","ITA","European Region","",1.119073514
+"Jordan","JOR","Eastern Mediterranean Region","",0.323305858
+"Republic of Korea","KOR","Western Pacific Region","",2.957347485
+"Lithuania","LTU","European Region","",0.847119409
+"Latvia","LVA","European Region","",0.890910009
+"Maldives","MDV","South-East Asia Region","",0.496812148
+"Malta","MLT","European Region","",0.762820426
+"Montenegro","MNE","European Region","",1.021471708
+"Norway","NOR","European Region","",1.490935309
+"Nepal","NPL","South-East Asia Region","",1.818714262
+"Oman","OMN","Eastern Mediterranean Region","d",0.085768343
+"Poland","POL","European Region","",1.284653785
+"Portugal","PRT","European Region","e",1.993492208
+"Qatar","QAT","Eastern Mediterranean Region","f",0.25107967
+"Romania","ROU","European Region","",1.225327808
+"Russian Federation","RUS","European Region","",1.511363841
+"Rwanda","RWA","African Region","d",0.023377995
+"Slovenia","SVN","European Region","",0.835995034
+"Tajikistan","TJK","European Region","",1.970967105
+"United Republic of Tanzania","TZA","African Region","",2.494468985
+"South Africa","ZAF","African Region","d",0.016907478

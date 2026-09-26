@@ -1,0 +1,42 @@
+Filters
+Region filter: All
+Infection type filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Azithromycin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",0,0,3.114590273,11.513047349,16.281062554
+2019,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",0,2.813564087,6.27598939,13.232831505,22.153846154
+2020,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",0,0,2.692307692,11.087719298,14.424242424
+2021,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",0,0.836266483,5.69944808,11.312134048,14.049586777
+2022,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",0,1.502830443,3.166056429,13.879806066,18.421052632
+2023,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",2.312138728,3.377295545,4.347826087,17.134222262,34.038800705
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"AUS","Australia","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",9006,9006,561,6.229180546
+"JPN","Japan","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",1167,1167,190,16.281062554
+"NOR","Norway","European Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",226,226,30,13.274336283
+"ZAF","South Africa","African Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",167,163,0,0
+"AUS","Australia","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",5649,5649,237,4.19543282
+"JPN","Japan","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",1023,1023,152,14.85826002
+"NOR","Norway","European Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",325,325,72,22.153846154
+"ZAF","South Africa","African Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",227,225,0,0
+"AUS","Australia","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",4420,4420,119,2.692307692
+"JPN","Japan","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",825,825,119,14.424242424
+"NOR","Norway","European Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",475,475,42,8.842105263
+"ZAF","South Africa","African Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",316,316,0,0
+"AUS","Australia","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",3735,3734,36,0.964113551
+"JPN","Japan","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",698,698,81,11.604584527
+"NOR","Norway","European Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",115,115,12,10.434782609
+"ZAF","South Africa","African Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",510,504,4,0.793650794
+"AUS","Australia","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",4643,4643,147,3.166056429
+"JPN","Japan","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",950,950,175,18.421052632
+"NOR","Norway","European Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",441,441,81,18.367346939
+"ZAF","South Africa","African Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",362,359,5,1.39275766
+"AUS","Australia","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",6002,6002,247,4.115294902
+"JPN","Japan","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",1134,1134,386,34.038800705
+"NOR","Norway","European Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",815,815,162,19.877300613
+"ZAF","South Africa","African Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Azithromycin",341,341,9,2.639296188

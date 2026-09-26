@@ -1,0 +1,54 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Colistin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Klebsiella pneumoniae","Colistin",0,1.138876356,2.258064516,5.45402531,32.258064516
+2019,"URINE","Klebsiella pneumoniae","Colistin",0,1.199763075,2.898550725,9.717487036,24.137931034
+2020,"URINE","Klebsiella pneumoniae","Colistin",0,2.195608782,5.919661734,8.430609598,22.857142857
+2021,"URINE","Klebsiella pneumoniae","Colistin",0.663570007,3.189300412,12.348877375,15.384615385,38.743455497
+2022,"URINE","Klebsiella pneumoniae","Colistin",0,2.158693937,4.551827982,9.856627513,28.947368421
+2023,"URINE","Klebsiella pneumoniae","Colistin",0,2.279220779,7.575757576,13.756857919,26.12244898
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"URINE","Klebsiella pneumoniae","Colistin",44553,3714,173,4.658050619
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Colistin",3640,152,0,0
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Colistin",8074,517,7,1.353965184
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Colistin",8554,1299,12,0.923787529
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Colistin",5627,674,130,19.287833828
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Colistin",22331,453,13,2.869757174
+"ARG","Argentina","Region of the Americas",2019,"URINE","Klebsiella pneumoniae","Colistin",35830,2843,219,7.703130496
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Colistin",7065,180,0,0
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Colistin",9132,488,11,2.254098361
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Colistin",8565,1295,9,0.694980695
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Colistin",5587,700,114,16.285714286
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Colistin",27055,763,14,1.834862385
+"ARG","Argentina","Region of the Americas",2020,"URINE","Klebsiella pneumoniae","Colistin",29170,2313,195,8.430609598
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Colistin",4235,75,1,1.333333333
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Colistin",4560,605,51,8.429752066
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Colistin",8567,1274,14,1.098901099
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Colistin",4464,583,64,10.977701544
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Colistin",29681,528,19,3.598484848
+"ARG","Argentina","Region of the Americas",2021,"URINE","Klebsiella pneumoniae","Colistin",37956,2316,286,12.348877375
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Colistin",4521,87,2,2.298850575
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Colistin",5654,503,147,29.224652087
+"KOR","Republic of Korea","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Colistin",9408,1507,10,0.663570007
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Colistin",2641,327,46,14.067278287
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Colistin",49312,972,31,3.189300412
+"ARG","Argentina","Region of the Americas",2022,"URINE","Klebsiella pneumoniae","Colistin",40377,2253,220,9.7647581
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Colistin",6161,160,0,0
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Colistin",8324,570,91,15.964912281
+"KOR","Republic of Korea","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Colistin",10028,1563,27,1.727447217
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Colistin",6824,675,118,17.481481481
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Colistin",57098,898,37,4.120267261
+"ARG","Argentina","Region of the Americas",2023,"URINE","Klebsiella pneumoniae","Colistin",46185,1861,172,9.242342826
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Colistin",6797,41,0,0
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Colistin",10948,312,5,1.602564103
+"KOR","Republic of Korea","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Colistin",2163,350,8,2.285714286
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Colistin",12683,891,117,13.131313131
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Colistin",58693,490,128,26.12244898

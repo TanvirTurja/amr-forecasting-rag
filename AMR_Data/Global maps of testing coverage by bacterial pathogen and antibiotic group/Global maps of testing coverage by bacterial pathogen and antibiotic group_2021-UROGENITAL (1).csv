@@ -1,0 +1,36 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Infection type filter: Gonorrhoea"
+"Bacterial pathogen filter: Neisseria gonorrhoeae"
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Neisseria gonorrhoeae BCIs per million population","Absolute number of Neisseria gonorrhoeae BCIs","Total Neisseria gonorrhoeae BCIs with AST (3GCs) per million population","Absolute number of Neisseria gonorrhoeae BCIs with AST (3GCs)","% of Neisseria gonorrhoeae BCIs with AST"
+"Australia",143.9,3735,143.9,3735,100
+"Bahrain",34.6,52,34.6,52,100
+"Brazil",0.2,51,0.2,51,100
+"Cameroon",0,1,0,1,100
+"Colombia",2.6,133,1.3,65,48.9
+"India",0,27,0,27,100
+"Iraq",0.1,3,0.1,3,100
+"Japan",5.6,698,5.6,698,100
+"Kosovo",5.2,9,1.1,2,22.2
+"Kuwait",2.1,9,1.4,6,66.7
+"Lao People's Democratic Republic",1.3,10,1.3,10,100
+"Malaysia",2.6,89,2.5,85,95.5
+"Mauritius",23.4,30,23.4,30,100
+"Nepal",0.1,3,0.1,3,100
+"Norway",21.3,115,21.3,115,100
+"Oman",9.1,41,7.6,34,82.9
+"Pakistan",0.2,58,0.2,58,100
+"Peru",1.3,43,1.2,40,93
+"Philippines",0.1,14,0.1,14,100
+"Qatar",23.4,66,23.4,66,100
+"Saudi Arabia",0.3,10,0.3,9,90
+"Singapore",21.8,121,21.8,121,100
+"South Africa",8.3,510,8.3,510,100
+"Thailand",1,70,0.9,67,95.7
+"Uganda",0.7,34,0.6,29,85.3
+"United Arab Emirates",27.5,269,18.9,185,68.8
+"Zambia",1.1,22,0.3,5,22.7

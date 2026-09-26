@@ -1,0 +1,54 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Ceftazidime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Salmonella spp.","Ceftazidime",0,0,2.513368984,5.745341615,33.962264151
+2019,"BLOOD","Salmonella spp.","Ceftazidime",0,0.277777778,1.442307692,6.227542493,21.739130435
+2020,"BLOOD","Salmonella spp.","Ceftazidime",0,1.264367816,2.725290698,5.015592516,16.666666667
+2021,"BLOOD","Salmonella spp.","Ceftazidime",0,0.531506575,1.325785975,6.468253968,14.084507042
+2022,"BLOOD","Salmonella spp.","Ceftazidime",0,0.814147973,3.066449909,6.038384177,9.352517986
+2023,"BLOOD","Salmonella spp.","Ceftazidime",0,1.170810868,2.257681209,5.615942029,19.758064516
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Ceftazidime",1381,53,18,33.962264151
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Ceftazidime",126859,527,3,0.569259962
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Ceftazidime",3519,55,1,1.818181818
+"ZAF","South Africa","African Region",2018,"BLOOD","Salmonella spp.","Ceftazidime",20691,408,18,4.411764706
+"CHE","Switzerland","European Region",2018,"BLOOD","Salmonella spp.","Ceftazidime",19539,136,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Ceftazidime",2452,106,11,10.377358491
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Ceftazidime",2314,92,20,21.739130435
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Ceftazidime",136246,571,7,1.22591944
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Ceftazidime",3646,47,3,6.382978723
+"ZAF","South Africa","African Region",2019,"BLOOD","Salmonella spp.","Ceftazidime",20489,527,32,6.072106262
+"CHE","Switzerland","European Region",2019,"BLOOD","Salmonella spp.","Ceftazidime",10424,59,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Ceftazidime",2464,130,19,14.615384615
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Ceftazidime",1676,53,4,7.547169811
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Ceftazidime",142185,522,9,1.724137931
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Ceftazidime",4095,37,2,5.405405405
+"ZAF","South Africa","African Region",2020,"BLOOD","Salmonella spp.","Ceftazidime",23840,556,20,3.597122302
+"CHE","Switzerland","European Region",2020,"BLOOD","Salmonella spp.","Ceftazidime",10256,47,1,2.127659574
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Ceftazidime",2925,90,15,16.666666667
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Salmonella spp.","Ceftazidime",3070,71,10,14.084507042
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Ceftazidime",148205,494,7,1.417004049
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Salmonella spp.","Ceftazidime",4488,45,2,4.444444444
+"ZAF","South Africa","African Region",2021,"BLOOD","Salmonella spp.","Ceftazidime",23334,584,18,3.082191781
+"CHE","Switzerland","European Region",2021,"BLOOD","Salmonella spp.","Ceftazidime",10322,70,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Salmonella spp.","Ceftazidime",3989,150,18,12
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Salmonella spp.","Ceftazidime",5596,139,13,9.352517986
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Ceftazidime",158356,726,5,0.688705234
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Salmonella spp.","Ceftazidime",4484,49,4,8.163265306
+"ZAF","South Africa","African Region",2022,"BLOOD","Salmonella spp.","Ceftazidime",24658,370,6,1.621621622
+"CHE","Switzerland","European Region",2022,"BLOOD","Salmonella spp.","Ceftazidime",11308,73,1,1.369863014
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Salmonella spp.","Ceftazidime",4194,114,7,6.140350877
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Salmonella spp.","Ceftazidime",9180,248,49,19.758064516
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Ceftazidime",169604,881,11,1.248581158
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Salmonella spp.","Ceftazidime",5416,75,5,6.666666667
+"ZAF","South Africa","African Region",2023,"BLOOD","Salmonella spp.","Ceftazidime",26026,521,11,2.111324376
+"CHE","Switzerland","European Region",2023,"BLOOD","Salmonella spp.","Ceftazidime",12511,93,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Salmonella spp.","Ceftazidime",3959,36,2,5.555555556

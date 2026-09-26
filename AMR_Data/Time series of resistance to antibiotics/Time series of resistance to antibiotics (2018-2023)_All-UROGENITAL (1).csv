@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection type filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Cefixime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",0,0,0.441176471,3.378482972,28.857890148
+2019,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",0,0,0.440528634,1.230769231,33.366141732
+2020,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",0,0,0.344827586,1.751361162,33.128834356
+2021,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",0,0,2.608695652,8.333333333,21.925925926
+2022,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",0,0.056689342,3.561654547,8.866995074,25.920679887
+2023,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",0,0.245398773,1.734104046,4.347826087,22.210953347
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"JPN","Japan","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",1167,1147,331,28.857890148
+"NOR","Norway","European Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",226,226,0,0
+"ZAF","South Africa","African Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",167,167,0,0
+"JPN","Japan","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",1023,1016,339,33.366141732
+"NOR","Norway","European Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",325,325,4,1.230769231
+"ZAF","South Africa","African Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",227,227,1,0.440528634
+"JPN","Japan","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",825,815,270,33.128834356
+"NOR","Norway","European Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",475,475,10,2.105263158
+"ZAF","South Africa","African Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",316,316,0,0
+"JPN","Japan","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",698,675,148,21.925925926
+"NOR","Norway","European Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",115,115,3,2.608695652
+"ZAF","South Africa","African Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",510,510,0,0
+"JPN","Japan","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",950,706,183,25.920679887
+"NOR","Norway","European Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",441,441,1,0.22675737
+"ZAF","South Africa","African Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",362,362,0,0
+"JPN","Japan","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",1134,986,219,22.210953347
+"NOR","Norway","European Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",815,815,2,0.245398773
+"ZAF","South Africa","African Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Cefixime",341,341,0,0

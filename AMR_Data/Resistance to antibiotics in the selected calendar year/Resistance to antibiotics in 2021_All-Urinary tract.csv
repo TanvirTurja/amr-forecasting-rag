@@ -1,0 +1,586 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Urinary tract","Escherichia coli","Ampicillin",0,55.254977057,69.740962141,89.265384675,100,43,1809818
+"Urinary tract","Escherichia coli","Cefepime",3.333333333,16.619100121,39.787807948,51.614865106,89.791183295,46,1037621
+"Urinary tract","Escherichia coli","Cefotaxime",3.220973783,19.872069721,43.27797588,62.863372093,78.571428571,44,1196310
+"Urinary tract","Escherichia coli","Ceftazidime",2.397003745,13.089279027,37.618705036,56.58250332,83.050847458,54,1538025
+"Urinary tract","Escherichia coli","Ceftriaxone",6.985803561,23.718486072,44.022789853,62.354493953,77.777777778,50,972262
+"Urinary tract","Escherichia coli","Ciprofloxacin",7.422324014,28.774077526,42.682534577,59.376386101,76.19047619,55,2191573
+"Urinary tract","Escherichia coli","Co-trimoxazole",16.387885214,33.752979416,47.727420702,68.257629995,89.908256881,54,1619814
+"Urinary tract","Escherichia coli","Colistin",0,0.471772819,1.17953215,13.541666667,50.985221675,24,69990
+"Urinary tract","Escherichia coli","Doripenem",0.854700855,1.583697041,4.344455679,10.850340136,15.671641791,6,5715
+"Urinary tract","Escherichia coli","Ertapenem",0.056253824,1.141956952,4.027439264,8.878626256,36.093660765,36,876505
+"Urinary tract","Escherichia coli","Imipenem",0,0.444468278,2.475247525,7.894066544,43.529411765,51,791989
+"Urinary tract","Escherichia coli","Levofloxacin",8.926027273,25.408523285,39.766119015,56.647727273,87.804878049,36,999119
+"Urinary tract","Escherichia coli","Meropenem",0,0.368512417,2.001759066,7.855194057,53.719008264,46,1651732
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Urinary tract","Escherichia coli","Ampicillin",28.882243447,42.886367048,56.799166049,58.627433941,66.359283561,11,1707840
+"Urinary tract","Escherichia coli","Cefepime",6.771456734,11.000337936,12.793295463,16.185046858,37.252964427,12,967803
+"Urinary tract","Escherichia coli","Cefotaxime",3.611846396,14.069249415,20.039100684,30.74012654,40.067624683,11,1084260
+"Urinary tract","Escherichia coli","Ceftazidime",2.494004796,8.92322504,12.371561463,19.492948681,64.846818539,14,1460755
+"Urinary tract","Escherichia coli","Ceftriaxone",6.985803561,9.559745336,22.335030609,34.781121751,72.453137734,13,890469
+"Urinary tract","Escherichia coli","Ciprofloxacin",7.422324014,12.752608343,28.774077526,32.796448699,52.111486486,14,2008182
+"Urinary tract","Escherichia coli","Co-trimoxazole",16.387885214,19.503141378,31.989927507,35.819833847,54.805776892,14,1474590
+"Urinary tract","Escherichia coli","Colistin",0.08859638,0.435726619,0.832714133,1.181482051,2.955707723,6,46597
+"Urinary tract","Escherichia coli","Doripenem",0.854700855,1.000404264,1.146107673,1.291811082,1.437514491,2,4430
+"Urinary tract","Escherichia coli","Ertapenem",0.056253824,0.140761311,0.538230173,1.149753192,2.104442712,9,796604
+"Urinary tract","Escherichia coli","Imipenem",0.024683757,0.097871299,0.292737326,0.865045339,7.742461288,13,671365
+"Urinary tract","Escherichia coli","Levofloxacin",8.926027273,15.693626138,25.221238938,29.298909415,34.769711087,9,957191
+"Urinary tract","Escherichia coli","Meropenem",0.008606972,0.027689091,0.238494046,0.685714098,7.986960065,12,1521556
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Urinary tract","Escherichia coli","Ceftriaxone","AFG","Afghanistan","Eastern Mediterranean Region",18,14,77.777777778
+"Urinary tract","Escherichia coli","Co-trimoxazole","AFG","Afghanistan","Eastern Mediterranean Region",13,11,84.615384615
+"Urinary tract","Escherichia coli","Imipenem","AFG","Afghanistan","Eastern Mediterranean Region",19,1,5.263157895
+"Urinary tract","Escherichia coli","Meropenem","AFG","Afghanistan","Eastern Mediterranean Region",13,0,0
+"Urinary tract","Escherichia coli","Ampicillin","ARE","United Arab Emirates","Eastern Mediterranean Region",36453,20705,56.799166049
+"Urinary tract","Escherichia coli","Cefepime","ARE","United Arab Emirates","Eastern Mediterranean Region",32377,3950,12.200018532
+"Urinary tract","Escherichia coli","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",25219,7003,27.768745787
+"Urinary tract","Escherichia coli","Ceftazidime","ARE","United Arab Emirates","Eastern Mediterranean Region",30669,4587,14.956470703
+"Urinary tract","Escherichia coli","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",17220,4967,28.844367015
+"Urinary tract","Escherichia coli","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",35595,10336,29.037786206
+"Urinary tract","Escherichia coli","Co-trimoxazole","ARE","United Arab Emirates","Eastern Mediterranean Region",36083,12175,33.741651193
+"Urinary tract","Escherichia coli","Colistin","ARE","United Arab Emirates","Eastern Mediterranean Region",2807,33,1.175632348
+"Urinary tract","Escherichia coli","Ertapenem","ARE","United Arab Emirates","Eastern Mediterranean Region",29532,513,1.73709874
+"Urinary tract","Escherichia coli","Imipenem","ARE","United Arab Emirates","Eastern Mediterranean Region",32204,192,0.59619923
+"Urinary tract","Escherichia coli","Levofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",13507,3393,25.120307988
+"Urinary tract","Escherichia coli","Meropenem","ARE","United Arab Emirates","Eastern Mediterranean Region",33816,297,0.87828247
+"Urinary tract","Escherichia coli","Ampicillin","ARG","Argentina","Region of the Americas",30988,18402,59.384277785
+"Urinary tract","Escherichia coli","Cefepime","ARG","Argentina","Region of the Americas",20439,2551,12.481041147
+"Urinary tract","Escherichia coli","Cefotaxime","ARG","Argentina","Region of the Americas",14560,2441,16.76510989
+"Urinary tract","Escherichia coli","Ceftazidime","ARG","Argentina","Region of the Americas",21296,2954,13.871149512
+"Urinary tract","Escherichia coli","Ciprofloxacin","ARG","Argentina","Region of the Americas",31931,7727,24.199054211
+"Urinary tract","Escherichia coli","Co-trimoxazole","ARG","Argentina","Region of the Americas",32047,11387,35.5321871
+"Urinary tract","Escherichia coli","Colistin","ARG","Argentina","Region of the Americas",11252,47,0.417703519
+"Urinary tract","Escherichia coli","Imipenem","ARG","Argentina","Region of the Americas",21521,63,0.292737326
+"Urinary tract","Escherichia coli","Meropenem","ARG","Argentina","Region of the Americas",21499,82,0.381413089
+"Urinary tract","Escherichia coli","Ampicillin","AUS","Australia","Western Pacific Region",82188,35267,42.910157201
+"Urinary tract","Escherichia coli","Cefepime","AUS","Australia","Western Pacific Region",73915,5066,6.853818575
+"Urinary tract","Escherichia coli","Cefotaxime","AUS","Australia","Western Pacific Region",10331,1377,13.328816184
+"Urinary tract","Escherichia coli","Ceftazidime","AUS","Australia","Western Pacific Region",68445,6102,8.915187377
+"Urinary tract","Escherichia coli","Ceftriaxone","AUS","Australia","Western Pacific Region",94273,8047,8.535848016
+"Urinary tract","Escherichia coli","Ciprofloxacin","AUS","Australia","Western Pacific Region",69786,8916,12.77620153
+"Urinary tract","Escherichia coli","Co-trimoxazole","AUS","Australia","Western Pacific Region",68595,16413,23.927399956
+"Urinary tract","Escherichia coli","Ertapenem","AUS","Australia","Western Pacific Region",5264,68,1.291793313
+"Urinary tract","Escherichia coli","Meropenem","AUS","Australia","Western Pacific Region",76853,19,0.024722522
+"Urinary tract","Escherichia coli","Ampicillin","BFA","Burkina Faso","African Region",99,93,93.939393939
+"Urinary tract","Escherichia coli","Cefepime","BFA","Burkina Faso","African Region",203,88,43.349753695
+"Urinary tract","Escherichia coli","Ceftazidime","BFA","Burkina Faso","African Region",24,13,54.166666667
+"Urinary tract","Escherichia coli","Ceftriaxone","BFA","Burkina Faso","African Region",505,225,44.554455446
+"Urinary tract","Escherichia coli","Ciprofloxacin","BFA","Burkina Faso","African Region",574,341,59.407665505
+"Urinary tract","Escherichia coli","Co-trimoxazole","BFA","Burkina Faso","African Region",308,247,80.194805195
+"Urinary tract","Escherichia coli","Imipenem","BFA","Burkina Faso","African Region",759,33,4.347826087
+"Urinary tract","Escherichia coli","Ampicillin","BGD","Bangladesh","South-East Asia Region",161,144,89.440993789
+"Urinary tract","Escherichia coli","Cefepime","BGD","Bangladesh","South-East Asia Region",193,102,52.849740933
+"Urinary tract","Escherichia coli","Ceftazidime","BGD","Bangladesh","South-East Asia Region",182,120,65.934065934
+"Urinary tract","Escherichia coli","Ceftriaxone","BGD","Bangladesh","South-East Asia Region",184,105,57.065217391
+"Urinary tract","Escherichia coli","Ciprofloxacin","BGD","Bangladesh","South-East Asia Region",206,129,62.621359223
+"Urinary tract","Escherichia coli","Co-trimoxazole","BGD","Bangladesh","South-East Asia Region",196,109,55.612244898
+"Urinary tract","Escherichia coli","Colistin","BGD","Bangladesh","South-East Asia Region",10,3,30
+"Urinary tract","Escherichia coli","Imipenem","BGD","Bangladesh","South-East Asia Region",85,37,43.529411765
+"Urinary tract","Escherichia coli","Levofloxacin","BGD","Bangladesh","South-East Asia Region",46,6,13.043478261
+"Urinary tract","Escherichia coli","Meropenem","BGD","Bangladesh","South-East Asia Region",24,1,4.166666667
+"Urinary tract","Escherichia coli","Cefepime","BHR","Bahrain","Eastern Mediterranean Region",158,45,28.481012658
+"Urinary tract","Escherichia coli","Cefotaxime","BHR","Bahrain","Eastern Mediterranean Region",97,44,45.360824742
+"Urinary tract","Escherichia coli","Ceftazidime","BHR","Bahrain","Eastern Mediterranean Region",278,33,11.870503597
+"Urinary tract","Escherichia coli","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",2924,1017,34.781121751
+"Urinary tract","Escherichia coli","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",2964,707,23.852901484
+"Urinary tract","Escherichia coli","Co-trimoxazole","BHR","Bahrain","Eastern Mediterranean Region",2949,945,32.044760936
+"Urinary tract","Escherichia coli","Ertapenem","BHR","Bahrain","Eastern Mediterranean Region",122,19,15.573770492
+"Urinary tract","Escherichia coli","Imipenem","BHR","Bahrain","Eastern Mediterranean Region",359,22,6.128133705
+"Urinary tract","Escherichia coli","Levofloxacin","BHR","Bahrain","Eastern Mediterranean Region",339,68,20.05899705
+"Urinary tract","Escherichia coli","Meropenem","BHR","Bahrain","Eastern Mediterranean Region",1080,19,1.759259259
+"Urinary tract","Escherichia coli","Ampicillin","BRA","Brazil","Region of the Americas",727,76,10.45392022
+"Urinary tract","Escherichia coli","Ceftazidime","BRA","Brazil","Region of the Americas",142,19,13.38028169
+"Urinary tract","Escherichia coli","Ceftriaxone","BRA","Brazil","Region of the Americas",2052,151,7.358674464
+"Urinary tract","Escherichia coli","Ciprofloxacin","BRA","Brazil","Region of the Americas",2090,412,19.71291866
+"Urinary tract","Escherichia coli","Co-trimoxazole","BRA","Brazil","Region of the Americas",2039,394,19.323197646
+"Urinary tract","Escherichia coli","Imipenem","BRA","Brazil","Region of the Americas",269,0,0
+"Urinary tract","Escherichia coli","Levofloxacin","BRA","Brazil","Region of the Americas",130,44,33.846153846
+"Urinary tract","Escherichia coli","Meropenem","BRA","Brazil","Region of the Americas",1022,2,0.195694716
+"Urinary tract","Escherichia coli","Ampicillin","CMR","Cameroon","African Region",118,111,94.06779661
+"Urinary tract","Escherichia coli","Cefotaxime","CMR","Cameroon","African Region",126,81,64.285714286
+"Urinary tract","Escherichia coli","Ceftazidime","CMR","Cameroon","African Region",194,104,53.608247423
+"Urinary tract","Escherichia coli","Ceftriaxone","CMR","Cameroon","African Region",169,107,63.313609467
+"Urinary tract","Escherichia coli","Ciprofloxacin","CMR","Cameroon","African Region",187,105,56.14973262
+"Urinary tract","Escherichia coli","Co-trimoxazole","CMR","Cameroon","African Region",71,57,80.281690141
+"Urinary tract","Escherichia coli","Ertapenem","CMR","Cameroon","African Region",61,3,4.918032787
+"Urinary tract","Escherichia coli","Imipenem","CMR","Cameroon","African Region",164,7,4.268292683
+"Urinary tract","Escherichia coli","Levofloxacin","CMR","Cameroon","African Region",115,48,41.739130435
+"Urinary tract","Escherichia coli","Meropenem","CMR","Cameroon","African Region",39,5,12.820512821
+"Urinary tract","Escherichia coli","Ampicillin","COL","Colombia","Region of the Americas",103139,65384,63.394060443
+"Urinary tract","Escherichia coli","Cefepime","COL","Colombia","Region of the Americas",122007,23054,18.895637136
+"Urinary tract","Escherichia coli","Cefotaxime","COL","Colombia","Region of the Americas",58567,11345,19.37097683
+"Urinary tract","Escherichia coli","Ceftazidime","COL","Colombia","Region of the Americas",120934,22913,18.946698199
+"Urinary tract","Escherichia coli","Ceftriaxone","COL","Colombia","Region of the Americas",102421,19574,19.111315062
+"Urinary tract","Escherichia coli","Ciprofloxacin","COL","Colombia","Region of the Americas",124794,41219,33.029632835
+"Urinary tract","Escherichia coli","Co-trimoxazole","COL","Colombia","Region of the Americas",116088,54396,46.857556337
+"Urinary tract","Escherichia coli","Colistin","COL","Colombia","Region of the Americas",23074,682,2.955707723
+"Urinary tract","Escherichia coli","Doripenem","COL","Colombia","Region of the Americas",4313,62,1.437514491
+"Urinary tract","Escherichia coli","Ertapenem","COL","Colombia","Region of the Americas",115677,1330,1.149753192
+"Urinary tract","Escherichia coli","Imipenem","COL","Colombia","Region of the Americas",52714,456,0.865045339
+"Urinary tract","Escherichia coli","Levofloxacin","COL","Colombia","Region of the Americas",44930,13164,29.298909415
+"Urinary tract","Escherichia coli","Meropenem","COL","Colombia","Region of the Americas",120671,750,0.621524641
+"Urinary tract","Escherichia coli","Ampicillin","DEU","Germany","European Region",409288,166914,40.781552354
+"Urinary tract","Escherichia coli","Cefepime","DEU","Germany","European Region",227248,15388,6.771456734
+"Urinary tract","Escherichia coli","Cefotaxime","DEU","Germany","European Region",444962,30639,6.885756537
+"Urinary tract","Escherichia coli","Ceftazidime","DEU","Germany","European Region",459782,30925,6.726013633
+"Urinary tract","Escherichia coli","Ceftriaxone","DEU","Germany","European Region",256191,17897,6.985803561
+"Urinary tract","Escherichia coli","Ciprofloxacin","DEU","Germany","European Region",512219,65281,12.744743947
+"Urinary tract","Escherichia coli","Co-trimoxazole","DEU","Germany","European Region",513325,98626,19.213169045
+"Urinary tract","Escherichia coli","Ertapenem","DEU","Germany","European Region",243539,137,0.056253824
+"Urinary tract","Escherichia coli","Imipenem","DEU","Germany","European Region",140462,50,0.035596816
+"Urinary tract","Escherichia coli","Levofloxacin","DEU","Germany","European Region",426357,52847,12.395011692
+"Urinary tract","Escherichia coli","Meropenem","DEU","Germany","European Region",476358,41,0.008606972
+"Urinary tract","Escherichia coli","Cefepime","EGY","Egypt","Eastern Mediterranean Region",68,44,64.705882353
+"Urinary tract","Escherichia coli","Cefotaxime","EGY","Egypt","Eastern Mediterranean Region",49,36,73.469387755
+"Urinary tract","Escherichia coli","Ceftazidime","EGY","Egypt","Eastern Mediterranean Region",52,31,59.615384615
+"Urinary tract","Escherichia coli","Ceftriaxone","EGY","Egypt","Eastern Mediterranean Region",35,24,68.571428571
+"Urinary tract","Escherichia coli","Ciprofloxacin","EGY","Egypt","Eastern Mediterranean Region",46,28,60.869565217
+"Urinary tract","Escherichia coli","Co-trimoxazole","EGY","Egypt","Eastern Mediterranean Region",42,23,54.761904762
+"Urinary tract","Escherichia coli","Ertapenem","EGY","Egypt","Eastern Mediterranean Region",34,3,8.823529412
+"Urinary tract","Escherichia coli","Imipenem","EGY","Egypt","Eastern Mediterranean Region",48,5,10.416666667
+"Urinary tract","Escherichia coli","Levofloxacin","EGY","Egypt","Eastern Mediterranean Region",49,29,59.183673469
+"Urinary tract","Escherichia coli","Meropenem","EGY","Egypt","Eastern Mediterranean Region",42,3,7.142857143
+"Urinary tract","Escherichia coli","Ampicillin","ETH","Ethiopia","African Region",202,187,92.574257426
+"Urinary tract","Escherichia coli","Cefepime","ETH","Ethiopia","African Region",92,48,52.173913043
+"Urinary tract","Escherichia coli","Cefotaxime","ETH","Ethiopia","African Region",182,143,78.571428571
+"Urinary tract","Escherichia coli","Ceftazidime","ETH","Ethiopia","African Region",105,73,69.523809524
+"Urinary tract","Escherichia coli","Ceftriaxone","ETH","Ethiopia","African Region",217,158,72.811059908
+"Urinary tract","Escherichia coli","Ciprofloxacin","ETH","Ethiopia","African Region",187,139,74.331550802
+"Urinary tract","Escherichia coli","Co-trimoxazole","ETH","Ethiopia","African Region",229,182,79.475982533
+"Urinary tract","Escherichia coli","Ertapenem","ETH","Ethiopia","African Region",70,5,7.142857143
+"Urinary tract","Escherichia coli","Imipenem","ETH","Ethiopia","African Region",120,23,19.166666667
+"Urinary tract","Escherichia coli","Levofloxacin","ETH","Ethiopia","African Region",41,36,87.804878049
+"Urinary tract","Escherichia coli","Meropenem","ETH","Ethiopia","African Region",211,16,7.582938389
+"Urinary tract","Escherichia coli","Ceftazidime","FIN","Finland","European Region",34636,3099,8.94733803
+"Urinary tract","Escherichia coli","Ceftriaxone","FIN","Finland","European Region",40681,3889,9.559745336
+"Urinary tract","Escherichia coli","Ciprofloxacin","FIN","Finland","European Region",115705,8588,7.422324014
+"Urinary tract","Escherichia coli","Co-trimoxazole","FIN","Finland","European Region",71681,11747,16.387885214
+"Urinary tract","Escherichia coli","Ertapenem","FIN","Finland","European Region",23441,23,0.098118681
+"Urinary tract","Escherichia coli","Imipenem","FIN","Finland","European Region",198,0,0
+"Urinary tract","Escherichia coli","Levofloxacin","FIN","Finland","European Region",5601,879,15.693626138
+"Urinary tract","Escherichia coli","Ampicillin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",615764,285093,46.299069124
+"Urinary tract","Escherichia coli","Cefepime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",92119,6818,7.40129615
+"Urinary tract","Escherichia coli","Cefotaxime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",199500,17891,8.967919799
+"Urinary tract","Escherichia coli","Ceftazidime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",253961,19573,7.707088884
+"Urinary tract","Escherichia coli","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",64919,4997,7.697284308
+"Urinary tract","Escherichia coli","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",670704,66071,9.85099239
+"Urinary tract","Escherichia coli","Co-trimoxazole","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",59937,12211,20.373058378
+"Urinary tract","Escherichia coli","Ertapenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",366578,516,0.140761311
+"Urinary tract","Escherichia coli","Imipenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",26371,34,0.128929506
+"Urinary tract","Escherichia coli","Levofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",44219,3947,8.926027273
+"Urinary tract","Escherichia coli","Meropenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",331265,95,0.028677947
+"Urinary tract","Escherichia coli","Ampicillin","IDN","Indonesia","South-East Asia Region",1604,1429,89.089775561
+"Urinary tract","Escherichia coli","Cefepime","IDN","Indonesia","South-East Asia Region",1461,534,36.550308008
+"Urinary tract","Escherichia coli","Cefotaxime","IDN","Indonesia","South-East Asia Region",795,509,64.025157233
+"Urinary tract","Escherichia coli","Ceftazidime","IDN","Indonesia","South-East Asia Region",1488,781,52.48655914
+"Urinary tract","Escherichia coli","Ceftriaxone","IDN","Indonesia","South-East Asia Region",1306,886,67.840735069
+"Urinary tract","Escherichia coli","Ciprofloxacin","IDN","Indonesia","South-East Asia Region",1545,1132,73.268608414
+"Urinary tract","Escherichia coli","Co-trimoxazole","IDN","Indonesia","South-East Asia Region",1497,951,63.527054108
+"Urinary tract","Escherichia coli","Colistin","IDN","Indonesia","South-East Asia Region",228,14,6.140350877
+"Urinary tract","Escherichia coli","Ertapenem","IDN","Indonesia","South-East Asia Region",1074,48,4.469273743
+"Urinary tract","Escherichia coli","Imipenem","IDN","Indonesia","South-East Asia Region",365,21,5.753424658
+"Urinary tract","Escherichia coli","Levofloxacin","IDN","Indonesia","South-East Asia Region",518,367,70.849420849
+"Urinary tract","Escherichia coli","Meropenem","IDN","Indonesia","South-East Asia Region",1737,185,10.65054692
+"Urinary tract","Escherichia coli","Ampicillin","IND","India","South-East Asia Region",29742,25707,86.433326609
+"Urinary tract","Escherichia coli","Cefepime","IND","India","South-East Asia Region",23394,11407,48.760365906
+"Urinary tract","Escherichia coli","Cefotaxime","IND","India","South-East Asia Region",26253,18675,71.13472746
+"Urinary tract","Escherichia coli","Ceftazidime","IND","India","South-East Asia Region",9681,5948,61.439933891
+"Urinary tract","Escherichia coli","Ceftriaxone","IND","India","South-East Asia Region",11717,8032,68.549970129
+"Urinary tract","Escherichia coli","Ciprofloxacin","IND","India","South-East Asia Region",43390,30780,70.938004148
+"Urinary tract","Escherichia coli","Co-trimoxazole","IND","India","South-East Asia Region",43699,25306,57.909791986
+"Urinary tract","Escherichia coli","Colistin","IND","India","South-East Asia Region",15234,10,0.065642641
+"Urinary tract","Escherichia coli","Ertapenem","IND","India","South-East Asia Region",22614,4219,18.656584417
+"Urinary tract","Escherichia coli","Imipenem","IND","India","South-East Asia Region",37543,6268,16.695522468
+"Urinary tract","Escherichia coli","Levofloxacin","IND","India","South-East Asia Region",13626,6749,49.530309702
+"Urinary tract","Escherichia coli","Meropenem","IND","India","South-East Asia Region",28026,4453,15.888817527
+"Urinary tract","Escherichia coli","Ampicillin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",1345,1189,88.401486989
+"Urinary tract","Escherichia coli","Cefepime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2040,1008,49.411764706
+"Urinary tract","Escherichia coli","Cefotaxime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",1524,1004,65.879265092
+"Urinary tract","Escherichia coli","Ceftazidime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2008,1149,57.221115538
+"Urinary tract","Escherichia coli","Ceftriaxone","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2251,1495,66.414926699
+"Urinary tract","Escherichia coli","Ciprofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2718,1613,59.345106696
+"Urinary tract","Escherichia coli","Co-trimoxazole","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2434,1655,67.995069844
+"Urinary tract","Escherichia coli","Imipenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",1912,292,15.271966527
+"Urinary tract","Escherichia coli","Meropenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",929,13,1.399354144
+"Urinary tract","Escherichia coli","Ampicillin","IRQ","Iraq","Eastern Mediterranean Region",684,607,88.742690058
+"Urinary tract","Escherichia coli","Cefepime","IRQ","Iraq","Eastern Mediterranean Region",1691,1155,68.30277942
+"Urinary tract","Escherichia coli","Cefotaxime","IRQ","Iraq","Eastern Mediterranean Region",1277,982,76.898981989
+"Urinary tract","Escherichia coli","Ceftazidime","IRQ","Iraq","Eastern Mediterranean Region",1203,884,73.482959268
+"Urinary tract","Escherichia coli","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",1700,1310,77.058823529
+"Urinary tract","Escherichia coli","Ciprofloxacin","IRQ","Iraq","Eastern Mediterranean Region",2102,1117,53.139866794
+"Urinary tract","Escherichia coli","Co-trimoxazole","IRQ","Iraq","Eastern Mediterranean Region",1558,1063,68.228498074
+"Urinary tract","Escherichia coli","Ertapenem","IRQ","Iraq","Eastern Mediterranean Region",69,3,4.347826087
+"Urinary tract","Escherichia coli","Imipenem","IRQ","Iraq","Eastern Mediterranean Region",2161,339,15.68718186
+"Urinary tract","Escherichia coli","Levofloxacin","IRQ","Iraq","Eastern Mediterranean Region",1494,739,49.464524766
+"Urinary tract","Escherichia coli","Meropenem","IRQ","Iraq","Eastern Mediterranean Region",1814,182,10.033076075
+"Urinary tract","Escherichia coli","Ampicillin","JOR","Jordan","Eastern Mediterranean Region",1963,1283,65.359144167
+"Urinary tract","Escherichia coli","Cefepime","JOR","Jordan","Eastern Mediterranean Region",1990,898,45.125628141
+"Urinary tract","Escherichia coli","Cefotaxime","JOR","Jordan","Eastern Mediterranean Region",2282,1098,48.115687993
+"Urinary tract","Escherichia coli","Ceftazidime","JOR","Jordan","Eastern Mediterranean Region",2507,1106,44.116473873
+"Urinary tract","Escherichia coli","Ceftriaxone","JOR","Jordan","Eastern Mediterranean Region",1656,665,40.157004831
+"Urinary tract","Escherichia coli","Ciprofloxacin","JOR","Jordan","Eastern Mediterranean Region",3011,1299,43.141813351
+"Urinary tract","Escherichia coli","Co-trimoxazole","JOR","Jordan","Eastern Mediterranean Region",2736,1429,52.229532164
+"Urinary tract","Escherichia coli","Colistin","JOR","Jordan","Eastern Mediterranean Region",1218,621,50.985221675
+"Urinary tract","Escherichia coli","Ertapenem","JOR","Jordan","Eastern Mediterranean Region",1751,632,36.093660765
+"Urinary tract","Escherichia coli","Imipenem","JOR","Jordan","Eastern Mediterranean Region",2893,764,26.408572416
+"Urinary tract","Escherichia coli","Levofloxacin","JOR","Jordan","Eastern Mediterranean Region",2088,950,45.498084291
+"Urinary tract","Escherichia coli","Meropenem","JOR","Jordan","Eastern Mediterranean Region",1704,641,37.617370892
+"Urinary tract","Escherichia coli","Ampicillin","JPN","Japan","Western Pacific Region",381195,163390,42.862576896
+"Urinary tract","Escherichia coli","Cefepime","JPN","Japan","Western Pacific Region",373132,48901,13.105549779
+"Urinary tract","Escherichia coli","Cefotaxime","JPN","Japan","Western Pacific Region",290179,61237,21.10318114
+"Urinary tract","Escherichia coli","Ceftazidime","JPN","Japan","Western Pacific Region",399131,38182,9.566282749
+"Urinary tract","Escherichia coli","Ceftriaxone","JPN","Japan","Western Pacific Region",291251,65051,22.335030609
+"Urinary tract","Escherichia coli","Ciprofloxacin","JPN","Japan","Western Pacific Region",234369,85572,36.511654698
+"Urinary tract","Escherichia coli","Co-trimoxazole","JPN","Japan","Western Pacific Region",337296,58542,17.356268678
+"Urinary tract","Escherichia coli","Imipenem","JPN","Japan","Western Pacific Region",360561,89,0.024683757
+"Urinary tract","Escherichia coli","Levofloxacin","JPN","Japan","Western Pacific Region",411266,142996,34.769711087
+"Urinary tract","Escherichia coli","Meropenem","JPN","Japan","Western Pacific Region",406880,127,0.031213134
+"Urinary tract","Escherichia coli","Ampicillin","KEN","Kenya","African Region",124,117,94.35483871
+"Urinary tract","Escherichia coli","Cefepime","KEN","Kenya","African Region",134,54,40.298507463
+"Urinary tract","Escherichia coli","Cefotaxime","KEN","Kenya","African Region",117,87,74.358974359
+"Urinary tract","Escherichia coli","Ceftriaxone","KEN","Kenya","African Region",146,102,69.863013699
+"Urinary tract","Escherichia coli","Ciprofloxacin","KEN","Kenya","African Region",145,100,68.965517241
+"Urinary tract","Escherichia coli","Co-trimoxazole","KEN","Kenya","African Region",109,98,89.908256881
+"Urinary tract","Escherichia coli","Levofloxacin","KEN","Kenya","African Region",19,13,68.421052632
+"Urinary tract","Escherichia coli","Meropenem","KEN","Kenya","African Region",138,10,7.246376812
+"Urinary tract","Escherichia coli","Ampicillin","KOR","Republic of Korea","Western Pacific Region",7901,5348,67.687634477
+"Urinary tract","Escherichia coli","Cefepime","KOR","Republic of Korea","Western Pacific Region",7901,1366,17.288950766
+"Urinary tract","Escherichia coli","Cefotaxime","KOR","Republic of Korea","Western Pacific Region",7901,2716,34.37539552
+"Urinary tract","Escherichia coli","Ceftazidime","KOR","Republic of Korea","Western Pacific Region",7901,665,8.416656119
+"Urinary tract","Escherichia coli","Ciprofloxacin","KOR","Republic of Korea","Western Pacific Region",7901,3587,45.399316542
+"Urinary tract","Escherichia coli","Co-trimoxazole","KOR","Republic of Korea","Western Pacific Region",7901,2579,32.641437793
+"Urinary tract","Escherichia coli","Colistin","KOR","Republic of Korea","Western Pacific Region",7901,7,0.08859638
+"Urinary tract","Escherichia coli","Ertapenem","KOR","Republic of Korea","Western Pacific Region",7901,7,0.08859638
+"Urinary tract","Escherichia coli","Imipenem","KOR","Republic of Korea","Western Pacific Region",7901,3,0.037969877
+"Urinary tract","Escherichia coli","Meropenem","KOR","Republic of Korea","Western Pacific Region",7901,3,0.037969877
+"Urinary tract","Escherichia coli","Cefepime","KWT","Kuwait","Eastern Mediterranean Region",906,257,28.366445916
+"Urinary tract","Escherichia coli","Cefotaxime","KWT","Kuwait","Eastern Mediterranean Region",1851,624,33.711507293
+"Urinary tract","Escherichia coli","Ceftazidime","KWT","Kuwait","Eastern Mediterranean Region",1456,486,33.379120879
+"Urinary tract","Escherichia coli","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",1120,386,34.464285714
+"Urinary tract","Escherichia coli","Ciprofloxacin","KWT","Kuwait","Eastern Mediterranean Region",2303,797,34.607034303
+"Urinary tract","Escherichia coli","Co-trimoxazole","KWT","Kuwait","Eastern Mediterranean Region",1785,738,41.344537815
+"Urinary tract","Escherichia coli","Ertapenem","KWT","Kuwait","Eastern Mediterranean Region",502,11,2.19123506
+"Urinary tract","Escherichia coli","Imipenem","KWT","Kuwait","Eastern Mediterranean Region",1579,16,1.013299557
+"Urinary tract","Escherichia coli","Levofloxacin","KWT","Kuwait","Eastern Mediterranean Region",306,125,40.849673203
+"Urinary tract","Escherichia coli","Meropenem","KWT","Kuwait","Eastern Mediterranean Region",2089,24,1.14887506
+"Urinary tract","Escherichia coli","Ampicillin","LAO","Lao People's Democratic Republic","Western Pacific Region",194,182,93.81443299
+"Urinary tract","Escherichia coli","Cefepime","LAO","Lao People's Democratic Republic","Western Pacific Region",57,27,47.368421053
+"Urinary tract","Escherichia coli","Ceftazidime","LAO","Lao People's Democratic Republic","Western Pacific Region",64,30,46.875
+"Urinary tract","Escherichia coli","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",194,119,61.340206186
+"Urinary tract","Escherichia coli","Ciprofloxacin","LAO","Lao People's Democratic Republic","Western Pacific Region",194,103,53.092783505
+"Urinary tract","Escherichia coli","Co-trimoxazole","LAO","Lao People's Democratic Republic","Western Pacific Region",193,132,68.393782383
+"Urinary tract","Escherichia coli","Imipenem","LAO","Lao People's Democratic Republic","Western Pacific Region",59,1,1.694915254
+"Urinary tract","Escherichia coli","Meropenem","LAO","Lao People's Democratic Republic","Western Pacific Region",184,1,0.543478261
+"Urinary tract","Escherichia coli","Cefepime","LBN","Lebanon","Eastern Mediterranean Region",1660,652,39.277108434
+"Urinary tract","Escherichia coli","Cefotaxime","LBN","Lebanon","Eastern Mediterranean Region",600,281,46.833333333
+"Urinary tract","Escherichia coli","Ceftazidime","LBN","Lebanon","Eastern Mediterranean Region",1921,811,42.217595003
+"Urinary tract","Escherichia coli","Ceftriaxone","LBN","Lebanon","Eastern Mediterranean Region",1014,441,43.49112426
+"Urinary tract","Escherichia coli","Ciprofloxacin","LBN","Lebanon","Eastern Mediterranean Region",1856,767,41.325431034
+"Urinary tract","Escherichia coli","Co-trimoxazole","LBN","Lebanon","Eastern Mediterranean Region",1404,653,46.50997151
+"Urinary tract","Escherichia coli","Colistin","LBN","Lebanon","Eastern Mediterranean Region",71,14,19.718309859
+"Urinary tract","Escherichia coli","Ertapenem","LBN","Lebanon","Eastern Mediterranean Region",867,46,5.305651672
+"Urinary tract","Escherichia coli","Imipenem","LBN","Lebanon","Eastern Mediterranean Region",2048,138,6.73828125
+"Urinary tract","Escherichia coli","Levofloxacin","LBN","Lebanon","Eastern Mediterranean Region",1416,537,37.923728814
+"Urinary tract","Escherichia coli","Meropenem","LBN","Lebanon","Eastern Mediterranean Region",1148,157,13.675958188
+"Urinary tract","Escherichia coli","Ampicillin","LKA","Sri Lanka","South-East Asia Region",934,798,85.438972163
+"Urinary tract","Escherichia coli","Cefepime","LKA","Sri Lanka","South-East Asia Region",153,83,54.248366013
+"Urinary tract","Escherichia coli","Cefotaxime","LKA","Sri Lanka","South-East Asia Region",1311,576,43.935926773
+"Urinary tract","Escherichia coli","Ceftazidime","LKA","Sri Lanka","South-East Asia Region",85,54,63.529411765
+"Urinary tract","Escherichia coli","Ceftriaxone","LKA","Sri Lanka","South-East Asia Region",391,156,39.89769821
+"Urinary tract","Escherichia coli","Ciprofloxacin","LKA","Sri Lanka","South-East Asia Region",1258,750,59.618441971
+"Urinary tract","Escherichia coli","Co-trimoxazole","LKA","Sri Lanka","South-East Asia Region",1305,584,44.750957854
+"Urinary tract","Escherichia coli","Colistin","LKA","Sri Lanka","South-East Asia Region",28,0,0
+"Urinary tract","Escherichia coli","Imipenem","LKA","Sri Lanka","South-East Asia Region",429,44,10.256410256
+"Urinary tract","Escherichia coli","Meropenem","LKA","Sri Lanka","South-East Asia Region",1099,58,5.277525023
+"Urinary tract","Escherichia coli","Ampicillin","LVA","Latvia","European Region",614,308,50.16286645
+"Urinary tract","Escherichia coli","Cefepime","LVA","Latvia","European Region",30,1,3.333333333
+"Urinary tract","Escherichia coli","Cefotaxime","LVA","Latvia","European Region",616,88,14.285714286
+"Urinary tract","Escherichia coli","Ceftazidime","LVA","Latvia","European Region",615,70,11.382113821
+"Urinary tract","Escherichia coli","Ciprofloxacin","LVA","Latvia","European Region",615,133,21.62601626
+"Urinary tract","Escherichia coli","Co-trimoxazole","LVA","Latvia","European Region",584,159,27.226027397
+"Urinary tract","Escherichia coli","Ertapenem","LVA","Latvia","European Region",615,3,0.487804878
+"Urinary tract","Escherichia coli","Imipenem","LVA","Latvia","European Region",584,1,0.171232877
+"Urinary tract","Escherichia coli","Cefotaxime","MAR","Morocco","Eastern Mediterranean Region",20,2,10
+"Urinary tract","Escherichia coli","Ceftazidime","MAR","Morocco","Eastern Mediterranean Region",1108,184,16.606498195
+"Urinary tract","Escherichia coli","Ceftriaxone","MAR","Morocco","Eastern Mediterranean Region",1108,192,17.328519856
+"Urinary tract","Escherichia coli","Ciprofloxacin","MAR","Morocco","Eastern Mediterranean Region",1106,450,40.68716094
+"Urinary tract","Escherichia coli","Co-trimoxazole","MAR","Morocco","Eastern Mediterranean Region",1105,537,48.597285068
+"Urinary tract","Escherichia coli","Ertapenem","MAR","Morocco","Eastern Mediterranean Region",1106,41,3.707052441
+"Urinary tract","Escherichia coli","Imipenem","MAR","Morocco","Eastern Mediterranean Region",1107,17,1.535682023
+"Urinary tract","Escherichia coli","Levofloxacin","MAR","Morocco","Eastern Mediterranean Region",1107,448,40.469738031
+"Urinary tract","Escherichia coli","Ampicillin","MDA","Republic of Moldova","European Region",1307,702,53.710788064
+"Urinary tract","Escherichia coli","Cefepime","MDA","Republic of Moldova","European Region",906,146,16.114790287
+"Urinary tract","Escherichia coli","Cefotaxime","MDA","Republic of Moldova","European Region",1278,245,19.17057903
+"Urinary tract","Escherichia coli","Ceftazidime","MDA","Republic of Moldova","European Region",1313,173,13.175932978
+"Urinary tract","Escherichia coli","Ceftriaxone","MDA","Republic of Moldova","European Region",1097,231,21.057429353
+"Urinary tract","Escherichia coli","Ciprofloxacin","MDA","Republic of Moldova","European Region",1094,280,25.594149909
+"Urinary tract","Escherichia coli","Co-trimoxazole","MDA","Republic of Moldova","European Region",441,120,27.210884354
+"Urinary tract","Escherichia coli","Colistin","MDA","Republic of Moldova","European Region",126,1,0.793650794
+"Urinary tract","Escherichia coli","Doripenem","MDA","Republic of Moldova","European Region",117,1,0.854700855
+"Urinary tract","Escherichia coli","Ertapenem","MDA","Republic of Moldova","European Region",1283,27,2.104442712
+"Urinary tract","Escherichia coli","Imipenem","MDA","Republic of Moldova","European Region",1274,3,0.235478807
+"Urinary tract","Escherichia coli","Levofloxacin","MDA","Republic of Moldova","European Region",904,228,25.221238938
+"Urinary tract","Escherichia coli","Ampicillin","MLI","Mali","African Region",62,62,100
+"Urinary tract","Escherichia coli","Cefepime","MLI","Mali","African Region",82,45,54.87804878
+"Urinary tract","Escherichia coli","Cefotaxime","MLI","Mali","African Region",86,55,63.953488372
+"Urinary tract","Escherichia coli","Ceftazidime","MLI","Mali","African Region",100,38,38
+"Urinary tract","Escherichia coli","Ceftriaxone","MLI","Mali","African Region",65,48,73.846153846
+"Urinary tract","Escherichia coli","Ciprofloxacin","MLI","Mali","African Region",149,66,44.295302013
+"Urinary tract","Escherichia coli","Co-trimoxazole","MLI","Mali","African Region",85,74,87.058823529
+"Urinary tract","Escherichia coli","Ertapenem","MLI","Mali","African Region",127,22,17.322834646
+"Urinary tract","Escherichia coli","Imipenem","MLI","Mali","African Region",99,7,7.070707071
+"Urinary tract","Escherichia coli","Levofloxacin","MLI","Mali","African Region",24,5,20.833333333
+"Urinary tract","Escherichia coli","Ampicillin","MMR","Myanmar","South-East Asia Region",27,25,92.592592593
+"Urinary tract","Escherichia coli","Cefepime","MMR","Myanmar","South-East Asia Region",127,64,50.393700787
+"Urinary tract","Escherichia coli","Cefotaxime","MMR","Myanmar","South-East Asia Region",46,25,54.347826087
+"Urinary tract","Escherichia coli","Ceftazidime","MMR","Myanmar","South-East Asia Region",75,41,54.666666667
+"Urinary tract","Escherichia coli","Ceftriaxone","MMR","Myanmar","South-East Asia Region",66,37,56.060606061
+"Urinary tract","Escherichia coli","Ciprofloxacin","MMR","Myanmar","South-East Asia Region",105,80,76.19047619
+"Urinary tract","Escherichia coli","Co-trimoxazole","MMR","Myanmar","South-East Asia Region",120,92,76.666666667
+"Urinary tract","Escherichia coli","Colistin","MMR","Myanmar","South-East Asia Region",15,0,0
+"Urinary tract","Escherichia coli","Ertapenem","MMR","Myanmar","South-East Asia Region",22,6,27.272727273
+"Urinary tract","Escherichia coli","Imipenem","MMR","Myanmar","South-East Asia Region",123,20,16.260162602
+"Urinary tract","Escherichia coli","Levofloxacin","MMR","Myanmar","South-East Asia Region",125,93,74.4
+"Urinary tract","Escherichia coli","Meropenem","MMR","Myanmar","South-East Asia Region",98,19,19.387755102
+"Urinary tract","Escherichia coli","Cefotaxime","MUS","Mauritius","African Region",2366,948,40.067624683
+"Urinary tract","Escherichia coli","Ceftazidime","MUS","Mauritius","African Region",1220,664,54.426229508
+"Urinary tract","Escherichia coli","Ceftriaxone","MUS","Mauritius","African Region",1227,889,72.453137734
+"Urinary tract","Escherichia coli","Ciprofloxacin","MUS","Mauritius","African Region",2368,1234,52.111486486
+"Urinary tract","Escherichia coli","Co-trimoxazole","MUS","Mauritius","African Region",2369,982,41.452089489
+"Urinary tract","Escherichia coli","Colistin","MUS","Mauritius","African Region",1225,6,0.489795918
+"Urinary tract","Escherichia coli","Imipenem","MUS","Mauritius","African Region",1227,95,7.742461288
+"Urinary tract","Escherichia coli","Meropenem","MUS","Mauritius","African Region",1227,98,7.986960065
+"Urinary tract","Escherichia coli","Cefepime","MWI","Malawi","African Region",15,7,46.666666667
+"Urinary tract","Escherichia coli","Ceftazidime","MWI","Malawi","African Region",34,18,52.941176471
+"Urinary tract","Escherichia coli","Ceftriaxone","MWI","Malawi","African Region",117,66,56.41025641
+"Urinary tract","Escherichia coli","Ciprofloxacin","MWI","Malawi","African Region",135,91,67.407407407
+"Urinary tract","Escherichia coli","Co-trimoxazole","MWI","Malawi","African Region",69,61,88.405797101
+"Urinary tract","Escherichia coli","Ertapenem","MWI","Malawi","African Region",39,5,12.820512821
+"Urinary tract","Escherichia coli","Ampicillin","MYS","Malaysia","Western Pacific Region",10112,6339,62.68789557
+"Urinary tract","Escherichia coli","Cefepime","MYS","Malaysia","Western Pacific Region",11100,1374,12.378378378
+"Urinary tract","Escherichia coli","Cefotaxime","MYS","Malaysia","Western Pacific Region",10783,2195,20.356116109
+"Urinary tract","Escherichia coli","Ceftazidime","MYS","Malaysia","Western Pacific Region",11309,1477,13.060394376
+"Urinary tract","Escherichia coli","Ceftriaxone","MYS","Malaysia","Western Pacific Region",2587,565,21.839969076
+"Urinary tract","Escherichia coli","Ciprofloxacin","MYS","Malaysia","Western Pacific Region",9911,2759,27.837756029
+"Urinary tract","Escherichia coli","Co-trimoxazole","MYS","Malaysia","Western Pacific Region",9773,3302,33.786964085
+"Urinary tract","Escherichia coli","Colistin","MYS","Malaysia","Western Pacific Region",129,1,0.775193798
+"Urinary tract","Escherichia coli","Imipenem","MYS","Malaysia","Western Pacific Region",10187,150,1.472464906
+"Urinary tract","Escherichia coli","Meropenem","MYS","Malaysia","Western Pacific Region",10193,144,1.412734229
+"Urinary tract","Escherichia coli","Ampicillin","NOR","Norway","European Region",1335,409,30.63670412
+"Urinary tract","Escherichia coli","Cefotaxime","NOR","Norway","European Region",1335,43,3.220973783
+"Urinary tract","Escherichia coli","Ceftazidime","NOR","Norway","European Region",1335,32,2.397003745
+"Urinary tract","Escherichia coli","Ciprofloxacin","NOR","Norway","European Region",1335,105,7.865168539
+"Urinary tract","Escherichia coli","Co-trimoxazole","NOR","Norway","European Region",1335,245,18.352059925
+"Urinary tract","Escherichia coli","Meropenem","NOR","Norway","European Region",1335,1,0.074906367
+"Urinary tract","Escherichia coli","Ampicillin","NPL","Nepal","South-East Asia Region",3513,2450,69.740962141
+"Urinary tract","Escherichia coli","Cefepime","NPL","Nepal","South-East Asia Region",980,480,48.979591837
+"Urinary tract","Escherichia coli","Ceftazidime","NPL","Nepal","South-East Asia Region",949,572,60.273972603
+"Urinary tract","Escherichia coli","Ceftriaxone","NPL","Nepal","South-East Asia Region",4993,2438,48.828359704
+"Urinary tract","Escherichia coli","Ciprofloxacin","NPL","Nepal","South-East Asia Region",5404,2417,44.726128793
+"Urinary tract","Escherichia coli","Co-trimoxazole","NPL","Nepal","South-East Asia Region",4539,2028,44.679444812
+"Urinary tract","Escherichia coli","Imipenem","NPL","Nepal","South-East Asia Region",3027,180,5.946481665
+"Urinary tract","Escherichia coli","Levofloxacin","NPL","Nepal","South-East Asia Region",1442,505,35.020804438
+"Urinary tract","Escherichia coli","Meropenem","NPL","Nepal","South-East Asia Region",2779,161,5.793450882
+"Urinary tract","Escherichia coli","Ampicillin","OMN","Oman","Eastern Mediterranean Region",5639,3742,66.359283561
+"Urinary tract","Escherichia coli","Cefepime","OMN","Oman","Eastern Mediterranean Region",862,774,89.791183295
+"Urinary tract","Escherichia coli","Cefotaxime","OMN","Oman","Eastern Mediterranean Region",1003,497,49.551345962
+"Urinary tract","Escherichia coli","Ceftazidime","OMN","Oman","Eastern Mediterranean Region",2546,1651,64.846818539
+"Urinary tract","Escherichia coli","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",2726,1709,62.692589875
+"Urinary tract","Escherichia coli","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",5328,1603,30.086336336
+"Urinary tract","Escherichia coli","Co-trimoxazole","OMN","Oman","Eastern Mediterranean Region",5793,1850,31.935094079
+"Urinary tract","Escherichia coli","Ertapenem","OMN","Oman","Eastern Mediterranean Region",58,7,12.068965517
+"Urinary tract","Escherichia coli","Imipenem","OMN","Oman","Eastern Mediterranean Region",404,10,2.475247525
+"Urinary tract","Escherichia coli","Meropenem","OMN","Oman","Eastern Mediterranean Region",1586,22,1.387137453
+"Urinary tract","Escherichia coli","Ampicillin","PAK","Pakistan","Eastern Mediterranean Region",23855,21474,90.01886397
+"Urinary tract","Escherichia coli","Cefepime","PAK","Pakistan","Eastern Mediterranean Region",8475,5790,68.318584071
+"Urinary tract","Escherichia coli","Cefotaxime","PAK","Pakistan","Eastern Mediterranean Region",14042,9799,69.783506623
+"Urinary tract","Escherichia coli","Ceftazidime","PAK","Pakistan","Eastern Mediterranean Region",8115,5750,70.856438694
+"Urinary tract","Escherichia coli","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",36009,26370,73.231692077
+"Urinary tract","Escherichia coli","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",38777,27244,70.258142713
+"Urinary tract","Escherichia coli","Co-trimoxazole","PAK","Pakistan","Eastern Mediterranean Region",35610,24310,68.267340635
+"Urinary tract","Escherichia coli","Colistin","PAK","Pakistan","Eastern Mediterranean Region",3631,28,0.771137428
+"Urinary tract","Escherichia coli","Doripenem","PAK","Pakistan","Eastern Mediterranean Region",134,21,15.671641791
+"Urinary tract","Escherichia coli","Ertapenem","PAK","Pakistan","Eastern Mediterranean Region",23795,2152,9.043916789
+"Urinary tract","Escherichia coli","Imipenem","PAK","Pakistan","Eastern Mediterranean Region",26845,2845,10.5978767
+"Urinary tract","Escherichia coli","Levofloxacin","PAK","Pakistan","Eastern Mediterranean Region",13558,9513,70.165216109
+"Urinary tract","Escherichia coli","Meropenem","PAK","Pakistan","Eastern Mediterranean Region",27636,2957,10.69981184
+"Urinary tract","Escherichia coli","Ampicillin","PER","Peru","Region of the Americas",3667,2887,78.729206436
+"Urinary tract","Escherichia coli","Cefepime","PER","Peru","Region of the Americas",5292,2753,52.021919879
+"Urinary tract","Escherichia coli","Cefotaxime","PER","Peru","Region of the Americas",2820,1464,51.914893617
+"Urinary tract","Escherichia coli","Ceftazidime","PER","Peru","Region of the Americas",6256,3215,51.390664962
+"Urinary tract","Escherichia coli","Ciprofloxacin","PER","Peru","Region of the Americas",5963,3917,65.688411873
+"Urinary tract","Escherichia coli","Co-trimoxazole","PER","Peru","Region of the Americas",5938,3896,65.611316942
+"Urinary tract","Escherichia coli","Colistin","PER","Peru","Region of the Americas",108,1,0.925925926
+"Urinary tract","Escherichia coli","Imipenem","PER","Peru","Region of the Americas",4651,90,1.935067727
+"Urinary tract","Escherichia coli","Meropenem","PER","Peru","Region of the Americas",3832,86,2.244258873
+"Urinary tract","Escherichia coli","Ampicillin","PHL","Philippines","Western Pacific Region",3621,2867,79.177022922
+"Urinary tract","Escherichia coli","Cefepime","PHL","Philippines","Western Pacific Region",3758,1088,28.951569984
+"Urinary tract","Escherichia coli","Cefotaxime","PHL","Philippines","Western Pacific Region",2217,1059,47.767253045
+"Urinary tract","Escherichia coli","Ceftazidime","PHL","Philippines","Western Pacific Region",3729,1244,33.360150174
+"Urinary tract","Escherichia coli","Ceftriaxone","PHL","Philippines","Western Pacific Region",3742,1581,42.250133618
+"Urinary tract","Escherichia coli","Ciprofloxacin","PHL","Philippines","Western Pacific Region",3741,2005,53.595295376
+"Urinary tract","Escherichia coli","Co-trimoxazole","PHL","Philippines","Western Pacific Region",3746,2085,55.659369995
+"Urinary tract","Escherichia coli","Colistin","PHL","Philippines","Western Pacific Region",895,192,21.452513966
+"Urinary tract","Escherichia coli","Doripenem","PHL","Philippines","Western Pacific Region",147,18,12.244897959
+"Urinary tract","Escherichia coli","Ertapenem","PHL","Philippines","Western Pacific Region",3381,207,6.12244898
+"Urinary tract","Escherichia coli","Imipenem","PHL","Philippines","Western Pacific Region",3766,303,8.0456718
+"Urinary tract","Escherichia coli","Levofloxacin","PHL","Philippines","Western Pacific Region",1103,486,44.061650045
+"Urinary tract","Escherichia coli","Meropenem","PHL","Philippines","Western Pacific Region",3700,294,7.945945946
+"Urinary tract","Escherichia coli","Cefepime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",2024,754,37.252964427
+"Urinary tract","Escherichia coli","Cefotaxime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",4112,1495,36.357003891
+"Urinary tract","Escherichia coli","Ceftazidime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",3475,1294,37.237410072
+"Urinary tract","Escherichia coli","Ceftriaxone","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",4103,1507,36.72922252
+"Urinary tract","Escherichia coli","Ciprofloxacin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",3963,1272,32.096896291
+"Urinary tract","Escherichia coli","Co-trimoxazole","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",4016,2201,54.805776892
+"Urinary tract","Escherichia coli","Ertapenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",4023,45,1.118568233
+"Urinary tract","Escherichia coli","Imipenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",1887,19,1.006889242
+"Urinary tract","Escherichia coli","Meropenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",3966,21,0.529500756
+"Urinary tract","Escherichia coli","Ampicillin","QAT","Qatar","Eastern Mediterranean Region",6321,3658,57.870590097
+"Urinary tract","Escherichia coli","Cefepime","QAT","Qatar","Eastern Mediterranean Region",6321,926,14.649580763
+"Urinary tract","Escherichia coli","Cefotaxime","QAT","Qatar","Eastern Mediterranean Region",951,253,26.603575184
+"Urinary tract","Escherichia coli","Ceftazidime","QAT","Qatar","Eastern Mediterranean Region",6319,687,10.871973414
+"Urinary tract","Escherichia coli","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",6321,1794,28.381585192
+"Urinary tract","Escherichia coli","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",6317,1801,28.510368846
+"Urinary tract","Escherichia coli","Co-trimoxazole","QAT","Qatar","Eastern Mediterranean Region",6312,2267,35.915716096
+"Urinary tract","Escherichia coli","Colistin","QAT","Qatar","Eastern Mediterranean Region",338,4,1.183431953
+"Urinary tract","Escherichia coli","Ertapenem","QAT","Qatar","Eastern Mediterranean Region",6317,34,0.538230173
+"Urinary tract","Escherichia coli","Imipenem","QAT","Qatar","Eastern Mediterranean Region",6297,46,0.73050659
+"Urinary tract","Escherichia coli","Levofloxacin","QAT","Qatar","Eastern Mediterranean Region",6317,1609,25.470951401
+"Urinary tract","Escherichia coli","Meropenem","QAT","Qatar","Eastern Mediterranean Region",6315,23,0.364212193
+"Urinary tract","Escherichia coli","Ampicillin","SAU","Saudi Arabia","Eastern Mediterranean Region",1721,1159,67.344567112
+"Urinary tract","Escherichia coli","Cefepime","SAU","Saudi Arabia","Eastern Mediterranean Region",1729,529,30.595720069
+"Urinary tract","Escherichia coli","Cefotaxime","SAU","Saudi Arabia","Eastern Mediterranean Region",1183,407,34.404057481
+"Urinary tract","Escherichia coli","Ceftazidime","SAU","Saudi Arabia","Eastern Mediterranean Region",1777,603,33.933595948
+"Urinary tract","Escherichia coli","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",1319,528,40.030326005
+"Urinary tract","Escherichia coli","Ciprofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",1736,670,38.594470046
+"Urinary tract","Escherichia coli","Co-trimoxazole","SAU","Saudi Arabia","Eastern Mediterranean Region",1442,597,41.400832178
+"Urinary tract","Escherichia coli","Colistin","SAU","Saudi Arabia","Eastern Mediterranean Region",479,14,2.922755741
+"Urinary tract","Escherichia coli","Doripenem","SAU","Saudi Arabia","Eastern Mediterranean Region",15,1,6.666666667
+"Urinary tract","Escherichia coli","Ertapenem","SAU","Saudi Arabia","Eastern Mediterranean Region",1266,33,2.606635071
+"Urinary tract","Escherichia coli","Imipenem","SAU","Saudi Arabia","Eastern Mediterranean Region",1780,36,2.02247191
+"Urinary tract","Escherichia coli","Levofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",1370,508,37.080291971
+"Urinary tract","Escherichia coli","Meropenem","SAU","Saudi Arabia","Eastern Mediterranean Region",1737,27,1.554404145
+"Urinary tract","Escherichia coli","Ampicillin","SDN","Sudan","Eastern Mediterranean Region",25,0,0
+"Urinary tract","Escherichia coli","Cefotaxime","SDN","Sudan","Eastern Mediterranean Region",79,41,51.898734177
+"Urinary tract","Escherichia coli","Ceftazidime","SDN","Sudan","Eastern Mediterranean Region",57,43,75.438596491
+"Urinary tract","Escherichia coli","Ceftriaxone","SDN","Sudan","Eastern Mediterranean Region",114,57,50
+"Urinary tract","Escherichia coli","Ciprofloxacin","SDN","Sudan","Eastern Mediterranean Region",121,66,54.545454545
+"Urinary tract","Escherichia coli","Co-trimoxazole","SDN","Sudan","Eastern Mediterranean Region",55,35,63.636363636
+"Urinary tract","Escherichia coli","Colistin","SDN","Sudan","Eastern Mediterranean Region",16,2,12.5
+"Urinary tract","Escherichia coli","Imipenem","SDN","Sudan","Eastern Mediterranean Region",96,39,40.625
+"Urinary tract","Escherichia coli","Levofloxacin","SDN","Sudan","Eastern Mediterranean Region",55,31,56.363636364
+"Urinary tract","Escherichia coli","Meropenem","SDN","Sudan","Eastern Mediterranean Region",121,65,53.719008264
+"Urinary tract","Escherichia coli","Ampicillin","SGP","Singapore","Western Pacific Region",4094,2347,57.327796776
+"Urinary tract","Escherichia coli","Cefepime","SGP","Singapore","Western Pacific Region",6215,1019,16.395816573
+"Urinary tract","Escherichia coli","Cefotaxime","SGP","Singapore","Western Pacific Region",4092,820,20.039100684
+"Urinary tract","Escherichia coli","Ceftazidime","SGP","Singapore","Western Pacific Region",6216,1223,19.675032175
+"Urinary tract","Escherichia coli","Ceftriaxone","SGP","Singapore","Western Pacific Region",6212,1308,21.056020605
+"Urinary tract","Escherichia coli","Ciprofloxacin","SGP","Singapore","Western Pacific Region",6218,2654,42.682534577
+"Urinary tract","Escherichia coli","Co-trimoxazole","SGP","Singapore","Western Pacific Region",2121,805,37.95379538
+"Urinary tract","Escherichia coli","Ertapenem","SGP","Singapore","Western Pacific Region",6214,16,0.257483103
+"Urinary tract","Escherichia coli","Imipenem","SGP","Singapore","Western Pacific Region",4087,4,0.097871299
+"Urinary tract","Escherichia coli","Levofloxacin","SGP","Singapore","Western Pacific Region",4090,1338,32.71393643
+"Urinary tract","Escherichia coli","Meropenem","SGP","Singapore","Western Pacific Region",6207,7,0.112775898
+"Urinary tract","Escherichia coli","Ceftazidime","SOM","Somalia","Eastern Mediterranean Region",59,49,83.050847458
+"Urinary tract","Escherichia coli","Ceftriaxone","SOM","Somalia","Eastern Mediterranean Region",61,31,50.819672131
+"Urinary tract","Escherichia coli","Ciprofloxacin","SOM","Somalia","Eastern Mediterranean Region",68,24,35.294117647
+"Urinary tract","Escherichia coli","Ampicillin","SWE","Sweden","European Region",32771,9465,28.882243447
+"Urinary tract","Escherichia coli","Cefotaxime","SWE","Sweden","European Region",52134,1883,3.611846396
+"Urinary tract","Escherichia coli","Ceftazidime","SWE","Sweden","European Region",52125,1300,2.494004796
+"Urinary tract","Escherichia coli","Ciprofloxacin","SWE","Sweden","European Region",217852,22153,10.168830215
+"Urinary tract","Escherichia coli","Co-trimoxazole","SWE","Sweden","European Region",218099,40092,18.382477682
+"Urinary tract","Escherichia coli","Imipenem","SWE","Sweden","European Region",21181,6,0.028327274
+"Urinary tract","Escherichia coli","Meropenem","SWE","Sweden","European Region",56918,8,0.014055308
+"Urinary tract","Escherichia coli","Cefepime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",73,35,47.945205479
+"Urinary tract","Escherichia coli","Cefotaxime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",72,45,62.5
+"Urinary tract","Escherichia coli","Ceftazidime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",88,45,51.136363636
+"Urinary tract","Escherichia coli","Ceftriaxone","SYR","Syrian Arab Republic","Eastern Mediterranean Region",99,57,57.575757576
+"Urinary tract","Escherichia coli","Ciprofloxacin","SYR","Syrian Arab Republic","Eastern Mediterranean Region",132,49,37.121212121
+"Urinary tract","Escherichia coli","Co-trimoxazole","SYR","Syrian Arab Republic","Eastern Mediterranean Region",113,48,42.477876106
+"Urinary tract","Escherichia coli","Imipenem","SYR","Syrian Arab Republic","Eastern Mediterranean Region",76,7,9.210526316
+"Urinary tract","Escherichia coli","Levofloxacin","SYR","Syrian Arab Republic","Eastern Mediterranean Region",64,25,39.0625
+"Urinary tract","Escherichia coli","Meropenem","SYR","Syrian Arab Republic","Eastern Mediterranean Region",76,4,5.263157895
+"Urinary tract","Escherichia coli","Ampicillin","THA","Thailand","South-East Asia Region",4634,3769,81.333621062
+"Urinary tract","Escherichia coli","Cefepime","THA","Thailand","South-East Asia Region",1958,387,19.765066394
+"Urinary tract","Escherichia coli","Cefotaxime","THA","Thailand","South-East Asia Region",5603,2388,42.620024987
+"Urinary tract","Escherichia coli","Ceftazidime","THA","Thailand","South-East Asia Region",5933,1397,23.546266644
+"Urinary tract","Escherichia coli","Ceftriaxone","THA","Thailand","South-East Asia Region",4104,1731,42.178362573
+"Urinary tract","Escherichia coli","Ciprofloxacin","THA","Thailand","South-East Asia Region",6092,3643,59.79973736
+"Urinary tract","Escherichia coli","Co-trimoxazole","THA","Thailand","South-East Asia Region",5961,3107,52.12212716
+"Urinary tract","Escherichia coli","Colistin","THA","Thailand","South-East Asia Region",1049,17,1.620591039
+"Urinary tract","Escherichia coli","Doripenem","THA","Thailand","South-East Asia Region",989,20,2.022244692
+"Urinary tract","Escherichia coli","Ertapenem","THA","Thailand","South-East Asia Region",5412,163,3.011825573
+"Urinary tract","Escherichia coli","Imipenem","THA","Thailand","South-East Asia Region",6371,140,2.197457228
+"Urinary tract","Escherichia coli","Levofloxacin","THA","Thailand","South-East Asia Region",1850,1092,59.027027027
+"Urinary tract","Escherichia coli","Meropenem","THA","Thailand","South-East Asia Region",6316,153,2.422419253
+"Urinary tract","Escherichia coli","Ampicillin","TLS","Timor-Leste","South-East Asia Region",61,58,95.081967213
+"Urinary tract","Escherichia coli","Cefepime","TLS","Timor-Leste","South-East Asia Region",61,14,22.950819672
+"Urinary tract","Escherichia coli","Ceftazidime","TLS","Timor-Leste","South-East Asia Region",61,11,18.032786885
+"Urinary tract","Escherichia coli","Ceftriaxone","TLS","Timor-Leste","South-East Asia Region",61,17,27.868852459
+"Urinary tract","Escherichia coli","Ciprofloxacin","TLS","Timor-Leste","South-East Asia Region",61,26,42.62295082
+"Urinary tract","Escherichia coli","Co-trimoxazole","TLS","Timor-Leste","South-East Asia Region",61,52,85.245901639
+"Urinary tract","Escherichia coli","Colistin","TLS","Timor-Leste","South-East Asia Region",61,0,0
+"Urinary tract","Escherichia coli","Ertapenem","TLS","Timor-Leste","South-East Asia Region",61,5,8.196721311
+"Urinary tract","Escherichia coli","Imipenem","TLS","Timor-Leste","South-East Asia Region",61,1,1.639344262
+"Urinary tract","Escherichia coli","Levofloxacin","TLS","Timor-Leste","South-East Asia Region",61,25,40.983606557
+"Urinary tract","Escherichia coli","Ampicillin","TTO","Trinidad and Tobago","Region of the Americas",250,110,44
+"Urinary tract","Escherichia coli","Cefepime","TTO","Trinidad and Tobago","Region of the Americas",29,14,48.275862069
+"Urinary tract","Escherichia coli","Ceftazidime","TTO","Trinidad and Tobago","Region of the Americas",250,7,2.8
+"Urinary tract","Escherichia coli","Ceftriaxone","TTO","Trinidad and Tobago","Region of the Americas",249,33,13.253012048
+"Urinary tract","Escherichia coli","Ciprofloxacin","TTO","Trinidad and Tobago","Region of the Americas",250,73,29.2
+"Urinary tract","Escherichia coli","Ertapenem","TTO","Trinidad and Tobago","Region of the Americas",28,1,3.571428571
+"Urinary tract","Escherichia coli","Imipenem","TTO","Trinidad and Tobago","Region of the Americas",29,0,0
+"Urinary tract","Escherichia coli","Meropenem","TTO","Trinidad and Tobago","Region of the Americas",29,0,0
+"Urinary tract","Escherichia coli","Cefepime","TUN","Tunisia","Eastern Mediterranean Region",3217,386,11.998756606
+"Urinary tract","Escherichia coli","Cefotaxime","TUN","Tunisia","Eastern Mediterranean Region",3461,494,14.273331407
+"Urinary tract","Escherichia coli","Ceftazidime","TUN","Tunisia","Eastern Mediterranean Region",3741,481,12.857524726
+"Urinary tract","Escherichia coli","Ceftriaxone","TUN","Tunisia","Eastern Mediterranean Region",127,26,20.472440945
+"Urinary tract","Escherichia coli","Ciprofloxacin","TUN","Tunisia","Eastern Mediterranean Region",3767,825,21.900716751
+"Urinary tract","Escherichia coli","Co-trimoxazole","TUN","Tunisia","Eastern Mediterranean Region",3513,1324,37.688585255
+"Urinary tract","Escherichia coli","Ertapenem","TUN","Tunisia","Eastern Mediterranean Region",3499,15,0.428693913
+"Urinary tract","Escherichia coli","Imipenem","TUN","Tunisia","Eastern Mediterranean Region",3643,3,0.082349712
+"Urinary tract","Escherichia coli","Levofloxacin","TUN","Tunisia","Eastern Mediterranean Region",812,161,19.827586207
+"Urinary tract","Escherichia coli","Ampicillin","TZA","United Republic of Tanzania","African Region",772,696,90.155440415
+"Urinary tract","Escherichia coli","Cefepime","TZA","United Republic of Tanzania","African Region",831,434,52.226233454
+"Urinary tract","Escherichia coli","Ceftazidime","TZA","United Republic of Tanzania","African Region",859,416,48.428405122
+"Urinary tract","Escherichia coli","Ceftriaxone","TZA","United Republic of Tanzania","African Region",908,524,57.709251101
+"Urinary tract","Escherichia coli","Ciprofloxacin","TZA","United Republic of Tanzania","African Region",903,534,59.136212625
+"Urinary tract","Escherichia coli","Co-trimoxazole","TZA","United Republic of Tanzania","African Region",709,589,83.074753173
+"Urinary tract","Escherichia coli","Imipenem","TZA","United Republic of Tanzania","African Region",85,5,5.882352941
+"Urinary tract","Escherichia coli","Meropenem","TZA","United Republic of Tanzania","African Region",820,35,4.268292683
+"Urinary tract","Escherichia coli","Ampicillin","UGA","Uganda","African Region",174,152,87.356321839
+"Urinary tract","Escherichia coli","Cefepime","UGA","Uganda","African Region",145,82,56.551724138
+"Urinary tract","Escherichia coli","Cefotaxime","UGA","Uganda","African Region",150,101,67.333333333
+"Urinary tract","Escherichia coli","Ceftazidime","UGA","Uganda","African Region",156,94,60.256410256
+"Urinary tract","Escherichia coli","Ceftriaxone","UGA","Uganda","African Region",211,126,59.71563981
+"Urinary tract","Escherichia coli","Ciprofloxacin","UGA","Uganda","African Region",171,106,61.988304094
+"Urinary tract","Escherichia coli","Co-trimoxazole","UGA","Uganda","African Region",175,149,85.142857143
+"Urinary tract","Escherichia coli","Colistin","UGA","Uganda","African Region",78,13,16.666666667
+"Urinary tract","Escherichia coli","Ertapenem","UGA","Uganda","African Region",126,15,11.904761905
+"Urinary tract","Escherichia coli","Imipenem","UGA","Uganda","African Region",201,9,4.47761194
+"Urinary tract","Escherichia coli","Levofloxacin","UGA","Uganda","African Region",130,86,66.153846154
+"Urinary tract","Escherichia coli","Meropenem","UGA","Uganda","African Region",161,8,4.968944099
+"Urinary tract","Escherichia coli","Ampicillin","ZMB","Zambia","African Region",430,356,82.790697674
+"Urinary tract","Escherichia coli","Cefepime","ZMB","Zambia","African Region",53,28,52.830188679
+"Urinary tract","Escherichia coli","Cefotaxime","ZMB","Zambia","African Region",178,100,56.179775281
+"Urinary tract","Escherichia coli","Ceftazidime","ZMB","Zambia","African Region",60,35,58.333333333
+"Urinary tract","Escherichia coli","Ceftriaxone","ZMB","Zambia","African Region",81,41,50.617283951
+"Urinary tract","Escherichia coli","Ciprofloxacin","ZMB","Zambia","African Region",111,59,53.153153153
+"Urinary tract","Escherichia coli","Co-trimoxazole","ZMB","Zambia","African Region",210,183,87.142857143
+"Urinary tract","Escherichia coli","Colistin","ZMB","Zambia","African Region",17,6,35.294117647
+"Urinary tract","Escherichia coli","Ertapenem","ZMB","Zambia","African Region",37,2,5.405405405
+"Urinary tract","Escherichia coli","Imipenem","ZMB","Zambia","African Region",157,12,7.643312102
+"Urinary tract","Escherichia coli","Levofloxacin","ZMB","Zambia","African Region",40,23,57.5
+"Urinary tract","Escherichia coli","Meropenem","ZMB","Zambia","African Region",138,15,10.869565217

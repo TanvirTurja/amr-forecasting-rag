@@ -1,0 +1,50 @@
+Filters
+"Year filter: 2020"
+"Infection type filter: Gonorrhoea"
+
+
+"CountryTerritoryArea","BCIsPerMillion","TotalSpecimenIsolates","IsolsPerMillion","TotalSpecimenIsolatesWithAST","ASTResult"
+"Australia",171.7,4420,171.7,4420,100
+"Austria",22.2,198,22.2,198,100
+"Bahrain",39.8,59,39.8,59,100
+"Belgium",10.1,116,10.1,116,100
+"Brazil",0.7,145,0.7,145,100
+"Cyprus",1.5,2,1.5,2,100
+"Czechia",9.2,97,9.2,97,100
+"C<U+00F4>te d<U+2019>Ivoire",0.2,7,0.2,7,100
+"Denmark",14.4,84,14.4,84,100
+"Ethiopia",0,2,0,1,50
+"Finland",15.6,86,15.6,86,100
+"France",2.4,162,2.4,162,100
+"Germany",11.9,998,11.9,996,99.8
+"Greece",9.3,99,9.3,99,100
+"India",0,8,0,8,100
+"Iraq",0,1,0,1,100
+"Ireland",10,50,10,50,100
+"Italy",1.5,90,1.5,90,100
+"Japan",6.5,825,6.5,825,100
+"Kuwait",0.2,1,0.2,1,100
+"Lao People's Democratic Republic",2.7,20,2.7,20,100
+"Malawi",6.5,126,6.5,126,100
+"Malaysia",4.1,138,3.9,132,95.7
+"Mali",0.2,4,0.2,4,100
+"Malta",5.8,3,5.8,3,100
+"Mauritius",34.3,44,34.3,44,100
+"Nepal",0.1,2,0.1,2,100
+"Netherlands (Kingdom of the)",7.1,125,7.1,125,100
+"Norway",88.3,475,88.3,475,100
+"Oman",5.1,23,4.4,20,87
+"Pakistan",0,1,0,1,100
+"Peru",0.9,28,0.9,28,100
+"Philippines",0.4,44,0.4,41,93.2
+"Qatar",42.4,119,41,115,96.6
+"Saudi Arabia",0.2,5,0.2,5,100
+"Singapore",40,225,40,225,100
+"South Africa",5.2,316,5.2,316,100
+"Sweden",20.9,216,20.9,216,100
+"Switzerland",17.8,154,17.8,154,100
+"Thailand",0.6,42,0.6,40,95.2
+"Uganda",6.5,290,6.5,290,100
+"United Arab Emirates",30.9,292,23.3,220,75.3
+"United Kingdom of Great Britain and Northern Ireland",1.9,129,1.9,129,100
+"Yemen",0.1,4,0.1,3,75

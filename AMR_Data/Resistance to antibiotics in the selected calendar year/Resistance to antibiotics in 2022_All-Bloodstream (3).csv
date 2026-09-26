@@ -1,0 +1,272 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Salmonella spp.","Cefotaxime",0,0,3.606237817,8.088235294,94.444444444,30,2590
+"Bloodstream","Salmonella spp.","Ceftazidime",0,0,3.571428571,6.666666667,66.666666667,37,3867
+"Bloodstream","Salmonella spp.","Ceftriaxone",0,1.764705882,4.511278195,10.67961165,81.64893617,37,8129
+"Bloodstream","Salmonella spp.","Ciprofloxacin",0,4.977375566,16.666666667,30.303030303,80.693069307,45,9615
+"Bloodstream","Salmonella spp.","Doripenem",0,0,0,0,0,3,150
+"Bloodstream","Salmonella spp.","Ertapenem",0,0,0,0,0.586166471,18,2352
+"Bloodstream","Salmonella spp.","Imipenem",0,0,0,0,9.090909091,21,4022
+"Bloodstream","Salmonella spp.","Levofloxacin",0,3.495115995,7.692307692,17.022792023,61.538461538,15,1435
+"Bloodstream","Salmonella spp.","Meropenem",0,0,0,0,18.181818182,33,4382
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Salmonella spp.","Cefotaxime",0,0,2.798459564,3.557504873,4.545454545,8,427
+"Bloodstream","Salmonella spp.","Ceftazidime",0,1.369863014,3.157894737,4.545454545,6.735159817,9,1649
+"Bloodstream","Salmonella spp.","Ceftriaxone",0,4.565537555,6.25,8.333333333,11.225997046,9,2486
+"Bloodstream","Salmonella spp.","Ciprofloxacin",0.980392157,2.896580571,7.692307692,19.166559375,60.382916053,11,3391
+"Bloodstream","Salmonella spp.","Doripenem",0,0,0,0,0,1,81
+"Bloodstream","Salmonella spp.","Ertapenem",0,0,0,0,0.586166471,5,1687
+"Bloodstream","Salmonella spp.","Imipenem",0,0,0,0,0,5,1503
+"Bloodstream","Salmonella spp.","Levofloxacin",0.142247511,2.714133306,4.417293233,5.95540055,8.032128514,4,999
+"Bloodstream","Salmonella spp.","Meropenem",0,0,0,0.056497175,4.761904762,8,1938
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Bloodstream","Salmonella spp.","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",66,3,4.545454545
+"Bloodstream","Salmonella spp.","Ceftazidime","ARE","United Arab Emirates","Eastern Mediterranean Region",114,7,6.140350877
+"Bloodstream","Salmonella spp.","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",103,11,10.67961165
+"Bloodstream","Salmonella spp.","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",135,25,18.518518519
+"Bloodstream","Salmonella spp.","Ertapenem","ARE","United Arab Emirates","Eastern Mediterranean Region",89,0,0
+"Bloodstream","Salmonella spp.","Imipenem","ARE","United Arab Emirates","Eastern Mediterranean Region",105,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",26,5,19.230769231
+"Bloodstream","Salmonella spp.","Meropenem","ARE","United Arab Emirates","Eastern Mediterranean Region",119,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","ARG","Argentina","Region of the Americas",62,3,4.838709677
+"Bloodstream","Salmonella spp.","Ceftazidime","ARG","Argentina","Region of the Americas",130,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","ARG","Argentina","Region of the Americas",612,6,0.980392157
+"Bloodstream","Salmonella spp.","Meropenem","ARG","Argentina","Region of the Americas",119,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","AUS","Australia","Western Pacific Region",133,6,4.511278195
+"Bloodstream","Salmonella spp.","Ceftriaxone","AUS","Australia","Western Pacific Region",133,6,4.511278195
+"Bloodstream","Salmonella spp.","Ciprofloxacin","AUS","Australia","Western Pacific Region",135,45,33.333333333
+"Bloodstream","Salmonella spp.","Meropenem","AUS","Australia","Western Pacific Region",133,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","BEL","Belgium","European Region",95,3,3.157894737
+"Bloodstream","Salmonella spp.","Ceftazidime","BEL","Belgium","European Region",95,3,3.157894737
+"Bloodstream","Salmonella spp.","Ciprofloxacin","BEL","Belgium","European Region",95,29,30.526315789
+"Bloodstream","Salmonella spp.","Meropenem","BEL","Belgium","European Region",95,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","BEN","Benin","African Region",12,1,8.333333333
+"Bloodstream","Salmonella spp.","Ceftazidime","BEN","Benin","African Region",12,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","BEN","Benin","African Region",12,1,8.333333333
+"Bloodstream","Salmonella spp.","Ceftriaxone","BGD","Bangladesh","South-East Asia Region",25,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","BGD","Bangladesh","South-East Asia Region",26,1,3.846153846
+"Bloodstream","Salmonella spp.","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",16,1,6.25
+"Bloodstream","Salmonella spp.","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",16,1,6.25
+"Bloodstream","Salmonella spp.","Ceftazidime","BRN","Brunei Darussalam","Western Pacific Region",22,1,4.545454545
+"Bloodstream","Salmonella spp.","Ceftriaxone","BRN","Brunei Darussalam","Western Pacific Region",21,1,4.761904762
+"Bloodstream","Salmonella spp.","Meropenem","BRN","Brunei Darussalam","Western Pacific Region",21,1,4.761904762
+"Bloodstream","Salmonella spp.","Ceftriaxone","CAN","Canada","Region of the Americas",679,31,4.565537555
+"Bloodstream","Salmonella spp.","Ciprofloxacin","CAN","Canada","Region of the Americas",679,410,60.382916053
+"Bloodstream","Salmonella spp.","Ceftazidime","CHE","Switzerland","European Region",73,1,1.369863014
+"Bloodstream","Salmonella spp.","Ceftriaxone","CHE","Switzerland","European Region",84,1,1.19047619
+"Bloodstream","Salmonella spp.","Ciprofloxacin","CHE","Switzerland","European Region",89,12,13.483146067
+"Bloodstream","Salmonella spp.","Ertapenem","CHE","Switzerland","European Region",63,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","CHE","Switzerland","European Region",28,1,3.571428571
+"Bloodstream","Salmonella spp.","Meropenem","CHE","Switzerland","European Region",59,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","CMR","Cameroon","African Region",12,1,8.333333333
+"Bloodstream","Salmonella spp.","Imipenem","CMR","Cameroon","African Region",11,1,9.090909091
+"Bloodstream","Salmonella spp.","Cefotaxime","COD","Democratic Republic of the Congo","African Region",376,307,81.64893617
+"Bloodstream","Salmonella spp.","Ceftriaxone","COD","Democratic Republic of the Congo","African Region",376,307,81.64893617
+"Bloodstream","Salmonella spp.","Ciprofloxacin","COD","Democratic Republic of the Congo","African Region",404,326,80.693069307
+"Bloodstream","Salmonella spp.","Imipenem","COD","Democratic Republic of the Congo","African Region",14,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","COD","Democratic Republic of the Congo","African Region",13,8,61.538461538
+"Bloodstream","Salmonella spp.","Cefotaxime","COL","Colombia","Region of the Americas",134,13,9.701492537
+"Bloodstream","Salmonella spp.","Ceftazidime","COL","Colombia","Region of the Americas",876,59,6.735159817
+"Bloodstream","Salmonella spp.","Ceftriaxone","COL","Colombia","Region of the Americas",677,76,11.225997046
+"Bloodstream","Salmonella spp.","Ciprofloxacin","COL","Colombia","Region of the Americas",863,171,19.814600232
+"Bloodstream","Salmonella spp.","Doripenem","COL","Colombia","Region of the Americas",52,0,0
+"Bloodstream","Salmonella spp.","Ertapenem","COL","Colombia","Region of the Americas",853,5,0.586166471
+"Bloodstream","Salmonella spp.","Imipenem","COL","Colombia","Region of the Americas",633,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","COL","Colombia","Region of the Americas",249,20,8.032128514
+"Bloodstream","Salmonella spp.","Meropenem","COL","Colombia","Region of the Americas",885,2,0.225988701
+"Bloodstream","Salmonella spp.","Cefotaxime","DEU","Germany","European Region",240,3,1.25
+"Bloodstream","Salmonella spp.","Ceftazidime","DEU","Germany","European Region",252,3,1.19047619
+"Bloodstream","Salmonella spp.","Ceftriaxone","DEU","Germany","European Region",194,1,0.515463918
+"Bloodstream","Salmonella spp.","Ciprofloxacin","DEU","Germany","European Region",255,76,29.803921569
+"Bloodstream","Salmonella spp.","Ertapenem","DEU","Germany","European Region",156,0,0
+"Bloodstream","Salmonella spp.","Imipenem","DEU","Germany","European Region",240,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","DEU","Germany","European Region",103,31,30.097087379
+"Bloodstream","Salmonella spp.","Meropenem","DEU","Germany","European Region",259,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","FRA","France","European Region",54,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","FRA","France","European Region",54,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","FRA","France","European Region",54,17,31.481481481
+"Bloodstream","Salmonella spp.","Meropenem","FRA","France","European Region",54,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",16,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",20,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",28,1,3.571428571
+"Bloodstream","Salmonella spp.","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",36,23,63.888888889
+"Bloodstream","Salmonella spp.","Ertapenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",18,0,0
+"Bloodstream","Salmonella spp.","Meropenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",34,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","GHA","Ghana","African Region",12,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","GHA","Ghana","African Region",14,3,21.428571429
+"Bloodstream","Salmonella spp.","Meropenem","GHA","Ghana","African Region",11,2,18.181818182
+"Bloodstream","Salmonella spp.","Cefotaxime","HKG","China, Hong Kong SAR","Western Pacific Region",57,2,3.50877193
+"Bloodstream","Salmonella spp.","Ceftazidime","HKG","China, Hong Kong SAR","Western Pacific Region",23,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","HKG","China, Hong Kong SAR","Western Pacific Region",168,14,8.333333333
+"Bloodstream","Salmonella spp.","Ciprofloxacin","HKG","China, Hong Kong SAR","Western Pacific Region",198,4,2.02020202
+"Bloodstream","Salmonella spp.","Ertapenem","HKG","China, Hong Kong SAR","Western Pacific Region",29,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","HKG","China, Hong Kong SAR","Western Pacific Region",19,1,5.263157895
+"Bloodstream","Salmonella spp.","Meropenem","HKG","China, Hong Kong SAR","Western Pacific Region",115,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","IDN","Indonesia","South-East Asia Region",96,8,8.333333333
+"Bloodstream","Salmonella spp.","Ceftazidime","IDN","Indonesia","South-East Asia Region",139,13,9.352517986
+"Bloodstream","Salmonella spp.","Ceftriaxone","IDN","Indonesia","South-East Asia Region",121,13,10.743801653
+"Bloodstream","Salmonella spp.","Ciprofloxacin","IDN","Indonesia","South-East Asia Region",65,10,15.384615385
+"Bloodstream","Salmonella spp.","Doripenem","IDN","Indonesia","South-East Asia Region",17,0,0
+"Bloodstream","Salmonella spp.","Ertapenem","IDN","Indonesia","South-East Asia Region",52,0,0
+"Bloodstream","Salmonella spp.","Imipenem","IDN","Indonesia","South-East Asia Region",80,6,7.5
+"Bloodstream","Salmonella spp.","Levofloxacin","IDN","Indonesia","South-East Asia Region",69,4,5.797101449
+"Bloodstream","Salmonella spp.","Meropenem","IDN","Indonesia","South-East Asia Region",134,7,5.223880597
+"Bloodstream","Salmonella spp.","Ceftriaxone","IND","India","South-East Asia Region",2999,92,3.06768923
+"Bloodstream","Salmonella spp.","Ciprofloxacin","IND","India","South-East Asia Region",3261,1831,56.14842073
+"Bloodstream","Salmonella spp.","Imipenem","IND","India","South-East Asia Region",1652,20,1.210653753
+"Bloodstream","Salmonella spp.","Ceftriaxone","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",10,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",10,1,10
+"Bloodstream","Salmonella spp.","Cefotaxime","IRQ","Iraq","Eastern Mediterranean Region",18,17,94.444444444
+"Bloodstream","Salmonella spp.","Ceftazidime","IRQ","Iraq","Eastern Mediterranean Region",22,14,63.636363636
+"Bloodstream","Salmonella spp.","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",18,10,55.555555556
+"Bloodstream","Salmonella spp.","Ciprofloxacin","IRQ","Iraq","Eastern Mediterranean Region",27,4,14.814814815
+"Bloodstream","Salmonella spp.","Levofloxacin","IRQ","Iraq","Eastern Mediterranean Region",13,1,7.692307692
+"Bloodstream","Salmonella spp.","Cefotaxime","ITA","Italy","European Region",69,3,4.347826087
+"Bloodstream","Salmonella spp.","Ceftazidime","ITA","Italy","European Region",69,3,4.347826087
+"Bloodstream","Salmonella spp.","Ciprofloxacin","ITA","Italy","European Region",69,23,33.333333333
+"Bloodstream","Salmonella spp.","Meropenem","ITA","Italy","European Region",69,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","JOR","Jordan","Eastern Mediterranean Region",15,2,13.333333333
+"Bloodstream","Salmonella spp.","Ceftriaxone","JOR","Jordan","Eastern Mediterranean Region",10,1,10
+"Bloodstream","Salmonella spp.","Ertapenem","JOR","Jordan","Eastern Mediterranean Region",11,0,0
+"Bloodstream","Salmonella spp.","Imipenem","JOR","Jordan","Eastern Mediterranean Region",16,0,0
+"Bloodstream","Salmonella spp.","Meropenem","JOR","Jordan","Eastern Mediterranean Region",11,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","JPN","Japan","Western Pacific Region",551,6,1.08892922
+"Bloodstream","Salmonella spp.","Ceftazidime","JPN","Japan","Western Pacific Region",726,5,0.688705234
+"Bloodstream","Salmonella spp.","Ceftriaxone","JPN","Japan","Western Pacific Region",510,9,1.764705882
+"Bloodstream","Salmonella spp.","Ciprofloxacin","JPN","Japan","Western Pacific Region",378,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","JPN","Japan","Western Pacific Region",703,1,0.142247511
+"Bloodstream","Salmonella spp.","Meropenem","JPN","Japan","Western Pacific Region",719,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","KEN","Kenya","African Region",12,2,16.666666667
+"Bloodstream","Salmonella spp.","Meropenem","KEN","Kenya","African Region",10,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","KHM","Cambodia","Western Pacific Region",31,1,3.225806452
+"Bloodstream","Salmonella spp.","Ceftriaxone","KHM","Cambodia","Western Pacific Region",33,9,27.272727273
+"Bloodstream","Salmonella spp.","Ciprofloxacin","KHM","Cambodia","Western Pacific Region",33,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","KOR","Republic of Korea","Western Pacific Region",49,6,12.244897959
+"Bloodstream","Salmonella spp.","Ceftazidime","KOR","Republic of Korea","Western Pacific Region",49,4,8.163265306
+"Bloodstream","Salmonella spp.","Ciprofloxacin","KOR","Republic of Korea","Western Pacific Region",49,0,0
+"Bloodstream","Salmonella spp.","Imipenem","KOR","Republic of Korea","Western Pacific Region",49,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","KWT","Kuwait","Eastern Mediterranean Region",27,1,3.703703704
+"Bloodstream","Salmonella spp.","Ceftazidime","KWT","Kuwait","Eastern Mediterranean Region",18,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",32,1,3.125
+"Bloodstream","Salmonella spp.","Ciprofloxacin","KWT","Kuwait","Eastern Mediterranean Region",33,8,24.242424242
+"Bloodstream","Salmonella spp.","Imipenem","KWT","Kuwait","Eastern Mediterranean Region",18,0,0
+"Bloodstream","Salmonella spp.","Meropenem","KWT","Kuwait","Eastern Mediterranean Region",35,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",12,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","LKA","Sri Lanka","South-East Asia Region",12,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","LKA","Sri Lanka","South-East Asia Region",17,1,5.882352941
+"Bloodstream","Salmonella spp.","Cefotaxime","MLI","Mali","African Region",66,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","MLI","Mali","African Region",66,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","MLI","Mali","African Region",66,1,1.515151515
+"Bloodstream","Salmonella spp.","Ertapenem","MLI","Mali","African Region",64,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","MLT","Malta","European Region",13,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","MLT","Malta","European Region",13,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","MLT","Malta","European Region",13,1,7.692307692
+"Bloodstream","Salmonella spp.","Ertapenem","MLT","Malta","European Region",13,0,0
+"Bloodstream","Salmonella spp.","Meropenem","MLT","Malta","European Region",13,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","NLD","Netherlands (Kingdom of the)","European Region",82,2,2.43902439
+"Bloodstream","Salmonella spp.","Ceftazidime","NLD","Netherlands (Kingdom of the)","European Region",82,2,2.43902439
+"Bloodstream","Salmonella spp.","Ciprofloxacin","NLD","Netherlands (Kingdom of the)","European Region",82,15,18.292682927
+"Bloodstream","Salmonella spp.","Meropenem","NLD","Netherlands (Kingdom of the)","European Region",82,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","NOR","Norway","European Region",58,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","NOR","Norway","European Region",58,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","NOR","Norway","European Region",58,12,20.689655172
+"Bloodstream","Salmonella spp.","Meropenem","NOR","Norway","European Region",58,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","NPL","Nepal","South-East Asia Region",129,2,1.550387597
+"Bloodstream","Salmonella spp.","Ciprofloxacin","NPL","Nepal","South-East Asia Region",125,73,58.4
+"Bloodstream","Salmonella spp.","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",78,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",73,2,2.739726027
+"Bloodstream","Salmonella spp.","Cefotaxime","PAK","Pakistan","Eastern Mediterranean Region",67,47,70.149253731
+"Bloodstream","Salmonella spp.","Ceftazidime","PAK","Pakistan","Eastern Mediterranean Region",54,36,66.666666667
+"Bloodstream","Salmonella spp.","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",161,86,53.416149068
+"Bloodstream","Salmonella spp.","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",164,30,18.292682927
+"Bloodstream","Salmonella spp.","Imipenem","PAK","Pakistan","Eastern Mediterranean Region",128,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","PAK","Pakistan","Eastern Mediterranean Region",27,4,14.814814815
+"Bloodstream","Salmonella spp.","Meropenem","PAK","Pakistan","Eastern Mediterranean Region",61,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","PER","Peru","Region of the Americas",30,2,6.666666667
+"Bloodstream","Salmonella spp.","Ceftriaxone","PER","Peru","Region of the Americas",26,4,15.384615385
+"Bloodstream","Salmonella spp.","Ciprofloxacin","PER","Peru","Region of the Americas",34,2,5.882352941
+"Bloodstream","Salmonella spp.","Ertapenem","PER","Peru","Region of the Americas",20,0,0
+"Bloodstream","Salmonella spp.","Imipenem","PER","Peru","Region of the Americas",21,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","PER","Peru","Region of the Americas",15,0,0
+"Bloodstream","Salmonella spp.","Meropenem","PER","Peru","Region of the Americas",19,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","PHL","Philippines","Western Pacific Region",68,5,7.352941176
+"Bloodstream","Salmonella spp.","Ceftriaxone","PHL","Philippines","Western Pacific Region",132,3,2.272727273
+"Bloodstream","Salmonella spp.","Ciprofloxacin","PHL","Philippines","Western Pacific Region",126,11,8.73015873
+"Bloodstream","Salmonella spp.","Cefotaxime","POL","Poland","European Region",46,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","POL","Poland","European Region",11,0,0
+"Bloodstream","Salmonella spp.","Ciprofloxacin","POL","Poland","European Region",48,21,43.75
+"Bloodstream","Salmonella spp.","Ertapenem","POL","Poland","European Region",11,0,0
+"Bloodstream","Salmonella spp.","Imipenem","POL","Poland","European Region",27,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","POL","Poland","European Region",12,0,0
+"Bloodstream","Salmonella spp.","Meropenem","POL","Poland","European Region",35,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","QAT","Qatar","Eastern Mediterranean Region",28,1,3.571428571
+"Bloodstream","Salmonella spp.","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",28,2,7.142857143
+"Bloodstream","Salmonella spp.","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",20,2,10
+"Bloodstream","Salmonella spp.","Ertapenem","QAT","Qatar","Eastern Mediterranean Region",28,0,0
+"Bloodstream","Salmonella spp.","Imipenem","QAT","Qatar","Eastern Mediterranean Region",26,0,0
+"Bloodstream","Salmonella spp.","Meropenem","QAT","Qatar","Eastern Mediterranean Region",27,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","RUS","Russian Federation","European Region",21,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","RUS","Russian Federation","European Region",28,1,3.571428571
+"Bloodstream","Salmonella spp.","Ceftriaxone","RUS","Russian Federation","European Region",10,0,0
+"Bloodstream","Salmonella spp.","Ertapenem","RUS","Russian Federation","European Region",13,0,0
+"Bloodstream","Salmonella spp.","Imipenem","RUS","Russian Federation","European Region",12,1,8.333333333
+"Bloodstream","Salmonella spp.","Meropenem","RUS","Russian Federation","European Region",23,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","SAU","Saudi Arabia","Eastern Mediterranean Region",30,2,6.666666667
+"Bloodstream","Salmonella spp.","Ceftazidime","SAU","Saudi Arabia","Eastern Mediterranean Region",30,2,6.666666667
+"Bloodstream","Salmonella spp.","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",17,2,11.764705882
+"Bloodstream","Salmonella spp.","Ciprofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",33,10,30.303030303
+"Bloodstream","Salmonella spp.","Imipenem","SAU","Saudi Arabia","Eastern Mediterranean Region",30,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",23,7,30.434782609
+"Bloodstream","Salmonella spp.","Meropenem","SAU","Saudi Arabia","Eastern Mediterranean Region",25,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","SGP","Singapore","Western Pacific Region",29,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","SGP","Singapore","Western Pacific Region",29,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","SGP","Singapore","Western Pacific Region",37,1,2.702702703
+"Bloodstream","Salmonella spp.","Ciprofloxacin","SGP","Singapore","Western Pacific Region",29,15,51.724137931
+"Bloodstream","Salmonella spp.","Imipenem","SGP","Singapore","Western Pacific Region",29,0,0
+"Bloodstream","Salmonella spp.","Meropenem","SGP","Singapore","Western Pacific Region",29,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","THA","Thailand","South-East Asia Region",139,21,15.107913669
+"Bloodstream","Salmonella spp.","Ceftazidime","THA","Thailand","South-East Asia Region",157,9,5.732484076
+"Bloodstream","Salmonella spp.","Ceftriaxone","THA","Thailand","South-East Asia Region",195,12,6.153846154
+"Bloodstream","Salmonella spp.","Ciprofloxacin","THA","Thailand","South-East Asia Region",221,11,4.977375566
+"Bloodstream","Salmonella spp.","Doripenem","THA","Thailand","South-East Asia Region",81,0,0
+"Bloodstream","Salmonella spp.","Ertapenem","THA","Thailand","South-East Asia Region",172,1,0.581395349
+"Bloodstream","Salmonella spp.","Imipenem","THA","Thailand","South-East Asia Region",174,1,0.574712644
+"Bloodstream","Salmonella spp.","Levofloxacin","THA","Thailand","South-East Asia Region",117,4,3.418803419
+"Bloodstream","Salmonella spp.","Meropenem","THA","Thailand","South-East Asia Region",172,1,0.581395349
+"Bloodstream","Salmonella spp.","Cefotaxime","TUN","Tunisia","Eastern Mediterranean Region",17,1,5.882352941
+"Bloodstream","Salmonella spp.","Ceftazidime","TUN","Tunisia","Eastern Mediterranean Region",18,1,5.555555556
+"Bloodstream","Salmonella spp.","Ciprofloxacin","TUN","Tunisia","Eastern Mediterranean Region",14,4,28.571428571
+"Bloodstream","Salmonella spp.","Ertapenem","TUN","Tunisia","Eastern Mediterranean Region",18,0,0
+"Bloodstream","Salmonella spp.","Imipenem","TUN","Tunisia","Eastern Mediterranean Region",19,0,0
+"Bloodstream","Salmonella spp.","Cefotaxime","TUR","T<U+00FC>rkiye","European Region",20,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","TUR","T<U+00FC>rkiye","European Region",41,3,7.317073171
+"Bloodstream","Salmonella spp.","Ceftriaxone","TUR","T<U+00FC>rkiye","European Region",60,2,3.333333333
+"Bloodstream","Salmonella spp.","Ciprofloxacin","TUR","T<U+00FC>rkiye","European Region",71,18,25.352112676
+"Bloodstream","Salmonella spp.","Ertapenem","TUR","T<U+00FC>rkiye","European Region",38,0,0
+"Bloodstream","Salmonella spp.","Imipenem","TUR","T<U+00FC>rkiye","European Region",28,0,0
+"Bloodstream","Salmonella spp.","Levofloxacin","TUR","T<U+00FC>rkiye","European Region",18,2,11.111111111
+"Bloodstream","Salmonella spp.","Meropenem","TUR","T<U+00FC>rkiye","European Region",40,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","TZA","United Republic of Tanzania","African Region",21,4,19.047619048
+"Bloodstream","Salmonella spp.","Ceftriaxone","TZA","United Republic of Tanzania","African Region",16,2,12.5
+"Bloodstream","Salmonella spp.","Ciprofloxacin","TZA","United Republic of Tanzania","African Region",21,0,0
+"Bloodstream","Salmonella spp.","Meropenem","TZA","United Republic of Tanzania","African Region",19,0,0
+"Bloodstream","Salmonella spp.","Ceftriaxone","USA","United States of America","Region of the Americas",197,6,3.045685279
+"Bloodstream","Salmonella spp.","Ciprofloxacin","USA","United States of America","Region of the Americas",197,3,1.52284264
+"Bloodstream","Salmonella spp.","Meropenem","USA","United States of America","Region of the Americas",197,0,0
+"Bloodstream","Salmonella spp.","Ceftazidime","ZAF","South Africa","African Region",370,6,1.621621622
+"Bloodstream","Salmonella spp.","Ceftriaxone","ZAF","South Africa","African Region",716,13,1.815642458
+"Bloodstream","Salmonella spp.","Ciprofloxacin","ZAF","South Africa","African Region",655,20,3.053435115
+"Bloodstream","Salmonella spp.","Ertapenem","ZAF","South Africa","African Region",704,0,0
+"Bloodstream","Salmonella spp.","Imipenem","ZAF","South Africa","African Region",710,0,0
+"Bloodstream","Salmonella spp.","Meropenem","ZAF","South Africa","African Region",700,0,0

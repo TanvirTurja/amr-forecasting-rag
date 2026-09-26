@@ -1,0 +1,54 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Colistin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Escherichia coli","Colistin",0,0.395525737,0.752315702,1.802971264,9.836065574
+2019,"URINE","Escherichia coli","Colistin",0,0.454132607,1.092896175,1.378122308,12.280701754
+2020,"URINE","Escherichia coli","Colistin",0,0.376881771,0.958606908,2.127716337,30.434782609
+2021,"URINE","Escherichia coli","Colistin",0.065642641,0.682778951,1.398111693,17.429577465,50.985221675
+2022,"URINE","Escherichia coli","Colistin",0,0.36177064,1.066570602,6.635502049,15.243902439
+2023,"URINE","Escherichia coli","Colistin",0.165471594,0.632075093,1.104659092,6.686654824,33.888048411
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"URINE","Escherichia coli","Colistin",44553,26608,161,0.605081179
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Colistin",8074,1097,11,1.002734731
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Colistin",8554,7255,8,0.11026878
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Colistin",5627,1044,55,5.268199234
+"UGA","Uganda","African Region",2018,"URINE","Escherichia coli","Colistin",70,61,6,9.836065574
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Colistin",22331,1836,38,2.069716776
+"ARG","Argentina","Region of the Americas",2019,"URINE","Escherichia coli","Colistin",35830,18233,86,0.471672243
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Colistin",9132,1101,5,0.454132607
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Colistin",8565,7270,3,0.041265475
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Colistin",5587,1161,16,1.378122308
+"UGA","Uganda","African Region",2019,"URINE","Escherichia coli","Colistin",214,155,19,12.258064516
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Colistin",27055,2744,26,0.947521866
+"ARG","Argentina","Region of the Americas",2020,"URINE","Escherichia coli","Colistin",29170,12364,61,0.493367842
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Colistin",4560,1080,21,1.944444444
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Colistin",8567,7293,2,0.027423557
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Colistin",4464,859,23,2.677532014
+"UGA","Uganda","African Region",2020,"URINE","Escherichia coli","Colistin",452,184,11,5.97826087
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Colistin",29681,1618,13,0.803461063
+"ARG","Argentina","Region of the Americas",2021,"URINE","Escherichia coli","Colistin",37956,11252,47,0.417703519
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Escherichia coli","Colistin",5654,895,192,21.452513966
+"KOR","Republic of Korea","Western Pacific Region",2021,"URINE","Escherichia coli","Colistin",9408,7901,7,0.08859638
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Colistin",2641,479,14,2.922755741
+"UGA","Uganda","African Region",2021,"URINE","Escherichia coli","Colistin",269,78,13,16.666666667
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Colistin",49312,2807,33,1.175632348
+"ARG","Argentina","Region of the Americas",2022,"URINE","Escherichia coli","Colistin",40377,12834,51,0.397381954
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Escherichia coli","Colistin",8324,1196,124,10.367892977
+"KOR","Republic of Korea","Western Pacific Region",2022,"URINE","Escherichia coli","Colistin",10028,8465,11,0.12994684
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Colistin",6824,1220,66,5.409836066
+"UGA","Uganda","African Region",2022,"URINE","Escherichia coli","Colistin",124,64,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Colistin",57098,2723,32,1.17517444
+"ARG","Argentina","Region of the Americas",2023,"URINE","Escherichia coli","Colistin",46185,9688,69,0.712221305
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Escherichia coli","Colistin",10948,714,9,1.260504202
+"KOR","Republic of Korea","Western Pacific Region",2023,"URINE","Escherichia coli","Colistin",2163,1813,3,0.165471594
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Colistin",12683,1453,87,5.987611838
+"UGA","Uganda","African Region",2023,"URINE","Escherichia coli","Colistin",188,55,6,10.909090909
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Colistin",58693,1322,448,33.888048411

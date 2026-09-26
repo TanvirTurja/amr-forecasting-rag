@@ -1,0 +1,54 @@
+Filters
+"Year filter: 2022"
+"Region filter: All"
+"Infection type filter: Gonorrhoea"
+"Bacterial pathogen filter: Neisseria gonorrhoeae"
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Neisseria gonorrhoeae BCIs per million population","Absolute number of Neisseria gonorrhoeae BCIs","Total Neisseria gonorrhoeae BCIs with AST (3GCs) per million population","Absolute number of Neisseria gonorrhoeae BCIs with AST (3GCs)","% of Neisseria gonorrhoeae BCIs with AST"
+"Australia",177.2,4643,177.2,4643,100
+"Austria",33.9,307,33.9,307,100
+"Bahrain",23.5,36,23.5,36,100
+"Belgium",15.5,180,15.5,180,100
+"Burkina Faso",0,1,0,1,100
+"Canada",429.2,16661,51.4,1995,12
+"Colombia",5.2,268,3.8,195,72.8
+"Czechia",8.2,88,8.2,88,100
+"Denmark",19.7,116,19.7,116,100
+"Estonia",5.9,8,5.9,8,100
+"Eswatini",3.3,4,2.5,3,75
+"Ethiopia",0,5,0,3,60
+"France",2.9,200,2.9,200,100
+"Germany",1.8,148,1.8,148,100
+"Greece",8,83,8,83,100
+"Iceland",128.8,49,128.8,49,100
+"Iraq",0.5,20,0.3,15,75
+"Ireland",28,143,28,143,100
+"Italy",1.4,81,1.4,81,100
+"Japan",7.6,950,7.6,950,100
+"Jordan",0.5,6,0.5,6,100
+"Kuwait",3.7,17,2.2,10,58.8
+"Lao People's Democratic Republic",0.9,7,0.5,4,57.1
+"Malta",96.6,51,92.8,49,96.1
+"Morocco",0.1,2,0.1,2,100
+"Nepal",0.2,7,0.2,6,85.7
+"Netherlands (Kingdom of the)",10.6,190,10.6,190,100
+"Norway",80.8,441,80.8,441,100
+"Oman",8.7,41,8.5,40,97.6
+"Pakistan",0.2,48,0.2,41,85.4
+"Peru",1.7,58,1.7,58,100
+"Philippines",0.4,42,0.3,37,88.1
+"Poland",0.4,15,0.4,15,100
+"Qatar",34.2,99,30.8,89,89.9
+"Saudi Arabia",0.6,18,0.5,17,94.4
+"Singapore",32,181,32,181,100
+"South Africa",5.8,362,5.8,362,100
+"Sweden",8.5,89,8.5,89,100
+"Thailand",1.3,96,1.1,80,83.3
+"Tunisia",0.3,4,0.2,2,50
+"Uganda",3.1,148,2.2,105,70.9
+"United Arab Emirates",41.4,424,29.9,306,72.2
+"United Kingdom of Great Britain and Northern Ireland",53.1,3619,38.4,2620,72.4
+"United States of America",10.8,3684,10.8,3684,100
+"Yemen",0.1,4,0.1,3,75

@@ -1,0 +1,28 @@
+Filters
+"Antimicrobial class filter: Antimalarials"
+"Year filter: 2020"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","For antibiotics: only J01 and P01AB reported"
+"b","Only use in the public sector reported"
+
+
+"CountryTerritoryArea","COUNTRY","WHORegionName","footnotes","DID_antibiotics"
+"Armenia","ARM","European Region","",0.051328759
+"Benin","BEN","African Region","",4.120171518
+"Burkina Faso","BFA","African Region","a",3.723441973
+"Bangladesh","BGD","South-East Asia Region","",0.00018097
+"Belarus","BLR","European Region","",0.110957858
+"Switzerland","CHE","European Region","",0.031446259
+"Ethiopia","ETH","African Region","a",0.014983215
+"Iran (Islamic Republic of)","IRN","Eastern Mediterranean Region","",1.472584891
+"Jordan","JOR","Eastern Mediterranean Region","",0.354435492
+"Maldives","MDV","South-East Asia Region","",0.617356396
+"Montenegro","MNE","European Region","",1.058781934
+"Nepal","NPL","South-East Asia Region","",0.129539337
+"Tajikistan","TJK","European Region","",6.706562296
+"South Africa","ZAF","African Region","b",0.031337816

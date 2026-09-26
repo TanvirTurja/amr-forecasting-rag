@@ -1,0 +1,81 @@
+Filters
+"Year filter: 2023"
+"Region filter: All"
+"Infection type filter: Urinary tract"
+"Bacterial pathogen filter: Escherichia coli"
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Escherichia coli BCIs per million population","Absolute number of Escherichia coli BCIs","Total Escherichia coli BCIs with AST (3GCs) per million population","Absolute number of Escherichia coli BCIs with AST (3GCs)","% of Escherichia coli BCIs with AST"
+"Afghanistan",3.8,159,3.6,148,93.1
+"Algeria",93.6,4319,67.9,3133,72.5
+"Argentina",869.7,39605,568.2,25875,65.3
+"Australia",4528.5,119785,3892.4,102958,86
+"Bahrain",3811.6,5983,3676.6,5771,96.5
+"Bangladesh",2.6,439,2.5,437,99.5
+"Bhutan",1398.8,1100,1395,1097,99.7
+"Brazil",28.1,5932,26.8,5665,95.5
+"Burkina Faso",62.6,1441,39.7,913,63.4
+"Burundi",4.6,63,2.6,36,57.1
+"Cameroon",27.7,785,22.9,649,82.7
+"Canada",7323.7,287815,2660,104536,36.3
+"Chad",6.6,128,3.9,75,58.6
+"China, Hong Kong SAR",4246,31602,2429.2,18080,57.2
+"Colombia",4035.3,211134,3837.5,200784,95.1
+"C<U+00F4>te d<U+2019>Ivoire",14.3,445,11,343,77.1
+"Egypt",7.5,858,4.9,564,65.7
+"Eswatini",115.4,142,78.8,97,68.3
+"Ethiopia",8.2,1051,5.4,698,66.4
+"Finland",15320.2,85811,5812.3,32556,37.9
+"Germany",6972.6,589520,6409.7,541927,91.9
+"Guinea",11.2,162,10.1,145,89.5
+"India",57.2,82300,36.1,51874,63
+"Indonesia",29.4,8267,27.3,7684,92.9
+"Iran (Islamic Republic of)",55.6,5039,44.4,4024,79.9
+"Iraq",161.1,7260,112.3,5061,69.7
+"Japan",3843.6,478038,3652.3,454246,95
+"Jordan",1890.1,21621,1212,13864,64.1
+"Kenya",17.4,962,13.6,753,78.3
+"Kuwait",2286.7,11065,1735.6,8398,75.9
+"Lao People's Democratic Republic",61.3,470,61.1,468,99.6
+"Latvia",842.5,1586,838.3,1578,99.5
+"Lebanon",99.4,574,58,335,58.4
+"Liberia",4.6,25,4.4,24,96
+"Madagascar",2,62,1.8,55,88.7
+"Malawi",19,402,12.6,265,65.9
+"Malaysia",529.2,18588,508.1,17847,96
+"Maldives",3127.4,1645,1979.1,1041,63.3
+"Mali",2.4,56,2.4,56,100
+"Malta",8124.5,4330,8113.2,4324,99.9
+"Mauritius",2586.4,3294,2585.6,3293,100
+"Morocco",118.9,4483,114.8,4330,96.6
+"Myanmar",10.2,551,9.4,510,92.6
+"Namibia",357.1,1058,256.2,759,71.7
+"Nepal",490,14550,172.6,5125,35.2
+"Norway",267.8,1478,267.8,1478,100
+"Oman",1788.2,9029,1382.2,6979,77.3
+"Pakistan",252.4,62468,206.4,51082,81.8
+"Papua New Guinea",10.9,113,8.3,86,76.1
+"Peru",532.9,18036,141,4772,26.5
+"Philippines",66.3,7612,60.1,6909,90.8
+"Qatar",2960,8818,2957.3,8810,99.9
+"Republic of Korea",35,1813,35,1813,100
+"Republic of Moldova",716.3,2197,702.6,2155,98.1
+"Saudi Arabia",263.9,8780,201.7,6709,76.4
+"Singapore",1260.8,7299,694.6,4021,55.1
+"South Africa",580.7,36706,568.5,35934,97.9
+"Sri Lanka",198.1,4551,94.4,2168,47.6
+"Sweden",20683,218237,3486,36782,16.9
+"Switzerland",18885.2,167522,14384.1,127595,76.2
+"Thailand",238.6,17110,182.2,13064,76.4
+"Timor-Leste",41.9,58,41.9,58,100
+"Togo",10.7,100,0.2,2,2
+"Trinidad and Tobago",110.5,166,103.8,156,94
+"Tunisia",515.9,6294,486.2,5932,94.2
+"Uganda",3.3,161,2.7,130,80.7
+"United Arab Emirates",4248.3,45211,3863.2,41113,90.9
+"United Kingdom of Great Britain and Northern Ireland",13664,938487,5197.6,356987,38
+"United Republic of Tanzania",25.8,1721,23.7,1576,91.6
+"Yemen",132.8,5231,112.2,4420,84.5
+"Zambia",52,1077,20.9,434,40.3
+"occupied Palestinian territory, including east Jerusalem",1039.3,5622,934.7,5056,89.9

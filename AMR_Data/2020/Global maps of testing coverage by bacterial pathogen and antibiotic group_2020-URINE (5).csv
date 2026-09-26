@@ -1,0 +1,64 @@
+Filters
+"Year filter: 2020"
+"Region filter: All"
+"Infection type filter: Urinary tract"
+"Bacterial pathogen filter: Klebsiella pneumoniae"
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Klebsiella pneumoniae BCIs per million population","Absolute number of Klebsiella pneumoniae BCIs","Total Klebsiella pneumoniae BCIs with AST (3GCs) per million population","Absolute number of Klebsiella pneumoniae BCIs with AST (3GCs)","% of Klebsiella pneumoniae BCIs with AST"
+"Argentina",84.3,3808,74.2,3355,88.1
+"Australia",472.9,12174,472.7,12168,100
+"Bahrain",631.1,936,616.3,914,97.6
+"Bangladesh",0.3,52,0.3,47,90.4
+"Bhutan",251.9,194,250.6,193,99.5
+"Brazil",3.5,722,3.1,643,89.1
+"Burkina Faso",8.5,183,4.4,95,51.9
+"C<U+00F4>te d<U+2019>Ivoire",2.1,62,1.9,56,90.3
+"Djibouti",19,21,19,21,100
+"Egypt",0,2,0,1,50
+"Ethiopia",1.4,172,1,121,70.3
+"Finland",2676.1,14798,922.7,5102,34.5
+"Germany",944.1,78954,873.4,73044,92.5
+"India",2.9,4099,2.1,2968,72.4
+"Indonesia",2,558,1.8,481,86.2
+"Iran (Islamic Republic of)",11.9,1045,10.3,906,86.7
+"Iraq",5,209,3.5,146,69.9
+"Japan",648.6,81925,628,79319,96.8
+"Jordan",80.5,875,73.7,801,91.5
+"Kenya",0.5,26,0.1,7,26.9
+"Kuwait",63.9,281,63.9,281,100
+"Lao People's Democratic Republic",5,37,4.6,34,91.9
+"Lebanon",95.7,546,58.2,332,60.8
+"Liberia",6,31,4.1,21,67.7
+"Libya",7.7,54,7.2,51,94.4
+"Malawi",24.7,482,24.7,482,100
+"Malaysia",160.2,5429,153.4,5200,95.8
+"Mali",1.9,41,1.8,39,95.1
+"Mauritius",898.5,1153,897.7,1152,99.9
+"Morocco",0.1,4,0.1,4,100
+"Myanmar",4.8,257,4.2,224,87.2
+"Nepal",28.1,814,21.9,633,77.8
+"Norway",129.9,699,129.9,699,100
+"Oman",166.7,754,120.5,545,72.3
+"Pakistan",19.4,4553,3.5,813,17.9
+"Peru",17.4,570,15.5,510,89.5
+"Philippines",13.5,1511,13.1,1473,97.5
+"Qatar",696.7,1953,696.7,1953,100
+"Republic of Korea",24.6,1274,24.6,1274,100
+"Saudi Arabia",47.4,1468,47.4,1468,100
+"Singapore",195.9,1101,195.5,1099,99.8
+"Sri Lanka",28,632,27.8,627,99.2
+"Sudan",1.6,77,1.6,73,94.8
+"Sweden",4078.7,42230,980.7,10154,24
+"Switzerland",2374,20513,2124.9,18360,89.5
+"Syrian Arab Republic",0.5,10,0.4,9,90
+"Thailand",39.2,2806,35.9,2571,91.6
+"Timor-Leste",8.3,11,8.3,11,100
+"Tunisia",81.4,975,58.4,699,71.7
+"Uganda",2,90,2,89,98.9
+"United Arab Emirates",732.1,6917,648.6,6128,88.6
+"United Kingdom of Great Britain and Northern Ireland",683.3,46020,389.6,26240,57
+"United Republic of Tanzania",1.5,92,1.4,87,94.6
+"Zambia",6.8,130,1.4,27,20.8
+"occupied Palestinian territory, including east Jerusalem",178.7,906,177.3,899,99.2

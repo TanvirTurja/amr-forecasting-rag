@@ -1,0 +1,41 @@
+Filters
+"Year filter: 2020"
+"Region filter: All"
+"Infection type filter: Gastrointestinal"
+"Bacterial pathogen filter: Shigella spp."
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Shigella spp. BCIs per million population","Absolute number of Shigella spp. BCIs","Total Shigella spp. BCIs with AST (3GCs) per million population","Absolute number of Shigella spp. BCIs with AST (3GCs)","% of Shigella spp. BCIs with AST"
+"Argentina",37.8,1706,16.6,750,44
+"Australia",8.8,227,8.3,213,93.8
+"Bahrain",10.1,15,10.1,15,100
+"Bangladesh",0.1,9,0.1,9,100
+"Brazil",0,1,0,1,100
+"Burkina Faso",0.4,8,0.2,5,62.5
+"Djibouti",5.4,6,5.4,6,100
+"Ethiopia",0,3,0,1,33.3
+"Germany",0.5,38,0.3,29,76.3
+"Iran (Islamic Republic of)",0,2,0,2,100
+"Iraq",0,1,0,1,100
+"Japan",0.6,74,0.6,74,100
+"Jordan",0.6,7,0.6,6,85.7
+"Kenya",0.3,14,0.2,9,64.3
+"Kuwait",1.1,5,1.1,5,100
+"Lebanon",0.4,2,0.4,2,100
+"Malawi",1.7,33,1.7,33,100
+"Malaysia",0.3,10,0.3,9,90
+"Norway",7.1,38,7.1,38,100
+"Oman",2.9,13,2.4,11,84.6
+"Pakistan",0.4,89,0.1,18,20.2
+"Peru",5.1,167,4.9,160,95.8
+"Philippines",0.1,10,0.1,9,90
+"Qatar",7.5,21,7.5,21,100
+"Saudi Arabia",0.2,5,0.2,5,100
+"Singapore",0.5,3,0.4,2,66.7
+"South Africa",8.4,508,8,483,95.1
+"Sweden",12.9,134,12,124,92.5
+"Switzerland",4.2,36,2.4,21,58.3
+"United Arab Emirates",4.9,46,4.7,44,95.7
+"Zambia",1.2,23,0.6,12,52.2
+"occupied Palestinian territory, including east Jerusalem",1,5,1,5,100

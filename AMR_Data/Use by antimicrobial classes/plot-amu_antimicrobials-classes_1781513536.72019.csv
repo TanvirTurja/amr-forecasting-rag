@@ -1,0 +1,59 @@
+Filters
+"Antimicrobial class filter: Antituberculosis medicines"
+"Year filter: 2021"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","For antibiotics: only J01 and P01AB reported"
+"b","Only use in the community reported"
+"c","Only use in the public sector reported"
+"d","For antibiotics: only J01 reported"
+"e","For antituberculosis medicines: data are incomplete"
+"f","Data incomplete since not collected from all sources of data"
+
+
+"CountryTerritoryArea","COUNTRY","WHORegionName","footnotes","DID_antibiotics"
+"Armenia","ARM","European Region","",0.119755181
+"Austria","AUT","European Region","",0.146049758
+"Belgium","BEL","European Region","",0.194575325
+"Benin","BEN","African Region","",0.026737245
+"Bangladesh","BGD","South-East Asia Region","",0.061747709
+"Belarus","BLR","European Region","",0.40808718
+"Switzerland","CHE","European Region","",0.210327271
+"Cyprus","CYP","European Region","",0.187785464
+"Germany","DEU","European Region","b",0.167718682
+"Denmark","DNK","European Region","",0.115100558
+"Egypt","EGY","Eastern Mediterranean Region","",0.044543445
+"Spain","ESP","European Region","",0.132388579
+"Estonia","EST","European Region","",0.051483969
+"Finland","FIN","European Region","",0.132197016
+"France","FRA","European Region","a",0.242886352
+"Gabon","GAB","African Region","",5.907981591
+"Georgia","GEO","European Region","",0.301239632
+"Croatia","HRV","European Region","",0.118472793
+"Hungary","HUN","European Region","",0.105125969
+"Iran (Islamic Republic of)","IRN","Eastern Mediterranean Region","",0.472259386
+"Iceland","ISL","European Region","",0.200077845
+"Italy","ITA","European Region","",0.09177728
+"Jordan","JOR","Eastern Mediterranean Region","",0.039707834
+"Lithuania","LTU","European Region","",0.30582247
+"Latvia","LVA","European Region","",0.151962072
+"Malta","MLT","European Region","",0.071879955
+"Montenegro","MNE","European Region","",0.221188016
+"Norway","NOR","European Region","",0.114363858
+"Nepal","NPL","South-East Asia Region","",0.074074164
+"Oman","OMN","Eastern Mediterranean Region","c,d",0.094914608
+"Poland","POL","European Region","",0.166916391
+"Portugal","PRT","European Region","e",0.115165286
+"Qatar","QAT","Eastern Mediterranean Region","c,f",0.01896085
+"Romania","ROU","European Region","",0.594075949
+"Russian Federation","RUS","European Region","",1.510475248
+"Slovenia","SVN","European Region","",0.101972203
+"Sweden","SWE","European Region","",0.18800791
+"Tajikistan","TJK","European Region","",0.140754483
+"United Republic of Tanzania","TZA","African Region","",0.555592937
+"Uganda","UGA","African Region","",1.637701502
+"South Africa","ZAF","African Region","c",11.434159136

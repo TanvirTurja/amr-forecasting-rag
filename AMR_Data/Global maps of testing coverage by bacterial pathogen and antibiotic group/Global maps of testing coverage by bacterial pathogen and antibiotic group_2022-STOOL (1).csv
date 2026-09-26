@@ -1,0 +1,54 @@
+Filters
+"Year filter: 2022"
+"Region filter: All"
+"Infection type filter: Gastrointestinal"
+"Bacterial pathogen filter: Shigella spp."
+"Antibiotic group filter: 3GCs"
+
+
+"CountryTerritoryArea","Total Shigella spp. BCIs per million population","Absolute number of Shigella spp. BCIs","Total Shigella spp. BCIs with AST (3GCs) per million population","Absolute number of Shigella spp. BCIs with AST (3GCs)","% of Shigella spp. BCIs with AST"
+"Argentina",35.3,1603,12.7,575,35.9
+"Australia",4.5,119,4.3,112,94.1
+"Bahrain",7.8,12,7.8,12,100
+"Bangladesh",0,3,0,3,100
+"Belgium",25.1,292,25.1,292,100
+"Burkina Faso",0.8,18,0.8,18,100
+"Cameroon",0.1,4,0.1,4,100
+"China, Hong Kong SAR",0.9,7,0.9,7,100
+"Colombia",7.7,400,7.5,388,97
+"Estonia",4.4,6,4.4,6,100
+"Eswatini",1.6,2,0.8,1,50
+"Ethiopia",0.1,10,0,1,10
+"Georgia",1.3,5,0.8,3,60
+"Germany",1,88,0.9,76,86.4
+"Indonesia",0,3,0,3,100
+"Iran (Islamic Republic of)",0.2,15,0.1,13,86.7
+"Iraq",0.3,15,0.3,14,93.3
+"Italy",0.1,7,0.1,7,100
+"Japan",0.1,14,0.1,14,100
+"Jordan",0.3,3,0.2,2,66.7
+"Kenya",0.1,7,0.1,7,100
+"Kuwait",1.1,5,1.1,5,100
+"Lao People's Democratic Republic",2.2,17,2.2,17,100
+"Lebanon",1.4,8,1.2,7,87.5
+"Liberia",0.4,2,0.4,2,100
+"Lithuania",2.1,6,1.8,5,83.3
+"Malta",17,9,9.5,5,55.6
+"Namibia",17.3,50,14.9,43,86
+"Nepal",0.3,9,0.1,3,33.3
+"Norway",13.2,72,13.2,72,100
+"Oman",9.5,45,8,38,84.4
+"Pakistan",0.7,159,0.6,146,91.8
+"Peru",10.5,350,2.8,94,26.9
+"Philippines",0.1,15,0.1,15,100
+"Qatar",22.5,65,22.1,64,98.5
+"Republic of Korea",0,1,0,1,100
+"Saudi Arabia",0.1,2,0.1,2,100
+"Singapore",1.2,7,0.9,5,71.4
+"South Africa",9.1,570,8.9,557,97.7
+"Tunisia",1.7,20,1.5,18,90
+"United Arab Emirates",9.2,94,6.9,71,75.5
+"United Kingdom of Great Britain and Northern Ireland",41.3,2813,5.4,367,13
+"United States of America",0.8,275,0.8,275,100
+"Yemen",0.3,10,0.2,7,70
+"Zambia",2.9,59,2.3,46,78

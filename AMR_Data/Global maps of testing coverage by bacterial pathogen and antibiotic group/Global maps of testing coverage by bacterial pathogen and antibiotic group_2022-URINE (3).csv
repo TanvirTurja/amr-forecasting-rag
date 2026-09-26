@@ -1,0 +1,68 @@
+Filters
+"Year filter: 2022"
+"Region filter: All"
+"Infection type filter: Urinary tract"
+"Bacterial pathogen filter: Klebsiella pneumoniae"
+"Antibiotic group filter: Fluoroquinolones"
+
+
+"CountryTerritoryArea","Total Klebsiella pneumoniae BCIs per million population","Absolute number of Klebsiella pneumoniae BCIs","Total Klebsiella pneumoniae BCIs with AST (Fluoroquinolones) per million population","Absolute number of Klebsiella pneumoniae BCIs with AST (Fluoroquinolones)","% of Klebsiella pneumoniae BCIs with AST"
+"Argentina",123,5586,119.9,5444,97.5
+"Australia",541,14176,448.2,11742,82.8
+"Bahrain",701,1075,676.9,1038,96.6
+"Bangladesh",0.3,44,0.3,43,97.7
+"Brazil",4,845,4,845,100
+"Burkina Faso",18.8,424,15.5,350,82.5
+"Cameroon",5.2,144,4.1,112,77.8
+"Canada",32.8,1275,32.8,1275,100
+"China, Hong Kong SAR",742.2,5541,565.2,4220,76.2
+"Colombia",652,33735,643.4,33287,98.7
+"Egypt",0.7,78,0.5,61,78.2
+"Eswatini",59.1,72,18,22,30.6
+"Ethiopia",2.3,293,1.5,182,62.1
+"Finland",2212.1,12320,2210.9,12313,99.9
+"Germany",1056.7,88856,1053.7,88600,99.7
+"India",14.3,20334,12.2,17447,85.8
+"Indonesia",7.7,2150,6.8,1886,87.7
+"Iran (Islamic Republic of)",16.7,1497,15.4,1380,92.2
+"Iraq",19,839,12.5,551,65.7
+"Japan",780.8,97599,768.2,96017,98.4
+"Jordan",263.6,2967,173.9,1957,66
+"Kenya",0.6,32,0.4,22,68.8
+"Kuwait",479.8,2202,400,1836,83.4
+"Lao People's Democratic Republic",8.7,66,7.1,54,81.8
+"Latvia",230.2,433,229.7,432,99.8
+"Lebanon",44,253,40.7,234,92.5
+"Lithuania",25.9,73,20.9,59,80.8
+"Mali",3.5,80,3.1,72,90
+"Malta",2129.9,1125,2120.4,1120,99.6
+"Mauritius",572.8,731,572.8,731,100
+"Morocco",27.7,1035,21,785,75.8
+"Myanmar",2.4,127,2.3,126,99.2
+"Namibia",48.4,140,46.4,134,95.7
+"Nepal",68.7,2040,42,1248,61.2
+"Norway",132.3,722,132.3,722,100
+"Oman",414.6,1961,380.1,1798,91.7
+"Pakistan",58.5,14262,52.7,12854,90.1
+"Papua New Guinea",0.5,5,0.5,5,100
+"Peru",29.5,988,19.9,666,67.4
+"Philippines",22.2,2528,21.3,2429,96.1
+"Qatar",782,2262,274.9,795,35.1
+"Republic of Korea",30.2,1563,30.2,1563,100
+"Republic of Moldova",153,465,146.7,446,95.9
+"Saudi Arabia",64.1,2064,62.2,2001,96.9
+"Singapore",392.8,2219,171.9,971,43.8
+"South Africa",135.3,8439,133.1,8304,98.4
+"Sri Lanka",27.5,627,17.5,400,63.8
+"Sweden",2413,25306,2329.2,24427,96.5
+"Syrian Arab Republic",3.4,76,2.9,65,85.5
+"Thailand",24,1721,16.8,1204,70
+"Timor-Leste",16.1,22,14.6,20,90.9
+"Trinidad and Tobago",116.3,174,81.6,122,70.1
+"Tunisia",86.7,1051,53.6,650,61.8
+"Uganda",0.5,23,0.2,9,39.1
+"United Arab Emirates",1279.7,13107,1237.5,12675,96.7
+"United Kingdom of Great Britain and Northern Ireland",946.3,64519,935.3,63766,98.8
+"United Republic of Tanzania",9.2,595,8.2,533,89.6
+"Yemen",4.6,177,4.1,157,88.7
+"Zambia",18.9,380,7.1,143,37.6

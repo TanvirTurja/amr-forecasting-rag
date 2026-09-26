@@ -1,0 +1,89 @@
+Filters
+"Year filter: 2023"
+"Region filter: All"
+"Infection type filter: Bloodstream"
+"Bacterial pathogen filter: Streptococcus pneumoniae"
+"Antibiotic group filter: Penicillins"
+
+
+"CountryTerritoryArea","Total Streptococcus pneumoniae BCIs per million population","Absolute number of Streptococcus pneumoniae BCIs","Total Streptococcus pneumoniae BCIs with AST (Penicillins) per million population","Absolute number of Streptococcus pneumoniae BCIs with AST (Penicillins)","% of Streptococcus pneumoniae BCIs with AST"
+"Algeria",0.3,15,0.1,5,33.3
+"Australia",24.8,655,23,609,93
+"Austria",55.1,503,55.1,503,100
+"Bahrain",14.7,23,8.3,13,56.5
+"Belgium",141.2,1654,141.2,1654,100
+"Benin",1.5,21,0.1,2,9.5
+"Bhutan",6.4,5,6.4,5,100
+"Bosnia and Herzegovina",11.6,37,11.6,37,100
+"Brazil",0.5,98,0.4,84,85.7
+"Brunei Darussalam",13.1,6,13.1,6,100
+"Cambodia",1.4,25,0.8,14,56
+"Cameroon",0.1,2,0,1,50
+"Canada",72.5,2848,72.5,2848,100
+"China, Hong Kong SAR",9.1,68,9.1,68,100
+"Colombia",32,1672,25.7,1345,80.4
+"Croatia",22.6,88,22.6,88,100
+"Cyprus",20.8,28,20.8,28,100
+"Czechia",38.2,413,29.9,323,78.2
+"Democratic Republic of the Congo",0.9,97,0,1,1
+"Denmark",58.3,347,58.3,347,100
+"Estonia",76.1,104,76.1,104,100
+"Ethiopia",0.1,8,0,1,12.5
+"Finland",73.4,411,73.4,411,100
+"France",12.6,863,12.6,863,100
+"Georgia",8.4,32,2.6,10,31.2
+"Germany",39.7,3358,39.7,3358,100
+"Greece",6.4,66,5.7,58,87.9
+"Iceland",90.3,35,90.3,35,100
+"India",0,61,0,4,6.6
+"Indonesia",0.2,59,0.1,31,52.5
+"Iran (Islamic Republic of)",0.6,53,0.3,23,43.4
+"Iraq",0.5,22,0,2,9.1
+"Ireland",65.2,339,65.2,339,100
+"Italy",19,1132,19,1132,100
+"Japan",16.5,2046,16.3,2033,99.4
+"Jordan",6.4,73,3.3,38,52.1
+"Kenya",0.1,4,0,1,25
+"Kosovo",5.9,10,5.9,10,100
+"Kuwait",24,116,15.1,73,62.9
+"Lao People's Democratic Republic",2.2,17,2.1,16,94.1
+"Latvia",23.4,44,23.4,44,100
+"Lithuania",62,177,62,177,100
+"Luxembourg",93.2,62,93.2,62,100
+"Madagascar",0,1,0,1,100
+"Malawi",0.3,6,0.1,2,33.3
+"Malaysia",13.7,480,10.5,368,76.7
+"Maldives",13.3,7,3.8,2,28.6
+"Mali",1.6,39,1.6,39,100
+"Malta",52.5,28,52.5,28,100
+"Mauritius",9.4,12,9.4,12,100
+"Morocco",0.7,25,0.5,20,80
+"Namibia",2.4,7,0.7,2,28.6
+"Nepal",1.1,34,0.9,28,82.4
+"Netherlands (Kingdom of the)",43.2,781,35.6,644,82.5
+"North Macedonia",2.7,5,2.7,5,100
+"Norway",68.1,376,68.1,376,100
+"Oman",22.8,115,15.6,79,68.7
+"Pakistan",1.2,293,1,258,88.1
+"Papua New Guinea",1.4,15,1.4,15,100
+"Peru",0.5,18,0.1,2,11.1
+"Philippines",0.9,107,0.6,71,66.4
+"Poland",9.5,367,8,310,84.5
+"Republic of Korea",0.5,27,0.5,27,100
+"Republic of Moldova",1.3,4,1.3,4,100
+"Russian Federation",1.3,186,1.1,161,86.6
+"Saudi Arabia",1.4,45,0.8,26,57.8
+"Singapore",5.2,30,4,23,76.7
+"South Africa",7.8,494,5.7,363,73.5
+"Sri Lanka",5.1,118,0.1,3,2.5
+"Sweden",100.1,1056,100.1,1056,100
+"Switzerland",106,940,102.1,906,96.4
+"Thailand",4.5,326,3.7,264,81
+"Timor-Leste",2.9,4,2.9,4,100
+"Tunisia",1.1,14,0.7,9,64.3
+"T<U+00FC>rkiye",2.9,254,2.7,237,93.3
+"Ukraine",2,74,1.9,70,94.6
+"United Arab Emirates",24.5,261,19.3,205,78.5
+"United Kingdom of Great Britain and Northern Ireland",59.6,4095,52.9,3635,88.8
+"Zambia",0.2,4,0,1,25
+"occupied Palestinian territory, including east Jerusalem",8.5,46,5.5,30,65.2

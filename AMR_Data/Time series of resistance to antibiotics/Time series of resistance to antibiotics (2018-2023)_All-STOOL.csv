@@ -1,0 +1,60 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Cefotaxime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"STOOL","Salmonella spp.","Cefotaxime",0.346020761,3.157894737,6.060606061,10.429447853,12.5
+2019,"STOOL","Salmonella spp.","Cefotaxime",0,2.298148429,3.289076056,5.466789359,11.764705882
+2020,"STOOL","Salmonella spp.","Cefotaxime",0,1.172409078,2.962009015,4.738562092,8.974358974
+2021,"STOOL","Salmonella spp.","Cefotaxime",0,1.367830464,2.927350427,4.594669235,15.384615385
+2022,"STOOL","Salmonella spp.","Cefotaxime",0.964630225,1.901534782,4.370629371,9.62384954,21.428571429
+2023,"STOOL","Salmonella spp.","Cefotaxime",0.509683996,1.923197976,4.496212543,10.94145108,40.495867769
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Salmonella spp.","Cefotaxime",3376,160,17,10.625
+"JPN","Japan","Western Pacific Region",2018,"STOOL","Salmonella spp.","Cefotaxime",317,161,5,3.105590062
+"PHL","Philippines","Western Pacific Region",2018,"STOOL","Salmonella spp.","Cefotaxime",67,32,4,12.5
+"POL","Poland","European Region",2018,"STOOL","Salmonella spp.","Cefotaxime",539,289,1,0.346020761
+"KOR","Republic of Korea","Western Pacific Region",2018,"STOOL","Salmonella spp.","Cefotaxime",165,163,17,10.429447853
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Cefotaxime",166,99,6,6.060606061
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Cefotaxime",818,245,10,4.081632653
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Salmonella spp.","Cefotaxime",2892,139,5,3.597122302
+"JPN","Japan","Western Pacific Region",2019,"STOOL","Salmonella spp.","Cefotaxime",306,215,4,1.860465116
+"PHL","Philippines","Western Pacific Region",2019,"STOOL","Salmonella spp.","Cefotaxime",77,17,2,11.764705882
+"POL","Poland","European Region",2019,"STOOL","Salmonella spp.","Cefotaxime",232,155,0,0
+"KOR","Republic of Korea","Western Pacific Region",2019,"STOOL","Salmonella spp.","Cefotaxime",140,140,15,10.714285714
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Cefotaxime",235,139,11,7.913669065
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Cefotaxime",1005,412,19,4.611650485
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Salmonella spp.","Cefotaxime",2201,116,10,8.620689655
+"JPN","Japan","Western Pacific Region",2020,"STOOL","Salmonella spp.","Cefotaxime",241,167,0,0
+"PHL","Philippines","Western Pacific Region",2020,"STOOL","Salmonella spp.","Cefotaxime",43,18,1,5.555555556
+"POL","Poland","European Region",2020,"STOOL","Salmonella spp.","Cefotaxime",156,81,0,0
+"KOR","Republic of Korea","Western Pacific Region",2020,"STOOL","Salmonella spp.","Cefotaxime",102,102,4,3.921568627
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Cefotaxime",103,78,7,8.974358974
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Cefotaxime",1068,468,10,2.136752137
+"ARG","Argentina","Region of the Americas",2021,"STOOL","Salmonella spp.","Cefotaxime",2270,108,3,2.777777778
+"JPN","Japan","Western Pacific Region",2021,"STOOL","Salmonella spp.","Cefotaxime",103,103,2,1.941747573
+"PHL","Philippines","Western Pacific Region",2021,"STOOL","Salmonella spp.","Cefotaxime",46,26,4,15.384615385
+"POL","Poland","European Region",2021,"STOOL","Salmonella spp.","Cefotaxime",260,137,2,1.459854015
+"KOR","Republic of Korea","Western Pacific Region",2021,"STOOL","Salmonella spp.","Cefotaxime",157,157,11,7.006369427
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Cefotaxime",97,65,2,3.076923077
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Cefotaxime",1289,539,25,4.638218924
+"ARG","Argentina","Region of the Americas",2022,"STOOL","Salmonella spp.","Cefotaxime",2265,147,11,7.482993197
+"JPN","Japan","Western Pacific Region",2022,"STOOL","Salmonella spp.","Cefotaxime",187,173,3,1.734104046
+"PHL","Philippines","Western Pacific Region",2022,"STOOL","Salmonella spp.","Cefotaxime",70,42,9,21.428571429
+"POL","Poland","European Region",2022,"STOOL","Salmonella spp.","Cefotaxime",293,145,3,2.068965517
+"KOR","Republic of Korea","Western Pacific Region",2022,"STOOL","Salmonella spp.","Cefotaxime",171,170,20,11.764705882
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Cefotaxime",92,65,11,16.923076923
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Cefotaxime",1509,572,25,4.370629371
+"ARG","Argentina","Region of the Americas",2023,"STOOL","Salmonella spp.","Cefotaxime",3273,188,11,5.85106383
+"JPN","Japan","Western Pacific Region",2023,"STOOL","Salmonella spp.","Cefotaxime",181,149,3,2.013422819
+"PHL","Philippines","Western Pacific Region",2023,"STOOL","Salmonella spp.","Cefotaxime",60,22,4,18.181818182
+"POL","Poland","European Region",2023,"STOOL","Salmonella spp.","Cefotaxime",1051,981,5,0.509683996
+"KOR","Republic of Korea","Western Pacific Region",2023,"STOOL","Salmonella spp.","Cefotaxime",194,194,30,15.463917526
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Cefotaxime",206,53,5,9.433962264
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Cefotaxime",1777,573,18,3.141361257

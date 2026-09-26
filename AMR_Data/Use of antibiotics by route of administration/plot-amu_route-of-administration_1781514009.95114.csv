@@ -1,0 +1,178 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","Only J01 reported"
+"b","Only J01 and P01AB reported"
+"c","Only use in the community reported"
+"d","Only use in the public sector reported"
+"e","Data incomplete since not collected from all sources of data"
+
+
+"WHORegionName","COUNTRY","CountryTerritoryArea","footnotes","ROA_NAME","DID","Percentage (%)"
+"European Region","ARM","Armenia","","Inhalation",0.005345157,0.0369413194307062
+"European Region","ARM","Armenia","","Oral",12.587872196,86.9969987047696
+"European Region","ARM","Armenia","","Parenteral",1.876100459,12.9660599757997
+"European Region","AUT","Austria","","Inhalation",0.034849236,0.375868135560767
+"European Region","AUT","Austria","","Oral",8.01268976,86.4210850320807
+"European Region","AUT","Austria","","Parenteral",1.224144901,13.2030468323585
+"European Region","BEL","Belgium","","Inhalation",0.01434019,0.0813807287604905
+"European Region","BEL","Belgium","","Oral",16.639278778,94.4284037075562
+"European Region","BEL","Belgium","","Parenteral",0.967433641,5.49021556368331
+"African Region","BEN","Benin","","Oral",16.560715387,95.0023369294942
+"African Region","BEN","Benin","","Parenteral",0.871187784,4.99766307050577
+"African Region","BEN","Benin","","Rectal",0,0
+"African Region","BFA","Burkina Faso","b","Oral",16.626950468,90.133735810556
+"African Region","BFA","Burkina Faso","b","Parenteral",1.820027563,9.866264189444
+"African Region","BFA","Burkina Faso","b","Rectal",0,0
+"South-East Asia Region","BGD","Bangladesh","","Inhalation",1.64e-05,2.96840578551199e-05
+"South-East Asia Region","BGD","Bangladesh","","Oral",54.411543116,98.2685843866836
+"South-East Asia Region","BGD","Bangladesh","","Parenteral",0.958672336,1.73138592925858
+"European Region","BLR","Belarus","","Oral",18.270712857,92.7255173189108
+"European Region","BLR","Belarus","","Parenteral",1.433370129,7.27448268108925
+"South-East Asia Region","BTN","Bhutan","a","Oral",9.164428185,95.7022297892995
+"South-East Asia Region","BTN","Bhutan","a","Parenteral",0.411553696,4.29777021070054
+"European Region","CHE","Switzerland","","Inhalation",0.030494197,0.345774983428026
+"European Region","CHE","Switzerland","","Oral",8.024959709,90.9953571430773
+"European Region","CHE","Switzerland","","Parenteral",0.763633003,8.6588678734947
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","Oral",16.292183797,98.5514758938973
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","Parenteral",0.239464788,1.4485241061027
+"Region of the Americas","COL","Colombia","","Oral",19.61917679,75.1235730451543
+"Region of the Americas","COL","Colombia","","Parenteral",6.496696058,24.8764269548457
+"European Region","CYP","Cyprus","","Inhalation",0.012354144,0.0482684450687251
+"European Region","CYP","Cyprus","","Oral",24.09463819,94.1393201032694
+"European Region","CYP","Cyprus","","Parenteral",1.487666954,5.81241145166186
+"European Region","DEU","Germany","c","Inhalation",0.016741122,0.203288756411273
+"European Region","DEU","Germany","c","Oral",8.205362236,99.638357767063
+"European Region","DEU","Germany","c","Parenteral",0.013040864,0.158353476525689
+"European Region","DNK","Denmark","","Inhalation",0.04245741,0.294017098190467
+"European Region","DNK","Denmark","","Oral",13.600373422,94.1824416523451
+"European Region","DNK","Denmark","","Parenteral",0.797612842,5.52346026389438
+"European Region","DNK","Denmark","","Rectal",1.17e-05,8.098557006743e-05
+"Eastern Mediterranean Region","EGY","Egypt","","Oral",28.4630064439,93.2975879039659
+"Eastern Mediterranean Region","EGY","Egypt","","Parenteral",2.011768618,6.59428395248073
+"Eastern Mediterranean Region","EGY","Egypt","","Rectal",0.032987477,0.108128143553303
+"European Region","ESP","Spain","","Inhalation",0.093297432,0.453247649488675
+"European Region","ESP","Spain","","Oral",19.533706616,94.8965723996555
+"European Region","ESP","Spain","","Parenteral",0.9572025841,4.65017995085578
+"European Region","EST","Estonia","","Inhalation",0.008146666,0.0795934005647914
+"European Region","EST","Estonia","","Oral",9.341895561,91.270855882272
+"European Region","EST","Estonia","","Parenteral",0.885312197,8.64955071716323
+"African Region","ETH","Ethiopia","b","Oral",10.958008107,86.9878141878632
+"African Region","ETH","Ethiopia","b","Parenteral",1.639167958,13.0121858121368
+"European Region","FIN","Finland","","Inhalation",0.009174391,0.085025238971948
+"European Region","FIN","Finland","","Oral",9.729815232,90.1727402863415
+"European Region","FIN","Finland","","Parenteral",1.051206298,9.74223447468659
+"European Region","FRA","France","b","Inhalation",0.034824493,0.160680983842255
+"European Region","FRA","France","b","Oral",20.661757347,95.3338136707809
+"European Region","FRA","France","b","Parenteral",0.976480993,4.50550534537687
+"African Region","GAB","Gabon","","Oral",18.058159672,96.3461290880965
+"African Region","GAB","Gabon","","Parenteral",0.684845235,3.65387091190346
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Inhalation",0.039260104,0.247734283415643
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Oral",15.010194932,94.7155429367059
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Parenteral",0.7970999855,5.02976633651728
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Rectal",0.001102433,0.00695644336117875
+"European Region","GEO","Georgia","","Oral",15.096264935,60.7564387915557
+"European Region","GEO","Georgia","","Parenteral",9.750920424,39.2435612084443
+"Western Pacific Region","HKG","China, Hong Kong SAR","","Inhalation",6.14e-05,0.000450069194492961
+"Western Pacific Region","HKG","China, Hong Kong SAR","","Oral",12.66016588,92.7789493245121
+"Western Pacific Region","HKG","China, Hong Kong SAR","","Parenteral",0.985288494,7.22060060629343
+"Region of the Americas","HND","Honduras","d","Oral",4.106582869,90.0626972117189
+"Region of the Americas","HND","Honduras","d","Parenteral",0.453110538,9.93730278828113
+"European Region","HRV","Croatia","","Inhalation",0.008555944,0.0466573584498524
+"European Region","HRV","Croatia","","Oral",17.100478837,93.2525027420599
+"European Region","HRV","Croatia","","Parenteral",1.228788112,6.70083989949028
+"European Region","HUN","Hungary","","Inhalation",0.012573476,0.0999385954632211
+"European Region","HUN","Hungary","","Oral",11.906046017,94.6335858189964
+"European Region","HUN","Hungary","","Parenteral",0.662586197,5.26647558554044
+"European Region","IRL","Ireland","","Inhalation",0.023914589,0.134807855834765
+"European Region","IRL","Ireland","","Oral",16.728613962,94.3000756468676
+"European Region","IRL","Ireland","","Parenteral",0.9872192218,5.56500669707887
+"European Region","IRL","Ireland","","Rectal",1.95e-05,0.000109800218719443
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","Inhalation",0.000874266,0.00144772095596127
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","Oral",58.442419113,96.7763659662936
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","Parenteral",1.945850752,3.22218631275045
+"European Region","ISL","Iceland","","Inhalation",0.01069955,0.0660632776888035
+"European Region","ISL","Iceland","","Oral",15.580835363,96.2022708775735
+"European Region","ISL","Iceland","","Parenteral",0.60437731,3.73166584473765
+"European Region","ITA","Italy","","Inhalation",0.027612178,0.1403520703749
+"European Region","ITA","Italy","","Oral",18.43388206,93.6990192489641
+"European Region","ITA","Italy","","Parenteral",1.189070652,6.04401905857064
+"European Region","ITA","Italy","","Rectal",0.0229412007,0.116609622090399
+"Eastern Mediterranean Region","JOR","Jordan","","Oral",26.622161418,96.8758802554479
+"Eastern Mediterranean Region","JOR","Jordan","","Parenteral",0.858529701,3.12411974455213
+"African Region","KEN","Kenya","e","Oral",13.911479387,73.9836897543127
+"African Region","KEN","Kenya","e","Parenteral",4.891961509,26.0163102456873
+"Western Pacific Region","KOR","Republic of Korea","","Oral",18.2661684089,90.4927819962892
+"Western Pacific Region","KOR","Republic of Korea","","Parenteral",1.9190529969,9.50721800371081
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","Oral",19.494066734,95.4985087051455
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","Parenteral",0.918887306,4.50149129485445
+"European Region","LTU","Lithuania","","Inhalation",0.005792224,0.0422519301485693
+"European Region","LTU","Lithuania","","Oral",12.391788748,90.393079094896
+"European Region","LTU","Lithuania","","Parenteral",1.311199499,9.56466897495542
+"European Region","LVA","Latvia","","Inhalation",0.003010581,0.0253859457616534
+"European Region","LVA","Latvia","","Oral",10.726846633,90.4513615580568
+"European Region","LVA","Latvia","","Parenteral",1.129385669,9.52325249618154
+"South-East Asia Region","MDV","Maldives","","Oral",18.752152677,96.4059533616937
+"South-East Asia Region","MDV","Maldives","","Parenteral",0.699086613,3.5940466383063
+"African Region","MLI","Mali","b","Oral",19.822417077,97.7104330234888
+"African Region","MLI","Mali","b","Parenteral",0.464482227,2.28956697651117
+"European Region","MLT","Malta","","Inhalation",0.063318297,0.375943855245687
+"European Region","MLT","Malta","","Oral",15.584401432,92.5302826236709
+"European Region","MLT","Malta","","Parenteral",1.194437846,7.09181428966545
+"European Region","MLT","Malta","","Rectal",0.000329935,0.00195923141793983
+"European Region","MNE","Montenegro","","Inhalation",0.008308296,0.0258101974203544
+"European Region","MNE","Montenegro","","Oral",28.085560084,87.2494022779618
+"European Region","MNE","Montenegro","","Parenteral",4.096105814,12.7247875246178
+"European Region","NOR","Norway","","Inhalation",0.018034399,0.171043312314114
+"European Region","NOR","Norway","","Oral",9.682745879,91.8340379698952
+"European Region","NOR","Norway","","Parenteral",0.842909093,7.99439980777267
+"European Region","NOR","Norway","","Rectal",5.47e-05,0.000518910017975908
+"South-East Asia Region","NPL","Nepal","","Oral",77.313589267,99.0660229378464
+"South-East Asia Region","NPL","Nepal","","Parenteral",0.72889897,0.933977062153542
+"Eastern Mediterranean Region","OMN","Oman","a,d","Oral",4.17549266,93.182316784752
+"Eastern Mediterranean Region","OMN","Oman","a,d","Parenteral",0.305499888,6.81768321524804
+"Region of the Americas","PER","Peru","b,d","Oral",7.338074166,85.0336482154494
+"Region of the Americas","PER","Peru","b,d","Parenteral",1.291538081,14.9663517845506
+"European Region","POL","Poland","","Inhalation",0.003968898,0.0191426422236253
+"European Region","POL","Poland","","Oral",19.678750952,94.9138225337785
+"European Region","POL","Poland","","Parenteral",1.0505627905,5.06703482399785
+"European Region","PRT","Portugal","","Inhalation",0.034229985,0.226825024608515
+"European Region","PRT","Portugal","","Oral",14.223446481,94.2516814186308
+"European Region","PRT","Portugal","","Parenteral",0.833244341,5.52149355676068
+"Eastern Mediterranean Region","QAT","Qatar","d,e","Oral",2.949409268,90.1901240680085
+"Eastern Mediterranean Region","QAT","Qatar","d,e","Parenteral",0.320803798,9.80987593199147
+"European Region","ROU","Romania","","Inhalation",0.006925139,0.0259102385991647
+"European Region","ROU","Romania","","Oral",25.380615049,94.961165592143
+"European Region","ROU","Romania","","Parenteral",1.3398225344,5.01292416925783
+"European Region","RUS","Russian Federation","","Inhalation",0.006918405,0.0414340257505094
+"European Region","RUS","Russian Federation","","Oral",14.2733761046,85.4829366214805
+"European Region","RUS","Russian Federation","","Parenteral",2.41704483309,14.4756293527689
+"Eastern Mediterranean Region","SDN","Sudan","a","Oral",6.502444201,42.8857909321574
+"Eastern Mediterranean Region","SDN","Sudan","a","Parenteral",8.659790327,57.1142090678426
+"African Region","SEN","Senegal","a","Oral",12.62918762,97.843279162317
+"African Region","SEN","Senegal","a","Parenteral",0.278380198,2.15672083768297
+"European Region","SVN","Slovenia","","Inhalation",0.008487226,0.0822720654166145
+"European Region","SVN","Slovenia","","Oral",9.379301615,90.9192042257901
+"European Region","SVN","Slovenia","","Parenteral",0.928295234,8.9985237087933
+"European Region","SWE","Sweden","","Inhalation",0.016367634,0.172608382064185
+"European Region","SWE","Sweden","","Oral",8.8395553684,93.2196510866359
+"European Region","SWE","Sweden","","Parenteral",0.626579229,6.60774053129993
+"European Region","TJK","Tajikistan","","Oral",15.125094027,75.5611416246757
+"European Region","TJK","Tajikistan","","Parenteral",4.89193285,24.4388583753243
+"Eastern Mediterranean Region","TUN","Tunisia","b","Oral",22.261824232,97.1247634200051
+"Eastern Mediterranean Region","TUN","Tunisia","b","Parenteral",0.65902875,2.87523657999494
+"African Region","TZA","United Republic of Tanzania","","Oral",34.240433871,96.1001317380403
+"African Region","TZA","United Republic of Tanzania","","Parenteral",1.389521245,3.89986826195964
+"African Region","UGA","Uganda","","Oral",17.499251955,89.1215440066995
+"African Region","UGA","Uganda","","Parenteral",2.136013814,10.8784559933005
+"African Region","UGA","Uganda","","Rectal",0,0
+"European Region","UKR","Ukraine","","Inhalation",0.020222991,0.153141300941393
+"European Region","UKR","Ukraine","","Oral",10.519292079,79.6587421907419
+"European Region","UKR","Ukraine","","Parenteral",2.665930692,20.1881165083167
+"African Region","ZAF","South Africa","d","Oral",13.94748632,97.1497866139698
+"African Region","ZAF","South Africa","d","Parenteral",0.409196082,2.85021338603018

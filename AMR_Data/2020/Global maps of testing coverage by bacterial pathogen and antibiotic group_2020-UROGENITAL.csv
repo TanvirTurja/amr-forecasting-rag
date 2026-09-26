@@ -1,0 +1,41 @@
+Filters
+"Year filter: 2020"
+"Region filter: All"
+"Infection type filter: Gonorrhoea"
+"Bacterial pathogen filter: Neisseria gonorrhoeae"
+"Antibiotic group filter: Macrolides"
+
+
+"CountryTerritoryArea","Total Neisseria gonorrhoeae BCIs per million population","Absolute number of Neisseria gonorrhoeae BCIs","Total Neisseria gonorrhoeae BCIs with AST (Macrolides) per million population","Absolute number of Neisseria gonorrhoeae BCIs with AST (Macrolides)","% of Neisseria gonorrhoeae BCIs with AST"
+"Australia",171.7,4420,171.7,4420,100
+"Austria",22.2,198,22.2,198,100
+"Bahrain",39.8,59,6.1,9,15.3
+"Belgium",10.1,116,10.1,116,100
+"Cyprus",1.5,2,1.5,2,100
+"Czechia",9.2,97,9.2,97,100
+"C<U+00F4>te d<U+2019>Ivoire",0.2,7,0.2,7,100
+"Denmark",14.4,84,14.4,84,100
+"France",2.4,162,2.4,162,100
+"Germany",11.9,998,10.6,883,88.5
+"Greece",9.3,99,9.3,99,100
+"India",0,8,0,8,100
+"Ireland",10,50,10,50,100
+"Italy",1.5,90,1.5,90,100
+"Japan",6.5,825,6.5,825,100
+"Malawi",6.5,126,6.5,126,100
+"Mali",0.2,4,0,0,0
+"Malta",5.8,3,5.8,3,100
+"Netherlands (Kingdom of the)",7.1,125,7.1,125,100
+"Norway",88.3,475,88.3,475,100
+"Peru",0.9,28,0.9,28,100
+"Philippines",0.4,44,0.3,32,72.7
+"Qatar",42.4,119,40.7,114,95.8
+"Saudi Arabia",0.2,5,0,1,20
+"Singapore",40,225,40,225,100
+"South Africa",5.2,316,5.2,316,100
+"Sweden",20.9,216,20.9,216,100
+"Switzerland",17.8,154,9.4,81,52.6
+"Thailand",0.6,42,0.3,22,52.4
+"United Arab Emirates",30.9,292,0,0,0
+"United Kingdom of Great Britain and Northern Ireland",1.9,129,1.9,129,100
+"Yemen",0.1,4,0.1,2,50

@@ -1,0 +1,144 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Cefepime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Escherichia coli","Cefepime",7.157894737,14.866592788,41.302681992,50.568900126,88.405797101
+2019,"URINE","Escherichia coli","Cefepime",5.109489051,14.713619007,40.415913201,53.047294003,83.333333333
+2020,"URINE","Escherichia coli","Cefepime",7.319892838,16.727848273,40.315013405,56.596082855,94.433399602
+2021,"URINE","Escherichia coli","Cefepime",3.333333333,13.105549779,36.550308008,52.173913043,89.791183295
+2022,"URINE","Escherichia coli","Cefepime",6.937614705,15.919165512,37.73656321,55.920302833,71.063767693
+2023,"URINE","Escherichia coli","Cefepime",5.985184024,16.712403952,37.290569651,56.75,69.289897511
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"URINE","Escherichia coli","Cefepime",44553,22858,2534,11.085834281
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Escherichia coli","Cefepime",412,214,104,48.598130841
+"ETH","Ethiopia","African Region",2018,"URINE","Escherichia coli","Cefepime",388,157,93,59.23566879
+"IND","India","South-East Asia Region",2018,"URINE","Escherichia coli","Cefepime",25203,3403,2461,72.318542463
+"IDN","Indonesia","South-East Asia Region",2018,"URINE","Escherichia coli","Cefepime",2820,1766,844,47.791619479
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",3640,2225,1100,49.438202247
+"IRQ","Iraq","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",177,138,122,88.405797101
+"JPN","Japan","Western Pacific Region",2018,"URINE","Escherichia coli","Cefepime",423516,315402,40828,12.944749875
+"JOR","Jordan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",2676,1354,638,47.119645495
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",3964,3210,1176,36.635514019
+"MLI","Mali","African Region",2018,"URINE","Escherichia coli","Cefepime",85,72,33,45.833333333
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Cefepime",4866,474,376,79.324894515
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",14284,1354,759,56.056129985
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Cefepime",8074,4884,1270,26.003276003
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Cefepime",8554,7255,1314,18.11164714
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",5627,3915,1617,41.302681992
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Cefepime",4301,24,5,20.833333333
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",12711,6892,869,12.608821822
+"UGA","Uganda","African Region",2018,"URINE","Escherichia coli","Cefepime",70,61,24,39.344262295
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Cefepime",22331,12251,1656,13.517263897
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Cefepime",863293,109425,11118,10.160383825
+"ARG","Argentina","Region of the Americas",2019,"URINE","Escherichia coli","Cefepime",35830,21196,2238,10.558595962
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Escherichia coli","Cefepime",488,321,165,51.401869159
+"ETH","Ethiopia","African Region",2019,"URINE","Escherichia coli","Cefepime",449,142,71,50
+"IND","India","South-East Asia Region",2019,"URINE","Escherichia coli","Cefepime",47746,11419,7514,65.802609686
+"IDN","Indonesia","South-East Asia Region",2019,"URINE","Escherichia coli","Cefepime",3383,1600,703,43.9375
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",7065,3464,1950,56.29330254
+"IRQ","Iraq","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",859,486,360,74.074074074
+"JPN","Japan","Western Pacific Region",2019,"URINE","Escherichia coli","Cefepime",453889,343291,47702,13.895499736
+"JOR","Jordan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",5265,1738,650,37.399309551
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",1363,1106,447,40.415913201
+"MLI","Mali","African Region",2019,"URINE","Escherichia coli","Cefepime",105,62,30,48.387096774
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Cefepime",9953,1369,788,57.560262966
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",15455,679,517,76.141384389
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Cefepime",9132,5682,1682,29.602252728
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Cefepime",8565,7270,1334,18.349381018
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",5587,3462,1523,43.991912189
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Cefepime",9011,1481,481,32.478055368
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",5444,3663,519,14.168714169
+"UGA","Uganda","African Region",2019,"URINE","Escherichia coli","Cefepime",214,143,65,45.454545455
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Cefepime",27055,14385,2042,14.195342371
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Cefepime",880701,108425,12721,11.73253401
+"ARG","Argentina","Region of the Americas",2020,"URINE","Escherichia coli","Cefepime",29170,15658,1868,11.930003832
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Escherichia coli","Cefepime",261,180,94,52.222222222
+"ETH","Ethiopia","African Region",2020,"URINE","Escherichia coli","Cefepime",576,92,50,54.347826087
+"IND","India","South-East Asia Region",2020,"URINE","Escherichia coli","Cefepime",18235,3469,2151,62.006341885
+"IDN","Indonesia","South-East Asia Region",2020,"URINE","Escherichia coli","Cefepime",1595,825,303,36.727272727
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",4235,2063,1037,50.266602036
+"IRQ","Iraq","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",1502,760,592,77.894736842
+"JPN","Japan","Western Pacific Region",2020,"URINE","Escherichia coli","Cefepime",475584,357331,48833,13.66604073
+"JOR","Jordan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",5385,1918,950,49.53076121
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",3918,2159,892,41.315423807
+"MLI","Mali","African Region",2020,"URINE","Escherichia coli","Cefepime",339,126,84,66.666666667
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Cefepime",5975,848,499,58.844339623
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",28695,3115,2074,66.58105939
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Cefepime",4560,2834,770,27.170077629
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Cefepime",8567,7293,1373,18.826271767
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",4464,2984,1203,40.315013405
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Cefepime",11131,2919,696,23.843782117
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",5309,2364,310,13.113367174
+"UGA","Uganda","African Region",2020,"URINE","Escherichia coli","Cefepime",452,292,119,40.753424658
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Cefepime",29681,15487,2168,13.998837735
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Cefepime",651538,78764,8065,10.239449495
+"ARG","Argentina","Region of the Americas",2021,"URINE","Escherichia coli","Cefepime",37956,20439,2551,12.481041147
+"BGD","Bangladesh","South-East Asia Region",2021,"URINE","Escherichia coli","Cefepime",241,193,102,52.849740933
+"ETH","Ethiopia","African Region",2021,"URINE","Escherichia coli","Cefepime",768,92,48,52.173913043
+"IND","India","South-East Asia Region",2021,"URINE","Escherichia coli","Cefepime",64919,23394,11407,48.760365906
+"IDN","Indonesia","South-East Asia Region",2021,"URINE","Escherichia coli","Cefepime",3900,1461,534,36.550308008
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",4521,2040,1008,49.411764706
+"IRQ","Iraq","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",3797,1691,1155,68.30277942
+"JPN","Japan","Western Pacific Region",2021,"URINE","Escherichia coli","Cefepime",498905,373132,48901,13.105549779
+"JOR","Jordan","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",13316,1990,898,45.125628141
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",2927,1660,652,39.277108434
+"MLI","Mali","African Region",2021,"URINE","Escherichia coli","Cefepime",241,82,45,54.87804878
+"NPL","Nepal","South-East Asia Region",2021,"URINE","Escherichia coli","Cefepime",7928,980,480,48.979591837
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",47908,8475,5790,68.318584071
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Escherichia coli","Cefepime",5654,3758,1088,28.951569984
+"KOR","Republic of Korea","Western Pacific Region",2021,"URINE","Escherichia coli","Cefepime",9408,7901,1366,17.288950766
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",2641,1729,529,30.595720069
+"THA","Thailand","South-East Asia Region",2021,"URINE","Escherichia coli","Cefepime",10402,1958,387,19.765066394
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",5334,3217,386,11.998756606
+"UGA","Uganda","African Region",2021,"URINE","Escherichia coli","Cefepime",269,145,82,56.551724138
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Cefepime",49312,32377,3950,12.200018532
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2021,"URINE","Escherichia coli","Cefepime",725182,92119,6818,7.40129615
+"ARG","Argentina","Region of the Americas",2022,"URINE","Escherichia coli","Cefepime",40377,20929,3118,14.897988437
+"BGD","Bangladesh","South-East Asia Region",2022,"URINE","Escherichia coli","Cefepime",342,267,157,58.801498127
+"ETH","Ethiopia","African Region",2022,"URINE","Escherichia coli","Cefepime",1311,160,105,65.625
+"IND","India","South-East Asia Region",2022,"URINE","Escherichia coli","Cefepime",96309,40435,21419,52.971435637
+"IDN","Indonesia","South-East Asia Region",2022,"URINE","Escherichia coli","Cefepime",7106,4422,2110,47.715965626
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",6161,2562,1384,54.020296643
+"IRQ","Iraq","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",5960,2733,1760,64.398097329
+"JPN","Japan","Western Pacific Region",2022,"URINE","Escherichia coli","Cefepime",535682,399169,51284,12.847691078
+"JOR","Jordan","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",18196,6013,1782,29.635789124
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",3672,2642,997,37.73656321
+"MLI","Mali","African Region",2022,"URINE","Escherichia coli","Cefepime",487,166,92,55.421686747
+"NPL","Nepal","South-East Asia Region",2022,"URINE","Escherichia coli","Cefepime",12921,2457,1240,50.468050468
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",79700,6853,4870,71.063767693
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Escherichia coli","Cefepime",8324,5539,1250,22.567250406
+"KOR","Republic of Korea","Western Pacific Region",2022,"URINE","Escherichia coli","Cefepime",10028,8465,1434,16.940342587
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",6824,4371,1393,31.869137497
+"THA","Thailand","South-East Asia Region",2022,"URINE","Escherichia coli","Cefepime",6488,1172,277,23.634812287
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",5231,3021,299,9.897384972
+"UGA","Uganda","African Region",2022,"URINE","Escherichia coli","Cefepime",124,41,24,58.536585366
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Cefepime",57098,37852,5212,13.769417732
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2022,"URINE","Escherichia coli","Cefepime",945966,108491,8298,7.64856071
+"ARG","Argentina","Region of the Americas",2023,"URINE","Escherichia coli","Cefepime",46185,25513,1527,5.985184024
+"BGD","Bangladesh","South-East Asia Region",2023,"URINE","Escherichia coli","Cefepime",591,400,227,56.75
+"ETH","Ethiopia","African Region",2023,"URINE","Escherichia coli","Cefepime",1402,384,260,67.708333333
+"IND","India","South-East Asia Region",2023,"URINE","Escherichia coli","Cefepime",104947,48355,25991,53.750387757
+"IDN","Indonesia","South-East Asia Region",2023,"URINE","Escherichia coli","Cefepime",11518,7260,3293,45.358126722
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",6797,2802,1524,54.389721627
+"IRQ","Iraq","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",8451,3948,2069,52.406281662
+"JPN","Japan","Western Pacific Region",2023,"URINE","Escherichia coli","Cefepime",591596,437157,52555,12.021996674
+"JOR","Jordan","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",25767,9721,3382,34.790659397
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",619,306,153,50
+"MLI","Mali","African Region",2023,"URINE","Escherichia coli","Cefepime",67,55,37,67.272727273
+"NPL","Nepal","South-East Asia Region",2023,"URINE","Escherichia coli","Cefepime",17372,3565,1854,52.005610098
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",78151,5464,3786,69.289897511
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Escherichia coli","Cefepime",10948,6794,1221,17.97173977
+"KOR","Republic of Korea","Western Pacific Region",2023,"URINE","Escherichia coli","Cefepime",2163,1813,311,17.153888582
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",12683,5011,1837,36.659349431
+"THA","Thailand","South-East Asia Region",2023,"URINE","Escherichia coli","Cefepime",22725,10688,2575,24.09244012
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",8083,5337,603,11.298482293
+"UGA","Uganda","African Region",2023,"URINE","Escherichia coli","Cefepime",188,114,71,62.280701754
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Cefepime",58693,38576,8626,22.361053505
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2023,"URINE","Escherichia coli","Cefepime",1011886,106550,9187,8.622243078

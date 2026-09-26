@@ -1,0 +1,72 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Colistin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Colistin",0,0,0.05800464,0.556328234,5.5
+2019,"BLOOD","Escherichia coli","Colistin",0,0,0.307170031,1.157874811,3.125
+2020,"BLOOD","Escherichia coli","Colistin",0,0,0.376744252,1.509501377,5.555555556
+2021,"BLOOD","Escherichia coli","Colistin",0,0.092378753,0.491803279,1.056793053,66.666666667
+2022,"BLOOD","Escherichia coli","Colistin",0,0.02192021,0.51564066,1.186214564,25.552050473
+2023,"BLOOD","Escherichia coli","Colistin",0,0.499103635,0.792744077,1.481721826,25
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Colistin",7385,1968,19,0.965447154
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Colistin",14459,14,0,0
+"XKX","Kosovo","European Region",2018,"BLOOD","Escherichia coli","Colistin",164,12,0,0
+"MLT","Malta","European Region",2018,"BLOOD","Escherichia coli","Colistin",1116,10,0,0
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Colistin",5595,332,1,0.301204819
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Colistin",3519,1724,1,0.05800464
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Colistin",19539,1438,8,0.556328234
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Colistin",2629,48,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Colistin",2452,19,0,0
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Colistin",5783,1506,9,0.597609562
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Colistin",24223,514,3,0.583657588
+"XKX","Kosovo","European Region",2019,"BLOOD","Escherichia coli","Colistin",151,16,0,0
+"MLT","Malta","European Region",2019,"BLOOD","Escherichia coli","Colistin",624,22,0,0
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Colistin",6468,330,4,1.212121212
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Colistin",3646,1939,0,0
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Colistin",10424,283,3,1.060070671
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Colistin",5463,401,1,0.249376559
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Colistin",2464,36,0,0
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Colistin",7376,1617,8,0.494743352
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Colistin",12371,571,2,0.350262697
+"XKX","Kosovo","European Region",2020,"BLOOD","Escherichia coli","Colistin",161,10,0,0
+"MLT","Malta","European Region",2020,"BLOOD","Escherichia coli","Colistin",530,40,0,0
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Colistin",4276,315,6,1.904761905
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Colistin",4095,2209,0,0
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Colistin",10256,259,4,1.544401544
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Colistin",6159,816,5,0.612745098
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Colistin",2925,32,0,0
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Escherichia coli","Colistin",9243,1203,6,0.498753117
+"IND","India","South-East Asia Region",2021,"BLOOD","Escherichia coli","Colistin",34056,3185,11,0.345368917
+"XKX","Kosovo","European Region",2021,"BLOOD","Escherichia coli","Colistin",213,10,0,0
+"MLT","Malta","European Region",2021,"BLOOD","Escherichia coli","Colistin",569,49,0,0
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Colistin",4850,229,54,23.580786026
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Escherichia coli","Colistin",4488,2165,4,0.184757506
+"CHE","Switzerland","European Region",2021,"BLOOD","Escherichia coli","Colistin",10322,306,3,0.980392157
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Colistin",6559,637,3,0.470957614
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Colistin",3989,50,0,0
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Escherichia coli","Colistin",8366,1035,10,0.966183575
+"IND","India","South-East Asia Region",2022,"BLOOD","Escherichia coli","Colistin",43929,4575,14,0.306010929
+"XKX","Kosovo","European Region",2022,"BLOOD","Escherichia coli","Colistin",189,13,0,0
+"MLT","Malta","European Region",2022,"BLOOD","Escherichia coli","Colistin",706,59,1,1.694915254
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Colistin",5937,317,81,25.552050473
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Escherichia coli","Colistin",4484,2281,2,0.087680842
+"CHE","Switzerland","European Region",2022,"BLOOD","Escherichia coli","Colistin",11308,172,1,0.581395349
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Colistin",9544,1278,6,0.469483568
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Colistin",4194,48,0,0
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Escherichia coli","Colistin",9290,822,6,0.729927007
+"IND","India","South-East Asia Region",2023,"BLOOD","Escherichia coli","Colistin",41375,5446,21,0.385604113
+"XKX","Kosovo","European Region",2023,"BLOOD","Escherichia coli","Colistin",164,24,0,0
+"MLT","Malta","European Region",2023,"BLOOD","Escherichia coli","Colistin",859,67,1,1.492537313
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Colistin",7705,157,4,2.547770701
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Escherichia coli","Colistin",5416,2844,2,0.070323488
+"CHE","Switzerland","European Region",2023,"BLOOD","Escherichia coli","Colistin",12511,215,2,0.930232558
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Colistin",14722,2913,15,0.514933059
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Colistin",3959,40,10,25

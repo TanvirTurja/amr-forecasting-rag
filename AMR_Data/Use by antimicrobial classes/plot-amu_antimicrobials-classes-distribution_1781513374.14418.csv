@@ -1,0 +1,84 @@
+Filters
+"Antimicrobial class filter: Antibiotics"
+"Year filter: 2023"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","For antibiotics: only J01 reported"
+"b","For antibiotics: only J01 and P01AB reported"
+"c","For antivirals: only use in the community is reported"
+"d","Only use in the public sector reported"
+"e","For antifungals: only use in the hospital reported"
+"f","For antituberculosis medicines: data are incomplete"
+"g","Data incomplete since not collected from all sources of data"
+
+
+"CountryTerritoryArea","COUNTRY","WHORegionName","footnotes","DID_antibiotics"
+"Armenia","ARM","European Region","",13.879190779
+"Austria","AUT","European Region","",11.742037976
+"Belgium","BEL","European Region","",20.929121759
+"Benin","BEN","African Region","",22.476340621
+"Burkina Faso","BFA","African Region","b",20.23843736
+"Bangladesh","BGD","South-East Asia Region","",32.145939147
+"Belarus","BLR","European Region","",20.421515392
+"Brunei Darussalam","BRN","Western Pacific Region","",9.300538108
+"Bhutan","BTN","South-East Asia Region","a",12.154962265
+"Canada","CAN","Region of the Americas","",14.4048231617
+"Switzerland","CHE","European Region","",11.166598361
+"C<U+00F4>te d'Ivoire","CIV","African Region","b",10.147002369
+"Colombia","COL","Region of the Americas","",22.681070846
+"Czechia","CZE","European Region","",18.914150597
+"Germany","DEU","European Region","c",13.484312183
+"Denmark","DNK","European Region","",16.137644506
+"Egypt","EGY","Eastern Mediterranean Region","",29.322574846
+"Spain","ESP","European Region","",25.39033238
+"Estonia","EST","European Region","",12.850805307
+"Ethiopia","ETH","African Region","b",10.923886368
+"Finland","FIN","European Region","",12.427517517
+"France","FRA","European Region","b",24.2780705388
+"Gabon","GAB","African Region","",11.257213935
+"United Kingdom of Great Britain and Northern Ireland","GBR","European Region","d",17.07981025635
+"Georgia","GEO","European Region","",24.269527512
+"China, Hong Kong SAR","HKG","Western Pacific Region","",17.324069869
+"Honduras","HND","Region of the Americas","d",5.656926785
+"Croatia","HRV","European Region","",21.476128352
+"Hungary","HUN","European Region","",14.666778714
+"Indonesia","IDN","Western Pacific Region","",26.162806117
+"Ireland","IRL","European Region","e",22.765732406
+"Iran (Islamic Republic of)","IRN","Eastern Mediterranean Region","",65.480417506
+"Iceland","ISL","European Region","",18.062247396
+"Italy","ITA","European Region","",25.151503924
+"Jordan","JOR","Eastern Mediterranean Region","",36.295549165
+"Republic of Korea","KOR","Western Pacific Region","",33.0583372165
+"Kuwait","KWT","Eastern Mediterranean Region","",32.508706705
+"Lao People's Democratic Republic","LAO","Western Pacific Region","",18.438569547
+"Lithuania","LTU","European Region","",18.916572143
+"Latvia","LVA","European Region","",15.048142198
+"Maldives","MDV","South-East Asia Region","",29.789779767
+"Malta","MLT","European Region","",24.846526846
+"Montenegro","MNE","European Region","",31.676390363
+"Malaysia","MYS","Western Pacific Region","b",24.490599158
+"Norway","NOR","European Region","",11.928396956
+"Nepal","NPL","South-East Asia Region","",33.276016466
+"Oman","OMN","Eastern Mediterranean Region","d",8.556855515
+"Papua New Guinea","PNG","Western Pacific Region","d",13.117169015
+"Poland","POL","European Region","",23.967353988
+"Portugal","PRT","European Region","f",19.749161333
+"occupied Palestinian territory, including east Jerusalem","PSE","Eastern Mediterranean Region","b",29.115559122
+"Qatar","QAT","Eastern Mediterranean Region","g",11.444472468
+"Romania","ROU","European Region","",28.722600844
+"Russian Federation","RUS","European Region","",16.174675296
+"Saudi Arabia","SAU","Eastern Mediterranean Region","d",9.174670868
+"Senegal","SEN","African Region","a",12.836575906
+"Singapore","SGP","Western Pacific Region","",9.496114729
+"Slovenia","SVN","European Region","",13.615388036
+"Tajikistan","TJK","European Region","",18.666980372
+"Tunisia","TUN","Eastern Mediterranean Region","b",33.548169068
+"United Republic of Tanzania","TZA","African Region","",28.702964482
+"Uganda","UGA","African Region","",26.3622269995
+"Ukraine","UKR","European Region","",10.4508144504
+"South Africa","ZAF","African Region","d",18.868441033
+"Zambia","ZMB","African Region","",24.067663645

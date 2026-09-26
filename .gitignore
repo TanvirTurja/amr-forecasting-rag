@@ -1,5 +1,17 @@
 models
 update_manuscript
-AMR_Data
-income_group_world_bank.xlsx
-Build_AMR_Dataset.ipynb
+
+# trained binaries (retrained deterministically by the notebooks)
+*.pth
+*.pkl
+__pycache__/
+
+# caches / session artifacts
+.ruff_cache/
+.kilo/
+
+# logs
+*.log
+
+# manuscript draft (publish with the arXiv v2 when ready)
+journal/

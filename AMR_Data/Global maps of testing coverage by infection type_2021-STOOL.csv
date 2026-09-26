@@ -1,0 +1,63 @@
+Filters
+"Year filter: 2021"
+"Infection type filter: Gastrointestinal"
+
+
+"CountryTerritoryArea","BCIsPerMillion","TotalSpecimenIsolates","IsolsPerMillion","TotalSpecimenIsolatesWithAST","ASTResult"
+"Argentina",50.1,2270,49.3,2232,98.3
+"Australia",104.4,2711,103.8,2693,99.3
+"Bahrain",118.5,178,118.5,178,100
+"Bangladesh",0,6,0,6,100
+"Belgium",75.4,873,75.4,873,100
+"Brazil",0,2,0,2,100
+"Burkina Faso",2.2,49,2.2,49,100
+"Cameroon",0.5,14,0.5,13,92.9
+"Colombia",12.5,638,12,616,96.6
+"Cyprus",52.4,69,52.4,69,100
+"Estonia",96.1,128,96.1,128,100
+"Ethiopia",0.1,9,0,4,44.4
+"France",11.1,759,11.1,759,100
+"Georgia",24.5,93,23.5,89,95.7
+"Germany",50.9,4257,49,4102,96.4
+"Greece",20.5,217,20.5,217,100
+"India",0.2,235,0.2,233,99.1
+"Indonesia",0,6,0,3,50
+"Iran (Islamic Republic of)",0.2,15,0.1,12,80
+"Iraq",0.4,17,0.3,15,88.2
+"Italy",10.2,610,10.2,610,100
+"Japan",0.8,103,0.8,103,100
+"Jordan",2.2,24,1.5,17,70.8
+"Kenya",0.2,13,0.2,13,100
+"Kosovo",39.6,69,39.6,69,100
+"Kuwait",9.4,41,9.2,40,97.6
+"Lao People's Democratic Republic",4.7,35,4.7,35,100
+"Lebanon",5.9,34,4.5,26,76.5
+"Liberia",2.7,14,2.7,14,100
+"Lithuania",73,204,73,204,100
+"Luxembourg",176.5,113,176.5,113,100
+"Malawi",0.1,2,0.1,2,100
+"Malaysia",48,1647,44.8,1536,93.3
+"Malta",358.5,188,358.5,188,100
+"Mauritius",61.7,79,61.7,79,100
+"Morocco",0.1,5,0.1,5,100
+"Nepal",0.7,22,0.7,21,95.5
+"Netherlands (Kingdom of the)",31,550,31,550,100
+"Norway",34.8,188,34.8,188,100
+"Oman",105.8,476,88.4,398,83.6
+"Pakistan",0.5,108,0.5,108,100
+"Peru",1.8,60,1.8,59,98.3
+"Philippines",0.4,46,0.4,44,95.7
+"Poland",6.8,260,3.8,143,55
+"Qatar",114.4,322,114.4,322,100
+"Republic of Korea",3,157,3,157,100
+"Republic of Moldova",20.8,63,20.8,63,100
+"Saudi Arabia",3.1,97,3.1,97,100
+"Singapore",34.4,191,34.3,190,99.5
+"South Africa",16.2,995,15.6,962,96.7
+"Sri Lanka",0.4,9,0.4,9,100
+"Thailand",7,503,6.6,470,93.4
+"Tunisia",1.2,14,1.2,14,100
+"Uganda",0.1,4,0.1,4,100
+"United Arab Emirates",131.7,1289,119,1165,90.4
+"Zambia",6.6,130,4.2,82,63.1
+"occupied Palestinian territory, including east Jerusalem",3.1,16,3.1,16,100

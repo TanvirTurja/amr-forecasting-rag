@@ -1,0 +1,120 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Cefotaxime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5.831498684,44.075623957,69.5,84.631381928,100
+2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5.757530045,34.959103736,55.311355311,77.043010753,100
+2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",6.482501077,32.084436828,59.363636364,79.123394272,100
+2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",6.907600245,27.586206897,52.368758003,78.157267673,97.222222222
+2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2.985074627,30.750859666,58.937198068,79.094558128,100
+2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5.555555556,32.929770214,57.28811149,82.394645388,100
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",841,200,139,69.5
+"ETH","Ethiopia","African Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",122,11,11,100
+"GEO","Georgia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",216,59,51,86.440677966
+"IND","India","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",14459,1680,1359,80.892857143
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1381,60,48,80
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1826,173,136,78.612716763
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",126859,18623,1086,5.831498684
+"XKX","Kosovo","European Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",164,65,63,96.923076923
+"MLT","Malta","European Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1116,142,75,52.816901408
+"MKD","North Macedonia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",176,17,16,94.117647059
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",631,79,48,60.759493671
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5595,726,418,57.575757576
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",3519,701,190,27.104136947
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2420,494,362,73.279352227
+"CHE","Switzerland","European Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",19539,278,19,6.834532374
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2629,419,116,27.6849642
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2452,418,136,32.535885167
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1020,211,166,78.672985782
+"ETH","Ethiopia","African Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",139,12,12,100
+"GEO","Georgia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",433,120,92,76.666666667
+"IND","India","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",24223,4013,3286,81.883877398
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2314,283,223,78.798586572
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2277,186,144,77.419354839
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",136246,19887,1145,5.757530045
+"XKX","Kosovo","European Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",151,55,47,85.454545455
+"MLT","Malta","European Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",624,137,51,37.226277372
+"MKD","North Macedonia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",276,28,27,96.428571429
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1007,181,111,61.325966851
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",6468,852,451,52.9342723
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",3646,716,178,24.860335196
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2528,524,387,73.854961832
+"CHE","Switzerland","European Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",10424,135,10,7.407407407
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5463,920,356,38.695652174
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2464,376,144,38.29787234
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",954,207,157,75.845410628
+"ETH","Ethiopia","African Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",431,15,14,93.333333333
+"GEO","Georgia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",741,191,153,80.104712042
+"IND","India","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",12371,2799,2293,81.922115041
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1676,183,143,78.142076503
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1854,197,150,76.14213198
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",142185,20887,1354,6.482501077
+"XKX","Kosovo","European Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",161,77,71,92.207792208
+"MLT","Malta","European Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",530,132,45,34.090909091
+"MKD","North Macedonia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",293,99,99,100
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",876,84,72,85.714285714
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",4276,616,333,54.058441558
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",4095,870,221,25.402298851
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2458,570,432,75.789473684
+"CHE","Switzerland","European Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",10256,121,12,9.917355372
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",6159,917,289,31.515812432
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2925,441,144,32.653061224
+"BIH","Bosnia and Herzegovina","European Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1457,218,167,76.605504587
+"ETH","Ethiopia","African Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",786,44,36,81.818181818
+"GEO","Georgia","European Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",666,188,166,88.29787234
+"IND","India","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",34056,3777,2952,78.157267673
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",3070,315,229,72.698412698
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2037,201,139,69.154228856
+"JPN","Japan","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",148205,21223,1466,6.907600245
+"XKX","Kosovo","European Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",213,90,87,96.666666667
+"MLT","Malta","European Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",569,133,36,27.067669173
+"MKD","North Macedonia","European Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",284,84,74,88.095238095
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1621,179,142,79.329608939
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",4850,781,409,52.368758003
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",4488,957,264,27.586206897
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1126,250,177,70.8
+"CHE","Switzerland","European Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",10322,115,9,7.826086957
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",6559,925,344,37.189189189
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Klebsiella pneumoniae","Cefotaxime",3989,657,245,37.290715373
+"BIH","Bosnia and Herzegovina","European Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1207,296,235,79.391891892
+"ETH","Ethiopia","African Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1371,170,154,90.588235294
+"GEO","Georgia","European Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1007,155,119,76.774193548
+"IND","India","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",43929,6463,5225,80.844808912
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5596,1037,804,77.531340405
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2263,260,199,76.538461538
+"JPN","Japan","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",158356,22461,1647,7.332710031
+"XKX","Kosovo","European Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",189,111,111,100
+"MLT","Malta","European Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",706,145,31,21.379310345
+"MKD","North Macedonia","European Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",279,64,58,90.625
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2075,206,148,71.844660194
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5937,544,283,52.022058824
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",4484,1003,274,27.318045862
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1962,448,290,64.732142857
+"CHE","Switzerland","European Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",11308,67,2,2.985074627
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",9544,784,268,34.183673469
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Klebsiella pneumoniae","Cefotaxime",4194,600,212,35.333333333
+"BIH","Bosnia and Herzegovina","European Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1271,377,312,82.75862069
+"ETH","Ethiopia","African Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1761,94,88,93.617021277
+"GEO","Georgia","European Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",898,102,85,83.333333333
+"IND","India","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",41375,6132,5045,82.273320287
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",9180,1361,1058,77.736958119
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2925,427,338,79.156908665
+"JPN","Japan","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",169604,23641,1844,7.80000846
+"XKX","Kosovo","European Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",164,63,63,100
+"MLT","Malta","European Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",859,168,42,25
+"MKD","North Macedonia","European Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",283,61,60,98.360655738
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",2586,293,177,60.409556314
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",7705,691,355,51.374819103
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",5416,1244,387,31.109324759
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",1927,335,204,60.895522388
+"CHE","Switzerland","European Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",12511,144,8,5.555555556
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",14722,927,395,42.610571737
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Klebsiella pneumoniae","Cefotaxime",3959,511,177,34.637964775

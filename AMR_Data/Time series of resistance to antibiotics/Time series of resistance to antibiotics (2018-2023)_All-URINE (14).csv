@@ -1,0 +1,126 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Ceftriaxone
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",8.853402219,36.896388017,49.885255307,59.254694529,92.307692308
+2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",9.885243739,35.987903226,51.388212372,58.751902588,88.888888889
+2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",8.932873967,33.296823658,50.803212851,64.255319149,85.365853659
+2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",7.939491784,30.310077519,47.014925373,59.375,91.463414634
+2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",7.993248538,39.776855622,48.515167888,63.709429607,93.333333333
+2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",8.102516952,34.165468471,51.809353636,62.615919307,86.721991701
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",3706,549,197,35.883424408
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",412,74,32,43.243243243
+"BRA","Brazil","Region of the Americas",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",2818,376,140,37.234042553
+"ETH","Ethiopia","African Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",388,65,60,92.307692308
+"IND","India","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",25203,363,228,62.809917355
+"IDN","Indonesia","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",2820,635,432,68.031496063
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",3640,168,88,52.380952381
+"IRQ","Iraq","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",177,36,30,83.333333333
+"JPN","Japan","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",423516,51099,4524,8.853402219
+"JOR","Jordan","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",2676,246,116,47.154471545
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",3964,423,166,39.243498818
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",3636,460,253,55
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",14284,318,222,69.811320755
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",8074,1969,1114,56.57694261
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",5627,1264,734,58.069620253
+"THA","Thailand","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",4301,747,354,47.389558233
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",22331,1829,562,30.727173319
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Klebsiella pneumoniae","Ceftriaxone",863293,10285,1208,11.745260088
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",4535,992,357,35.987903226
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",488,82,33,40.243902439
+"BRA","Brazil","Region of the Americas",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",4289,800,364,45.5
+"ETH","Ethiopia","African Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",449,63,56,88.888888889
+"IND","India","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",47746,340,195,57.352941176
+"IDN","Indonesia","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",3383,899,673,74.860956618
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",7065,578,343,59.342560554
+"IRQ","Iraq","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",859,45,35,77.777777778
+"JPN","Japan","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",453889,53069,5246,9.885243739
+"JOR","Jordan","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",5265,381,203,53.280839895
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",1363,227,106,46.696035242
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",8941,1407,718,51.030561478
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",15455,2053,1055,51.388212372
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",9132,2406,1316,54.696591854
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",5587,1224,715,58.41503268
+"THA","Thailand","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",9011,657,386,58.751902588
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",27055,2325,519,22.322580645
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Klebsiella pneumoniae","Ceftriaxone",880701,12590,1569,12.462271644
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",3517,913,304,33.296823658
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",261,43,18,41.860465116
+"BRA","Brazil","Region of the Americas",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",2805,643,341,53.032659409
+"ETH","Ethiopia","African Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",576,82,70,85.365853659
+"IND","India","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",18235,29,19,65.517241379
+"IDN","Indonesia","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",1595,470,302,64.255319149
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",4235,518,303,58.494208494
+"IRQ","Iraq","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",1502,110,77,70
+"JPN","Japan","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",475584,56135,6179,11.007392892
+"JOR","Jordan","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",5385,279,125,44.802867384
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",3918,281,125,44.483985765
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",3343,463,344,74.298056156
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",28695,771,501,64.980544747
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",4560,1458,871,59.739368999
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",4464,1101,663,60.217983651
+"THA","Thailand","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",11131,1694,896,52.892561983
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",29681,1916,493,25.730688935
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Klebsiella pneumoniae","Ceftriaxone",651538,9533,1150,12.063358859
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",4056,1054,364,34.535104364
+"BGD","Bangladesh","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",241,29,13,44.827586207
+"BRA","Brazil","Region of the Americas",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",2972,858,145,16.8997669
+"ETH","Ethiopia","African Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",768,82,75,91.463414634
+"IND","India","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",64919,3798,2427,63.902053712
+"IDN","Indonesia","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",3900,751,545,72.569906791
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",4521,648,387,59.722222222
+"IRQ","Iraq","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",3797,256,188,73.4375
+"JPN","Japan","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",498905,61653,7385,11.978330333
+"JOR","Jordan","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",13316,288,124,43.055555556
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",2927,87,31,35.632183908
+"OMN","Oman","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",7380,903,643,71.207087486
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",47908,7615,4490,58.962573867
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",5654,1730,897,51.849710983
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",2641,642,333,51.869158879
+"THA","Thailand","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",10402,1481,701,47.332883187
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",49312,5557,1386,24.941515206
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2021,"URINE","Klebsiella pneumoniae","Ceftriaxone",725182,9621,1039,10.799293213
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",4214,1030,343,33.300970874
+"BGD","Bangladesh","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",342,31,13,41.935483871
+"BRA","Brazil","Region of the Americas",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",3568,820,441,53.780487805
+"ETH","Ethiopia","African Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",1311,120,112,93.333333333
+"IND","India","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",96309,7798,5117,65.619389587
+"IDN","Indonesia","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",7106,1919,1273,66.336633663
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",6161,1006,688,68.389662028
+"IRQ","Iraq","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",5960,371,234,63.07277628
+"JPN","Japan","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",535682,70276,8572,12.197620809
+"JOR","Jordan","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",18196,1952,940,48.155737705
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",3672,169,80,47.337278107
+"OMN","Oman","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",9426,1200,898,74.833333333
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",79700,13888,7838,56.437211982
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",8324,2457,1278,52.014652015
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",6824,1430,654,45.734265734
+"THA","Thailand","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",6488,1152,644,55.902777778
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",57098,6275,1585,25.258964143
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2022,"URINE","Klebsiella pneumoniae","Ceftriaxone",945966,11217,1166,10.394936257
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",7827,1775,552,31.098591549
+"BGD","Bangladesh","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",591,123,55,44.715447154
+"BRA","Brazil","Region of the Americas",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",7866,1840,999,54.293478261
+"ETH","Ethiopia","African Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",1402,241,209,86.721991701
+"IND","India","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",104947,12032,8155,67.777593085
+"IDN","Indonesia","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",11518,2441,1675,68.619418271
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",6797,1223,833,68.111201962
+"IRQ","Iraq","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",8451,562,396,70.462633452
+"JPN","Japan","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",591596,83876,11068,13.195669798
+"JOR","Jordan","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",25767,2605,1184,45.451055662
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",619,40,21,52.5
+"OMN","Oman","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",11541,1850,998,53.945945946
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",78151,13414,7044,52.512300581
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",10948,3218,1645,51.118707272
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",12683,2678,979,36.557132188
+"THA","Thailand","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",22725,3708,2258,60.895361381
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",58693,7834,2062,26.321164156
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2023,"URINE","Klebsiella pneumoniae","Ceftriaxone",1011886,10235,1361,13.297508549

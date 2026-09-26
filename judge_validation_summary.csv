@@ -1,0 +1,4 @@
+judge,detection,clean_FP,citation_swap,fabricated_statistic,fabricated_reference,recommendation_overreach,type_correct
+qwen3.5:9b,0.83,0.16,0.32,1.0,1.0,1.0,0.9759036144578314
+gpt-oss:20b,0.97,0.64,0.88,1.0,1.0,1.0,0.8969072164948454
+llama3.1:8b,0.76,0.04,0.04,1.0,1.0,1.0,0.7105263157894737

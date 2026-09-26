@@ -1,0 +1,769 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Klebsiella pneumoniae","Cefepime",2.227011494,20.29355931,54.644808743,73.448409818,93.75,59,90770
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime",0,22.53478049,59.468599034,81.764559065,100,68,80112
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime",4.516129032,18.825414781,56.108630994,78.408144392,96,76,120743
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone",3.125,25,70.135746606,82.627631261,99.090909091,73,78274
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin",2.702702703,22.964071856,52.737043152,68.770051746,97.368421053,84,117009
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole",12.676056338,40.635688171,57.394366197,74.264141425,100,51,34952
+"Bloodstream","Klebsiella pneumoniae","Colistin",0,2.025462963,5.245075584,14.661654135,31.560693642,44,26181
+"Bloodstream","Klebsiella pneumoniae","Doripenem",0,9.015904257,29.034794874,64.433168699,75,6,1834
+"Bloodstream","Klebsiella pneumoniae","Ertapenem",0,2.824858757,17.083051992,38.75,85.714285714,65,67648
+"Bloodstream","Klebsiella pneumoniae","Imipenem",0,1.636904762,16.033948951,35.919721871,81.818181818,74,101905
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin",2.702702703,16.414769977,40,63.57420595,100,51,57184
+"Bloodstream","Klebsiella pneumoniae","Meropenem",0,1.493633237,16,35.087105769,82.352941176,79,126188
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Klebsiella pneumoniae","Cefepime",5.133988688,9.191134905,25.993165314,50.180338416,76.361529548,15,65702
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime",3.125,8.076009501,19.166666667,49.809970937,79.734219269,17,42260
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime",4.516129032,8.658379898,17.948717949,43.151679902,78.526194588,19,65202
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone",3.125,10.081077133,30.239705672,67.032861532,81.687898089,18,42443
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin",4.699655994,11.940298507,28.798113005,45.424696645,78.503629257,21,66604
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole",12.676056338,22.124600639,34.615384615,50.557620818,71.870103974,13,17241
+"Bloodstream","Klebsiella pneumoniae","Colistin",0,3.281091258,6.57127716,18.585013937,26.845199216,11,11712
+"Bloodstream","Klebsiella pneumoniae","Doripenem",7.52293578,9.015904257,10.508872734,12.001841211,13.494809689,2,1412
+"Bloodstream","Klebsiella pneumoniae","Ertapenem",0.558659218,1.970205846,9.375890567,20.630455293,74.35530086,16,40230
+"Bloodstream","Klebsiella pneumoniae","Imipenem",0.133554721,0.888313224,6.12244898,24.619293126,73.918269231,19,67167
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin",2.702702703,7.865168539,11.040092969,51.310176722,79.896238651,13,47387
+"Bloodstream","Klebsiella pneumoniae","Meropenem",0,0.718724873,1.493633237,18.059865668,72.065021072,20,72212
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Bloodstream","Klebsiella pneumoniae","Cefepime","ARE","United Arab Emirates","Eastern Mediterranean Region",955,280,29.319371728
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",600,212,35.333333333
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","ARE","United Arab Emirates","Eastern Mediterranean Region",1030,361,35.048543689
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",634,290,45.741324921
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",1068,446,41.760299625
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","ARE","United Arab Emirates","Eastern Mediterranean Region",1040,360,34.615384615
+"Bloodstream","Klebsiella pneumoniae","Colistin","ARE","United Arab Emirates","Eastern Mediterranean Region",69,17,24.637681159
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","ARE","United Arab Emirates","Eastern Mediterranean Region",722,132,18.282548476
+"Bloodstream","Klebsiella pneumoniae","Imipenem","ARE","United Arab Emirates","Eastern Mediterranean Region",947,176,18.58500528
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",208,81,38.942307692
+"Bloodstream","Klebsiella pneumoniae","Meropenem","ARE","United Arab Emirates","Eastern Mediterranean Region",1079,204,18.90639481
+"Bloodstream","Klebsiella pneumoniae","Cefepime","ARG","Argentina","Region of the Americas",1704,911,53.462441315
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","ARG","Argentina","Region of the Americas",1318,740,56.145675266
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","ARG","Argentina","Region of the Americas",1702,949,55.757931845
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","ARG","Argentina","Region of the Americas",1828,955,52.242888403
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","ARG","Argentina","Region of the Americas",1807,993,54.952960708
+"Bloodstream","Klebsiella pneumoniae","Colistin","ARG","Argentina","Region of the Americas",939,121,12.886048988
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","ARG","Argentina","Region of the Americas",1532,575,37.532637076
+"Bloodstream","Klebsiella pneumoniae","Imipenem","ARG","Argentina","Region of the Americas",1849,631,34.126554895
+"Bloodstream","Klebsiella pneumoniae","Meropenem","ARG","Argentina","Region of the Americas",1836,616,33.551198257
+"Bloodstream","Klebsiella pneumoniae","Cefepime","AUS","Australia","Western Pacific Region",1392,31,2.227011494
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","AUS","Australia","Western Pacific Region",1392,74,5.316091954
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","AUS","Australia","Western Pacific Region",1392,92,6.609195402
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","AUS","Australia","Western Pacific Region",1391,109,7.836089145
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","AUS","Australia","Western Pacific Region",1392,180,12.931034483
+"Bloodstream","Klebsiella pneumoniae","Colistin","AUS","Australia","Western Pacific Region",138,0,0
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","AUS","Australia","Western Pacific Region",147,0,0
+"Bloodstream","Klebsiella pneumoniae","Imipenem","AUS","Australia","Western Pacific Region",138,0,0
+"Bloodstream","Klebsiella pneumoniae","Meropenem","AUS","Australia","Western Pacific Region",1392,7,0.502873563
+"Bloodstream","Klebsiella pneumoniae","Cefepime","AUT","Austria","European Region",1192,74,6.208053691
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","AUT","Austria","European Region",1263,102,8.076009501
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","AUT","Austria","European Region",1011,94,9.297725025
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","AUT","Austria","European Region",324,25,7.716049383
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","AUT","Austria","European Region",1248,127,10.176282051
+"Bloodstream","Klebsiella pneumoniae","Colistin","AUT","Austria","European Region",54,1,1.851851852
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","AUT","Austria","European Region",493,9,1.825557809
+"Bloodstream","Klebsiella pneumoniae","Imipenem","AUT","Austria","European Region",667,4,0.59970015
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","AUT","Austria","European Region",356,28,7.865168539
+"Bloodstream","Klebsiella pneumoniae","Meropenem","AUT","Austria","European Region",1365,11,0.805860806
+"Bloodstream","Klebsiella pneumoniae","Cefepime","BEL","Belgium","European Region",732,113,15.43715847
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","BEL","Belgium","European Region",603,110,18.24212272
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BEL","Belgium","European Region",804,134,16.666666667
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","BEL","Belgium","European Region",328,49,14.93902439
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BEL","Belgium","European Region",856,176,20.560747664
+"Bloodstream","Klebsiella pneumoniae","Colistin","BEL","Belgium","European Region",277,3,1.083032491
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","BEL","Belgium","European Region",433,24,5.542725173
+"Bloodstream","Klebsiella pneumoniae","Imipenem","BEL","Belgium","European Region",129,1,0.775193798
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","BEL","Belgium","European Region",213,31,14.55399061
+"Bloodstream","Klebsiella pneumoniae","Meropenem","BEL","Belgium","European Region",835,11,1.317365269
+"Bloodstream","Klebsiella pneumoniae","Cefepime","BEN","Benin","African Region",339,301,88.790560472
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","BEN","Benin","African Region",337,306,90.801186944
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BEN","Benin","African Region",339,305,89.970501475
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","BEN","Benin","African Region",337,306,90.801186944
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BEN","Benin","African Region",338,264,78.106508876
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","BEN","Benin","African Region",239,220,92.050209205
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","BEN","Benin","African Region",312,44,14.102564103
+"Bloodstream","Klebsiella pneumoniae","Imipenem","BEN","Benin","African Region",304,28,9.210526316
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","BEN","Benin","African Region",267,246,92.134831461
+"Bloodstream","Klebsiella pneumoniae","Meropenem","BEN","Benin","African Region",296,40,13.513513514
+"Bloodstream","Klebsiella pneumoniae","Cefepime","BFA","Burkina Faso","African Region",20,13,65
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BFA","Burkina Faso","African Region",12,9,75
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BFA","Burkina Faso","African Region",32,16,50
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","BFA","Burkina Faso","African Region",23,19,82.608695652
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","BFA","Burkina Faso","African Region",20,2,10
+"Bloodstream","Klebsiella pneumoniae","Imipenem","BFA","Burkina Faso","African Region",23,3,13.043478261
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","BFA","Burkina Faso","African Region",23,6,26.086956522
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BGD","Bangladesh","South-East Asia Region",12,10,83.333333333
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","BGD","Bangladesh","South-East Asia Region",11,9,81.818181818
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BGD","Bangladesh","South-East Asia Region",12,9,75
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","BGD","Bangladesh","South-East Asia Region",11,7,63.636363636
+"Bloodstream","Klebsiella pneumoniae","Meropenem","BGD","Bangladesh","South-East Asia Region",11,6,54.545454545
+"Bloodstream","Klebsiella pneumoniae","Cefepime","BHR","Bahrain","Eastern Mediterranean Region",152,80,52.631578947
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","BHR","Bahrain","Eastern Mediterranean Region",12,7,58.333333333
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BHR","Bahrain","Eastern Mediterranean Region",44,38,86.363636364
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",147,80,54.421768707
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",152,79,51.973684211
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","BHR","Bahrain","Eastern Mediterranean Region",152,79,51.973684211
+"Bloodstream","Klebsiella pneumoniae","Colistin","BHR","Bahrain","Eastern Mediterranean Region",55,14,25.454545455
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","BHR","Bahrain","Eastern Mediterranean Region",68,54,79.411764706
+"Bloodstream","Klebsiella pneumoniae","Imipenem","BHR","Bahrain","Eastern Mediterranean Region",69,48,69.565217391
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","BHR","Bahrain","Eastern Mediterranean Region",31,31,100
+"Bloodstream","Klebsiella pneumoniae","Meropenem","BHR","Bahrain","Eastern Mediterranean Region",152,45,29.605263158
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","BIH","Bosnia and Herzegovina","European Region",296,235,79.391891892
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BIH","Bosnia and Herzegovina","European Region",296,234,79.054054054
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","BIH","Bosnia and Herzegovina","European Region",142,92,64.788732394
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BIH","Bosnia and Herzegovina","European Region",296,206,69.594594595
+"Bloodstream","Klebsiella pneumoniae","Colistin","BIH","Bosnia and Herzegovina","European Region",15,0,0
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","BIH","Bosnia and Herzegovina","European Region",286,136,47.552447552
+"Bloodstream","Klebsiella pneumoniae","Imipenem","BIH","Bosnia and Herzegovina","European Region",296,117,39.527027027
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","BIH","Bosnia and Herzegovina","European Region",284,197,69.366197183
+"Bloodstream","Klebsiella pneumoniae","Meropenem","BIH","Bosnia and Herzegovina","European Region",296,130,43.918918919
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BRA","Brazil","Region of the Americas",158,110,69.620253165
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","BRA","Brazil","Region of the Americas",221,155,70.135746606
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BRA","Brazil","Region of the Americas",222,150,67.567567568
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","BRA","Brazil","Region of the Americas",163,108,66.257668712
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","BRA","Brazil","Region of the Americas",163,95,58.282208589
+"Bloodstream","Klebsiella pneumoniae","Imipenem","BRA","Brazil","Region of the Americas",64,43,67.1875
+"Bloodstream","Klebsiella pneumoniae","Meropenem","BRA","Brazil","Region of the Americas",222,99,44.594594595
+"Bloodstream","Klebsiella pneumoniae","Cefepime","BRN","Brunei Darussalam","Western Pacific Region",19,1,5.263157895
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","BRN","Brunei Darussalam","Western Pacific Region",68,7,10.294117647
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","BRN","Brunei Darussalam","Western Pacific Region",68,8,11.764705882
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","BRN","Brunei Darussalam","Western Pacific Region",67,8,11.940298507
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","BRN","Brunei Darussalam","Western Pacific Region",71,9,12.676056338
+"Bloodstream","Klebsiella pneumoniae","Imipenem","BRN","Brunei Darussalam","Western Pacific Region",56,1,1.785714286
+"Bloodstream","Klebsiella pneumoniae","Meropenem","BRN","Brunei Darussalam","Western Pacific Region",66,3,4.545454545
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","CAN","Canada","Region of the Americas",52,5,9.615384615
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","CAN","Canada","Region of the Americas",52,5,9.615384615
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","CAN","Canada","Region of the Americas",52,7,13.461538462
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","CAN","Canada","Region of the Americas",52,7,13.461538462
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","CAN","Canada","Region of the Americas",52,1,1.923076923
+"Bloodstream","Klebsiella pneumoniae","Meropenem","CAN","Canada","Region of the Americas",52,1,1.923076923
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","CHE","Switzerland","European Region",67,2,2.985074627
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","CHE","Switzerland","European Region",1477,133,9.004739336
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","CHE","Switzerland","European Region",1208,115,9.51986755
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","CHE","Switzerland","European Region",1495,144,9.632107023
+"Bloodstream","Klebsiella pneumoniae","Colistin","CHE","Switzerland","European Region",48,1,2.083333333
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","CHE","Switzerland","European Region",1185,17,1.434599156
+"Bloodstream","Klebsiella pneumoniae","Imipenem","CHE","Switzerland","European Region",1281,10,0.780640125
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","CHE","Switzerland","European Region",609,62,10.180623974
+"Bloodstream","Klebsiella pneumoniae","Meropenem","CHE","Switzerland","European Region",1096,11,1.003649635
+"Bloodstream","Klebsiella pneumoniae","Cefepime","CMR","Cameroon","African Region",23,17,73.913043478
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","CMR","Cameroon","African Region",31,28,90.322580645
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","CMR","Cameroon","African Region",41,34,82.926829268
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","CMR","Cameroon","African Region",22,20,90.909090909
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","CMR","Cameroon","African Region",38,24,63.157894737
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","CMR","Cameroon","African Region",27,25,92.592592593
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","CMR","Cameroon","African Region",16,1,6.25
+"Bloodstream","Klebsiella pneumoniae","Imipenem","CMR","Cameroon","African Region",45,9,20
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","CMR","Cameroon","African Region",21,12,57.142857143
+"Bloodstream","Klebsiella pneumoniae","Meropenem","CMR","Cameroon","African Region",19,4,21.052631579
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","COD","Democratic Republic of the Congo","African Region",59,53,89.830508475
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","COD","Democratic Republic of the Congo","African Region",59,53,89.830508475
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","COD","Democratic Republic of the Congo","African Region",54,42,77.777777778
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","COD","Democratic Republic of the Congo","African Region",57,49,85.964912281
+"Bloodstream","Klebsiella pneumoniae","Imipenem","COD","Democratic Republic of the Congo","African Region",17,1,5.882352941
+"Bloodstream","Klebsiella pneumoniae","Cefepime","COL","Colombia","Region of the Americas",9364,2434,25.993165314
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","COL","Colombia","Region of the Americas",1295,477,36.833976834
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","COL","Colombia","Region of the Americas",9257,2550,27.5467214
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","COL","Colombia","Region of the Americas",6178,2040,33.02039495
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","COL","Colombia","Region of the Americas",9327,2686,28.798113005
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","COL","Colombia","Region of the Americas",4707,1554,33.014659018
+"Bloodstream","Klebsiella pneumoniae","Colistin","COL","Colombia","Region of the Americas",2358,77,3.26547922
+"Bloodstream","Klebsiella pneumoniae","Doripenem","COL","Colombia","Region of the Americas",867,117,13.494809689
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","COL","Colombia","Region of the Americas",8886,1518,17.083051992
+"Bloodstream","Klebsiella pneumoniae","Imipenem","COL","Colombia","Region of the Americas",7994,1402,17.538153615
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","COL","Colombia","Region of the Americas",2693,501,18.603787597
+"Bloodstream","Klebsiella pneumoniae","Meropenem","COL","Colombia","Region of the Americas",9336,1539,16.484575835
+"Bloodstream","Klebsiella pneumoniae","Cefepime","CYP","Cyprus","European Region",121,80,66.115702479
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","CYP","Cyprus","European Region",116,65,56.034482759
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","CYP","Cyprus","European Region",197,117,59.390862944
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","CYP","Cyprus","European Region",117,90,76.923076923
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","CYP","Cyprus","European Region",186,101,54.301075269
+"Bloodstream","Klebsiella pneumoniae","Colistin","CYP","Cyprus","European Region",107,21,19.626168224
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","CYP","Cyprus","European Region",60,26,43.333333333
+"Bloodstream","Klebsiella pneumoniae","Imipenem","CYP","Cyprus","European Region",182,65,35.714285714
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","CYP","Cyprus","European Region",109,61,55.963302752
+"Bloodstream","Klebsiella pneumoniae","Meropenem","CYP","Cyprus","European Region",183,59,32.240437158
+"Bloodstream","Klebsiella pneumoniae","Cefepime","CZE","Czechia","European Region",1252,585,46.725239617
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","CZE","Czechia","European Region",1637,799,48.808796579
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","CZE","Czechia","European Region",1637,794,48.503359805
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","CZE","Czechia","European Region",1638,707,43.162393162
+"Bloodstream","Klebsiella pneumoniae","Colistin","CZE","Czechia","European Region",1328,54,4.06626506
+"Bloodstream","Klebsiella pneumoniae","Meropenem","CZE","Czechia","European Region",1325,20,1.509433962
+"Bloodstream","Klebsiella pneumoniae","Cefepime","DEU","Germany","European Region",1526,145,9.501965924
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","DEU","Germany","European Region",6558,648,9.881061299
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","DEU","Germany","European Region",6832,681,9.967798595
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","DEU","Germany","European Region",4850,439,9.051546392
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","DEU","Germany","European Region",6920,779,11.257225434
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","DEU","Germany","European Region",4735,65,1.372756072
+"Bloodstream","Klebsiella pneumoniae","Imipenem","DEU","Germany","European Region",6727,67,0.995986324
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","DEU","Germany","European Region",3442,380,11.040092969
+"Bloodstream","Klebsiella pneumoniae","Meropenem","DEU","Germany","European Region",6921,70,1.011414535
+"Bloodstream","Klebsiella pneumoniae","Cefepime","DNK","Denmark","European Region",147,8,5.442176871
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","DNK","Denmark","European Region",609,32,5.254515599
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","DNK","Denmark","European Region",1090,54,4.95412844
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","DNK","Denmark","European Region",490,26,5.306122449
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","DNK","Denmark","European Region",1345,102,7.583643123
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","DNK","Denmark","European Region",134,3,2.23880597
+"Bloodstream","Klebsiella pneumoniae","Meropenem","DNK","Denmark","European Region",1312,6,0.457317073
+"Bloodstream","Klebsiella pneumoniae","Cefepime","EGY","Egypt","Eastern Mediterranean Region",75,66,88
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","EGY","Egypt","Eastern Mediterranean Region",14,13,92.857142857
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","EGY","Egypt","Eastern Mediterranean Region",67,56,83.582089552
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","EGY","Egypt","Eastern Mediterranean Region",67,59,88.059701493
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","EGY","Egypt","Eastern Mediterranean Region",14,14,100
+"Bloodstream","Klebsiella pneumoniae","Colistin","EGY","Egypt","Eastern Mediterranean Region",12,1,8.333333333
+"Bloodstream","Klebsiella pneumoniae","Doripenem","EGY","Egypt","Eastern Mediterranean Region",38,27,71.052631579
+"Bloodstream","Klebsiella pneumoniae","Imipenem","EGY","Egypt","Eastern Mediterranean Region",33,27,81.818181818
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","EGY","Egypt","Eastern Mediterranean Region",109,77,70.642201835
+"Bloodstream","Klebsiella pneumoniae","Cefepime","EST","Estonia","European Region",182,14,7.692307692
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","EST","Estonia","European Region",234,32,13.675213675
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","EST","Estonia","European Region",165,25,15.151515152
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","EST","Estonia","European Region",235,38,16.170212766
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","EST","Estonia","European Region",177,5,2.824858757
+"Bloodstream","Klebsiella pneumoniae","Imipenem","EST","Estonia","European Region",54,0,0
+"Bloodstream","Klebsiella pneumoniae","Meropenem","EST","Estonia","European Region",203,3,1.477832512
+"Bloodstream","Klebsiella pneumoniae","Cefepime","ETH","Ethiopia","African Region",71,59,83.098591549
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","ETH","Ethiopia","African Region",170,154,90.588235294
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","ETH","Ethiopia","African Region",225,157,69.777777778
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","ETH","Ethiopia","African Region",220,196,89.090909091
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","ETH","Ethiopia","African Region",411,275,66.909975669
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","ETH","Ethiopia","African Region",381,282,74.015748031
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","ETH","Ethiopia","African Region",80,31,38.75
+"Bloodstream","Klebsiella pneumoniae","Imipenem","ETH","Ethiopia","African Region",40,2,5
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","ETH","Ethiopia","African Region",10,1,10
+"Bloodstream","Klebsiella pneumoniae","Meropenem","ETH","Ethiopia","African Region",266,32,12.030075188
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","FIN","Finland","European Region",34,0,0
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","FIN","Finland","European Region",930,42,4.516129032
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","FIN","Finland","European Region",930,32,3.440860215
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","FIN","Finland","European Region",678,41,6.04719764
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","FIN","Finland","European Region",537,3,0.558659218
+"Bloodstream","Klebsiella pneumoniae","Imipenem","FIN","Finland","European Region",41,0,0
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","FIN","Finland","European Region",323,12,3.715170279
+"Bloodstream","Klebsiella pneumoniae","Meropenem","FIN","Finland","European Region",932,0,0
+"Bloodstream","Klebsiella pneumoniae","Cefepime","FRA","France","European Region",3145,751,23.879173291
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","FRA","France","European Region",4459,1022,22.919937206
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","FRA","France","European Region",4903,1109,22.618804813
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","FRA","France","European Region",1655,411,24.833836858
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","FRA","France","European Region",4745,986,20.779768177
+"Bloodstream","Klebsiella pneumoniae","Colistin","FRA","France","European Region",83,5,6.024096386
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","FRA","France","European Region",4727,97,2.052041464
+"Bloodstream","Klebsiella pneumoniae","Imipenem","FRA","France","European Region",4858,38,0.782214903
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","FRA","France","European Region",2033,332,16.330545991
+"Bloodstream","Klebsiella pneumoniae","Meropenem","FRA","France","European Region",2014,32,1.588877855
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",3999,512,12.8032008
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",5815,860,14.789337919
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2191,345,15.746234596
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",6788,995,14.658220389
+"Bloodstream","Klebsiella pneumoniae","Colistin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",405,16,3.950617284
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",6146,106,1.724698991
+"Bloodstream","Klebsiella pneumoniae","Imipenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",944,14,1.483050847
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",994,164,16.498993964
+"Bloodstream","Klebsiella pneumoniae","Meropenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",6782,60,0.88469478
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","GEO","Georgia","European Region",155,119,76.774193548
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","GEO","Georgia","European Region",200,159,79.5
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","GEO","Georgia","European Region",114,96,84.210526316
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","GEO","Georgia","European Region",200,138,69
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","GEO","Georgia","European Region",135,87,64.444444444
+"Bloodstream","Klebsiella pneumoniae","Colistin","GEO","Georgia","European Region",69,4,5.797101449
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","GEO","Georgia","European Region",93,56,60.215053763
+"Bloodstream","Klebsiella pneumoniae","Imipenem","GEO","Georgia","European Region",158,89,56.329113924
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","GEO","Georgia","European Region",71,51,71.830985915
+"Bloodstream","Klebsiella pneumoniae","Meropenem","GEO","Georgia","European Region",200,133,66.5
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","GHA","Ghana","African Region",95,85,89.473684211
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","GHA","Ghana","African Region",84,28,33.333333333
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","GHA","Ghana","African Region",146,127,86.98630137
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","GHA","Ghana","African Region",178,103,57.865168539
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","GHA","Ghana","African Region",71,60,84.507042254
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","GHA","Ghana","African Region",24,8,33.333333333
+"Bloodstream","Klebsiella pneumoniae","Meropenem","GHA","Ghana","African Region",63,12,19.047619048
+"Bloodstream","Klebsiella pneumoniae","Cefepime","GRC","Greece","European Region",1726,1318,76.361529548
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","GRC","Greece","European Region",1297,1022,78.797224364
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","GRC","Greece","European Region",1737,1364,78.526194588
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","GRC","Greece","European Region",1256,1026,81.687898089
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","GRC","Greece","European Region",1791,1406,78.503629257
+"Bloodstream","Klebsiella pneumoniae","Colistin","GRC","Greece","European Region",1531,411,26.845199216
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","GRC","Greece","European Region",1396,1038,74.35530086
+"Bloodstream","Klebsiella pneumoniae","Imipenem","GRC","Greece","European Region",1664,1230,73.918269231
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","GRC","Greece","European Region",1542,1232,79.896238651
+"Bloodstream","Klebsiella pneumoniae","Meropenem","GRC","Greece","European Region",1661,1197,72.065021072
+"Bloodstream","Klebsiella pneumoniae","Cefepime","HKG","China, Hong Kong SAR","Western Pacific Region",2074,181,8.727097396
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","HKG","China, Hong Kong SAR","Western Pacific Region",1745,293,16.790830946
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","HKG","China, Hong Kong SAR","Western Pacific Region",1564,130,8.31202046
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","HKG","China, Hong Kong SAR","Western Pacific Region",1068,160,14.981273408
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","HKG","China, Hong Kong SAR","Western Pacific Region",334,73,21.856287425
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","HKG","China, Hong Kong SAR","Western Pacific Region",1252,277,22.124600639
+"Bloodstream","Klebsiella pneumoniae","Colistin","HKG","China, Hong Kong SAR","Western Pacific Region",27,1,3.703703704
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","HKG","China, Hong Kong SAR","Western Pacific Region",1867,24,1.285484735
+"Bloodstream","Klebsiella pneumoniae","Imipenem","HKG","China, Hong Kong SAR","Western Pacific Region",967,14,1.447776629
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","HKG","China, Hong Kong SAR","Western Pacific Region",2037,223,10.947471772
+"Bloodstream","Klebsiella pneumoniae","Meropenem","HKG","China, Hong Kong SAR","Western Pacific Region",1506,17,1.128818061
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","HRV","Croatia","European Region",368,193,52.445652174
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","HRV","Croatia","European Region",367,197,53.678474114
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","HRV","Croatia","European Region",363,195,53.719008264
+"Bloodstream","Klebsiella pneumoniae","Imipenem","HRV","Croatia","European Region",362,70,19.337016575
+"Bloodstream","Klebsiella pneumoniae","Meropenem","HRV","Croatia","European Region",366,83,22.677595628
+"Bloodstream","Klebsiella pneumoniae","Cefepime","IDN","Indonesia","South-East Asia Region",1422,847,59.563994374
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","IDN","Indonesia","South-East Asia Region",1037,804,77.531340405
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","IDN","Indonesia","South-East Asia Region",1506,1063,70.584329349
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","IDN","Indonesia","South-East Asia Region",1290,963,74.651162791
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","IDN","Indonesia","South-East Asia Region",1372,900,65.597667638
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","IDN","Indonesia","South-East Asia Region",284,163,57.394366197
+"Bloodstream","Klebsiella pneumoniae","Colistin","IDN","Indonesia","South-East Asia Region",125,6,4.8
+"Bloodstream","Klebsiella pneumoniae","Doripenem","IDN","Indonesia","South-East Asia Region",341,152,44.574780059
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","IDN","Indonesia","South-East Asia Region",641,131,20.436817473
+"Bloodstream","Klebsiella pneumoniae","Imipenem","IDN","Indonesia","South-East Asia Region",753,232,30.810092961
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","IDN","Indonesia","South-East Asia Region",719,320,44.506258693
+"Bloodstream","Klebsiella pneumoniae","Meropenem","IDN","Indonesia","South-East Asia Region",1489,341,22.901276024
+"Bloodstream","Klebsiella pneumoniae","Cefepime","IND","India","South-East Asia Region",4253,3104,72.983776158
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","IND","India","South-East Asia Region",6463,5225,80.844808912
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","IND","India","South-East Asia Region",4862,3839,78.959276018
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","IND","India","South-East Asia Region",3181,2555,80.320653882
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","IND","India","South-East Asia Region",8874,6429,72.44759973
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","IND","India","South-East Asia Region",5122,3241,63.276064037
+"Bloodstream","Klebsiella pneumoniae","Colistin","IND","India","South-East Asia Region",4668,150,3.213367609
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","IND","India","South-East Asia Region",4087,2624,64.203572302
+"Bloodstream","Klebsiella pneumoniae","Imipenem","IND","India","South-East Asia Region",8355,4847,58.013165769
+"Bloodstream","Klebsiella pneumoniae","Meropenem","IND","India","South-East Asia Region",7553,4614,61.088309281
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","IRL","Ireland","European Region",348,35,10.057471264
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","IRL","Ireland","European Region",375,45,12
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","IRL","Ireland","European Region",163,14,8.588957055
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","IRL","Ireland","European Region",465,46,9.892473118
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","IRL","Ireland","European Region",343,5,1.457725948
+"Bloodstream","Klebsiella pneumoniae","Imipenem","IRL","Ireland","European Region",59,0,0
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","IRL","Ireland","European Region",44,4,9.090909091
+"Bloodstream","Klebsiella pneumoniae","Meropenem","IRL","Ireland","European Region",468,3,0.641025641
+"Bloodstream","Klebsiella pneumoniae","Cefepime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",367,260,70.844686649
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",260,199,76.538461538
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",418,320,76.555023923
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",496,359,72.379032258
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",514,363,70.622568093
+"Bloodstream","Klebsiella pneumoniae","Colistin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",38,0,0
+"Bloodstream","Klebsiella pneumoniae","Imipenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",440,271,61.590909091
+"Bloodstream","Klebsiella pneumoniae","Meropenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",273,180,65.934065934
+"Bloodstream","Klebsiella pneumoniae","Cefepime","IRQ","Iraq","Eastern Mediterranean Region",124,98,79.032258065
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","IRQ","Iraq","Eastern Mediterranean Region",30,26,86.666666667
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","IRQ","Iraq","Eastern Mediterranean Region",106,85,80.188679245
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",75,65,86.666666667
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","IRQ","Iraq","Eastern Mediterranean Region",116,67,57.75862069
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","IRQ","Iraq","Eastern Mediterranean Region",120,92,76.666666667
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","IRQ","Iraq","Eastern Mediterranean Region",25,8,32
+"Bloodstream","Klebsiella pneumoniae","Imipenem","IRQ","Iraq","Eastern Mediterranean Region",118,62,52.542372881
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","IRQ","Iraq","Eastern Mediterranean Region",83,48,57.831325301
+"Bloodstream","Klebsiella pneumoniae","Meropenem","IRQ","Iraq","Eastern Mediterranean Region",130,65,50
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","ISL","Iceland","European Region",32,1,3.125
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","ISL","Iceland","European Region",32,1,3.125
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","ISL","Iceland","European Region",32,3,9.375
+"Bloodstream","Klebsiella pneumoniae","Meropenem","ISL","Iceland","European Region",32,0,0
+"Bloodstream","Klebsiella pneumoniae","Cefepime","ITA","Italy","European Region",11207,5349,47.729097885
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","ITA","Italy","European Region",8946,4456,49.809970937
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","ITA","Italy","European Region",11436,5863,51.267925848
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","ITA","Italy","European Region",2076,1277,61.512524085
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","ITA","Italy","European Region",11462,5550,48.420868958
+"Bloodstream","Klebsiella pneumoniae","Colistin","ITA","Italy","European Region",5661,372,6.57127716
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","ITA","Italy","European Region",6665,1860,27.906976744
+"Bloodstream","Klebsiella pneumoniae","Imipenem","ITA","Italy","European Region",8222,2265,27.548041839
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","ITA","Italy","European Region",3282,1684,51.310176722
+"Bloodstream","Klebsiella pneumoniae","Meropenem","ITA","Italy","European Region",10895,2562,23.515374025
+"Bloodstream","Klebsiella pneumoniae","Cefepime","JOR","Jordan","Eastern Mediterranean Region",284,168,59.154929577
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","JOR","Jordan","Eastern Mediterranean Region",158,103,65.189873418
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","JOR","Jordan","Eastern Mediterranean Region",358,229,63.966480447
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","JOR","Jordan","Eastern Mediterranean Region",270,192,71.111111111
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","JOR","Jordan","Eastern Mediterranean Region",344,207,60.174418605
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","JOR","Jordan","Eastern Mediterranean Region",300,169,56.333333333
+"Bloodstream","Klebsiella pneumoniae","Colistin","JOR","Jordan","Eastern Mediterranean Region",59,3,5.084745763
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","JOR","Jordan","Eastern Mediterranean Region",228,81,35.526315789
+"Bloodstream","Klebsiella pneumoniae","Imipenem","JOR","Jordan","Eastern Mediterranean Region",375,126,33.6
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","JOR","Jordan","Eastern Mediterranean Region",60,23,38.333333333
+"Bloodstream","Klebsiella pneumoniae","Meropenem","JOR","Jordan","Eastern Mediterranean Region",307,101,32.899022801
+"Bloodstream","Klebsiella pneumoniae","Cefepime","JPN","Japan","Western Pacific Region",29704,1525,5.133988688
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","JPN","Japan","Western Pacific Region",22461,1647,7.332710031
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","JPN","Japan","Western Pacific Region",30759,1731,5.627621184
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","JPN","Japan","Western Pacific Region",22085,1805,8.172968078
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","JPN","Japan","Western Pacific Region",18895,888,4.699655994
+"Bloodstream","Klebsiella pneumoniae","Imipenem","JPN","Japan","Western Pacific Region",27704,37,0.133554721
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","JPN","Japan","Western Pacific Region",30566,975,3.189818753
+"Bloodstream","Klebsiella pneumoniae","Meropenem","JPN","Japan","Western Pacific Region",31600,55,0.174050633
+"Bloodstream","Klebsiella pneumoniae","Cefepime","KEN","Kenya","African Region",16,15,93.75
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","KEN","Kenya","African Region",21,19,90.476190476
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","KEN","Kenya","African Region",21,11,52.380952381
+"Bloodstream","Klebsiella pneumoniae","Meropenem","KEN","Kenya","African Region",14,2,14.285714286
+"Bloodstream","Klebsiella pneumoniae","Cefepime","KHM","Cambodia","Western Pacific Region",130,71,54.615384615
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","KHM","Cambodia","Western Pacific Region",68,13,19.117647059
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","KHM","Cambodia","Western Pacific Region",141,75,53.191489362
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","KHM","Cambodia","Western Pacific Region",215,139,64.651162791
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","KHM","Cambodia","Western Pacific Region",139,56,40.287769784
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","KHM","Cambodia","Western Pacific Region",29,18,62.068965517
+"Bloodstream","Klebsiella pneumoniae","Imipenem","KHM","Cambodia","Western Pacific Region",141,21,14.893617021
+"Bloodstream","Klebsiella pneumoniae","Meropenem","KHM","Cambodia","Western Pacific Region",117,65,55.555555556
+"Bloodstream","Klebsiella pneumoniae","Cefepime","KOR","Republic of Korea","Western Pacific Region",1003,220,21.934197408
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","KOR","Republic of Korea","Western Pacific Region",1003,274,27.318045862
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","KOR","Republic of Korea","Western Pacific Region",1003,218,21.734795613
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","KOR","Republic of Korea","Western Pacific Region",1003,218,21.734795613
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","KOR","Republic of Korea","Western Pacific Region",1003,221,22.033898305
+"Bloodstream","Klebsiella pneumoniae","Colistin","KOR","Republic of Korea","Western Pacific Region",1003,11,1.09670987
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","KOR","Republic of Korea","Western Pacific Region",1003,67,6.67996012
+"Bloodstream","Klebsiella pneumoniae","Imipenem","KOR","Republic of Korea","Western Pacific Region",1003,60,5.982053838
+"Bloodstream","Klebsiella pneumoniae","Meropenem","KOR","Republic of Korea","Western Pacific Region",1003,62,6.181455633
+"Bloodstream","Klebsiella pneumoniae","Cefepime","KWT","Kuwait","Eastern Mediterranean Region",135,68,50.37037037
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","KWT","Kuwait","Eastern Mediterranean Region",266,161,60.526315789
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","KWT","Kuwait","Eastern Mediterranean Region",250,145,58
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",273,180,65.934065934
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","KWT","Kuwait","Eastern Mediterranean Region",348,191,54.885057471
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","KWT","Kuwait","Eastern Mediterranean Region",269,136,50.557620818
+"Bloodstream","Klebsiella pneumoniae","Colistin","KWT","Kuwait","Eastern Mediterranean Region",114,20,17.543859649
+"Bloodstream","Klebsiella pneumoniae","Doripenem","KWT","Kuwait","Eastern Mediterranean Region",12,9,75
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","KWT","Kuwait","Eastern Mediterranean Region",51,15,29.411764706
+"Bloodstream","Klebsiella pneumoniae","Imipenem","KWT","Kuwait","Eastern Mediterranean Region",339,122,35.98820059
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","KWT","Kuwait","Eastern Mediterranean Region",99,52,52.525252525
+"Bloodstream","Klebsiella pneumoniae","Meropenem","KWT","Kuwait","Eastern Mediterranean Region",361,125,34.626038781
+"Bloodstream","Klebsiella pneumoniae","Cefepime","LAO","Lao People's Democratic Republic","Western Pacific Region",21,2,9.523809524
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","LAO","Lao People's Democratic Republic","Western Pacific Region",62,10,16.129032258
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",64,14,21.875
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","LAO","Lao People's Democratic Republic","Western Pacific Region",64,16,25
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","LAO","Lao People's Democratic Republic","Western Pacific Region",63,17,26.984126984
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","LAO","Lao People's Democratic Republic","Western Pacific Region",39,1,2.564102564
+"Bloodstream","Klebsiella pneumoniae","Imipenem","LAO","Lao People's Democratic Republic","Western Pacific Region",21,0,0
+"Bloodstream","Klebsiella pneumoniae","Meropenem","LAO","Lao People's Democratic Republic","Western Pacific Region",64,0,0
+"Bloodstream","Klebsiella pneumoniae","Cefepime","LBN","Lebanon","Eastern Mediterranean Region",50,29,58
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","LBN","Lebanon","Eastern Mediterranean Region",20,10,50
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","LBN","Lebanon","Eastern Mediterranean Region",43,27,62.790697674
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","LBN","Lebanon","Eastern Mediterranean Region",48,29,60.416666667
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","LBN","Lebanon","Eastern Mediterranean Region",42,11,26.19047619
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","LBN","Lebanon","Eastern Mediterranean Region",46,22,47.826086957
+"Bloodstream","Klebsiella pneumoniae","Colistin","LBN","Lebanon","Eastern Mediterranean Region",26,0,0
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","LBN","Lebanon","Eastern Mediterranean Region",47,8,17.021276596
+"Bloodstream","Klebsiella pneumoniae","Imipenem","LBN","Lebanon","Eastern Mediterranean Region",41,6,14.634146341
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","LBN","Lebanon","Eastern Mediterranean Region",44,7,15.909090909
+"Bloodstream","Klebsiella pneumoniae","Meropenem","LBN","Lebanon","Eastern Mediterranean Region",33,4,12.121212121
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","LKA","Sri Lanka","South-East Asia Region",198,147,74.242424242
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","LKA","Sri Lanka","South-East Asia Region",80,57,71.25
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","LKA","Sri Lanka","South-East Asia Region",234,168,71.794871795
+"Bloodstream","Klebsiella pneumoniae","Imipenem","LKA","Sri Lanka","South-East Asia Region",169,94,55.621301775
+"Bloodstream","Klebsiella pneumoniae","Meropenem","LKA","Sri Lanka","South-East Asia Region",146,59,40.410958904
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","LTU","Lithuania","European Region",345,133,38.550724638
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","LTU","Lithuania","European Region",500,189,37.8
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","LTU","Lithuania","European Region",202,72,35.643564356
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","LTU","Lithuania","European Region",514,205,39.883268482
+"Bloodstream","Klebsiella pneumoniae","Imipenem","LTU","Lithuania","European Region",409,3,0.733496333
+"Bloodstream","Klebsiella pneumoniae","Meropenem","LTU","Lithuania","European Region",512,2,0.390625
+"Bloodstream","Klebsiella pneumoniae","Cefepime","LUX","Luxembourg","European Region",117,20,17.094017094
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","LUX","Luxembourg","European Region",73,11,15.068493151
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","LUX","Luxembourg","European Region",117,21,17.948717949
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","LUX","Luxembourg","European Region",44,11,25
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","LUX","Luxembourg","European Region",117,25,21.367521368
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","LUX","Luxembourg","European Region",16,0,0
+"Bloodstream","Klebsiella pneumoniae","Meropenem","LUX","Luxembourg","European Region",117,2,1.709401709
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","LVA","Latvia","European Region",147,56,38.095238095
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","LVA","Latvia","European Region",147,56,38.095238095
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","LVA","Latvia","European Region",147,49,33.333333333
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","LVA","Latvia","European Region",146,62,42.465753425
+"Bloodstream","Klebsiella pneumoniae","Colistin","LVA","Latvia","European Region",19,3,15.789473684
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","LVA","Latvia","European Region",147,25,17.006802721
+"Bloodstream","Klebsiella pneumoniae","Imipenem","LVA","Latvia","European Region",147,9,6.12244898
+"Bloodstream","Klebsiella pneumoniae","Meropenem","LVA","Latvia","European Region",147,8,5.442176871
+"Bloodstream","Klebsiella pneumoniae","Cefepime","MAR","Morocco","Eastern Mediterranean Region",194,126,64.948453608
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","MAR","Morocco","Eastern Mediterranean Region",212,159,75
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","MAR","Morocco","Eastern Mediterranean Region",282,221,78.368794326
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","MAR","Morocco","Eastern Mediterranean Region",259,190,73.359073359
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","MAR","Morocco","Eastern Mediterranean Region",263,148,56.273764259
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","MAR","Morocco","Eastern Mediterranean Region",257,171,66.536964981
+"Bloodstream","Klebsiella pneumoniae","Colistin","MAR","Morocco","Eastern Mediterranean Region",113,0,0
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","MAR","Morocco","Eastern Mediterranean Region",314,100,31.847133758
+"Bloodstream","Klebsiella pneumoniae","Imipenem","MAR","Morocco","Eastern Mediterranean Region",293,36,12.28668942
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","MAR","Morocco","Eastern Mediterranean Region",162,96,59.259259259
+"Bloodstream","Klebsiella pneumoniae","Meropenem","MAR","Morocco","Eastern Mediterranean Region",50,13,26
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","MDA","Republic of Moldova","European Region",76,74,97.368421053
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","MDA","Republic of Moldova","European Region",76,72,94.736842105
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","MDA","Republic of Moldova","European Region",76,74,97.368421053
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","MDA","Republic of Moldova","European Region",76,74,97.368421053
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","MDA","Republic of Moldova","European Region",76,51,67.105263158
+"Bloodstream","Klebsiella pneumoniae","Imipenem","MDA","Republic of Moldova","European Region",76,34,44.736842105
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","MDA","Republic of Moldova","European Region",76,62,81.578947368
+"Bloodstream","Klebsiella pneumoniae","Meropenem","MDA","Republic of Moldova","European Region",76,35,46.052631579
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","MKD","North Macedonia","European Region",64,58,90.625
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","MKD","North Macedonia","European Region",99,86,86.868686869
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","MKD","North Macedonia","European Region",32,27,84.375
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","MKD","North Macedonia","European Region",99,31,31.313131313
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","MKD","North Macedonia","European Region",19,14,73.684210526
+"Bloodstream","Klebsiella pneumoniae","Colistin","MKD","North Macedonia","European Region",11,1,9.090909091
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","MKD","North Macedonia","European Region",80,3,3.75
+"Bloodstream","Klebsiella pneumoniae","Imipenem","MKD","North Macedonia","European Region",100,3,3
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","MKD","North Macedonia","European Region",14,3,21.428571429
+"Bloodstream","Klebsiella pneumoniae","Meropenem","MKD","North Macedonia","European Region",99,3,3.03030303
+"Bloodstream","Klebsiella pneumoniae","Cefepime","MLI","Mali","African Region",27,15,55.555555556
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","MLI","Mali","African Region",30,16,53.333333333
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","MLI","Mali","African Region",27,15,55.555555556
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","MLI","Mali","African Region",30,9,30
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","MLI","Mali","African Region",30,24,80
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","MLI","Mali","African Region",27,5,18.518518519
+"Bloodstream","Klebsiella pneumoniae","Cefepime","MLT","Malta","European Region",145,14,9.655172414
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","MLT","Malta","European Region",145,31,21.379310345
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","MLT","Malta","European Region",145,36,24.827586207
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","MLT","Malta","European Region",145,43,29.655172414
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","MLT","Malta","European Region",145,32,22.068965517
+"Bloodstream","Klebsiella pneumoniae","Colistin","MLT","Malta","European Region",55,1,1.818181818
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","MLT","Malta","European Region",145,20,13.793103448
+"Bloodstream","Klebsiella pneumoniae","Imipenem","MLT","Malta","European Region",145,8,5.517241379
+"Bloodstream","Klebsiella pneumoniae","Meropenem","MLT","Malta","European Region",145,5,3.448275862
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","MOZ","Mozambique","African Region",25,24,96
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","MOZ","Mozambique","African Region",25,24,96
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","MOZ","Mozambique","African Region",25,20,80
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","MOZ","Mozambique","African Region",25,20,80
+"Bloodstream","Klebsiella pneumoniae","Imipenem","MOZ","Mozambique","African Region",25,3,12
+"Bloodstream","Klebsiella pneumoniae","Meropenem","MOZ","Mozambique","African Region",25,4,16
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","MUS","Mauritius","African Region",301,240,79.734219269
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","MUS","Mauritius","African Region",301,224,74.418604651
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","MUS","Mauritius","African Region",301,239,79.401993355
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","MUS","Mauritius","African Region",301,191,63.455149502
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","MUS","Mauritius","African Region",301,194,64.451827243
+"Bloodstream","Klebsiella pneumoniae","Colistin","MUS","Mauritius","African Region",301,24,7.973421927
+"Bloodstream","Klebsiella pneumoniae","Imipenem","MUS","Mauritius","African Region",301,106,35.215946844
+"Bloodstream","Klebsiella pneumoniae","Meropenem","MUS","Mauritius","African Region",301,107,35.548172757
+"Bloodstream","Klebsiella pneumoniae","Cefepime","NAM","Namibia","African Region",61,7,11.475409836
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","NAM","Namibia","African Region",60,16,26.666666667
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","NAM","Namibia","African Region",61,14,22.950819672
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","NAM","Namibia","African Region",60,14,23.333333333
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","NAM","Namibia","African Region",61,25,40.983606557
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","NAM","Namibia","African Region",59,13,22.033898305
+"Bloodstream","Klebsiella pneumoniae","Imipenem","NAM","Namibia","African Region",60,5,8.333333333
+"Bloodstream","Klebsiella pneumoniae","Meropenem","NAM","Namibia","African Region",61,6,9.836065574
+"Bloodstream","Klebsiella pneumoniae","Cefepime","NGA","Nigeria","African Region",11,9,81.818181818
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","NGA","Nigeria","African Region",11,9,81.818181818
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","NGA","Nigeria","African Region",11,9,81.818181818
+"Bloodstream","Klebsiella pneumoniae","Meropenem","NGA","Nigeria","African Region",10,2,20
+"Bloodstream","Klebsiella pneumoniae","Cefepime","NLD","Netherlands (Kingdom of the)","European Region",197,37,18.781725888
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","NLD","Netherlands (Kingdom of the)","European Region",1238,108,8.723747981
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","NLD","Netherlands (Kingdom of the)","European Region",1384,128,9.248554913
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","NLD","Netherlands (Kingdom of the)","European Region",738,72,9.756097561
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","NLD","Netherlands (Kingdom of the)","European Region",1385,175,12.635379061
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","NLD","Netherlands (Kingdom of the)","European Region",176,7,3.977272727
+"Bloodstream","Klebsiella pneumoniae","Imipenem","NLD","Netherlands (Kingdom of the)","European Region",1379,6,0.435097897
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","NLD","Netherlands (Kingdom of the)","European Region",226,31,13.716814159
+"Bloodstream","Klebsiella pneumoniae","Meropenem","NLD","Netherlands (Kingdom of the)","European Region",1384,6,0.433526012
+"Bloodstream","Klebsiella pneumoniae","Cefepime","NPL","Nepal","South-East Asia Region",291,222,76.288659794
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","NPL","Nepal","South-East Asia Region",369,326,88.346883469
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","NPL","Nepal","South-East Asia Region",383,303,79.11227154
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","NPL","Nepal","South-East Asia Region",349,187,53.581661891
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","NPL","Nepal","South-East Asia Region",327,178,54.434250765
+"Bloodstream","Klebsiella pneumoniae","Imipenem","NPL","Nepal","South-East Asia Region",312,132,42.307692308
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","NPL","Nepal","South-East Asia Region",298,208,69.798657718
+"Bloodstream","Klebsiella pneumoniae","Meropenem","NPL","Nepal","South-East Asia Region",438,231,52.739726027
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","OMN","Oman","Eastern Mediterranean Region",206,148,71.844660194
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","OMN","Oman","Eastern Mediterranean Region",336,273,81.25
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",372,265,71.23655914
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",424,236,55.660377358
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","OMN","Oman","Eastern Mediterranean Region",501,241,48.103792415
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","OMN","Oman","Eastern Mediterranean Region",112,96,85.714285714
+"Bloodstream","Klebsiella pneumoniae","Imipenem","OMN","Oman","Eastern Mediterranean Region",130,77,59.230769231
+"Bloodstream","Klebsiella pneumoniae","Meropenem","OMN","Oman","Eastern Mediterranean Region",326,154,47.239263804
+"Bloodstream","Klebsiella pneumoniae","Cefepime","PAK","Pakistan","Eastern Mediterranean Region",543,426,78.453038674
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","PAK","Pakistan","Eastern Mediterranean Region",588,527,89.62585034
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","PAK","Pakistan","Eastern Mediterranean Region",209,152,72.727272727
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",4133,3415,82.627631261
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",2319,1593,68.693402329
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","PAK","Pakistan","Eastern Mediterranean Region",2154,1605,74.512534819
+"Bloodstream","Klebsiella pneumoniae","Colistin","PAK","Pakistan","Eastern Mediterranean Region",1424,99,6.952247191
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","PAK","Pakistan","Eastern Mediterranean Region",618,336,54.368932039
+"Bloodstream","Klebsiella pneumoniae","Imipenem","PAK","Pakistan","Eastern Mediterranean Region",2543,1540,60.558395596
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","PAK","Pakistan","Eastern Mediterranean Region",1373,746,54.333576111
+"Bloodstream","Klebsiella pneumoniae","Meropenem","PAK","Pakistan","Eastern Mediterranean Region",3633,1862,51.252408478
+"Bloodstream","Klebsiella pneumoniae","Cefepime","PER","Peru","Region of the Americas",183,100,54.644808743
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","PER","Peru","Region of the Americas",26,18,69.230769231
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","PER","Peru","Region of the Americas",149,79,53.020134228
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","PER","Peru","Region of the Americas",125,81,64.8
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","PER","Peru","Region of the Americas",176,105,59.659090909
+"Bloodstream","Klebsiella pneumoniae","Colistin","PER","Peru","Region of the Americas",74,4,5.405405405
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","PER","Peru","Region of the Americas",156,48,30.769230769
+"Bloodstream","Klebsiella pneumoniae","Imipenem","PER","Peru","Region of the Americas",167,49,29.341317365
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","PER","Peru","Region of the Americas",80,45,56.25
+"Bloodstream","Klebsiella pneumoniae","Meropenem","PER","Peru","Region of the Americas",170,50,29.411764706
+"Bloodstream","Klebsiella pneumoniae","Cefepime","PHL","Philippines","Western Pacific Region",1469,503,34.240980259
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","PHL","Philippines","Western Pacific Region",544,283,52.022058824
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","PHL","Philippines","Western Pacific Region",1459,716,49.074708705
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","PHL","Philippines","Western Pacific Region",1472,781,53.057065217
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","PHL","Philippines","Western Pacific Region",1471,781,53.093133923
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","PHL","Philippines","Western Pacific Region",1486,714,48.048452221
+"Bloodstream","Klebsiella pneumoniae","Colistin","PHL","Philippines","Western Pacific Region",378,54,14.285714286
+"Bloodstream","Klebsiella pneumoniae","Doripenem","PHL","Philippines","Western Pacific Region",31,0,0
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","PHL","Philippines","Western Pacific Region",1345,278,20.669144981
+"Bloodstream","Klebsiella pneumoniae","Imipenem","PHL","Philippines","Western Pacific Region",1466,338,23.055934516
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","PHL","Philippines","Western Pacific Region",342,95,27.777777778
+"Bloodstream","Klebsiella pneumoniae","Meropenem","PHL","Philippines","Western Pacific Region",1473,343,23.28581127
+"Bloodstream","Klebsiella pneumoniae","Cefepime","POL","Poland","European Region",1144,703,61.451048951
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","POL","Poland","European Region",1001,602,60.13986014
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","POL","Poland","European Region",1072,681,63.526119403
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","POL","Poland","European Region",567,359,63.315696649
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","POL","Poland","European Region",1339,806,60.194174757
+"Bloodstream","Klebsiella pneumoniae","Colistin","POL","Poland","European Region",400,72,18
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","POL","Poland","European Region",548,127,23.175182482
+"Bloodstream","Klebsiella pneumoniae","Imipenem","POL","Poland","European Region",1182,203,17.17428088
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","POL","Poland","European Region",387,213,55.03875969
+"Bloodstream","Klebsiella pneumoniae","Meropenem","POL","Poland","European Region",1324,204,15.407854985
+"Bloodstream","Klebsiella pneumoniae","Cefepime","QAT","Qatar","Eastern Mediterranean Region",244,56,22.950819672
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","QAT","Qatar","Eastern Mediterranean Region",243,68,27.983539095
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",244,67,27.459016393
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",64,50,78.125
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","QAT","Qatar","Eastern Mediterranean Region",244,61,25
+"Bloodstream","Klebsiella pneumoniae","Colistin","QAT","Qatar","Eastern Mediterranean Region",91,3,3.296703297
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","QAT","Qatar","Eastern Mediterranean Region",242,12,4.958677686
+"Bloodstream","Klebsiella pneumoniae","Imipenem","QAT","Qatar","Eastern Mediterranean Region",207,14,6.763285024
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","QAT","Qatar","Eastern Mediterranean Region",47,31,65.957446809
+"Bloodstream","Klebsiella pneumoniae","Meropenem","QAT","Qatar","Eastern Mediterranean Region",212,7,3.301886792
+"Bloodstream","Klebsiella pneumoniae","Cefepime","RUS","Russian Federation","European Region",1298,1170,90.138674884
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","RUS","Russian Federation","European Region",1356,1253,92.404129794
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","RUS","Russian Federation","European Region",1548,1404,90.697674419
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","RUS","Russian Federation","European Region",274,252,91.97080292
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","RUS","Russian Federation","European Region",1538,1392,90.507152146
+"Bloodstream","Klebsiella pneumoniae","Colistin","RUS","Russian Federation","European Region",971,183,18.846549949
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","RUS","Russian Federation","European Region",1317,995,75.550493546
+"Bloodstream","Klebsiella pneumoniae","Imipenem","RUS","Russian Federation","European Region",531,372,70.056497175
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","RUS","Russian Federation","European Region",153,139,90.849673203
+"Bloodstream","Klebsiella pneumoniae","Meropenem","RUS","Russian Federation","European Region",1571,528,33.609166136
+"Bloodstream","Klebsiella pneumoniae","Cefepime","RWA","Rwanda","African Region",15,13,86.666666667
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","RWA","Rwanda","African Region",39,34,87.179487179
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","RWA","Rwanda","African Region",31,29,93.548387097
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","RWA","Rwanda","African Region",27,12,44.444444444
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","RWA","Rwanda","African Region",13,8,61.538461538
+"Bloodstream","Klebsiella pneumoniae","Imipenem","RWA","Rwanda","African Region",28,7,25
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","RWA","Rwanda","African Region",18,4,22.222222222
+"Bloodstream","Klebsiella pneumoniae","Meropenem","RWA","Rwanda","African Region",38,4,10.526315789
+"Bloodstream","Klebsiella pneumoniae","Cefepime","SAU","Saudi Arabia","Eastern Mediterranean Region",659,416,63.125948407
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","SAU","Saudi Arabia","Eastern Mediterranean Region",448,290,64.732142857
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","SAU","Saudi Arabia","Eastern Mediterranean Region",653,416,63.705972435
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",446,274,61.434977578
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",636,383,60.220125786
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","SAU","Saudi Arabia","Eastern Mediterranean Region",496,283,57.056451613
+"Bloodstream","Klebsiella pneumoniae","Colistin","SAU","Saudi Arabia","Eastern Mediterranean Region",304,83,27.302631579
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","SAU","Saudi Arabia","Eastern Mediterranean Region",451,220,48.780487805
+"Bloodstream","Klebsiella pneumoniae","Imipenem","SAU","Saudi Arabia","Eastern Mediterranean Region",659,264,40.060698027
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",487,298,61.190965092
+"Bloodstream","Klebsiella pneumoniae","Meropenem","SAU","Saudi Arabia","Eastern Mediterranean Region",659,304,46.130500759
+"Bloodstream","Klebsiella pneumoniae","Cefepime","SGP","Singapore","Western Pacific Region",651,98,15.053763441
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","SGP","Singapore","Western Pacific Region",600,115,19.166666667
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","SGP","Singapore","Western Pacific Region",652,130,19.938650307
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","SGP","Singapore","Western Pacific Region",399,67,16.79197995
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","SGP","Singapore","Western Pacific Region",252,67,26.587301587
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","SGP","Singapore","Western Pacific Region",252,66,26.19047619
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","SGP","Singapore","Western Pacific Region",399,10,2.506265664
+"Bloodstream","Klebsiella pneumoniae","Imipenem","SGP","Singapore","Western Pacific Region",252,4,1.587301587
+"Bloodstream","Klebsiella pneumoniae","Meropenem","SGP","Singapore","Western Pacific Region",654,7,1.070336391
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","SWE","Sweden","European Region",2160,145,6.712962963
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","SWE","Sweden","European Region",2159,158,7.318202872
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","SWE","Sweden","European Region",2147,265,12.342803912
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","SWE","Sweden","European Region",530,9,1.698113208
+"Bloodstream","Klebsiella pneumoniae","Imipenem","SWE","Sweden","European Region",1404,4,0.284900285
+"Bloodstream","Klebsiella pneumoniae","Meropenem","SWE","Sweden","European Region",2161,4,0.185099491
+"Bloodstream","Klebsiella pneumoniae","Cefepime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",36,28,77.777777778
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",36,33,91.666666667
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","SYR","Syrian Arab Republic","Eastern Mediterranean Region",16,12,75
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","SYR","Syrian Arab Republic","Eastern Mediterranean Region",36,33,91.666666667
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","SYR","Syrian Arab Republic","Eastern Mediterranean Region",36,26,72.222222222
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","SYR","Syrian Arab Republic","Eastern Mediterranean Region",35,30,85.714285714
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","SYR","Syrian Arab Republic","Eastern Mediterranean Region",17,2,11.764705882
+"Bloodstream","Klebsiella pneumoniae","Imipenem","SYR","Syrian Arab Republic","Eastern Mediterranean Region",35,7,20
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","SYR","Syrian Arab Republic","Eastern Mediterranean Region",21,18,85.714285714
+"Bloodstream","Klebsiella pneumoniae","Cefepime","THA","Thailand","South-East Asia Region",853,186,21.805392732
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","THA","Thailand","South-East Asia Region",784,268,34.183673469
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","THA","Thailand","South-East Asia Region",1275,401,31.450980392
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","THA","Thailand","South-East Asia Region",1288,450,34.937888199
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","THA","Thailand","South-East Asia Region",1543,550,35.644847699
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","THA","Thailand","South-East Asia Region",1248,419,33.573717949
+"Bloodstream","Klebsiella pneumoniae","Colistin","THA","Thailand","South-East Asia Region",732,18,2.459016393
+"Bloodstream","Klebsiella pneumoniae","Doripenem","THA","Thailand","South-East Asia Region",545,41,7.52293578
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","THA","Thailand","South-East Asia Region",1639,244,14.887126297
+"Bloodstream","Klebsiella pneumoniae","Imipenem","THA","Thailand","South-East Asia Region",1644,209,12.712895377
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","THA","Thailand","South-East Asia Region",838,225,26.849642005
+"Bloodstream","Klebsiella pneumoniae","Meropenem","THA","Thailand","South-East Asia Region",1657,221,13.337356669
+"Bloodstream","Klebsiella pneumoniae","Cefepime","TLS","Timor-Leste","South-East Asia Region",33,24,72.727272727
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","TLS","Timor-Leste","South-East Asia Region",33,23,69.696969697
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","TLS","Timor-Leste","South-East Asia Region",31,24,77.419354839
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","TLS","Timor-Leste","South-East Asia Region",30,21,70
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","TLS","Timor-Leste","South-East Asia Region",21,13,61.904761905
+"Bloodstream","Klebsiella pneumoniae","Colistin","TLS","Timor-Leste","South-East Asia Region",29,1,3.448275862
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","TLS","Timor-Leste","South-East Asia Region",29,1,3.448275862
+"Bloodstream","Klebsiella pneumoniae","Imipenem","TLS","Timor-Leste","South-East Asia Region",27,0,0
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","TLS","Timor-Leste","South-East Asia Region",24,8,33.333333333
+"Bloodstream","Klebsiella pneumoniae","Meropenem","TLS","Timor-Leste","South-East Asia Region",24,0,0
+"Bloodstream","Klebsiella pneumoniae","Cefepime","TUN","Tunisia","Eastern Mediterranean Region",194,107,55.154639175
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","TUN","Tunisia","Eastern Mediterranean Region",207,122,58.937198068
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","TUN","Tunisia","Eastern Mediterranean Region",209,118,56.459330144
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","TUN","Tunisia","Eastern Mediterranean Region",184,83,45.108695652
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","TUN","Tunisia","Eastern Mediterranean Region",168,74,44.047619048
+"Bloodstream","Klebsiella pneumoniae","Colistin","TUN","Tunisia","Eastern Mediterranean Region",71,16,22.535211268
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","TUN","Tunisia","Eastern Mediterranean Region",221,59,26.696832579
+"Bloodstream","Klebsiella pneumoniae","Imipenem","TUN","Tunisia","Eastern Mediterranean Region",205,39,19.024390244
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","TUN","Tunisia","Eastern Mediterranean Region",44,11,25
+"Bloodstream","Klebsiella pneumoniae","Meropenem","TUN","Tunisia","Eastern Mediterranean Region",34,28,82.352941176
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","TUR","T<U+00FC>rkiye","European Region",628,453,72.133757962
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","TUR","T<U+00FC>rkiye","European Region",4735,3572,75.438225977
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","TUR","T<U+00FC>rkiye","European Region",4197,3186,75.911365261
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","TUR","T<U+00FC>rkiye","European Region",4713,3256,69.085508169
+"Bloodstream","Klebsiella pneumoniae","Colistin","TUR","T<U+00FC>rkiye","European Region",1730,546,31.560693642
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","TUR","T<U+00FC>rkiye","European Region",4541,2801,61.6824488
+"Bloodstream","Klebsiella pneumoniae","Imipenem","TUR","T<U+00FC>rkiye","European Region",2948,1396,47.354138399
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","TUR","T<U+00FC>rkiye","European Region",1754,1019,58.095781072
+"Bloodstream","Klebsiella pneumoniae","Meropenem","TUR","T<U+00FC>rkiye","European Region",4597,2364,51.424842288
+"Bloodstream","Klebsiella pneumoniae","Cefepime","TZA","United Republic of Tanzania","African Region",554,474,85.559566787
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","TZA","United Republic of Tanzania","African Region",84,71,84.523809524
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","TZA","United Republic of Tanzania","African Region",588,509,86.56462585
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","TZA","United Republic of Tanzania","African Region",541,498,92.051756007
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","TZA","United Republic of Tanzania","African Region",577,431,74.696707106
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","TZA","United Republic of Tanzania","African Region",514,449,87.354085603
+"Bloodstream","Klebsiella pneumoniae","Imipenem","TZA","United Republic of Tanzania","African Region",24,3,12.5
+"Bloodstream","Klebsiella pneumoniae","Meropenem","TZA","United Republic of Tanzania","African Region",574,42,7.317073171
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","UKR","Ukraine","European Region",337,297,88.130563798
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","UKR","Ukraine","European Region",491,409,83.299389002
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","UKR","Ukraine","European Region",121,112,92.561983471
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","UKR","Ukraine","European Region",485,396,81.649484536
+"Bloodstream","Klebsiella pneumoniae","Colistin","UKR","Ukraine","European Region",145,20,13.793103448
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","UKR","Ukraine","European Region",176,124,70.454545455
+"Bloodstream","Klebsiella pneumoniae","Imipenem","UKR","Ukraine","European Region",413,286,69.249394673
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","UKR","Ukraine","European Region",394,299,75.888324873
+"Bloodstream","Klebsiella pneumoniae","Meropenem","UKR","Ukraine","European Region",459,298,64.923747277
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","XKX","Kosovo","European Region",111,111,100
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","XKX","Kosovo","European Region",111,18,16.216216216
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","XKX","Kosovo","European Region",110,109,99.090909091
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","XKX","Kosovo","European Region",111,3,2.702702703
+"Bloodstream","Klebsiella pneumoniae","Colistin","XKX","Kosovo","European Region",111,0,0
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","XKX","Kosovo","European Region",111,0,0
+"Bloodstream","Klebsiella pneumoniae","Imipenem","XKX","Kosovo","European Region",111,0,0
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","XKX","Kosovo","European Region",111,3,2.702702703
+"Bloodstream","Klebsiella pneumoniae","Meropenem","XKX","Kosovo","European Region",111,0,0
+"Bloodstream","Klebsiella pneumoniae","Cefepime","YEM","Yemen","Eastern Mediterranean Region",30,28,93.333333333
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","YEM","Yemen","Eastern Mediterranean Region",26,25,96.153846154
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","YEM","Yemen","Eastern Mediterranean Region",32,29,90.625
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","YEM","Yemen","Eastern Mediterranean Region",30,28,93.333333333
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","YEM","Yemen","Eastern Mediterranean Region",23,19,82.608695652
+"Bloodstream","Klebsiella pneumoniae","Colistin","YEM","Yemen","Eastern Mediterranean Region",13,0,0
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","YEM","Yemen","Eastern Mediterranean Region",12,9,75
+"Bloodstream","Klebsiella pneumoniae","Imipenem","YEM","Yemen","Eastern Mediterranean Region",24,7,29.166666667
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","YEM","Yemen","Eastern Mediterranean Region",24,17,70.833333333
+"Bloodstream","Klebsiella pneumoniae","Meropenem","YEM","Yemen","Eastern Mediterranean Region",21,13,61.904761905
+"Bloodstream","Klebsiella pneumoniae","Cefepime","ZAF","South Africa","African Region",6860,4035,58.819241983
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","ZAF","South Africa","African Region",6895,4783,69.369108049
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","ZAF","South Africa","African Region",6979,5081,72.804126666
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","ZAF","South Africa","African Region",7005,3182,45.424696645
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","ZAF","South Africa","African Region",7021,5046,71.870103974
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","ZAF","South Africa","African Region",6703,1855,27.674175742
+"Bloodstream","Klebsiella pneumoniae","Imipenem","ZAF","South Africa","African Region",6980,1514,21.690544413
+"Bloodstream","Klebsiella pneumoniae","Meropenem","ZAF","South Africa","African Region",6842,1559,22.785735165
+"Bloodstream","Klebsiella pneumoniae","Cefepime","ZMB","Zambia","African Region",34,17,50
+"Bloodstream","Klebsiella pneumoniae","Cefotaxime","ZMB","Zambia","African Region",15,9,60
+"Bloodstream","Klebsiella pneumoniae","Ceftazidime","ZMB","Zambia","African Region",35,21,60
+"Bloodstream","Klebsiella pneumoniae","Ceftriaxone","ZMB","Zambia","African Region",36,27,75
+"Bloodstream","Klebsiella pneumoniae","Ciprofloxacin","ZMB","Zambia","African Region",49,31,63.265306122
+"Bloodstream","Klebsiella pneumoniae","Co-trimoxazole","ZMB","Zambia","African Region",34,31,91.176470588
+"Bloodstream","Klebsiella pneumoniae","Ertapenem","ZMB","Zambia","African Region",16,1,6.25
+"Bloodstream","Klebsiella pneumoniae","Imipenem","ZMB","Zambia","African Region",29,3,10.344827586
+"Bloodstream","Klebsiella pneumoniae","Levofloxacin","ZMB","Zambia","African Region",15,6,40
+"Bloodstream","Klebsiella pneumoniae","Meropenem","ZMB","Zambia","African Region",11,2,18.181818182

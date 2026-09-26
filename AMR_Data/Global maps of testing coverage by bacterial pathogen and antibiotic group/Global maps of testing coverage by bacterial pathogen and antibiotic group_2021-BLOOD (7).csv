@@ -1,0 +1,74 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Infection type filter: Bloodstream"
+"Bacterial pathogen filter: Streptococcus pneumoniae"
+"Antibiotic group filter: Penicillins"
+
+
+"CountryTerritoryArea","Total Streptococcus pneumoniae BCIs per million population","Absolute number of Streptococcus pneumoniae BCIs","Total Streptococcus pneumoniae BCIs with AST (Penicillins) per million population","Absolute number of Streptococcus pneumoniae BCIs with AST (Penicillins)","% of Streptococcus pneumoniae BCIs with AST"
+"Argentina",5.9,268,3.5,157,58.6
+"Australia",17.7,459,17,440,95.9
+"Austria",35.8,321,35.8,321,100
+"Bahrain",2.7,4,1.3,2,50
+"Belgium",72.9,843,72.9,843,100
+"Bosnia and Herzegovina",2.5,8,2.5,8,100
+"Brazil",0,7,0,7,100
+"Brunei Darussalam",11.1,5,6.6,3,60
+"Cameroon",0.1,2,0,1,50
+"Colombia",7,356,4.3,218,61.2
+"Croatia",18.1,71,18.1,71,100
+"Cyprus",8.4,11,8.4,11,100
+"Czechia",21.7,228,21.7,228,100
+"Denmark",57,334,57,334,100
+"Estonia",54.8,73,54.8,73,100
+"Ethiopia",0,5,0,2,40
+"Finland",45.8,254,45.8,254,100
+"France",19.6,1339,19.6,1339,100
+"Georgia",3.4,13,3.4,13,100
+"Germany",14.3,1196,14.3,1196,100
+"Ghana",0.2,6,0,1,16.7
+"Indonesia",0,13,0,7,53.8
+"Iran (Islamic Republic of)",0.3,25,0.1,7,28
+"Ireland",33.4,168,33.4,168,100
+"Italy",8.9,529,8,480,90.7
+"Japan",11.4,1429,11.3,1419,99.3
+"Jordan",1.8,20,0.7,8,40
+"Kosovo",1.7,3,1.7,3,100
+"Lao People's Democratic Republic",0.5,4,0.5,4,100
+"Latvia",39.2,74,30.2,57,77
+"Liberia",1,5,0.6,3,60
+"Lithuania",39,109,39,109,100
+"Luxembourg",32.8,21,32.8,21,100
+"Malawi",0.3,6,0.2,4,66.7
+"Malaysia",8.6,294,7.2,246,83.7
+"Mali",1.7,37,1.7,37,100
+"Malta",11.4,6,11.4,6,100
+"Mauritius",3.1,4,3.1,4,100
+"Morocco",0.3,11,0.3,11,100
+"Mozambique",0.1,3,0.1,3,100
+"Nepal",0.2,6,0.2,5,83.3
+"Netherlands (Kingdom of the)",32,567,31.3,555,97.9
+"North Macedonia",1.6,3,1.6,3,100
+"Norway",48.3,261,48.3,261,100
+"Oman",12.4,56,6.7,30,53.6
+"Pakistan",0.7,156,0.6,154,98.7
+"Peru",0.3,9,0.1,3,33.3
+"Philippines",0.4,49,0.3,38,77.6
+"Poland",6.2,237,6.2,237,100
+"Qatar",13.9,39,13.5,38,97.4
+"Republic of Korea",0.4,20,0.4,20,100
+"Russian Federation",0.3,43,0.2,28,65.1
+"Saudi Arabia",0.6,19,0.6,18,94.7
+"Singapore",0.4,2,0.2,1,50
+"South Africa",6.2,382,4.3,265,69.4
+"Sri Lanka",0.7,16,0.4,8,50
+"Sweden",64.1,668,64.1,668,100
+"Switzerland",51.6,449,48.9,426,94.9
+"Thailand",1.4,104,1.1,82,78.8
+"Tunisia",0.2,3,0.2,3,100
+"T<U+00FC>rkiye",1.8,158,1.7,147,93
+"Ukraine",0.3,14,0.3,13,92.9
+"United Arab Emirates",12.6,123,9,88,71.5
+"United Kingdom of Great Britain and Northern Ireland",30.5,2061,27.1,1837,89.1
+"United Republic of Tanzania",0.2,12,0,0,0

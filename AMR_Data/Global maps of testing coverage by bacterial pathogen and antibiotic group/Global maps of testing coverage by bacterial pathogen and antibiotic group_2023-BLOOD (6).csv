@@ -1,0 +1,106 @@
+Filters
+"Year filter: 2023"
+"Region filter: All"
+"Infection type filter: Bloodstream"
+"Bacterial pathogen filter: Staphylococcus aureus"
+"Antibiotic group filter: Methicillin-resistance"
+
+
+"CountryTerritoryArea","Total Staphylococcus aureus BCIs per million population","Absolute number of Staphylococcus aureus BCIs","Total Staphylococcus aureus BCIs with AST (Methicillin-resistance) per million population","Absolute number of Staphylococcus aureus BCIs with AST (Methicillin-resistance)","% of Staphylococcus aureus BCIs with AST"
+"Afghanistan",0,2,0,2,100
+"Algeria",11.4,526,9.5,439,83.5
+"Argentina",67.2,3060,49.6,2257,73.8
+"Australia",125.5,3319,125.5,3319,100
+"Austria",166.7,1522,166.7,1522,100
+"Bahrain",187.3,294,131.2,206,70.1
+"Bangladesh",0.4,62,0.3,59,95.2
+"Belgium",95.1,1114,95.1,1114,100
+"Benin",18.8,265,18.6,262,98.9
+"Bhutan",25.4,20,25.4,20,100
+"Bosnia and Herzegovina",93.2,297,93.2,297,100
+"Brazil",5.3,1122,5.2,1095,97.6
+"Brunei Darussalam",82.8,38,82.8,38,100
+"Burkina Faso",4.3,100,2.6,59,59
+"Cambodia",4.1,72,4.1,72,100
+"Cameroon",3.7,105,2.1,59,56.2
+"Canada",124.1,4877,124.1,4877,100
+"China, Hong Kong SAR",256.6,1910,256.1,1906,99.8
+"Colombia",213.1,11149,207.9,10879,97.6
+"Croatia",155.5,606,155.5,606,100
+"Cyprus",108.6,146,108.6,146,100
+"Czechia",181,1957,181,1957,100
+"C<U+00F4>te d<U+2019>Ivoire",1.9,58,1.8,57,98.3
+"Democratic Republic of the Congo",0.9,96,0.9,94,97.9
+"Denmark",312.7,1860,312.7,1860,100
+"Egypt",2.5,289,1.9,215,74.4
+"Estonia",168.2,230,168.2,230,100
+"Eswatini",27.6,34,18.7,23,67.6
+"Ethiopia",2.1,265,0.7,92,34.7
+"Finland",45.2,253,45.2,253,100
+"Georgia",93.2,355,73,278,78.3
+"Germany",179.5,15178,179.5,15178,100
+"Ghana",8.8,296,4.2,143,48.3
+"Greece",90,922,90,922,100
+"Guinea",0.3,4,0.3,4,100
+"Iceland",330.3,128,330.3,128,100
+"India",7,10083,5.8,8373,83
+"Indonesia",7.8,2206,6.5,1839,83.4
+"Iran (Islamic Republic of)",8,723,7.4,669,92.5
+"Iraq",13.4,606,6.7,300,49.5
+"Ireland",182.2,947,182.2,947,100
+"Italy",225.3,13404,225.3,13404,100
+"Japan",243,30226,243,30226,100
+"Jordan",146.4,1675,79.6,910,54.3
+"Kenya",4.4,243,1.1,63,25.9
+"Kosovo",21.2,36,21.2,36,100
+"Kuwait",88.9,430,71.9,348,80.9
+"Lao People's Democratic Republic",21.3,163,21.1,162,99.4
+"Latvia",124.8,235,124.3,234,99.6
+"Lebanon",2.1,12,2.1,12,100
+"Liberia",0.9,5,0.9,5,100
+"Lithuania",283.8,810,283.8,810,100
+"Luxembourg",7.5,5,7.5,5,100
+"Madagascar",0.5,16,0.4,14,87.5
+"Malawi",6.4,135,4.3,90,66.7
+"Malaysia",248.2,8719,139.2,4889,56.1
+"Maldives",68.4,36,57,30,83.3
+"Mali",2.1,51,2.1,50,98
+"Malta",251.4,134,249.6,133,99.3
+"Mauritius",457.8,583,457,582,99.8
+"Morocco",11.3,427,9.7,365,85.5
+"Mozambique",0.4,12,0.4,12,100
+"Myanmar",0.6,32,0.5,25,78.1
+"Namibia",11.8,35,7.8,23,65.7
+"Nepal",34,1011,19.2,569,56.3
+"Netherlands (Kingdom of the)",112.4,2034,112.4,2034,100
+"Nigeria",0.6,128,0.4,93,72.7
+"North Macedonia",54,99,54,99,100
+"Norway",143.5,792,143.5,792,100
+"Oman",137.6,695,12.5,63,9.1
+"Pakistan",10.8,2669,6.7,1663,62.3
+"Papua New Guinea",4.9,51,4.5,47,92.2
+"Peru",12.1,411,0.9,31,7.5
+"Philippines",19.9,2292,19.6,2248,98.1
+"Poland",46.3,1796,46.3,1796,100
+"Qatar",70.5,210,70.2,209,99.5
+"Republic of Korea",16.1,832,16.1,832,100
+"Republic of Moldova",25.8,79,25.8,79,100
+"Russian Federation",16.4,2378,11.8,1710,71.9
+"Saudi Arabia",17.2,571,9,301,52.7
+"Singapore",96,556,73.1,423,76.1
+"South Africa",109.6,6931,108.7,6874,99.2
+"Sri Lanka",65.3,1499,30.1,691,46.1
+"Sweden",750.1,7915,750.1,7915,100
+"Switzerland",312.7,2774,284.9,2527,91.1
+"Thailand",27.8,1995,14.7,1054,52.8
+"Timor-Leste",36.8,51,36.1,50,98
+"Tunisia",33.9,413,32.7,399,96.6
+"T<U+00FC>rkiye",48.8,4256,47.8,4173,98
+"Uganda",0.3,13,0.2,8,61.5
+"Ukraine",16.4,618,15.8,596,96.4
+"United Arab Emirates",85.3,908,82.3,876,96.5
+"United Kingdom of Great Britain and Northern Ireland",187.8,12900,172.7,11864,92
+"United Republic of Tanzania",11.2,744,10.1,674,90.6
+"Yemen",10.7,421,4.7,186,44.2
+"Zambia",7.1,148,5.2,107,72.3
+"occupied Palestinian territory, including east Jerusalem",50.8,275,44.2,239,86.9

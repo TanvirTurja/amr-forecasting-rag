@@ -1,0 +1,30 @@
+Filters
+Region filter: All
+Infection type filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Spectinomycin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+2019,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+2020,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+2021,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+2022,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+2023,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,5.555555556
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"JPN","Japan","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",1167,1167,0,0
+"PHL","Philippines","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",103,47,0,0
+"JPN","Japan","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",1023,1023,0,0
+"PHL","Philippines","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",140,119,0,0
+"JPN","Japan","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",825,825,0,0
+"PHL","Philippines","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",44,16,0,0
+"JPN","Japan","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",698,698,0,0
+"PHL","Philippines","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",14,10,0,0
+"JPN","Japan","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",950,950,0,0
+"PHL","Philippines","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",42,29,0,0
+"JPN","Japan","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",1134,1134,0,0
+"PHL","Philippines","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Spectinomycin",26,18,1,5.555555556

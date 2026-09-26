@@ -1,0 +1,82 @@
+Filters
+"Year filter: 2023"
+"Region filter: All"
+"Infection type filter: Gastrointestinal"
+"Bacterial pathogen filter: Salmonella spp."
+"Antibiotic group filter: Fluoroquinolones"
+
+
+"CountryTerritoryArea","Total Salmonella spp. BCIs per million population","Absolute number of Salmonella spp. BCIs","Total Salmonella spp. BCIs with AST (Fluoroquinolones) per million population","Absolute number of Salmonella spp. BCIs with AST (Fluoroquinolones)","% of Salmonella spp. BCIs with AST"
+"Afghanistan",0,2,0,2,100
+"Argentina",20.3,926,19.4,883,95.4
+"Australia",88.4,2337,85.9,2271,97.2
+"Bahrain",207.1,325,167.6,263,80.9
+"Bangladesh",0.1,14,0.1,14,100
+"Belgium",33.6,394,33.6,394,100
+"Bhutan",11.4,9,11.4,9,100
+"Brazil",0,3,0,2,66.7
+"Burkina Faso",1.4,33,0.6,13,39.4
+"Cameroon",1.3,37,0.8,22,59.5
+"Canada",116.5,4578,116.5,4578,100
+"Colombia",18.9,990,18.6,971,98.1
+"Croatia",345.5,1346,142.2,554,41.2
+"Cyprus",90.7,122,90.7,122,100
+"Czechia",15.8,171,15.8,171,100
+"C<U+00F4>te d<U+2019>Ivoire",0.1,2,0.1,2,100
+"Estonia",126.5,173,126.5,173,100
+"Eswatini",2.4,3,2.4,3,100
+"Ethiopia",0.1,7,0,6,85.7
+"Finland",16.8,94,16.8,94,100
+"France",17.3,1191,17.3,1191,100
+"Georgia",7.9,30,7.9,30,100
+"Germany",30.4,2569,28,2364,92
+"Greece",38.1,390,38.1,390,100
+"Guinea",0.2,3,0.1,2,66.7
+"India",0.2,343,0.2,340,99.1
+"Indonesia",0.2,50,0.1,31,62
+"Iran (Islamic Republic of)",0.2,20,0.2,14,70
+"Iraq",0.4,19,0.2,7,36.8
+"Italy",24.8,1475,24.8,1473,99.9
+"Japan",1.2,149,1.2,149,100
+"Jordan",5.4,62,3.1,36,58.1
+"Kenya",0.5,30,0.3,17,56.7
+"Kuwait",49,237,47.7,231,97.5
+"Lao People's Democratic Republic",7.2,55,3.4,26,47.3
+"Lebanon",2.6,15,2.6,15,100
+"Liberia",0.4,2,0.4,2,100
+"Lithuania",109.7,313,109.7,313,100
+"Luxembourg",230,153,230,153,100
+"Madagascar",0.1,2,0.1,2,100
+"Malawi",0.1,3,0.1,2,66.7
+"Malaysia",80,2811,68.3,2399,85.3
+"Maldives",51.3,27,22.8,12,44.4
+"Malta",238.3,127,213.9,114,89.8
+"Mauritius",43.2,55,43.2,55,100
+"Morocco",0.1,3,0.1,3,100
+"Myanmar",0.1,3,0.1,3,100
+"Namibia",7.1,21,1.7,5,23.8
+"Nepal",0.6,17,0.6,17,100
+"Netherlands (Kingdom of the)",66.9,1211,66.9,1211,100
+"Norway",61.8,341,61.8,341,100
+"Oman",176.7,892,175.3,885,99.2
+"Pakistan",0.2,43,0.2,42,97.7
+"Papua New Guinea",0.1,1,0.1,1,100
+"Peru",2.5,85,2,69,81.2
+"Philippines",0.4,42,0.3,33,78.6
+"Poland",27,1045,21.2,822,78.7
+"Qatar",177.2,528,35.6,106,20.1
+"Republic of Korea",3.7,194,3.7,194,100
+"Republic of Moldova",43.4,133,38.8,119,89.5
+"Saudi Arabia",5.9,195,3.9,129,66.2
+"Singapore",40.8,236,40.4,234,99.2
+"Sri Lanka",0.2,4,0.1,3,75
+"Switzerland",75.8,672,69.1,613,91.2
+"Thailand",17.2,1235,15.7,1125,91.1
+"Timor-Leste",1.4,2,1.4,2,100
+"Tunisia",2.8,34,2.1,26,76.5
+"Uganda",0,1,0,1,100
+"United Arab Emirates",159.2,1694,98.9,1053,62.2
+"United Kingdom of Great Britain and Northern Ireland",61.8,4248,55.7,3825,90
+"Yemen",3.5,137,2.3,92,67.2
+"Zambia",5.1,105,3.3,68,64.8
+"occupied Palestinian territory, including east Jerusalem",2.8,15,2.6,14,93.3

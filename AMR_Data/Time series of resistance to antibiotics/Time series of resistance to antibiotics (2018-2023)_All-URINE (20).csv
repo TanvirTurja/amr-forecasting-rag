@@ -1,0 +1,84 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Levofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Klebsiella pneumoniae","Levofloxacin",2.798637671,12.990936556,25.112107623,32.394366197,50.490196078
+2019,"URINE","Klebsiella pneumoniae","Levofloxacin",2.945183263,17.059668695,35.057598093,50.273722628,70.106761566
+2020,"URINE","Klebsiella pneumoniae","Levofloxacin",3.482751852,18.001722653,34.031489764,41.884232623,66.071428571
+2021,"URINE","Klebsiella pneumoniae","Levofloxacin",3.902026831,15.556147832,34.74528711,49.137550215,78.787878788
+2022,"URINE","Klebsiella pneumoniae","Levofloxacin",4.341939448,18.913811721,38.144105332,56.575524236,100
+2023,"URINE","Klebsiella pneumoniae","Levofloxacin",4.678320353,24.97120007,36.161858974,54.033624542,76.543209877
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"IDN","Indonesia","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",2820,397,125,31.486146096
+"JPN","Japan","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",423516,71642,2005,2.798637671
+"JOR","Jordan","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",2676,223,56,25.112107623
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",4866,204,103,50.490196078
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",14284,48,20,41.666666667
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",8074,1105,353,31.945701357
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",5627,1414,588,41.584158416
+"THA","Thailand","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",4301,213,69,32.394366197
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",12711,463,78,16.846652268
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",22331,662,86,12.990936556
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Klebsiella pneumoniae","Levofloxacin",863293,5259,546,10.38220194
+"IDN","Indonesia","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",3383,197,116,58.883248731
+"JPN","Japan","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",453889,77075,2270,2.945183263
+"JOR","Jordan","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",5265,348,107,30.747126437
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",9953,556,192,34.532374101
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",15455,14,8,57.142857143
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",9132,1141,406,35.582822086
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",5587,1292,481,37.229102167
+"THA","Thailand","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",9011,548,276,50.364963504
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",5444,368,109,29.619565217
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",27055,1632,639,39.154411765
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Klebsiella pneumoniae","Levofloxacin",880701,5896,529,8.972184532
+"IDN","Indonesia","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",1595,116,75,64.655172414
+"JPN","Japan","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",475584,81516,2839,3.482751852
+"JOR","Jordan","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",5385,135,33,24.444444444
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",5975,306,115,37.581699346
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",28695,30,16,53.333333333
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",4560,545,232,42.568807339
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",4464,1329,486,36.568848758
+"THA","Thailand","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",11131,897,447,49.83277592
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",5309,267,91,34.082397004
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",29681,1674,170,10.155316607
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Klebsiella pneumoniae","Levofloxacin",651538,6202,712,11.480167688
+"IDN","Indonesia","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",3900,247,169,68.421052632
+"JPN","Japan","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",498905,86391,3371,3.902026831
+"JOR","Jordan","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",13316,358,118,32.960893855
+"NPL","Nepal","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",7928,345,136,39.420289855
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",47908,2431,1606,66.063348416
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",5654,525,197,37.523809524
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",2641,677,293,43.279172821
+"THA","Thailand","South-East Asia Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",10402,642,328,51.090342679
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",5334,292,86,29.452054795
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",49312,4409,472,10.705375369
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2021,"URINE","Klebsiella pneumoniae","Levofloxacin",725182,5996,565,9.422948632
+"IDN","Indonesia","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",7106,941,559,59.404888417
+"JPN","Japan","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",535682,96017,4169,4.341939448
+"JOR","Jordan","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",18196,341,92,26.979472141
+"NPL","Nepal","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",12921,652,266,40.797546012
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",79700,1006,690,68.588469185
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",8324,523,207,39.579349904
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",6824,1361,607,44.599559148
+"THA","Thailand","South-East Asia Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",6488,549,264,48.087431694
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",5231,75,17,22.666666667
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",57098,2688,384,14.285714286
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2022,"URINE","Klebsiella pneumoniae","Levofloxacin",945966,5794,426,7.352433552
+"IDN","Indonesia","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",11518,1509,886,58.714380384
+"JPN","Japan","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",591596,110809,5184,4.678320353
+"JOR","Jordan","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",25767,673,180,26.745913819
+"NPL","Nepal","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",17372,1006,536,53.280318091
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",78151,2073,973,46.936806561
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",10948,1248,467,37.419871795
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",12683,2080,726,34.903846154
+"THA","Thailand","South-East Asia Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",22725,2153,1212,56.293543892
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",8083,1039,325,31.280076997
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",58693,2550,501,19.647058824
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2023,"URINE","Klebsiella pneumoniae","Levofloxacin",1011886,7050,630,8.936170213

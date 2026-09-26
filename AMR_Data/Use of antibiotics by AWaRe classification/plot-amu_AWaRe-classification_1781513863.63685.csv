@@ -1,0 +1,273 @@
+Filters
+"Year filter: 2022"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","Only J01 reported"
+"b","Only J01 and P01AB reported"
+"c","Only use in the community reported"
+"d","Only use in the public sector reported"
+"e","Data incomplete since not collected from all sources of data"
+"f","Only A07AA and J01 reported"
+
+
+"WHORegionName","COUNTRY","CountryTerritoryArea","footnotes","AWR_NAME","DID","Percentage (%)"
+"European Region","ARM","Armenia","","Access",4.938184203,51.164237438083
+"European Region","ARM","Armenia","","Reserve",0.004887026,0.0506336902982367
+"European Region","ARM","Armenia","","Watch",4.70699936,48.76894481201
+"European Region","ARM","Armenia","","Not classified/Not recommended",0.001562026,0.0161840596088258
+"European Region","AUT","Austria","","Access",6.639647652,60.9846230583627
+"European Region","AUT","Austria","","Reserve",0.118803722,1.09120272341968
+"European Region","AUT","Austria","","Watch",4.128961408,37.9241742182176
+"European Region","AUT","Austria","","Not classified/Not recommended",0,0
+"South-East Asia Region","BGD","Bangladesh","","Access",14.400171032,29.4357534588568
+"South-East Asia Region","BGD","Bangladesh","","Reserve",0.104544432,0.213701883238751
+"South-East Asia Region","BGD","Bangladesh","","Watch",34.411947295,70.3423308406338
+"South-East Asia Region","BGD","Bangladesh","","Not classified/Not recommended",0.004018255,0.00821381727061165
+"European Region","BLR","Belarus","","Access",11.475961998,68.4200532482238
+"European Region","BLR","Belarus","","Reserve",0.081780905,0.487580378520058
+"European Region","BLR","Belarus","","Watch",5.080958815,30.2928395966621
+"European Region","BLR","Belarus","","Not classified/Not recommended",0.134103066,0.799526776593991
+"European Region","BEL","Belgium","","Access",14.392112726,69.5871156968652
+"European Region","BEL","Belgium","","Reserve",0.025787035,0.124682586934778
+"European Region","BEL","Belgium","","Watch",6.264251864,30.2882017162001
+"European Region","BEL","Belgium","","Not classified/Not recommended",0,0
+"African Region","BEN","Benin","","Access",17.39854488,79.7189753387863
+"African Region","BEN","Benin","","Reserve",0,0
+"African Region","BEN","Benin","","Watch",4.236756845,19.412537948578
+"African Region","BEN","Benin","","Not classified/Not recommended",0.189545899,0.868486712635699
+"South-East Asia Region","BTN","Bhutan","a","Access",11.463473808,89.7757882935543
+"South-East Asia Region","BTN","Bhutan","a","Reserve",0.001213836,0.00950610997480174
+"South-East Asia Region","BTN","Bhutan","a","Watch",1.304316145,10.2147055964709
+"South-East Asia Region","BTN","Bhutan","a","Not classified/Not recommended",0,0
+"African Region","BFA","Burkina Faso","b","Access",15.158706984,75.401890471469
+"African Region","BFA","Burkina Faso","b","Reserve",0,0
+"African Region","BFA","Burkina Faso","b","Watch",4.85010536,24.1252178440663
+"African Region","BFA","Burkina Faso","b","Not classified/Not recommended",0.095069582,0.472891684464694
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","Access",16.136654164,82.0530019553239
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","Reserve",0,0
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","Watch",3.415335887,17.3665842799208
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","Not classified/Not recommended",0.114144955,0.580413764755266
+"Region of the Americas","CAN","Canada","","Access",10.828457802,73.2110502394524
+"Region of the Americas","CAN","Canada","","Reserve",0.031598349,0.213635475916727
+"Region of the Americas","CAN","Canada","","Watch",3.9306862872,26.5753142846309
+"Region of the Americas","CAN","Canada","","Not classified/Not recommended",0,0
+"Western Pacific Region","HKG","China, Hong Kong SAR","","Access",8.874842597,62.8892253814212
+"Western Pacific Region","HKG","China, Hong Kong SAR","","Reserve",0.025927391,0.18372390921287
+"Western Pacific Region","HKG","China, Hong Kong SAR","","Watch",4.737335451,33.5698747622837
+"Western Pacific Region","HKG","China, Hong Kong SAR","","Not classified/Not recommended",0.473760138,3.35717594708219
+"Region of the Americas","COL","Colombia","","Access",12.340877148,67.1306639930767
+"Region of the Americas","COL","Colombia","","Reserve",0.040950689,0.222759281958223
+"Region of the Americas","COL","Colombia","","Watch",6.001540394,32.6465767249651
+"Region of the Americas","COL","Colombia","","Not classified/Not recommended",0,0
+"European Region","HRV","Croatia","","Access",12.327910848,60.3754332720175
+"European Region","HRV","Croatia","","Reserve",0.073515101,0.3600369222861
+"European Region","HRV","Croatia","","Watch",8.017315401,39.264470275776
+"European Region","HRV","Croatia","","Not classified/Not recommended",1.22e-05,5.95299203613907e-05
+"European Region","CYP","Cyprus","","Access",18.918677436,55.4288432263295
+"European Region","CYP","Cyprus","","Reserve",0.108734148,0.31857453646342
+"European Region","CYP","Cyprus","","Watch",15.101386042,44.244760795498
+"European Region","CYP","Cyprus","","Not classified/Not recommended",0.002669573,0.00782144170910802
+"European Region","CZE","Czechia","","Access",10.398841057,60.0630639159126
+"European Region","CZE","Czechia","","Reserve",0.044190783,0.255243174889723
+"European Region","CZE","Czechia","","Watch",6.870050001,39.680984209261
+"European Region","CZE","Czechia","","Not classified/Not recommended",0.000122702,0.00070869993666921
+"European Region","DNK","Denmark","","Access",12.516422507,82.7531782456393
+"European Region","DNK","Denmark","","Reserve",0.038045662,0.251541604679936
+"European Region","DNK","Denmark","","Watch",2.570536944,16.9952801496808
+"European Region","DNK","Denmark","","Not classified/Not recommended",0,0
+"Eastern Mediterranean Region","EGY","Egypt","","Access",17.95364290803,57.8805137235648
+"Eastern Mediterranean Region","EGY","Egypt","","Reserve",0.3612643339,1.16467520931484
+"Eastern Mediterranean Region","EGY","Egypt","","Watch",12.531223185,40.3992457542886
+"Eastern Mediterranean Region","EGY","Egypt","","Not classified/Not recommended",0.172327771,0.555565312831726
+"European Region","EST","Estonia","","Access",7.952810238,64.0616243187364
+"European Region","EST","Estonia","","Reserve",0.025324349,0.203993337005318
+"European Region","EST","Estonia","","Watch",4.436163674,35.734267919643
+"European Region","EST","Estonia","","Not classified/Not recommended",1.42e-05,0.000114424615272011
+"African Region","ETH","Ethiopia","b","Access",8.186794266,72.3369154290734
+"African Region","ETH","Ethiopia","b","Reserve",0,0
+"African Region","ETH","Ethiopia","b","Watch",3.130794022,27.6630845709266
+"African Region","ETH","Ethiopia","b","Not classified/Not recommended",0,0
+"European Region","FIN","Finland","","Access",9.301809588,77.6986831025621
+"European Region","FIN","Finland","","Reserve",0.017178635,0.143494400628056
+"European Region","FIN","Finland","","Watch",2.652655624,22.1578224968099
+"European Region","FIN","Finland","","Not classified/Not recommended",0,0
+"European Region","FRA","France","b","Access",17.536796258,71.7527682251173
+"European Region","FRA","France","b","Reserve",0.087856653,0.359470362316308
+"European Region","FRA","France","b","Watch",6.382499309,26.1143476232583
+"European Region","FRA","France","b","Not classified/Not recommended",0.433432707,1.7734137893081
+"European Region","GEO","Georgia","","Access",8.427268405,42.3821705075884
+"European Region","GEO","Georgia","","Reserve",0.038751562,0.194888213341067
+"European Region","GEO","Georgia","","Watch",11.094895768,55.7981236214585
+"European Region","GEO","Georgia","","Not classified/Not recommended",0.323078652,1.62481765761205
+"European Region","DEU","Germany","c","Access",6.620843094,64.6186180897717
+"European Region","DEU","Germany","c","Reserve",0.016377666,0.159842704947391
+"European Region","DEU","Germany","c","Watch",3.5567939239,34.713873238981
+"European Region","DEU","Germany","c","Not classified/Not recommended",0.052015609,0.50766596629986
+"Region of the Americas","HND","Honduras","d","Access",2.719150252,76.3832136977833
+"Region of the Americas","HND","Honduras","d","Reserve",0.000970932,0.0272745637289805
+"Region of the Americas","HND","Honduras","d","Watch",0.839758117,23.5895117384877
+"Region of the Americas","HND","Honduras","d","Not classified/Not recommended",0,0
+"European Region","HUN","Hungary","","Access",7.373094345,49.2370834200404
+"European Region","HUN","Hungary","","Reserve",0.014915807,0.099606920682199
+"European Region","HUN","Hungary","","Watch",7.586667072,50.6633096592774
+"European Region","HUN","Hungary","","Not classified/Not recommended",0,0
+"European Region","ISL","Iceland","","Access",15.694280456,87.1115519570446
+"European Region","ISL","Iceland","","Reserve",0.011560941,0.0641693337673469
+"European Region","ISL","Iceland","","Watch",2.310460743,12.824278709188
+"European Region","ISL","Iceland","","Not classified/Not recommended",0,0
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","Access",31.649703212,46.7610363433313
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","Reserve",0.041932416,0.0619532909828666
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","Watch",35.992286048,53.1770103656858
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","Not classified/Not recommended",0,0
+"European Region","IRL","Ireland","","Access",16.98161426,74.0210868207327
+"European Region","IRL","Ireland","","Reserve",0.095428949,0.415965242923303
+"European Region","IRL","Ireland","","Watch",5.864546638,25.562947936344
+"European Region","IRL","Ireland","","Not classified/Not recommended",0,0
+"European Region","ITA","Italy","","Access",11.336484667,47.1776349356702
+"European Region","ITA","Italy","","Reserve",0.142083739,0.591292235481522
+"European Region","ITA","Italy","","Watch",12.5507935409,52.2310728288483
+"European Region","ITA","Italy","","Not classified/Not recommended",0,0
+"Eastern Mediterranean Region","JOR","Jordan","","Access",17.891643997,52.2127279955723
+"Eastern Mediterranean Region","JOR","Jordan","","Reserve",0.012231341,0.0356943342948793
+"Eastern Mediterranean Region","JOR","Jordan","","Watch",15.774380579,46.0339722456796
+"Eastern Mediterranean Region","JOR","Jordan","","Not classified/Not recommended",0.58856884,1.7176054244532
+"Eastern Mediterranean Region","KWT","Kuwait","d","Access",12.688723625,55.1402499054501
+"Eastern Mediterranean Region","KWT","Kuwait","d","Reserve",0.0204693591,0.0889517854651094
+"Eastern Mediterranean Region","KWT","Kuwait","d","Watch",10.302533692,44.7707983090848
+"Eastern Mediterranean Region","KWT","Kuwait","d","Not classified/Not recommended",0,0
+"Western Pacific Region","LAO","Lao People's Democratic Republic","","Access",18.894759716,62.9115154380321
+"Western Pacific Region","LAO","Lao People's Democratic Republic","","Reserve",0,0
+"Western Pacific Region","LAO","Lao People's Democratic Republic","","Watch",11.133538263,37.0699482915452
+"Western Pacific Region","LAO","Lao People's Democratic Republic","","Not classified/Not recommended",0.005567158,0.0185362704227014
+"European Region","LVA","Latvia","","Access",10.716417518,71.349467510106
+"European Region","LVA","Latvia","","Reserve",0.017562708,0.116931784307401
+"European Region","LVA","Latvia","","Watch",4.285490493,28.5326193522124
+"European Region","LVA","Latvia","","Not classified/Not recommended",0.000147418,0.000981353374220288
+"European Region","LTU","Lithuania","","Access",13.224434553,71.0857161722473
+"European Region","LTU","Lithuania","","Reserve",0.023462676,0.126119542214974
+"European Region","LTU","Lithuania","","Watch",5.355607597,28.7881642855377
+"European Region","LTU","Lithuania","","Not classified/Not recommended",0,0
+"Western Pacific Region","MYS","Malaysia","b","Access",8.320284771,72.83536390899
+"Western Pacific Region","MYS","Malaysia","b","Reserve",0.007464586,0.065344788868346
+"Western Pacific Region","MYS","Malaysia","b","Watch",3.092176169,27.0687591481186
+"Western Pacific Region","MYS","Malaysia","b","Not classified/Not recommended",0.003487814,0.0305321540230711
+"South-East Asia Region","MDV","Maldives","","Access",5.886896657,28.0719926236857
+"South-East Asia Region","MDV","Maldives","","Reserve",0.00170576,0.00813401268735256
+"South-East Asia Region","MDV","Maldives","","Watch",14.962037757,71.3473053836586
+"South-East Asia Region","MDV","Maldives","","Not classified/Not recommended",0.120071581,0.572567979968327
+"African Region","MLI","Mali","b","Access",3.831294888,45.5070123059142
+"African Region","MLI","Mali","b","Reserve",0,0
+"African Region","MLI","Mali","b","Watch",4.385823889,52.0935480923353
+"African Region","MLI","Mali","b","Not classified/Not recommended",0.202011995,2.39943960175043
+"European Region","MLT","Malta","","Access",13.994031885,55.1129486287106
+"European Region","MLT","Malta","","Reserve",0.067152396,0.264467494409713
+"European Region","MLT","Malta","","Watch",11.150895858,43.9157746613949
+"European Region","MLT","Malta","","Not classified/Not recommended",0.179469815,0.706809215484777
+"European Region","MNE","Montenegro","","Access",16.576975131,50.7990248409325
+"European Region","MNE","Montenegro","","Reserve",0.009214728,0.0282378970140124
+"European Region","MNE","Montenegro","","Watch",15.985693818,48.9870829818209
+"European Region","MNE","Montenegro","","Not classified/Not recommended",0.060583572,0.18565428023263
+"South-East Asia Region","NPL","Nepal","","Access",5.883290179,18.2260510951236
+"South-East Asia Region","NPL","Nepal","","Reserve",0.11299959,0.35006539851598
+"South-East Asia Region","NPL","Nepal","","Watch",20.930080537,64.8400309809207
+"South-East Asia Region","NPL","Nepal","","Not classified/Not recommended",5.353195607,16.5838525254398
+"European Region","NOR","Norway","","Access",9.611744616,81.6514828529533
+"European Region","NOR","Norway","","Reserve",0.023171441,0.19683937828254
+"European Region","NOR","Norway","","Watch",2.13675332,18.1516564431831
+"European Region","NOR","Norway","","Not classified/Not recommended",2.51e-06,2.13255810581071e-05
+"Eastern Mediterranean Region","PSE","occupied Palestinian territory, including east Jerusalem","b","Access",11.56640672,30.5419894679399
+"Eastern Mediterranean Region","PSE","occupied Palestinian territory, including east Jerusalem","b","Reserve",0,0
+"Eastern Mediterranean Region","PSE","occupied Palestinian territory, including east Jerusalem","b","Watch",26.143691778,69.034435596689
+"Eastern Mediterranean Region","PSE","occupied Palestinian territory, including east Jerusalem","b","Not classified/Not recommended",0.160409982,0.423574935371129
+"Eastern Mediterranean Region","OMN","Oman","d","Access",5.180760609,81.6647916360933
+"Eastern Mediterranean Region","OMN","Oman","d","Reserve",0.007124437,0.112303976859743
+"Eastern Mediterranean Region","OMN","Oman","d","Watch",1.156049031,18.2229043870469
+"Eastern Mediterranean Region","OMN","Oman","d","Not classified/Not recommended",0,0
+"Western Pacific Region","PNG","Papua New Guinea","d","Access",11.470641167,82.9348127098731
+"Western Pacific Region","PNG","Papua New Guinea","d","Reserve",0,0
+"Western Pacific Region","PNG","Papua New Guinea","d","Watch",2.360271077,17.0651872901269
+"Western Pacific Region","PNG","Papua New Guinea","d","Not classified/Not recommended",0,0
+"Region of the Americas","PER","Peru","b,d","Access",6.404440618,63.3125875576219
+"Region of the Americas","PER","Peru","b,d","Reserve",0.020100322,0.198706669450565
+"Region of the Americas","PER","Peru","b,d","Watch",3.691047204,36.4887057729275
+"Region of the Americas","PER","Peru","b,d","Not classified/Not recommended",0,0
+"European Region","POL","Poland","","Access",13.498860059,56.7816947639891
+"European Region","POL","Poland","","Reserve",0.028006718,0.117807530747238
+"European Region","POL","Poland","","Watch",9.3535671,39.3449066541734
+"European Region","POL","Poland","","Not classified/Not recommended",0.8928264,3.75559105109022
+"European Region","PRT","Portugal","","Access",11.621188365,61.6176093806514
+"European Region","PRT","Portugal","","Reserve",0.06345656,0.33645807821417
+"European Region","PRT","Portugal","","Watch",7.173646955,38.0359529271419
+"European Region","PRT","Portugal","","Not classified/Not recommended",0.001882193,0.00997961399254477
+"Eastern Mediterranean Region","QAT","Qatar","e","Access",4.223333505,63.9798114442584
+"Eastern Mediterranean Region","QAT","Qatar","e","Reserve",0.031111293,0.471308625013048
+"Eastern Mediterranean Region","QAT","Qatar","e","Watch",2.346596,35.5488799307285
+"Eastern Mediterranean Region","QAT","Qatar","e","Not classified/Not recommended",0,0
+"Western Pacific Region","KOR","Republic of Korea","","Access",10.238315721,38.2074383401118
+"Western Pacific Region","KOR","Republic of Korea","","Reserve",0.023050304,0.0860194366667254
+"Western Pacific Region","KOR","Republic of Korea","","Watch",16.5280473459,61.679515311128
+"Western Pacific Region","KOR","Republic of Korea","","Not classified/Not recommended",0.007242309,0.0270269120934104
+"European Region","ROU","Romania","","Access",14.48367375,50.5245311003514
+"European Region","ROU","Romania","","Reserve",0.057381032,0.200166568622795
+"European Region","ROU","Romania","","Watch",14.106346703,49.2082719857929
+"European Region","ROU","Romania","","Not classified/Not recommended",0.019215332,0.0670303452328551
+"European Region","RUS","Russian Federation","","Access",7.0021810507,45.3451660701592
+"European Region","RUS","Russian Federation","","Reserve",0.061875992,0.400700588936833
+"European Region","RUS","Russian Federation","","Watch",8.03995169591,52.0656274227066
+"European Region","RUS","Russian Federation","","Not classified/Not recommended",0.337948092,2.18850591819744
+"African Region","RWA","Rwanda","d","Access",7.338050838,84.7090101561515
+"African Region","RWA","Rwanda","d","Reserve",1.99e-06,2.29567722967626e-05
+"African Region","RWA","Rwanda","d","Watch",1.324603984,15.2909668870762
+"African Region","RWA","Rwanda","d","Not classified/Not recommended",0,0
+"Eastern Mediterranean Region","SAU","Saudi Arabia","d,f","Access",6.295423202,60.4491085382287
+"Eastern Mediterranean Region","SAU","Saudi Arabia","d,f","Reserve",0.046897838,0.450316428045286
+"Eastern Mediterranean Region","SAU","Saudi Arabia","d,f","Watch",4.072097572,39.100575033726
+"Eastern Mediterranean Region","SAU","Saudi Arabia","d,f","Not classified/Not recommended",0,0
+"African Region","SEN","Senegal","a","Access",10.779033413,77.3115411352918
+"African Region","SEN","Senegal","a","Reserve",0,0
+"African Region","SEN","Senegal","a","Watch",3.045518619,21.8436781230224
+"African Region","SEN","Senegal","a","Not classified/Not recommended",0.1177821476,0.844780741685851
+"European Region","SVN","Slovenia","","Access",9.125766216,72.4896286827281
+"European Region","SVN","Slovenia","","Reserve",0.03604838,0.286346716906643
+"European Region","SVN","Slovenia","","Watch",3.427250047,27.2240246003652
+"European Region","SVN","Slovenia","","Not classified/Not recommended",0,0
+"African Region","ZAF","South Africa","d","Access",15.045390903,80.8967078418938
+"African Region","ZAF","South Africa","d","Reserve",0.025210631,0.135553611622784
+"African Region","ZAF","South Africa","d","Watch",3.527671906,18.9677385464834
+"African Region","ZAF","South Africa","d","Not classified/Not recommended",0,0
+"European Region","ESP","Spain","","Access",14.701824895,61.3767182171587
+"European Region","ESP","Spain","","Reserve",0.18663824,0.779171581152748
+"European Region","ESP","Spain","","Watch",8.93229333,37.2902586104103
+"European Region","ESP","Spain","","Not classified/Not recommended",0.132666439,0.553851591278248
+"European Region","CHE","Switzerland","","Access",6.960229924,66.7829427443116
+"European Region","CHE","Switzerland","","Reserve",0.038857879,0.372838441656941
+"European Region","CHE","Switzerland","","Watch",3.423079421,32.8442188140314
+"European Region","CHE","Switzerland","","Not classified/Not recommended",0,0
+"European Region","TJK","Tajikistan","","Access",8.050505674,48.1262975319032
+"European Region","TJK","Tajikistan","","Reserve",0.016695257,0.0998050223549161
+"European Region","TJK","Tajikistan","","Watch",7.285011772,43.5501396818072
+"European Region","TJK","Tajikistan","","Not classified/Not recommended",1.375659695,8.22375776393475
+"Eastern Mediterranean Region","TUN","Tunisia","b","Access",18.647319299,66.6376917709789
+"Eastern Mediterranean Region","TUN","Tunisia","b","Reserve",0.012536768,0.0448010508511485
+"Eastern Mediterranean Region","TUN","Tunisia","b","Watch",8.736893423,31.2219897034383
+"Eastern Mediterranean Region","TUN","Tunisia","b","Not classified/Not recommended",0.586391611,2.0955174747316
+"African Region","UGA","Uganda","","Access",12.024687774,55.538869354802
+"African Region","UGA","Uganda","","Reserve",0.010929765,0.0504817116421264
+"African Region","UGA","Uganda","","Watch",7.821768323,36.1266901038766
+"African Region","UGA","Uganda","","Not classified/Not recommended",1.793555027,8.28395882967921
+"European Region","UKR","Ukraine","","Access",4.236592812,39.7036444361231
+"European Region","UKR","Ukraine","","Reserve",0.184161529,1.72588741074235
+"European Region","UKR","Ukraine","","Watch",5.88070475,55.1116019336433
+"European Region","UKR","Ukraine","","Not classified/Not recommended",0.36907971,3.45886621949123
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Access",12.0471096532,71.3448757229727
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Reserve",0.069495143,0.411561606611834
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Watch",4.768802853,28.2415988104373
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","Not classified/Not recommended",0.000331612,0.00196385997815433
+"African Region","TZA","United Republic of Tanzania","","Access",15.369908887,45.4538484844673
+"African Region","TZA","United Republic of Tanzania","","Reserve",0,0
+"African Region","TZA","United Republic of Tanzania","","Watch",13.55710832,40.2544047081919
+"African Region","TZA","United Republic of Tanzania","","Not classified/Not recommended",4.814052056,14.2917468073409

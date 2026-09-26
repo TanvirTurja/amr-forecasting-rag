@@ -1,0 +1,54 @@
+Filters
+Region filter: All
+Infection type filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",25.890949972,62.852641459,73.314415437,93.233401084,100
+2019,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",27.367675695,63.862179487,76.811594203,84.531245604,100
+2020,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",30.746606335,65.331189896,78.719397363,85.94017094,100
+2021,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",45.381526104,73.602720337,84.573002755,87.717391304,92.753623188
+2022,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",54.167564075,72.310692233,89.010989011,95.416666667,100
+2023,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",46.871165644,67.346938776,79.62962963,94.314337757,100
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"AUS","Australia","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",9006,8895,2303,25.890949972
+"JPN","Japan","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",1167,881,587,66.628830874
+"NOR","Norway","European Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",226,226,141,62.389380531
+"OMN","Oman","Eastern Mediterranean Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",19,11,6,54.545454545
+"PHL","Philippines","Western Pacific Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",103,100,80,80
+"THA","Thailand","South-East Asia Region",2018,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",170,164,153,93.292682927
+"AUS","Australia","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",5649,5649,1546,27.367675695
+"JPN","Japan","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",1023,936,602,64.316239316
+"NOR","Norway","European Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",325,325,178,54.769230769
+"OMN","Oman","Eastern Mediterranean Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",54,46,36,78.260869565
+"PHL","Philippines","Western Pacific Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",140,128,102,79.6875
+"THA","Thailand","South-East Asia Region",2019,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",79,32,20,62.5
+"AUS","Australia","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",4420,4420,1359,30.746606335
+"JPN","Japan","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",825,793,565,71.248423707
+"NOR","Norway","European Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",475,475,244,51.368421053
+"OMN","Oman","Eastern Mediterranean Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",23,18,14,77.777777778
+"PHL","Philippines","Western Pacific Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",44,39,34,87.179487179
+"THA","Thailand","South-East Asia Region",2020,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",42,40,35,87.5
+"AUS","Australia","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",3735,3735,1695,45.381526104
+"JPN","Japan","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",698,698,514,73.638968481
+"NOR","Norway","European Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",115,115,57,49.565217391
+"OMN","Oman","Eastern Mediterranean Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",41,33,28,84.848484848
+"PHL","Philippines","Western Pacific Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",14,14,11,78.571428571
+"THA","Thailand","South-East Asia Region",2021,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",70,69,64,92.753623188
+"AUS","Australia","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",4643,4643,2515,54.167564075
+"JPN","Japan","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",950,950,792,83.368421053
+"NOR","Norway","European Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",441,441,242,54.875283447
+"OMN","Oman","Eastern Mediterranean Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",41,40,39,97.5
+"PHL","Philippines","Western Pacific Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",42,34,24,70.588235294
+"THA","Thailand","South-East Asia Region",2022,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",96,91,81,89.010989011
+"AUS","Australia","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",6002,5897,3276,55.553671358
+"JPN","Japan","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",1134,1134,903,79.62962963
+"NOR","Norway","European Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",815,815,382,46.871165644
+"OMN","Oman","Eastern Mediterranean Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",52,38,37,97.368421053
+"PHL","Philippines","Western Pacific Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",26,22,22,100
+"THA","Thailand","South-East Asia Region",2023,"UROGENITAL","Neisseria gonorrhoeae","Ciprofloxacin",264,244,224,91.803278689

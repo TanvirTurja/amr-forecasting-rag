@@ -1,0 +1,60 @@
+Filters
+"Year filter: 2023"
+"Infection type filter: Gonorrhoea"
+
+
+"CountryTerritoryArea","BCIsPerMillion","TotalSpecimenIsolates","IsolsPerMillion","TotalSpecimenIsolatesWithAST","ASTResult"
+"Australia",226.9,6002,226.9,6002,100
+"Austria",33.2,303,33.2,303,100
+"Bahrain",32.5,51,31.9,50,98
+"Belgium",14.9,174,14.9,174,100
+"Bhutan",38.1,30,35.6,28,93.3
+"Brunei Darussalam",82.8,38,82.8,38,100
+"Cameroon",0.4,11,0.4,11,100
+"Canada",44.2,1738,44.2,1738,100
+"Colombia",5.3,277,5.3,277,100
+"Cyprus",0.7,1,0.7,1,100
+"C<U+00F4>te d<U+2019>Ivoire",0.1,2,0,0,0
+"Denmark",27.2,162,27.2,162,100
+"Estonia",1.5,2,1.5,2,100
+"Ethiopia",0,4,0,3,75
+"France",2.5,174,2.5,174,100
+"Germany",1.9,164,1.9,164,100
+"Greece",7,72,7,72,100
+"Iceland",255.4,99,255.4,99,100
+"Indonesia",0,1,0,1,100
+"Iraq",0.2,9,0.2,7,77.8
+"Ireland",20.8,108,20.8,108,100
+"Italy",1.3,75,1.3,75,100
+"Japan",9.1,1134,9.1,1134,100
+"Jordan",0.1,1,0.1,1,100
+"Kuwait",7.4,36,6.4,31,86.1
+"Lao People's Democratic Republic",0.7,5,0.3,2,40
+"Luxembourg",4.5,3,4.5,3,100
+"Malawi",0.1,3,0,0,0
+"Malaysia",11.3,396,10.3,361,91.2
+"Malta",54.4,29,54.4,29,100
+"Mauritius",69.9,89,69.9,89,100
+"Morocco",0,1,0,1,100
+"Nepal",0.9,26,0.8,23,88.5
+"Netherlands (Kingdom of the)",4,72,4,72,100
+"Norway",147.7,815,147.7,815,100
+"Oman",10.3,52,7.5,38,73.1
+"Pakistan",0.3,65,0.3,63,96.9
+"Philippines",0.2,26,0.2,26,100
+"Poland",0.7,26,0.7,26,100
+"Qatar",34.2,102,33.9,101,99
+"Saudi Arabia",0.9,30,0.4,14,46.7
+"Singapore",46.8,271,46.8,271,100
+"South Africa",5.4,341,5.4,341,100
+"Sweden",8.8,93,8.8,93,100
+"Switzerland",25.8,229,25.7,228,99.6
+"Thailand",3.7,264,3.4,244,92.4
+"Timor-Leste",13,18,13,18,100
+"Tunisia",0.4,5,0.3,4,80
+"United Arab Emirates",35.4,377,28.5,303,80.4
+"United Kingdom of Great Britain and Northern Ireland",61.8,4247,41.3,2839,66.8
+"United States of America",10.2,3502,10.2,3502,100
+"Yemen",0.5,20,0.4,15,75
+"Zambia",0.9,18,0.6,12,66.7
+"Zimbabwe",1.1,18,1.1,18,100

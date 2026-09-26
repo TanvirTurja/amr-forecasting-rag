@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Ceftazidime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"STOOL","Salmonella spp.","Ceftazidime",0,1.35641213,2.685652487,3.82282908,11.267605634
+2019,"STOOL","Salmonella spp.","Ceftazidime",0,0.927032217,1.753535354,4.899969764,9.927360775
+2020,"STOOL","Salmonella spp.","Ceftazidime",0,0.543478261,2.775693923,4.369747899,8.974358974
+2021,"STOOL","Salmonella spp.","Ceftazidime",0,0.539424614,2.204457364,3.837115825,11.764705882
+2022,"STOOL","Salmonella spp.","Ceftazidime",0,1.05219958,2.108039085,9.134877384,20.833333333
+2023,"STOOL","Salmonella spp.","Ceftazidime",0,0.767111603,1.728971963,7.247233519,34.722222222
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"MLT","Malta","European Region",2018,"STOOL","Salmonella spp.","Ceftazidime",106,102,1,0.980392157
+"KOR","Republic of Korea","Western Pacific Region",2018,"STOOL","Salmonella spp.","Ceftazidime",165,163,14,8.588957055
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Ceftazidime",818,445,15,3.370786517
+"MLT","Malta","European Region",2019,"STOOL","Salmonella spp.","Ceftazidime",115,109,1,0.917431193
+"KOR","Republic of Korea","Western Pacific Region",2019,"STOOL","Salmonella spp.","Ceftazidime",140,140,11,7.857142857
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Ceftazidime",1005,605,26,4.297520661
+"MLT","Malta","European Region",2020,"STOOL","Salmonella spp.","Ceftazidime",152,152,0,0
+"KOR","Republic of Korea","Western Pacific Region",2020,"STOOL","Salmonella spp.","Ceftazidime",102,102,4,3.921568627
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Ceftazidime",1068,688,16,2.325581395
+"MLT","Malta","European Region",2021,"STOOL","Salmonella spp.","Ceftazidime",188,187,0,0
+"KOR","Republic of Korea","Western Pacific Region",2021,"STOOL","Salmonella spp.","Ceftazidime",157,157,6,3.821656051
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Ceftazidime",1289,890,31,3.483146067
+"MLT","Malta","European Region",2022,"STOOL","Salmonella spp.","Ceftazidime",174,152,0,0
+"KOR","Republic of Korea","Western Pacific Region",2022,"STOOL","Salmonella spp.","Ceftazidime",171,170,17,10
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Ceftazidime",1509,948,25,2.637130802
+"MLT","Malta","European Region",2023,"STOOL","Salmonella spp.","Ceftazidime",138,114,1,0.877192982
+"KOR","Republic of Korea","Western Pacific Region",2023,"STOOL","Salmonella spp.","Ceftazidime",194,194,21,10.824742268
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Ceftazidime",1777,327,12,3.669724771

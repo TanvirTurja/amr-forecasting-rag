@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Shigella spp.
+Antibiotic filter: Ceftriaxone
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"STOOL","Shigella spp.","Ceftriaxone",1.759133965,18.439783491,29.045454545,35.934035477,41.463414634
+2019,"STOOL","Shigella spp.","Ceftriaxone",0.479233227,10.347985348,24.218475588,37.237442922,67.592592593
+2020,"STOOL","Shigella spp.","Ceftriaxone",1.455301455,25.793650794,42.881944444,51.71875,63.636363636
+2021,"STOOL","Shigella spp.","Ceftriaxone",0.904977376,27.597402597,40.637065637,57.493857494,60
+2022,"STOOL","Shigella spp.","Ceftriaxone",0.897666068,49,72.671232877,76.072458544,83.333333333
+2023,"STOOL","Shigella spp.","Ceftriaxone",34.259259259,53.448275862,58.620689655,62.962962963,63.963963964
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ceftriaxone",205,25,6,24
+"OMN","Oman","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ceftriaxone",272,41,17,41.463414634
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ceftriaxone",818,44,15,34.090909091
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ceftriaxone",316,39,5,12.820512821
+"OMN","Oman","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ceftriaxone",119,108,73,67.592592593
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ceftriaxone",1005,45,17,37.777777778
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ceftriaxone",172,15,8,53.333333333
+"OMN","Oman","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ceftriaxone",228,11,7,63.636363636
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ceftriaxone",1068,32,15,46.875
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"STOOL","Shigella spp.","Ceftriaxone",178,10,6,60
+"OMN","Oman","Eastern Mediterranean Region",2021,"STOOL","Shigella spp.","Ceftriaxone",476,11,3,27.272727273
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"STOOL","Shigella spp.","Ceftriaxone",1289,22,13,59.090909091
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"STOOL","Shigella spp.","Ceftriaxone",234,12,10,83.333333333
+"OMN","Oman","Eastern Mediterranean Region",2022,"STOOL","Shigella spp.","Ceftriaxone",630,38,29,76.315789474
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"STOOL","Shigella spp.","Ceftriaxone",1509,40,28,70
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"STOOL","Shigella spp.","Ceftriaxone",389,58,31,53.448275862
+"OMN","Oman","Eastern Mediterranean Region",2023,"STOOL","Shigella spp.","Ceftriaxone",980,81,51,62.962962963
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"STOOL","Shigella spp.","Ceftriaxone",1777,29,17,58.620689655

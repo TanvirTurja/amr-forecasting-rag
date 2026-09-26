@@ -1,0 +1,13 @@
+Year
+Resistance_lag1
+CountryTerritoryArea_te
+WHORegionName
+IncomeGroup
+PathogenName
+AntibioticName_te
+AntibioticClass
+InfectionType
+Total_DID
+DID_lag1
+Country_Observation_Count
+High_Quality_Country

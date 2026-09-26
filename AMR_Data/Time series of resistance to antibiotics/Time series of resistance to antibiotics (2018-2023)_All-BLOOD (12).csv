@@ -1,0 +1,132 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Co-trimoxazole
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Escherichia coli","Co-trimoxazole",35.96287703,50.395256917,53.819444444,67.160521967,94.444444444
+2019,"BLOOD","Escherichia coli","Co-trimoxazole",30.901639344,45.454545455,52.868354982,73.940536437,89.743589744
+2020,"BLOOD","Escherichia coli","Co-trimoxazole",30.082304527,44.335574626,52.678783559,67.75852104,98.571428571
+2021,"BLOOD","Escherichia coli","Co-trimoxazole",29.434578485,39.541788856,55.421686747,66.542288557,100
+2022,"BLOOD","Escherichia coli","Co-trimoxazole",27.862305059,44.66358585,52.424242424,67.218978922,96.774193548
+2023,"BLOOD","Escherichia coli","Co-trimoxazole",28.746064086,46.801202233,53.68321374,68.883729117,93.055555556
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Co-trimoxazole",7385,2061,991,48.083454634
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",633,139,57,41.007194245
+"ETH","Ethiopia","African Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",122,14,13,92.857142857
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",14459,326,182,55.828220859
+"IDN","Indonesia","South-East Asia Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",1381,228,147,64.473684211
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",1826,322,208,64.596273292
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",345,39,24,61.538461538
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",275,109,76,69.724770642
+"MLI","Mali","African Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",422,79,71,89.873417722
+"NPL","Nepal","South-East Asia Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",1202,81,43,53.086419753
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",176,18,17,94.444444444
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",631,165,85,51.515151515
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",7410,138,68,49.275362319
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",5595,1121,722,64.406779661
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",3519,1724,620,35.96287703
+"ZAF","South Africa","African Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",20691,3635,2632,72.407152682
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",2629,576,310,53.819444444
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",1660,226,107,47.345132743
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Co-trimoxazole",2452,791,411,51.95954488
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Co-trimoxazole",5783,1662,798,48.014440433
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",780,197,94,47.715736041
+"ETH","Ethiopia","African Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",139,15,12,80
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",24223,955,548,57.382198953
+"IDN","Indonesia","South-East Asia Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",2314,424,260,61.320754717
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",2277,550,368,66.909090909
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",627,66,30,45.454545455
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",314,100,76,76
+"MLI","Mali","African Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",387,78,70,89.743589744
+"NPL","Nepal","South-East Asia Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",2380,174,84,48.275862069
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",276,10,7,70
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",1007,414,192,46.376811594
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",8980,648,511,78.858024691
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",6468,1319,781,59.211523882
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",3646,1939,712,36.719958742
+"ZAF","South Africa","African Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",20489,3952,2895,73.254048583
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",5463,1721,904,52.527600232
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",932,103,41,39.805825243
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Co-trimoxazole",2464,729,352,48.285322359
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Co-trimoxazole",7376,1932,909,47.049689441
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",568,127,57,44.881889764
+"ETH","Ethiopia","African Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",431,31,24,77.419354839
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",12371,516,301,58.333333333
+"IDN","Indonesia","South-East Asia Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",1676,343,200,58.309037901
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",1854,400,277,69.25
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",446,82,44,53.658536585
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",422,178,105,58.988764045
+"MLI","Mali","African Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",297,70,69,98.571428571
+"NPL","Nepal","South-East Asia Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",1515,119,57,47.899159664
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",293,15,7,46.666666667
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",876,178,76,42.696629213
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",5623,313,212,67.731629393
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",4276,794,473,59.571788413
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",4095,2209,742,33.589859665
+"ZAF","South Africa","African Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",23840,4333,3024,69.789983845
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",6159,2361,1216,51.503600169
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",917,80,31,38.75
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Co-trimoxazole",2925,754,384,50.928381963
+"ARG","Argentina","Region of the Americas",2021,"BLOOD","Escherichia coli","Co-trimoxazole",9243,2008,871,43.376494024
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",677,128,47,36.71875
+"ETH","Ethiopia","African Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",786,42,33,78.571428571
+"IND","India","South-East Asia Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",34056,2890,1719,59.480968858
+"IDN","Indonesia","South-East Asia Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",3070,492,292,59.349593496
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",2037,375,250,66.666666667
+"JOR","Jordan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",1611,39,23,58.974358974
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",340,134,89,66.417910448
+"MLI","Mali","African Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",280,65,62,95.384615385
+"NPL","Nepal","South-East Asia Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",1301,115,64,55.652173913
+"MKD","North Macedonia","European Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",284,21,7,33.333333333
+"OMN","Oman","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",1621,280,109,38.928571429
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",10931,2110,1579,74.834123223
+"PHL","Philippines","Western Pacific Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",4850,880,507,57.613636364
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",4488,2165,652,30.115473441
+"ZAF","South Africa","African Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",23334,3971,2674,67.338201964
+"THA","Thailand","South-East Asia Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",6559,2110,1079,51.137440758
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",854,122,49,40.163934426
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"BLOOD","Escherichia coli","Co-trimoxazole",3989,1244,606,48.713826367
+"ARG","Argentina","Region of the Americas",2022,"BLOOD","Escherichia coli","Co-trimoxazole",8366,2060,940,45.631067961
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",582,138,67,48.550724638
+"ETH","Ethiopia","African Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",1371,97,87,89.690721649
+"IND","India","South-East Asia Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",43929,5307,3145,59.26135293
+"IDN","Indonesia","South-East Asia Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",5596,491,277,56.415478615
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",2263,653,456,69.831546708
+"JOR","Jordan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",2027,328,220,67.073170732
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",461,212,141,66.509433962
+"MLI","Mali","African Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",286,69,66,95.652173913
+"NPL","Nepal","South-East Asia Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",2829,219,98,44.748858447
+"MKD","North Macedonia","European Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",279,41,25,60.975609756
+"OMN","Oman","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",2075,525,228,43.428571429
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",16099,3360,2459,73.18452381
+"PHL","Philippines","Western Pacific Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",5937,1201,649,54.038301415
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",4484,2281,738,32.354230601
+"ZAF","South Africa","African Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",24658,4345,2927,67.364787112
+"THA","Thailand","South-East Asia Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",9544,2164,1058,48.890942699
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",858,83,37,44.578313253
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"BLOOD","Escherichia coli","Co-trimoxazole",4194,1491,743,49.832327297
+"ARG","Argentina","Region of the Americas",2023,"BLOOD","Escherichia coli","Co-trimoxazole",9290,2187,974,44.535893919
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",964,143,71,49.65034965
+"ETH","Ethiopia","African Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",1761,214,160,74.76635514
+"IND","India","South-East Asia Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",41375,5305,3025,57.021677663
+"IDN","Indonesia","South-East Asia Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",9180,1603,785,48.970679975
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",2925,664,458,68.975903614
+"JOR","Jordan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",3297,418,257,61.483253589
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",605,247,165,66.801619433
+"MLI","Mali","African Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",275,72,67,93.055555556
+"NPL","Nepal","South-East Asia Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",2740,399,200,50.125313283
+"MKD","North Macedonia","European Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",283,34,16,47.058823529
+"OMN","Oman","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",2586,685,320,46.715328467
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",13338,2811,2008,71.433653504
+"PHL","Philippines","Western Pacific Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",7705,1443,848,58.766458766
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",5416,2844,903,31.751054852
+"ZAF","South Africa","African Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",26026,4552,3123,68.607205624
+"THA","Thailand","South-East Asia Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",14722,3976,2027,50.980885312
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",1332,122,50,40.983606557
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"BLOOD","Escherichia coli","Co-trimoxazole",3959,1425,688,48.280701754

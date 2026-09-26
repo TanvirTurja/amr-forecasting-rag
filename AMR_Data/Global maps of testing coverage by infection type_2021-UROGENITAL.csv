@@ -1,0 +1,34 @@
+Filters
+"Year filter: 2021"
+"Infection type filter: Gonorrhoea"
+
+
+"CountryTerritoryArea","BCIsPerMillion","TotalSpecimenIsolates","IsolsPerMillion","TotalSpecimenIsolatesWithAST","ASTResult"
+"Australia",143.9,3735,143.9,3735,100
+"Bahrain",34.6,52,34.6,52,100
+"Brazil",0.2,51,0.2,51,100
+"Cameroon",0,1,0,1,100
+"Colombia",2.6,133,1.4,72,54.1
+"India",0,27,0,27,100
+"Iraq",0.1,3,0.1,3,100
+"Japan",5.6,698,5.6,698,100
+"Kosovo",5.2,9,5.2,9,100
+"Kuwait",2.1,9,1.8,8,88.9
+"Lao People's Democratic Republic",1.3,10,1.3,10,100
+"Malaysia",2.6,89,2.5,85,95.5
+"Mali",0.3,6,0.2,4,66.7
+"Mauritius",23.4,30,23.4,30,100
+"Nepal",0.1,3,0.1,3,100
+"Norway",21.3,115,21.3,115,100
+"Oman",9.1,41,7.6,34,82.9
+"Pakistan",0.2,58,0.2,58,100
+"Peru",1.3,43,1.2,41,95.3
+"Philippines",0.1,14,0.1,14,100
+"Qatar",23.4,66,23.4,66,100
+"Saudi Arabia",0.3,10,0.3,10,100
+"Singapore",21.8,121,21.8,121,100
+"South Africa",8.3,510,8.3,510,100
+"Thailand",1,70,1,69,98.6
+"Uganda",0.7,34,0.6,29,85.3
+"United Arab Emirates",27.5,269,18.9,185,68.8
+"Zambia",1.1,22,0.5,10,45.5

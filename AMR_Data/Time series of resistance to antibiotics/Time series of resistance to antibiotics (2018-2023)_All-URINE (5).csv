@@ -1,0 +1,162 @@
+Filters
+Region filter: All
+Infection type filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Co-trimoxazole
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"URINE","Escherichia coli","Co-trimoxazole",19.536191145,37.34939759,47.466007417,66.50390625,97.222222222
+2019,"URINE","Escherichia coli","Co-trimoxazole",20.356171766,35.65586186,46.127415891,64.705882353,89.473684211
+2020,"URINE","Escherichia coli","Co-trimoxazole",19.727047146,35.053143982,43.419818547,66.055409827,89.932885906
+2021,"URINE","Escherichia coli","Co-trimoxazole",16.387885214,32.044760936,44.679444812,67.995069844,87.142857143
+2022,"URINE","Escherichia coli","Co-trimoxazole",15.497999884,32.495211629,47.081200594,64.988292804,90.936555891
+2023,"URINE","Escherichia coli","Co-trimoxazole",15.480033201,34.2549474,47.269321262,66.635385382,96.363636364
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2018,"URINE","Escherichia coli","Co-trimoxazole",44553,36896,14919,40.435277537
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",3706,1906,713,37.40818468
+"BRA","Brazil","Region of the Americas",2018,"URINE","Escherichia coli","Co-trimoxazole",2818,2416,790,32.698675497
+"ETH","Ethiopia","African Region",2018,"URINE","Escherichia coli","Co-trimoxazole",388,250,193,77.2
+"FIN","Finland","European Region",2018,"URINE","Escherichia coli","Co-trimoxazole",159588,12244,3385,27.646194054
+"IND","India","South-East Asia Region",2018,"URINE","Escherichia coli","Co-trimoxazole",25203,12977,8611,66.355860368
+"IDN","Indonesia","South-East Asia Region",2018,"URINE","Escherichia coli","Co-trimoxazole",2820,1024,681,66.50390625
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",3640,2247,1578,70.226969292
+"IRQ","Iraq","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",177,139,113,81.294964029
+"JOR","Jordan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",2676,1780,1030,57.865168539
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"URINE","Escherichia coli","Co-trimoxazole",120,110,74,67.272727273
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",3964,3119,1420,45.527412632
+"MLI","Mali","African Region",2018,"URINE","Escherichia coli","Co-trimoxazole",85,72,70,97.222222222
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Co-trimoxazole",4866,3236,1536,47.466007417
+"NOR","Norway","European Region",2018,"URINE","Escherichia coli","Co-trimoxazole",2117,1423,278,19.536191145
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",3636,2905,1085,37.34939759
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",14284,1886,1115,59.119830329
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Co-trimoxazole",8074,4894,3003,61.36085002
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Co-trimoxazole",8554,7255,2743,37.808407994
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Co-trimoxazole",4301,1987,1049,52.793155511
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",12711,7287,2954,40.537944284
+"UGA","Uganda","African Region",2018,"URINE","Escherichia coli","Co-trimoxazole",70,61,48,78.68852459
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Co-trimoxazole",22331,15056,6207,41.226089267
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Co-trimoxazole",863293,70313,24328,34.599576181
+"ARG","Argentina","Region of the Americas",2019,"URINE","Escherichia coli","Co-trimoxazole",35830,30338,12419,40.935460479
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",4535,3301,1177,35.65586186
+"BRA","Brazil","Region of the Americas",2019,"URINE","Escherichia coli","Co-trimoxazole",4289,3428,1155,33.693115519
+"ETH","Ethiopia","African Region",2019,"URINE","Escherichia coli","Co-trimoxazole",449,291,238,81.786941581
+"FIN","Finland","European Region",2019,"URINE","Escherichia coli","Co-trimoxazole",159676,39235,8340,21.256531158
+"IND","India","South-East Asia Region",2019,"URINE","Escherichia coli","Co-trimoxazole",47746,29371,17686,60.215859181
+"IDN","Indonesia","South-East Asia Region",2019,"URINE","Escherichia coli","Co-trimoxazole",3383,1901,1228,64.597580221
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",7065,4463,3039,68.093210845
+"IRQ","Iraq","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",859,257,194,75.486381323
+"JOR","Jordan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",5265,3623,1970,54.374827491
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"URINE","Escherichia coli","Co-trimoxazole",175,153,99,64.705882353
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",1363,1096,505,46.076642336
+"MLI","Mali","African Region",2019,"URINE","Escherichia coli","Co-trimoxazole",105,76,68,89.473684211
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Co-trimoxazole",9953,6985,3222,46.127415891
+"NOR","Norway","European Region",2019,"URINE","Escherichia coli","Co-trimoxazole",2187,1501,307,20.453031312
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",8941,7049,2635,37.381188821
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",15455,10308,7066,68.548700039
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Co-trimoxazole",9132,5642,3396,60.191421482
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Co-trimoxazole",8565,7270,2893,39.793672627
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Co-trimoxazole",9011,5692,3108,54.602951511
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",5444,3643,1356,37.222069723
+"UGA","Uganda","African Region",2019,"URINE","Escherichia coli","Co-trimoxazole",214,137,118,86.131386861
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Co-trimoxazole",27055,17843,6939,38.889200247
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Co-trimoxazole",880701,62651,14905,23.790522099
+"ARG","Argentina","Region of the Americas",2020,"URINE","Escherichia coli","Co-trimoxazole",29170,24877,9561,38.433090807
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",3517,2495,865,34.669338677
+"BRA","Brazil","Region of the Americas",2020,"URINE","Escherichia coli","Co-trimoxazole",2805,2066,689,33.34946757
+"ETH","Ethiopia","African Region",2020,"URINE","Escherichia coli","Co-trimoxazole",576,274,219,79.927007299
+"FIN","Finland","European Region",2020,"URINE","Escherichia coli","Co-trimoxazole",146108,49166,9699,19.727047146
+"IND","India","South-East Asia Region",2020,"URINE","Escherichia coli","Co-trimoxazole",18235,3533,2250,63.685253326
+"IDN","Indonesia","South-East Asia Region",2020,"URINE","Escherichia coli","Co-trimoxazole",1595,849,527,62.073027091
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",4235,2509,1658,66.082104424
+"IRQ","Iraq","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",1502,879,618,70.307167235
+"JOR","Jordan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",5385,3415,1846,54.055636896
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"URINE","Escherichia coli","Co-trimoxazole",253,215,142,66.046511628
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",3918,2348,1022,43.526405451
+"MLI","Mali","African Region",2020,"URINE","Escherichia coli","Co-trimoxazole",339,149,134,89.932885906
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Co-trimoxazole",5975,3389,1578,46.56240779
+"NOR","Norway","European Region",2020,"URINE","Escherichia coli","Co-trimoxazole",3219,2520,536,21.26984127
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",3343,2314,849,36.68971478
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",28695,3452,2327,67.410196987
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Co-trimoxazole",4560,2890,1709,59.134948097
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Co-trimoxazole",8567,7293,2625,35.993418346
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Co-trimoxazole",11131,7396,4007,54.177934018
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",5309,2706,952,35.181079084
+"UGA","Uganda","African Region",2020,"URINE","Escherichia coli","Co-trimoxazole",452,269,211,78.43866171
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Co-trimoxazole",29681,20193,7260,35.953053038
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Co-trimoxazole",651538,53214,12351,23.210057504
+"ARG","Argentina","Region of the Americas",2021,"URINE","Escherichia coli","Co-trimoxazole",37956,32047,11387,35.5321871
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",4056,2949,945,32.044760936
+"BRA","Brazil","Region of the Americas",2021,"URINE","Escherichia coli","Co-trimoxazole",2972,2039,394,19.323197646
+"ETH","Ethiopia","African Region",2021,"URINE","Escherichia coli","Co-trimoxazole",768,229,182,79.475982533
+"FIN","Finland","European Region",2021,"URINE","Escherichia coli","Co-trimoxazole",137778,71681,11747,16.387885214
+"IND","India","South-East Asia Region",2021,"URINE","Escherichia coli","Co-trimoxazole",64919,43699,25306,57.909791986
+"IDN","Indonesia","South-East Asia Region",2021,"URINE","Escherichia coli","Co-trimoxazole",3900,1497,951,63.527054108
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",4521,2434,1655,67.995069844
+"IRQ","Iraq","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",3797,1558,1063,68.228498074
+"JOR","Jordan","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",13316,2736,1429,52.229532164
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"URINE","Escherichia coli","Co-trimoxazole",232,193,132,68.393782383
+"LBN","Lebanon","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",2927,1404,653,46.50997151
+"MLI","Mali","African Region",2021,"URINE","Escherichia coli","Co-trimoxazole",241,85,74,87.058823529
+"NPL","Nepal","South-East Asia Region",2021,"URINE","Escherichia coli","Co-trimoxazole",7928,4539,2028,44.679444812
+"NOR","Norway","European Region",2021,"URINE","Escherichia coli","Co-trimoxazole",2069,1335,245,18.352059925
+"OMN","Oman","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",7380,5793,1850,31.935094079
+"PAK","Pakistan","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",47908,35610,24310,68.267340635
+"PHL","Philippines","Western Pacific Region",2021,"URINE","Escherichia coli","Co-trimoxazole",5654,3746,2085,55.659369995
+"KOR","Republic of Korea","Western Pacific Region",2021,"URINE","Escherichia coli","Co-trimoxazole",9408,7901,2579,32.641437793
+"THA","Thailand","South-East Asia Region",2021,"URINE","Escherichia coli","Co-trimoxazole",10402,5961,3107,52.12212716
+"TUN","Tunisia","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",5334,3513,1324,37.688585255
+"UGA","Uganda","African Region",2021,"URINE","Escherichia coli","Co-trimoxazole",269,175,149,85.142857143
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"URINE","Escherichia coli","Co-trimoxazole",49312,36083,12175,33.741651193
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2021,"URINE","Escherichia coli","Co-trimoxazole",725182,59937,12211,20.373058378
+"ARG","Argentina","Region of the Americas",2022,"URINE","Escherichia coli","Co-trimoxazole",40377,33954,12777,37.630323379
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",4214,3047,1000,32.819166393
+"BRA","Brazil","Region of the Americas",2022,"URINE","Escherichia coli","Co-trimoxazole",3568,2715,860,31.67587477
+"ETH","Ethiopia","African Region",2022,"URINE","Escherichia coli","Co-trimoxazole",1311,558,432,77.419354839
+"FIN","Finland","European Region",2022,"URINE","Escherichia coli","Co-trimoxazole",114665,68996,10693,15.497999884
+"IND","India","South-East Asia Region",2022,"URINE","Escherichia coli","Co-trimoxazole",96309,65511,36711,56.037917296
+"IDN","Indonesia","South-East Asia Region",2022,"URINE","Escherichia coli","Co-trimoxazole",7106,765,423,55.294117647
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",6161,4435,3030,68.320180383
+"IRQ","Iraq","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",5960,2276,1461,64.191564148
+"JOR","Jordan","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",18196,9059,5171,57.081355558
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"URINE","Escherichia coli","Co-trimoxazole",443,373,252,67.560321716
+"LBN","Lebanon","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",3672,2354,1215,51.614273577
+"MLI","Mali","African Region",2022,"URINE","Escherichia coli","Co-trimoxazole",487,222,197,88.738738739
+"NPL","Nepal","South-East Asia Region",2022,"URINE","Escherichia coli","Co-trimoxazole",12921,6111,2418,39.567992145
+"NOR","Norway","European Region",2022,"URINE","Escherichia coli","Co-trimoxazole",2030,1308,259,19.801223242
+"OMN","Oman","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",9426,7411,2537,34.232897045
+"PAK","Pakistan","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",79700,50341,33919,67.378478775
+"PHL","Philippines","Western Pacific Region",2022,"URINE","Escherichia coli","Co-trimoxazole",8324,5381,2830,52.592454934
+"KOR","Republic of Korea","Western Pacific Region",2022,"URINE","Escherichia coli","Co-trimoxazole",10028,8465,2720,32.13230951
+"THA","Thailand","South-East Asia Region",2022,"URINE","Escherichia coli","Co-trimoxazole",6488,2802,1406,50.178443969
+"TUN","Tunisia","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",5231,2324,758,32.616179002
+"UGA","Uganda","African Region",2022,"URINE","Escherichia coli","Co-trimoxazole",124,62,53,85.483870968
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"URINE","Escherichia coli","Co-trimoxazole",57098,42090,14992,35.618911856
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2022,"URINE","Escherichia coli","Co-trimoxazole",945966,72444,14994,20.697366242
+"ARG","Argentina","Region of the Americas",2023,"URINE","Escherichia coli","Co-trimoxazole",46185,38278,13926,36.38121114
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",7827,3550,1205,33.943661972
+"BRA","Brazil","Region of the Americas",2023,"URINE","Escherichia coli","Co-trimoxazole",7866,5615,2113,37.631344613
+"ETH","Ethiopia","African Region",2023,"URINE","Escherichia coli","Co-trimoxazole",1402,753,594,78.884462151
+"FIN","Finland","European Region",2023,"URINE","Escherichia coli","Co-trimoxazole",96123,65058,10071,15.480033201
+"IND","India","South-East Asia Region",2023,"URINE","Escherichia coli","Co-trimoxazole",104947,60906,32755,53.779594785
+"IDN","Indonesia","South-East Asia Region",2023,"URINE","Escherichia coli","Co-trimoxazole",11518,5151,2592,50.32032615
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",6797,4370,2917,66.750572082
+"IRQ","Iraq","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",8451,3892,2580,66.289825283
+"JOR","Jordan","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",25767,14681,8609,58.64041959
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"URINE","Escherichia coli","Co-trimoxazole",562,465,319,68.602150538
+"LBN","Lebanon","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",619,508,290,57.086614173
+"MLI","Mali","African Region",2023,"URINE","Escherichia coli","Co-trimoxazole",67,55,53,96.363636364
+"NPL","Nepal","South-East Asia Region",2023,"URINE","Escherichia coli","Co-trimoxazole",17372,11673,4939,42.311316714
+"NOR","Norway","European Region",2023,"URINE","Escherichia coli","Co-trimoxazole",2253,1478,270,18.267929635
+"OMN","Oman","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",11541,8959,3193,35.640138408
+"PAK","Pakistan","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",78151,42630,28517,66.894205958
+"PHL","Philippines","Western Pacific Region",2023,"URINE","Escherichia coli","Co-trimoxazole",10948,6829,3824,55.996485576
+"KOR","Republic of Korea","Western Pacific Region",2023,"URINE","Escherichia coli","Co-trimoxazole",2163,1813,582,32.101489244
+"THA","Thailand","South-East Asia Region",2023,"URINE","Escherichia coli","Co-trimoxazole",22725,12098,6516,53.860142172
+"TUN","Tunisia","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",8083,3852,1332,34.579439252
+"UGA","Uganda","African Region",2023,"URINE","Escherichia coli","Co-trimoxazole",188,105,89,84.761904762
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"URINE","Escherichia coli","Co-trimoxazole",58693,41615,15537,37.335095518
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2023,"URINE","Escherichia coli","Co-trimoxazole",1011886,79172,17458,22.050725004

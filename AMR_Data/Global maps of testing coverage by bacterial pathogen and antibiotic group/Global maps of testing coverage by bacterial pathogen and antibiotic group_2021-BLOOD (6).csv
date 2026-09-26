@@ -1,0 +1,93 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Infection type filter: Bloodstream"
+"Bacterial pathogen filter: Staphylococcus aureus"
+"Antibiotic group filter: Methicillin-resistance"
+
+
+"CountryTerritoryArea","Total Staphylococcus aureus BCIs per million population","Absolute number of Staphylococcus aureus BCIs","Total Staphylococcus aureus BCIs with AST (Methicillin-resistance) per million population","Absolute number of Staphylococcus aureus BCIs with AST (Methicillin-resistance)","% of Staphylococcus aureus BCIs with AST"
+"Afghanistan",0,2,0,2,100
+"Argentina",61.7,2798,55.8,2528,90.4
+"Australia",112.8,2928,112.8,2928,100
+"Austria",221.5,1986,221.5,1986,100
+"Bahrain",120.5,181,119.9,180,99.4
+"Bangladesh",0.1,14,0,5,35.7
+"Belgium",121.3,1404,121.3,1404,100
+"Bosnia and Herzegovina",85.1,276,84.4,274,99.3
+"Brazil",1.4,300,1.4,300,100
+"Brunei Darussalam",666.3,301,666.3,301,100
+"Burkina Faso",2,43,2,43,100
+"Cameroon",1.7,45,0.4,11,24.4
+"Colombia",144.3,7386,135.2,6921,93.7
+"Croatia",152.4,598,152.4,598,100
+"Cyprus",134.4,177,134.4,177,100
+"Czechia",216.4,2279,216.4,2279,100
+"Democratic Republic of the Congo",0.4,35,0.2,23,65.7
+"Denmark",582.1,3409,582.1,3409,100
+"Egypt",0.1,15,0.1,13,86.7
+"Estonia",198.2,264,198.2,264,100
+"Ethiopia",1.5,189,1.2,145,76.7
+"Finland",265.3,1470,265.3,1470,100
+"France",142.1,9703,142.1,9703,100
+"Georgia",42.5,161,42,159,98.8
+"Germany",175.3,14673,175.3,14673,100
+"Ghana",14.6,476,1.8,60,12.6
+"Greece",50.6,535,50.6,535,100
+"India",6.6,9288,5.7,8130,87.5
+"Indonesia",2.3,642,1.9,520,81
+"Iran (Islamic Republic of)",5.1,449,4.2,373,83.1
+"Iraq",6.5,281,0.9,39,13.9
+"Ireland",165.7,833,165.7,833,100
+"Italy",166.6,9953,166.6,9953,100
+"Japan",212.2,26667,212.2,26667,100
+"Jordan",42.8,474,10.2,113,23.8
+"Kenya",1.1,59,0.7,37,62.7
+"Kosovo",9.2,16,9.2,16,100
+"Kuwait",19.7,86,1.1,5,5.8
+"Lao People's Democratic Republic",11.7,87,11.7,87,100
+"Latvia",332.5,627,279.5,527,84.1
+"Lebanon",10.8,62,7.5,43,69.4
+"Liberia",3.8,20,3.2,17,85
+"Lithuania",267,746,267,746,100
+"Luxembourg",310.8,199,310.8,199,100
+"Malawi",2.8,57,1.7,35,61.4
+"Malaysia",242.5,8314,205.9,7058,84.9
+"Mali",2.1,47,2.1,47,100
+"Malta",196.4,103,196.4,103,100
+"Mauritius",338.4,433,338.4,433,100
+"Morocco",2.6,97,2.6,97,100
+"Mozambique",0.8,24,0.8,24,100
+"Myanmar",0.2,9,0.2,9,100
+"Nepal",14.4,424,1.9,57,13.4
+"Netherlands (Kingdom of the)",150.7,2672,150.7,2672,100
+"Nigeria",0.1,21,0.1,18,85.7
+"North Macedonia",44.8,83,44.8,83,100
+"Norway",217.3,1175,217.3,1175,100
+"Oman",90,405,9.1,41,10.1
+"Pakistan",9.6,2302,5.7,1368,59.4
+"Peru",10.4,345,7,233,67.5
+"Philippines",11.1,1257,10.6,1204,95.8
+"Poland",42.3,1610,42.3,1610,100
+"Qatar",48.7,137,48.3,136,99.3
+"Republic of Korea",14.9,772,14.9,772,100
+"Republic of Moldova",5,15,5,15,100
+"Russian Federation",4.9,708,2.8,405,57.2
+"Saudi Arabia",8.6,270,8.6,268,99.3
+"Singapore",45.8,254,40.4,224,88.2
+"South Africa",98.8,6077,98,6028,99.2
+"Sri Lanka",27.2,618,14.1,319,51.6
+"Sudan",1.7,80,0.3,15,18.8
+"Sweden",742.4,7733,742.4,7733,100
+"Switzerland",278.2,2422,262.8,2288,94.5
+"Thailand",14.2,1016,9.6,686,67.5
+"Timor-Leste",14.8,20,11.9,16,80
+"Tunisia",21.7,262,19.3,232,88.5
+"T<U+00FC>rkiye",44.7,3878,41.1,3559,91.8
+"Uganda",0.3,13,0.2,9,69.2
+"Ukraine",4.5,201,4,179,89.1
+"United Arab Emirates",96.4,944,95.1,931,98.6
+"United Kingdom of Great Britain and Northern Ireland",173,11707,64.5,4365,37.3
+"United Republic of Tanzania",13.7,862,11.6,729,84.6
+"Zambia",5.4,106,3.8,75,70.8
+"occupied Palestinian territory, including east Jerusalem",149.8,777,141.6,734,94.5

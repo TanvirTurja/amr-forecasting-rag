@@ -1,0 +1,12 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+
+"AWR_NAME","DDD","Percentage (%)","COLOR"
+"Reserve",44029147.5124014,0.272878587390522,"#E30614"
+"Not classified/Not recommended",394364537.502675,2.44414538983149,"#9A9A9A"
+"Watch",7802113163.66901,48.3550043335117,"#FFCC00"
+"Access",7894561840.08423,48.9279716892663,"#53AF32"

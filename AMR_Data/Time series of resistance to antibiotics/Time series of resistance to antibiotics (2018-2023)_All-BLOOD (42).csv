@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Streptococcus pneumoniae
+Antibiotic filter: Oxacillin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",12.576687117,19.000892061,25.641025641,51.06466877,86.666666667
+2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",4.233576642,9.754521964,19.673202614,27.473184818,83.333333333
+2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",2.5,6.592009685,17.691514943,32.090163934,82.142857143
+2021,"BLOOD","Streptococcus pneumoniae","Oxacillin",1.298701299,6.578947368,15.662650602,31.155115512,100
+2022,"BLOOD","Streptococcus pneumoniae","Oxacillin",0,6.980519481,10.273972603,47.619047619,92.857142857
+2023,"BLOOD","Streptococcus pneumoniae","Oxacillin",0,4.481434059,8.284388832,31.252035168,86.363636364
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"MLI","Mali","African Region",2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",422,39,10,25.641025641
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",3519,48,36,75
+"CHE","Switzerland","European Region",2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",19539,326,41,12.576687117
+"MLI","Mali","African Region",2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",387,40,11,27.5
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",3646,36,28,77.777777778
+"CHE","Switzerland","European Region",2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",10424,201,24,11.940298507
+"MLI","Mali","African Region",2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",297,31,17,54.838709677
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",4095,28,23,82.142857143
+"CHE","Switzerland","European Region",2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",10256,118,7,5.93220339
+"MLI","Mali","African Region",2021,"BLOOD","Streptococcus pneumoniae","Oxacillin",280,37,17,45.945945946
+"KOR","Republic of Korea","Western Pacific Region",2021,"BLOOD","Streptococcus pneumoniae","Oxacillin",4488,20,20,100
+"CHE","Switzerland","European Region",2021,"BLOOD","Streptococcus pneumoniae","Oxacillin",10322,129,14,10.852713178
+"MLI","Mali","African Region",2022,"BLOOD","Streptococcus pneumoniae","Oxacillin",286,59,32,54.237288136
+"KOR","Republic of Korea","Western Pacific Region",2022,"BLOOD","Streptococcus pneumoniae","Oxacillin",4484,28,26,92.857142857
+"CHE","Switzerland","European Region",2022,"BLOOD","Streptococcus pneumoniae","Oxacillin",11308,253,19,7.509881423
+"MLI","Mali","African Region",2023,"BLOOD","Streptococcus pneumoniae","Oxacillin",275,39,21,53.846153846
+"KOR","Republic of Korea","Western Pacific Region",2023,"BLOOD","Streptococcus pneumoniae","Oxacillin",5416,27,19,70.37037037
+"CHE","Switzerland","European Region",2023,"BLOOD","Streptococcus pneumoniae","Oxacillin",12511,267,23,8.61423221

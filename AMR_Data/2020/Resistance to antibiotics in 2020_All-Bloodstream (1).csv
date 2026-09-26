@@ -1,0 +1,839 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Escherichia coli","Ampicillin",33.896103896,56.750327337,72.49969132,88.066095471,100,68,206304
+"Bloodstream","Escherichia coli","Cefepime",2.482269504,12.909631765,30.968045113,48.088972431,90.697674419,54,149280
+"Bloodstream","Escherichia coli","Cefotaxime",5.330174711,17.2213896,38.530470998,64.343317972,90,64,209752
+"Bloodstream","Escherichia coli","Ceftazidime",4.899387577,11.90771916,28.384325741,52.04248366,94.871794872,70,263572
+"Bloodstream","Escherichia coli","Ceftriaxone",4.728132388,18.137076515,45.291100797,63.592657343,89.189189189,66,132317
+"Bloodstream","Escherichia coli","Ciprofloxacin",8.333333333,21.559886867,42.031062425,53.136262514,75,76,241136
+"Bloodstream","Escherichia coli","Co-trimoxazole",9.090909091,43.15241439,54.02707049,72.707324455,100,46,100911
+"Bloodstream","Escherichia coli","Colistin",0,0,0.376744252,1.589308942,21.052631579,34,18491
+"Bloodstream","Escherichia coli","Doripenem",0.590551181,1.118860817,4.493635861,8.01642178,8.988764045,4,1305
+"Bloodstream","Escherichia coli","Ertapenem",0,0.159174303,0.809646349,5.519704433,58.333333333,50,117064
+"Bloodstream","Escherichia coli","Imipenem",0,0,0.578662449,5.197368421,29.090909091,70,193136
+"Bloodstream","Escherichia coli","Levofloxacin",10.283073368,19.576006807,33.454987835,49.808184143,76.923076923,46,132083
+"Bloodstream","Escherichia coli","Meropenem",0,0.012347231,0.330033003,3.790063667,40.730337079,71,260414
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance",5.330174711,18.238993711,40,64.285714286,94.871794872,77,180592
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Escherichia coli","Ampicillin",33.896103896,44.897959184,52.459016393,56.942003515,64.769520226,17,166561
+"Bloodstream","Escherichia coli","Cefepime",2.482269504,7.24480475,8.357232025,11.583323161,38.053097345,14,131214
+"Bloodstream","Escherichia coli","Cefotaxime",5.330174711,8.703186837,10.485653411,13.902899063,49.456521739,16,170479
+"Bloodstream","Escherichia coli","Ceftazidime",4.899387577,6.689942176,9.542966292,11.696112478,44.535519126,18,194173
+"Bloodstream","Escherichia coli","Ceftriaxone",6.386418755,8.701413428,10.541310541,17.297297297,53.93258427,17,113675
+"Bloodstream","Escherichia coli","Ciprofloxacin",9.959839357,14.916794729,18.436465495,26.002379788,46.467391304,19,188613
+"Bloodstream","Escherichia coli","Co-trimoxazole",18.558945541,31.739326132,43.370046172,47.356232598,69.789983845,12,91294
+"Bloodstream","Escherichia coli","Colistin",0,0,0.494743352,0.901916573,2.949061662,9,13939
+"Bloodstream","Escherichia coli","Doripenem",0.590551181,0.590551181,0.590551181,0.590551181,0.590551181,1,508
+"Bloodstream","Escherichia coli","Ertapenem",0,0.156639787,0.235446194,0.455927052,2.428256071,13,98266
+"Bloodstream","Escherichia coli","Imipenem",0,0,0.033849475,0.333139668,2.72479564,18,168257
+"Bloodstream","Escherichia coli","Levofloxacin",10.283073368,16.182863233,17.816459638,28.226519451,71.929824561,12,121710
+"Bloodstream","Escherichia coli","Meropenem",0,0.01125182,0.025835695,0.096727288,2.72479564,18,219913
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance",5.330174711,8.555015815,10.641799232,14.850701743,49.591280654,19,154326
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Bloodstream","Escherichia coli","Ampicillin","ARE","United Arab Emirates","Eastern Mediterranean Region",750,548,73.066666667
+"Bloodstream","Escherichia coli","Cefepime","ARE","United Arab Emirates","Eastern Mediterranean Region",580,101,17.413793103
+"Bloodstream","Escherichia coli","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",522,251,48.084291188
+"Bloodstream","Escherichia coli","Ceftazidime","ARE","United Arab Emirates","Eastern Mediterranean Region",767,239,31.160365059
+"Bloodstream","Escherichia coli","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",392,212,54.081632653
+"Bloodstream","Escherichia coli","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",775,411,53.032258065
+"Bloodstream","Escherichia coli","Co-trimoxazole","ARE","United Arab Emirates","Eastern Mediterranean Region",754,384,50.928381963
+"Bloodstream","Escherichia coli","Colistin","ARE","United Arab Emirates","Eastern Mediterranean Region",32,0,0
+"Bloodstream","Escherichia coli","Ertapenem","ARE","United Arab Emirates","Eastern Mediterranean Region",449,8,1.781737194
+"Bloodstream","Escherichia coli","Imipenem","ARE","United Arab Emirates","Eastern Mediterranean Region",741,15,2.024291498
+"Bloodstream","Escherichia coli","Levofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",125,52,41.6
+"Bloodstream","Escherichia coli","Meropenem","ARE","United Arab Emirates","Eastern Mediterranean Region",767,18,2.346805737
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","ARE","United Arab Emirates","Eastern Mediterranean Region",392,212,54.081632653
+"Bloodstream","Escherichia coli","Ampicillin","ARG","Argentina","Region of the Americas",1740,1259,72.356321839
+"Bloodstream","Escherichia coli","Cefepime","ARG","Argentina","Region of the Americas",1847,341,18.462371413
+"Bloodstream","Escherichia coli","Cefotaxime","ARG","Argentina","Region of the Americas",1254,266,21.212121212
+"Bloodstream","Escherichia coli","Ceftazidime","ARG","Argentina","Region of the Americas",1884,376,19.957537155
+"Bloodstream","Escherichia coli","Ciprofloxacin","ARG","Argentina","Region of the Americas",1953,660,33.794162826
+"Bloodstream","Escherichia coli","Co-trimoxazole","ARG","Argentina","Region of the Americas",1932,909,47.049689441
+"Bloodstream","Escherichia coli","Colistin","ARG","Argentina","Region of the Americas",1617,8,0.494743352
+"Bloodstream","Escherichia coli","Ertapenem","ARG","Argentina","Region of the Americas",1433,20,1.395673412
+"Bloodstream","Escherichia coli","Imipenem","ARG","Argentina","Region of the Americas",1929,8,0.414722654
+"Bloodstream","Escherichia coli","Meropenem","ARG","Argentina","Region of the Americas",1933,5,0.258665287
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","ARG","Argentina","Region of the Americas",1254,266,21.212121212
+"Bloodstream","Escherichia coli","Ampicillin","AUS","Australia","Western Pacific Region",4863,2582,53.09479745
+"Bloodstream","Escherichia coli","Cefepime","AUS","Australia","Western Pacific Region",4867,174,3.575097596
+"Bloodstream","Escherichia coli","Ceftazidime","AUS","Australia","Western Pacific Region",4867,314,6.451612903
+"Bloodstream","Escherichia coli","Ceftriaxone","AUS","Australia","Western Pacific Region",4867,650,13.35524964
+"Bloodstream","Escherichia coli","Ciprofloxacin","AUS","Australia","Western Pacific Region",4866,783,16.091245376
+"Bloodstream","Escherichia coli","Co-trimoxazole","AUS","Australia","Western Pacific Region",4860,1462,30.082304527
+"Bloodstream","Escherichia coli","Colistin","AUS","Australia","Western Pacific Region",639,2,0.312989045
+"Bloodstream","Escherichia coli","Ertapenem","AUS","Australia","Western Pacific Region",639,5,0.782472613
+"Bloodstream","Escherichia coli","Imipenem","AUS","Australia","Western Pacific Region",639,0,0
+"Bloodstream","Escherichia coli","Meropenem","AUS","Australia","Western Pacific Region",4865,2,0.041109969
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","AUS","Australia","Western Pacific Region",4867,650,13.35524964
+"Bloodstream","Escherichia coli","Ampicillin","AUT","Austria","European Region",4747,2183,45.986939119
+"Bloodstream","Escherichia coli","Cefepime","AUT","Austria","European Region",4832,347,7.181291391
+"Bloodstream","Escherichia coli","Cefotaxime","AUT","Austria","European Region",4933,465,9.426312589
+"Bloodstream","Escherichia coli","Ceftazidime","AUT","Austria","European Region",4213,324,7.690481842
+"Bloodstream","Escherichia coli","Ceftriaxone","AUT","Austria","European Region",1404,120,8.547008547
+"Bloodstream","Escherichia coli","Ciprofloxacin","AUT","Austria","European Region",5269,908,17.232871513
+"Bloodstream","Escherichia coli","Colistin","AUT","Austria","European Region",311,0,0
+"Bloodstream","Escherichia coli","Ertapenem","AUT","Austria","European Region",1743,1,0.057372347
+"Bloodstream","Escherichia coli","Imipenem","AUT","Austria","European Region",3043,2,0.065724614
+"Bloodstream","Escherichia coli","Levofloxacin","AUT","Austria","European Region",1913,341,17.825405123
+"Bloodstream","Escherichia coli","Meropenem","AUT","Austria","European Region",5138,5,0.09731413
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","AUT","Austria","European Region",4933,465,9.426312589
+"Bloodstream","Escherichia coli","Ampicillin","BEL","Belgium","European Region",3615,2020,55.878284924
+"Bloodstream","Escherichia coli","Cefepime","BEL","Belgium","European Region",3517,296,8.416263861
+"Bloodstream","Escherichia coli","Cefotaxime","BEL","Belgium","European Region",2701,279,10.32950759
+"Bloodstream","Escherichia coli","Ceftazidime","BEL","Belgium","European Region",3922,318,8.108108108
+"Bloodstream","Escherichia coli","Ceftriaxone","BEL","Belgium","European Region",2264,197,8.701413428
+"Bloodstream","Escherichia coli","Ciprofloxacin","BEL","Belgium","European Region",3927,724,18.436465495
+"Bloodstream","Escherichia coli","Colistin","BEL","Belgium","European Region",1774,16,0.901916573
+"Bloodstream","Escherichia coli","Ertapenem","BEL","Belgium","European Region",2932,9,0.306957708
+"Bloodstream","Escherichia coli","Imipenem","BEL","Belgium","European Region",358,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","BEL","Belgium","European Region",1943,346,17.807514153
+"Bloodstream","Escherichia coli","Meropenem","BEL","Belgium","European Region",4126,1,0.024236549
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","BEL","Belgium","European Region",2701,279,10.32950759
+"Bloodstream","Escherichia coli","Ceftriaxone","BFA","Burkina Faso","African Region",11,7,63.636363636
+"Bloodstream","Escherichia coli","Ciprofloxacin","BFA","Burkina Faso","African Region",14,8,57.142857143
+"Bloodstream","Escherichia coli","Co-trimoxazole","BFA","Burkina Faso","African Region",13,11,84.615384615
+"Bloodstream","Escherichia coli","Imipenem","BFA","Burkina Faso","African Region",16,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","BFA","Burkina Faso","African Region",11,7,63.636363636
+"Bloodstream","Escherichia coli","Ampicillin","BHR","Bahrain","Eastern Mediterranean Region",33,27,81.818181818
+"Bloodstream","Escherichia coli","Cefepime","BHR","Bahrain","Eastern Mediterranean Region",127,75,59.05511811
+"Bloodstream","Escherichia coli","Ceftazidime","BHR","Bahrain","Eastern Mediterranean Region",36,12,33.333333333
+"Bloodstream","Escherichia coli","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",127,75,59.05511811
+"Bloodstream","Escherichia coli","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",127,56,44.094488189
+"Bloodstream","Escherichia coli","Co-trimoxazole","BHR","Bahrain","Eastern Mediterranean Region",127,57,44.881889764
+"Bloodstream","Escherichia coli","Colistin","BHR","Bahrain","Eastern Mediterranean Region",13,0,0
+"Bloodstream","Escherichia coli","Ertapenem","BHR","Bahrain","Eastern Mediterranean Region",46,11,23.913043478
+"Bloodstream","Escherichia coli","Imipenem","BHR","Bahrain","Eastern Mediterranean Region",50,7,14
+"Bloodstream","Escherichia coli","Levofloxacin","BHR","Bahrain","Eastern Mediterranean Region",32,15,46.875
+"Bloodstream","Escherichia coli","Meropenem","BHR","Bahrain","Eastern Mediterranean Region",127,6,4.724409449
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","BHR","Bahrain","Eastern Mediterranean Region",127,75,59.05511811
+"Bloodstream","Escherichia coli","Ampicillin","BIH","Bosnia and Herzegovina","European Region",179,119,66.480446927
+"Bloodstream","Escherichia coli","Cefotaxime","BIH","Bosnia and Herzegovina","European Region",179,42,23.463687151
+"Bloodstream","Escherichia coli","Ceftazidime","BIH","Bosnia and Herzegovina","European Region",179,38,21.229050279
+"Bloodstream","Escherichia coli","Ceftriaxone","BIH","Bosnia and Herzegovina","European Region",179,40,22.346368715
+"Bloodstream","Escherichia coli","Ciprofloxacin","BIH","Bosnia and Herzegovina","European Region",179,35,19.553072626
+"Bloodstream","Escherichia coli","Ertapenem","BIH","Bosnia and Herzegovina","European Region",131,0,0
+"Bloodstream","Escherichia coli","Imipenem","BIH","Bosnia and Herzegovina","European Region",179,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","BIH","Bosnia and Herzegovina","European Region",172,34,19.76744186
+"Bloodstream","Escherichia coli","Meropenem","BIH","Bosnia and Herzegovina","European Region",179,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","BIH","Bosnia and Herzegovina","European Region",179,42,23.463687151
+"Bloodstream","Escherichia coli","Ampicillin","BRA","Brazil","Region of the Americas",67,48,71.641791045
+"Bloodstream","Escherichia coli","Ceftazidime","BRA","Brazil","Region of the Americas",54,10,18.518518519
+"Bloodstream","Escherichia coli","Ceftriaxone","BRA","Brazil","Region of the Americas",114,37,32.456140351
+"Bloodstream","Escherichia coli","Ciprofloxacin","BRA","Brazil","Region of the Americas",127,54,42.519685039
+"Bloodstream","Escherichia coli","Co-trimoxazole","BRA","Brazil","Region of the Americas",36,15,41.666666667
+"Bloodstream","Escherichia coli","Ertapenem","BRA","Brazil","Region of the Americas",67,0,0
+"Bloodstream","Escherichia coli","Imipenem","BRA","Brazil","Region of the Americas",67,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","BRA","Brazil","Region of the Americas",11,8,72.727272727
+"Bloodstream","Escherichia coli","Meropenem","BRA","Brazil","Region of the Americas",125,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","BRA","Brazil","Region of the Americas",114,37,32.456140351
+"Bloodstream","Escherichia coli","Ampicillin","BRN","Brunei Darussalam","Western Pacific Region",192,112,58.333333333
+"Bloodstream","Escherichia coli","Cefepime","BRN","Brunei Darussalam","Western Pacific Region",21,10,47.619047619
+"Bloodstream","Escherichia coli","Ceftazidime","BRN","Brunei Darussalam","Western Pacific Region",192,26,13.541666667
+"Bloodstream","Escherichia coli","Ceftriaxone","BRN","Brunei Darussalam","Western Pacific Region",185,32,17.297297297
+"Bloodstream","Escherichia coli","Ciprofloxacin","BRN","Brunei Darussalam","Western Pacific Region",191,66,34.554973822
+"Bloodstream","Escherichia coli","Co-trimoxazole","BRN","Brunei Darussalam","Western Pacific Region",192,62,32.291666667
+"Bloodstream","Escherichia coli","Ertapenem","BRN","Brunei Darussalam","Western Pacific Region",171,0,0
+"Bloodstream","Escherichia coli","Imipenem","BRN","Brunei Darussalam","Western Pacific Region",181,1,0.552486188
+"Bloodstream","Escherichia coli","Levofloxacin","BRN","Brunei Darussalam","Western Pacific Region",193,54,27.979274611
+"Bloodstream","Escherichia coli","Meropenem","BRN","Brunei Darussalam","Western Pacific Region",191,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","BRN","Brunei Darussalam","Western Pacific Region",185,32,17.297297297
+"Bloodstream","Escherichia coli","Ampicillin","BTN","Bhutan","South-East Asia Region",91,66,72.527472527
+"Bloodstream","Escherichia coli","Ceftriaxone","BTN","Bhutan","South-East Asia Region",89,48,53.93258427
+"Bloodstream","Escherichia coli","Ciprofloxacin","BTN","Bhutan","South-East Asia Region",85,36,42.352941176
+"Bloodstream","Escherichia coli","Co-trimoxazole","BTN","Bhutan","South-East Asia Region",87,42,48.275862069
+"Bloodstream","Escherichia coli","Imipenem","BTN","Bhutan","South-East Asia Region",41,3,7.317073171
+"Bloodstream","Escherichia coli","Meropenem","BTN","Bhutan","South-East Asia Region",41,5,12.195121951
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","BTN","Bhutan","South-East Asia Region",89,48,53.93258427
+"Bloodstream","Escherichia coli","Ampicillin","CHE","Switzerland","European Region",4156,1920,46.198267565
+"Bloodstream","Escherichia coli","Cefepime","CHE","Switzerland","European Region",5882,397,6.749404964
+"Bloodstream","Escherichia coli","Cefotaxime","CHE","Switzerland","European Region",523,58,11.089866157
+"Bloodstream","Escherichia coli","Ceftazidime","CHE","Switzerland","European Region",5922,443,7.480580885
+"Bloodstream","Escherichia coli","Ceftriaxone","CHE","Switzerland","European Region",5945,579,9.739276703
+"Bloodstream","Escherichia coli","Ciprofloxacin","CHE","Switzerland","European Region",5994,944,15.749082416
+"Bloodstream","Escherichia coli","Co-trimoxazole","CHE","Switzerland","European Region",5670,1457,25.69664903
+"Bloodstream","Escherichia coli","Colistin","CHE","Switzerland","European Region",259,4,1.544401544
+"Bloodstream","Escherichia coli","Ertapenem","CHE","Switzerland","European Region",4463,10,0.224064531
+"Bloodstream","Escherichia coli","Imipenem","CHE","Switzerland","European Region",5600,2,0.035714286
+"Bloodstream","Escherichia coli","Levofloxacin","CHE","Switzerland","European Region",2489,380,15.267175573
+"Bloodstream","Escherichia coli","Meropenem","CHE","Switzerland","European Region",5187,1,0.019278967
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","CHE","Switzerland","European Region",523,58,11.089866157
+"Bloodstream","Escherichia coli","Ampicillin","CIV","C<U+00F4>te d<U+2019>Ivoire","African Region",10,10,100
+"Bloodstream","Escherichia coli","Cefotaxime","CIV","C<U+00F4>te d<U+2019>Ivoire","African Region",10,9,90
+"Bloodstream","Escherichia coli","Ceftazidime","CIV","C<U+00F4>te d<U+2019>Ivoire","African Region",10,8,80
+"Bloodstream","Escherichia coli","Imipenem","CIV","C<U+00F4>te d<U+2019>Ivoire","African Region",10,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","CIV","C<U+00F4>te d<U+2019>Ivoire","African Region",10,9,90
+"Bloodstream","Escherichia coli","Ampicillin","CYP","Cyprus","European Region",228,154,67.543859649
+"Bloodstream","Escherichia coli","Cefepime","CYP","Cyprus","European Region",62,22,35.483870968
+"Bloodstream","Escherichia coli","Cefotaxime","CYP","Cyprus","European Region",170,40,23.529411765
+"Bloodstream","Escherichia coli","Ceftazidime","CYP","Cyprus","European Region",228,38,16.666666667
+"Bloodstream","Escherichia coli","Ceftriaxone","CYP","Cyprus","European Region",62,32,51.612903226
+"Bloodstream","Escherichia coli","Ciprofloxacin","CYP","Cyprus","European Region",228,110,48.245614035
+"Bloodstream","Escherichia coli","Colistin","CYP","Cyprus","European Region",64,0,0
+"Bloodstream","Escherichia coli","Ertapenem","CYP","Cyprus","European Region",58,0,0
+"Bloodstream","Escherichia coli","Imipenem","CYP","Cyprus","European Region",228,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","CYP","Cyprus","European Region",62,38,61.290322581
+"Bloodstream","Escherichia coli","Meropenem","CYP","Cyprus","European Region",228,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","CYP","Cyprus","European Region",62,32,51.612903226
+"Bloodstream","Escherichia coli","Ampicillin","CZE","Czechia","European Region",2997,1578,52.652652653
+"Bloodstream","Escherichia coli","Cefepime","CZE","Czechia","European Region",73,32,43.835616438
+"Bloodstream","Escherichia coli","Cefotaxime","CZE","Czechia","European Region",2995,392,13.088480801
+"Bloodstream","Escherichia coli","Ceftazidime","CZE","Czechia","European Region",2997,331,11.044377711
+"Bloodstream","Escherichia coli","Ciprofloxacin","CZE","Czechia","European Region",2997,605,20.18685352
+"Bloodstream","Escherichia coli","Colistin","CZE","Czechia","European Region",373,11,2.949061662
+"Bloodstream","Escherichia coli","Imipenem","CZE","Czechia","European Region",262,2,0.763358779
+"Bloodstream","Escherichia coli","Meropenem","CZE","Czechia","European Region",1443,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","CZE","Czechia","European Region",2995,392,13.088480801
+"Bloodstream","Escherichia coli","Ampicillin","DEU","Germany","European Region",24691,11709,47.422137621
+"Bloodstream","Escherichia coli","Cefepime","DEU","Germany","European Region",8760,795,9.075342466
+"Bloodstream","Escherichia coli","Cefotaxime","DEU","Germany","European Region",26398,2690,10.190165922
+"Bloodstream","Escherichia coli","Ceftazidime","DEU","Germany","European Region",27143,2587,9.531002468
+"Bloodstream","Escherichia coli","Ceftriaxone","DEU","Germany","European Region",19955,2035,10.197945377
+"Bloodstream","Escherichia coli","Ciprofloxacin","DEU","Germany","European Region",27486,4511,16.411991559
+"Bloodstream","Escherichia coli","Ertapenem","DEU","Germany","European Region",19500,14,0.071794872
+"Bloodstream","Escherichia coli","Imipenem","DEU","Germany","European Region",26416,5,0.018927922
+"Bloodstream","Escherichia coli","Levofloxacin","DEU","Germany","European Region",21373,3524,16.488092453
+"Bloodstream","Escherichia coli","Meropenem","DEU","Germany","European Region",27514,4,0.014538053
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","DEU","Germany","European Region",19955,2035,10.197945377
+"Bloodstream","Escherichia coli","Ampicillin","DNK","Denmark","European Region",8673,3894,44.897959184
+"Bloodstream","Escherichia coli","Cefepime","DNK","Denmark","European Region",928,69,7.435344828
+"Bloodstream","Escherichia coli","Cefotaxime","DNK","Denmark","European Region",4132,276,6.679574056
+"Bloodstream","Escherichia coli","Ceftazidime","DNK","Denmark","European Region",7198,439,6.098916366
+"Bloodstream","Escherichia coli","Ceftriaxone","DNK","Denmark","European Region",2216,161,7.26534296
+"Bloodstream","Escherichia coli","Ciprofloxacin","DNK","Denmark","European Region",9365,1114,11.895355045
+"Bloodstream","Escherichia coli","Meropenem","DNK","Denmark","European Region",9364,11,0.117471166
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","DNK","Denmark","European Region",2216,161,7.26534296
+"Bloodstream","Escherichia coli","Ampicillin","EGY","Egypt","Eastern Mediterranean Region",29,22,75.862068966
+"Bloodstream","Escherichia coli","Cefepime","EGY","Egypt","Eastern Mediterranean Region",61,54,88.524590164
+"Bloodstream","Escherichia coli","Cefotaxime","EGY","Egypt","Eastern Mediterranean Region",49,42,85.714285714
+"Bloodstream","Escherichia coli","Ceftazidime","EGY","Egypt","Eastern Mediterranean Region",48,43,89.583333333
+"Bloodstream","Escherichia coli","Ceftriaxone","EGY","Egypt","Eastern Mediterranean Region",44,38,86.363636364
+"Bloodstream","Escherichia coli","Ciprofloxacin","EGY","Egypt","Eastern Mediterranean Region",40,30,75
+"Bloodstream","Escherichia coli","Colistin","EGY","Egypt","Eastern Mediterranean Region",20,1,5
+"Bloodstream","Escherichia coli","Ertapenem","EGY","Egypt","Eastern Mediterranean Region",12,7,58.333333333
+"Bloodstream","Escherichia coli","Imipenem","EGY","Egypt","Eastern Mediterranean Region",55,16,29.090909091
+"Bloodstream","Escherichia coli","Levofloxacin","EGY","Egypt","Eastern Mediterranean Region",45,21,46.666666667
+"Bloodstream","Escherichia coli","Meropenem","EGY","Egypt","Eastern Mediterranean Region",45,14,31.111111111
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","EGY","Egypt","Eastern Mediterranean Region",48,43,89.583333333
+"Bloodstream","Escherichia coli","Ampicillin","ETH","Ethiopia","African Region",34,32,94.117647059
+"Bloodstream","Escherichia coli","Cefepime","ETH","Ethiopia","African Region",11,4,36.363636364
+"Bloodstream","Escherichia coli","Ceftazidime","ETH","Ethiopia","African Region",26,13,50
+"Bloodstream","Escherichia coli","Ceftriaxone","ETH","Ethiopia","African Region",20,13,65
+"Bloodstream","Escherichia coli","Ciprofloxacin","ETH","Ethiopia","African Region",41,22,53.658536585
+"Bloodstream","Escherichia coli","Co-trimoxazole","ETH","Ethiopia","African Region",31,24,77.419354839
+"Bloodstream","Escherichia coli","Meropenem","ETH","Ethiopia","African Region",42,2,4.761904762
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","ETH","Ethiopia","African Region",20,13,65
+"Bloodstream","Escherichia coli","Ampicillin","FIN","Finland","European Region",3080,1044,33.896103896
+"Bloodstream","Escherichia coli","Cefotaxime","FIN","Finland","European Region",279,16,5.734767025
+"Bloodstream","Escherichia coli","Ceftazidime","FIN","Finland","European Region",5880,309,5.255102041
+"Bloodstream","Escherichia coli","Ceftriaxone","FIN","Finland","European Region",6068,402,6.624917601
+"Bloodstream","Escherichia coli","Ciprofloxacin","FIN","Finland","European Region",4618,501,10.848852317
+"Bloodstream","Escherichia coli","Ertapenem","FIN","Finland","European Region",2998,5,0.166777852
+"Bloodstream","Escherichia coli","Imipenem","FIN","Finland","European Region",305,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","FIN","Finland","European Region",1731,178,10.283073368
+"Bloodstream","Escherichia coli","Meropenem","FIN","Finland","European Region",6092,1,0.01641497
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","FIN","Finland","European Region",6068,402,6.624917601
+"Bloodstream","Escherichia coli","Ampicillin","FRA","France","European Region",12407,6566,52.921737729
+"Bloodstream","Escherichia coli","Cefepime","FRA","France","European Region",9630,787,8.172377985
+"Bloodstream","Escherichia coli","Cefotaxime","FRA","France","European Region",16322,1476,9.043009435
+"Bloodstream","Escherichia coli","Ceftazidime","FRA","France","European Region",18074,1165,6.445723138
+"Bloodstream","Escherichia coli","Ceftriaxone","FRA","France","European Region",5718,596,10.423224904
+"Bloodstream","Escherichia coli","Ciprofloxacin","FRA","France","European Region",17874,2163,12.101376301
+"Bloodstream","Escherichia coli","Colistin","FRA","France","European Region",360,5,1.388888889
+"Bloodstream","Escherichia coli","Ertapenem","FRA","France","European Region",17237,27,0.156639787
+"Bloodstream","Escherichia coli","Imipenem","FRA","France","European Region",17716,6,0.03386769
+"Bloodstream","Escherichia coli","Levofloxacin","FRA","France","European Region",5646,710,12.575274531
+"Bloodstream","Escherichia coli","Meropenem","FRA","France","European Region",5403,2,0.037016472
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","FRA","France","European Region",5718,596,10.423224904
+"Bloodstream","Escherichia coli","Ampicillin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",19218,11112,57.820793007
+"Bloodstream","Escherichia coli","Cefotaxime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",14362,1500,10.444227823
+"Bloodstream","Escherichia coli","Ceftazidime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",18959,1847,9.742075004
+"Bloodstream","Escherichia coli","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",6556,598,9.121415497
+"Bloodstream","Escherichia coli","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",23860,3914,16.40402347
+"Bloodstream","Escherichia coli","Ertapenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",21661,51,0.235446194
+"Bloodstream","Escherichia coli","Imipenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2155,9,0.417633411
+"Bloodstream","Escherichia coli","Levofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2386,429,17.979882649
+"Bloodstream","Escherichia coli","Meropenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",23998,28,0.11667639
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",14362,1500,10.444227823
+"Bloodstream","Escherichia coli","Ampicillin","GEO","Georgia","European Region",115,78,67.826086957
+"Bloodstream","Escherichia coli","Cefotaxime","GEO","Georgia","European Region",126,51,40.476190476
+"Bloodstream","Escherichia coli","Ceftazidime","GEO","Georgia","European Region",134,57,42.537313433
+"Bloodstream","Escherichia coli","Ceftriaxone","GEO","Georgia","European Region",126,55,43.650793651
+"Bloodstream","Escherichia coli","Ciprofloxacin","GEO","Georgia","European Region",134,59,44.029850746
+"Bloodstream","Escherichia coli","Co-trimoxazole","GEO","Georgia","European Region",11,2,18.181818182
+"Bloodstream","Escherichia coli","Colistin","GEO","Georgia","European Region",12,0,0
+"Bloodstream","Escherichia coli","Ertapenem","GEO","Georgia","European Region",97,1,1.030927835
+"Bloodstream","Escherichia coli","Imipenem","GEO","Georgia","European Region",135,1,0.740740741
+"Bloodstream","Escherichia coli","Levofloxacin","GEO","Georgia","European Region",38,17,44.736842105
+"Bloodstream","Escherichia coli","Meropenem","GEO","Georgia","European Region",134,1,0.746268657
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","GEO","Georgia","European Region",126,55,43.650793651
+"Bloodstream","Escherichia coli","Ampicillin","GHA","Ghana","African Region",14,13,92.857142857
+"Bloodstream","Escherichia coli","Cefotaxime","GHA","Ghana","African Region",14,9,64.285714286
+"Bloodstream","Escherichia coli","Ciprofloxacin","GHA","Ghana","African Region",14,5,35.714285714
+"Bloodstream","Escherichia coli","Co-trimoxazole","GHA","Ghana","African Region",15,11,73.333333333
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","GHA","Ghana","African Region",14,9,64.285714286
+"Bloodstream","Escherichia coli","Ampicillin","GRC","Greece","European Region",452,251,55.530973451
+"Bloodstream","Escherichia coli","Cefepime","GRC","Greece","European Region",482,73,15.145228216
+"Bloodstream","Escherichia coli","Cefotaxime","GRC","Greece","European Region",505,108,21.386138614
+"Bloodstream","Escherichia coli","Ceftazidime","GRC","Greece","European Region",499,76,15.230460922
+"Bloodstream","Escherichia coli","Ceftriaxone","GRC","Greece","European Region",323,79,24.458204334
+"Bloodstream","Escherichia coli","Ciprofloxacin","GRC","Greece","European Region",562,185,32.918149466
+"Bloodstream","Escherichia coli","Ertapenem","GRC","Greece","European Region",401,1,0.249376559
+"Bloodstream","Escherichia coli","Imipenem","GRC","Greece","European Region",496,3,0.60483871
+"Bloodstream","Escherichia coli","Levofloxacin","GRC","Greece","European Region",411,138,33.576642336
+"Bloodstream","Escherichia coli","Meropenem","GRC","Greece","European Region",431,1,0.232018561
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","GRC","Greece","European Region",323,79,24.458204334
+"Bloodstream","Escherichia coli","Ampicillin","HRV","Croatia","European Region",827,477,57.678355502
+"Bloodstream","Escherichia coli","Cefotaxime","HRV","Croatia","European Region",159,29,18.238993711
+"Bloodstream","Escherichia coli","Ceftazidime","HRV","Croatia","European Region",821,126,15.347137637
+"Bloodstream","Escherichia coli","Ceftriaxone","HRV","Croatia","European Region",825,134,16.242424242
+"Bloodstream","Escherichia coli","Ciprofloxacin","HRV","Croatia","European Region",826,245,29.661016949
+"Bloodstream","Escherichia coli","Imipenem","HRV","Croatia","European Region",807,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","HRV","Croatia","European Region",164,32,19.512195122
+"Bloodstream","Escherichia coli","Meropenem","HRV","Croatia","European Region",817,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","HRV","Croatia","European Region",159,29,18.238993711
+"Bloodstream","Escherichia coli","Ampicillin","IDN","Indonesia","South-East Asia Region",370,332,89.72972973
+"Bloodstream","Escherichia coli","Cefepime","IDN","Indonesia","South-East Asia Region",342,108,31.578947368
+"Bloodstream","Escherichia coli","Cefotaxime","IDN","Indonesia","South-East Asia Region",160,121,75.625
+"Bloodstream","Escherichia coli","Ceftazidime","IDN","Indonesia","South-East Asia Region",352,165,46.875
+"Bloodstream","Escherichia coli","Ceftriaxone","IDN","Indonesia","South-East Asia Region",356,234,65.730337079
+"Bloodstream","Escherichia coli","Ciprofloxacin","IDN","Indonesia","South-East Asia Region",355,236,66.478873239
+"Bloodstream","Escherichia coli","Co-trimoxazole","IDN","Indonesia","South-East Asia Region",343,200,58.309037901
+"Bloodstream","Escherichia coli","Doripenem","IDN","Indonesia","South-East Asia Region",13,1,7.692307692
+"Bloodstream","Escherichia coli","Ertapenem","IDN","Indonesia","South-East Asia Region",280,12,4.285714286
+"Bloodstream","Escherichia coli","Imipenem","IDN","Indonesia","South-East Asia Region",71,5,7.042253521
+"Bloodstream","Escherichia coli","Levofloxacin","IDN","Indonesia","South-East Asia Region",103,68,66.019417476
+"Bloodstream","Escherichia coli","Meropenem","IDN","Indonesia","South-East Asia Region",391,13,3.324808184
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","IDN","Indonesia","South-East Asia Region",160,121,75.625
+"Bloodstream","Escherichia coli","Ampicillin","IND","India","South-East Asia Region",496,419,84.475806452
+"Bloodstream","Escherichia coli","Cefepime","IND","India","South-East Asia Region",529,356,67.296786389
+"Bloodstream","Escherichia coli","Cefotaxime","IND","India","South-East Asia Region",2500,1999,79.96
+"Bloodstream","Escherichia coli","Ceftazidime","IND","India","South-East Asia Region",1632,1215,74.448529412
+"Bloodstream","Escherichia coli","Ceftriaxone","IND","India","South-East Asia Region",91,79,86.813186813
+"Bloodstream","Escherichia coli","Ciprofloxacin","IND","India","South-East Asia Region",2330,1648,70.729613734
+"Bloodstream","Escherichia coli","Co-trimoxazole","IND","India","South-East Asia Region",516,301,58.333333333
+"Bloodstream","Escherichia coli","Colistin","IND","India","South-East Asia Region",571,2,0.350262697
+"Bloodstream","Escherichia coli","Ertapenem","IND","India","South-East Asia Region",1889,414,21.916357861
+"Bloodstream","Escherichia coli","Imipenem","IND","India","South-East Asia Region",1825,522,28.602739726
+"Bloodstream","Escherichia coli","Meropenem","IND","India","South-East Asia Region",2117,500,23.618327822
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","IND","India","South-East Asia Region",91,79,86.813186813
+"Bloodstream","Escherichia coli","Ampicillin","IRL","Ireland","European Region",2126,1377,64.769520226
+"Bloodstream","Escherichia coli","Cefotaxime","IRL","Ireland","European Region",1823,194,10.641799232
+"Bloodstream","Escherichia coli","Ceftazidime","IRL","Ireland","European Region",1512,149,9.854497354
+"Bloodstream","Escherichia coli","Ceftriaxone","IRL","Ireland","European Region",702,74,10.541310541
+"Bloodstream","Escherichia coli","Ciprofloxacin","IRL","Ireland","European Region",2133,404,18.940459447
+"Bloodstream","Escherichia coli","Ertapenem","IRL","Ireland","European Region",1316,6,0.455927052
+"Bloodstream","Escherichia coli","Imipenem","IRL","Ireland","European Region",223,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","IRL","Ireland","European Region",118,19,16.101694915
+"Bloodstream","Escherichia coli","Meropenem","IRL","Ireland","European Region",2106,2,0.094966762
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","IRL","Ireland","European Region",1823,194,10.641799232
+"Bloodstream","Escherichia coli","Ampicillin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",216,201,93.055555556
+"Bloodstream","Escherichia coli","Cefepime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",496,235,47.379032258
+"Bloodstream","Escherichia coli","Cefotaxime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",325,225,69.230769231
+"Bloodstream","Escherichia coli","Ceftazidime","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",459,242,52.723311547
+"Bloodstream","Escherichia coli","Ceftriaxone","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",372,253,68.010752688
+"Bloodstream","Escherichia coli","Ciprofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",392,255,65.051020408
+"Bloodstream","Escherichia coli","Co-trimoxazole","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",400,277,69.25
+"Bloodstream","Escherichia coli","Imipenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",359,58,16.155988858
+"Bloodstream","Escherichia coli","Levofloxacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",23,14,60.869565217
+"Bloodstream","Escherichia coli","Meropenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",177,5,2.824858757
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",325,225,69.230769231
+"Bloodstream","Escherichia coli","Ampicillin","IRQ","Iraq","Eastern Mediterranean Region",27,26,96.296296296
+"Bloodstream","Escherichia coli","Cefepime","IRQ","Iraq","Eastern Mediterranean Region",43,39,90.697674419
+"Bloodstream","Escherichia coli","Cefotaxime","IRQ","Iraq","Eastern Mediterranean Region",37,33,89.189189189
+"Bloodstream","Escherichia coli","Ceftazidime","IRQ","Iraq","Eastern Mediterranean Region",39,37,94.871794872
+"Bloodstream","Escherichia coli","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",37,33,89.189189189
+"Bloodstream","Escherichia coli","Ciprofloxacin","IRQ","Iraq","Eastern Mediterranean Region",69,38,55.072463768
+"Bloodstream","Escherichia coli","Co-trimoxazole","IRQ","Iraq","Eastern Mediterranean Region",59,42,71.186440678
+"Bloodstream","Escherichia coli","Imipenem","IRQ","Iraq","Eastern Mediterranean Region",80,8,10
+"Bloodstream","Escherichia coli","Levofloxacin","IRQ","Iraq","Eastern Mediterranean Region",33,20,60.606060606
+"Bloodstream","Escherichia coli","Meropenem","IRQ","Iraq","Eastern Mediterranean Region",69,8,11.594202899
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","IRQ","Iraq","Eastern Mediterranean Region",39,37,94.871794872
+"Bloodstream","Escherichia coli","Ampicillin","ITA","Italy","European Region",4214,2720,64.546748932
+"Bloodstream","Escherichia coli","Cefepime","ITA","Italy","European Region",5851,1315,22.474790634
+"Bloodstream","Escherichia coli","Cefotaxime","ITA","Italy","European Region",14991,3931,26.222400107
+"Bloodstream","Escherichia coli","Ceftazidime","ITA","Italy","European Region",18552,4147,22.35338508
+"Bloodstream","Escherichia coli","Ceftriaxone","ITA","Italy","European Region",1825,523,28.657534247
+"Bloodstream","Escherichia coli","Ciprofloxacin","ITA","Italy","European Region",18799,7062,37.56582797
+"Bloodstream","Escherichia coli","Colistin","ITA","Italy","European Region",7332,103,1.404800873
+"Bloodstream","Escherichia coli","Ertapenem","ITA","Italy","European Region",13773,134,0.972918028
+"Bloodstream","Escherichia coli","Imipenem","ITA","Italy","European Region",8762,37,0.422278019
+"Bloodstream","Escherichia coli","Levofloxacin","ITA","Italy","European Region",3564,1243,34.87654321
+"Bloodstream","Escherichia coli","Meropenem","ITA","Italy","European Region",17845,67,0.37545531
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","ITA","Italy","European Region",1825,523,28.657534247
+"Bloodstream","Escherichia coli","Ampicillin","JOR","Jordan","Eastern Mediterranean Region",104,89,85.576923077
+"Bloodstream","Escherichia coli","Cefepime","JOR","Jordan","Eastern Mediterranean Region",77,51,66.233766234
+"Bloodstream","Escherichia coli","Cefotaxime","JOR","Jordan","Eastern Mediterranean Region",93,60,64.516129032
+"Bloodstream","Escherichia coli","Ceftazidime","JOR","Jordan","Eastern Mediterranean Region",101,60,59.405940594
+"Bloodstream","Escherichia coli","Ceftriaxone","JOR","Jordan","Eastern Mediterranean Region",52,33,63.461538462
+"Bloodstream","Escherichia coli","Ciprofloxacin","JOR","Jordan","Eastern Mediterranean Region",58,31,53.448275862
+"Bloodstream","Escherichia coli","Co-trimoxazole","JOR","Jordan","Eastern Mediterranean Region",82,44,53.658536585
+"Bloodstream","Escherichia coli","Ertapenem","JOR","Jordan","Eastern Mediterranean Region",70,0,0
+"Bloodstream","Escherichia coli","Imipenem","JOR","Jordan","Eastern Mediterranean Region",99,7,7.070707071
+"Bloodstream","Escherichia coli","Levofloxacin","JOR","Jordan","Eastern Mediterranean Region",34,16,47.058823529
+"Bloodstream","Escherichia coli","Meropenem","JOR","Jordan","Eastern Mediterranean Region",97,7,7.216494845
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","JOR","Jordan","Eastern Mediterranean Region",93,60,64.516129032
+"Bloodstream","Escherichia coli","Ampicillin","JPN","Japan","Western Pacific Region",81187,33331,41.054602338
+"Bloodstream","Escherichia coli","Cefepime","JPN","Japan","Western Pacific Region",80407,9986,12.419316726
+"Bloodstream","Escherichia coli","Cefotaxime","JPN","Japan","Western Pacific Region",64405,12953,20.111792563
+"Bloodstream","Escherichia coli","Ceftazidime","JPN","Japan","Western Pacific Region",83852,8012,9.554930115
+"Bloodstream","Escherichia coli","Ceftriaxone","JPN","Japan","Western Pacific Region",57677,11914,20.656414169
+"Bloodstream","Escherichia coli","Ciprofloxacin","JPN","Japan","Western Pacific Region",50945,15424,30.275787614
+"Bloodstream","Escherichia coli","Co-trimoxazole","JPN","Japan","Western Pacific Region",67978,12616,18.558945541
+"Bloodstream","Escherichia coli","Imipenem","JPN","Japan","Western Pacific Region",76852,26,0.03383126
+"Bloodstream","Escherichia coli","Levofloxacin","JPN","Japan","Western Pacific Region",84435,24808,29.38118079
+"Bloodstream","Escherichia coli","Meropenem","JPN","Japan","Western Pacific Region",85346,27,0.031635929
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","JPN","Japan","Western Pacific Region",57677,11914,20.656414169
+"Bloodstream","Escherichia coli","Ampicillin","KHM","Cambodia","Western Pacific Region",222,205,92.342342342
+"Bloodstream","Escherichia coli","Cefepime","KHM","Cambodia","Western Pacific Region",137,65,47.445255474
+"Bloodstream","Escherichia coli","Cefotaxime","KHM","Cambodia","Western Pacific Region",44,29,65.909090909
+"Bloodstream","Escherichia coli","Ceftazidime","KHM","Cambodia","Western Pacific Region",373,168,45.040214477
+"Bloodstream","Escherichia coli","Ceftriaxone","KHM","Cambodia","Western Pacific Region",392,289,73.724489796
+"Bloodstream","Escherichia coli","Ciprofloxacin","KHM","Cambodia","Western Pacific Region",393,268,68.193384224
+"Bloodstream","Escherichia coli","Co-trimoxazole","KHM","Cambodia","Western Pacific Region",189,154,81.481481481
+"Bloodstream","Escherichia coli","Ertapenem","KHM","Cambodia","Western Pacific Region",126,8,6.349206349
+"Bloodstream","Escherichia coli","Imipenem","KHM","Cambodia","Western Pacific Region",326,13,3.987730061
+"Bloodstream","Escherichia coli","Meropenem","KHM","Cambodia","Western Pacific Region",342,11,3.216374269
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","KHM","Cambodia","Western Pacific Region",392,289,73.724489796
+"Bloodstream","Escherichia coli","Ampicillin","KOR","Republic of Korea","Western Pacific Region",2209,1449,65.595291987
+"Bloodstream","Escherichia coli","Cefepime","KOR","Republic of Korea","Western Pacific Region",2209,478,21.638750566
+"Bloodstream","Escherichia coli","Cefotaxime","KOR","Republic of Korea","Western Pacific Region",2209,832,37.664101403
+"Bloodstream","Escherichia coli","Ceftazidime","KOR","Republic of Korea","Western Pacific Region",2209,263,11.905839746
+"Bloodstream","Escherichia coli","Ciprofloxacin","KOR","Republic of Korea","Western Pacific Region",2209,912,41.285649615
+"Bloodstream","Escherichia coli","Co-trimoxazole","KOR","Republic of Korea","Western Pacific Region",2209,742,33.589859665
+"Bloodstream","Escherichia coli","Colistin","KOR","Republic of Korea","Western Pacific Region",2209,0,0
+"Bloodstream","Escherichia coli","Ertapenem","KOR","Republic of Korea","Western Pacific Region",2209,1,0.045269353
+"Bloodstream","Escherichia coli","Imipenem","KOR","Republic of Korea","Western Pacific Region",2209,1,0.045269353
+"Bloodstream","Escherichia coli","Meropenem","KOR","Republic of Korea","Western Pacific Region",2209,1,0.045269353
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","KOR","Republic of Korea","Western Pacific Region",2209,832,37.664101403
+"Bloodstream","Escherichia coli","Ampicillin","KWT","Kuwait","Eastern Mediterranean Region",80,67,83.75
+"Bloodstream","Escherichia coli","Cefotaxime","KWT","Kuwait","Eastern Mediterranean Region",80,40,50
+"Bloodstream","Escherichia coli","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",78,40,51.282051282
+"Bloodstream","Escherichia coli","Ciprofloxacin","KWT","Kuwait","Eastern Mediterranean Region",80,39,48.75
+"Bloodstream","Escherichia coli","Colistin","KWT","Kuwait","Eastern Mediterranean Region",80,0,0
+"Bloodstream","Escherichia coli","Imipenem","KWT","Kuwait","Eastern Mediterranean Region",80,2,2.5
+"Bloodstream","Escherichia coli","Meropenem","KWT","Kuwait","Eastern Mediterranean Region",80,2,2.5
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","KWT","Kuwait","Eastern Mediterranean Region",78,40,51.282051282
+"Bloodstream","Escherichia coli","Ampicillin","LAO","Lao People's Democratic Republic","Western Pacific Region",179,162,90.502793296
+"Bloodstream","Escherichia coli","Cefepime","LAO","Lao People's Democratic Republic","Western Pacific Region",50,22,44
+"Bloodstream","Escherichia coli","Ceftazidime","LAO","Lao People's Democratic Republic","Western Pacific Region",158,74,46.835443038
+"Bloodstream","Escherichia coli","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",177,90,50.847457627
+"Bloodstream","Escherichia coli","Ciprofloxacin","LAO","Lao People's Democratic Republic","Western Pacific Region",177,53,29.943502825
+"Bloodstream","Escherichia coli","Co-trimoxazole","LAO","Lao People's Democratic Republic","Western Pacific Region",178,105,58.988764045
+"Bloodstream","Escherichia coli","Imipenem","LAO","Lao People's Democratic Republic","Western Pacific Region",59,0,0
+"Bloodstream","Escherichia coli","Meropenem","LAO","Lao People's Democratic Republic","Western Pacific Region",161,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LAO","Lao People's Democratic Republic","Western Pacific Region",177,90,50.847457627
+"Bloodstream","Escherichia coli","Ampicillin","LBN","Lebanon","Eastern Mediterranean Region",110,92,83.636363636
+"Bloodstream","Escherichia coli","Cefepime","LBN","Lebanon","Eastern Mediterranean Region",134,73,54.47761194
+"Bloodstream","Escherichia coli","Cefotaxime","LBN","Lebanon","Eastern Mediterranean Region",35,14,40
+"Bloodstream","Escherichia coli","Ceftazidime","LBN","Lebanon","Eastern Mediterranean Region",122,67,54.918032787
+"Bloodstream","Escherichia coli","Ceftriaxone","LBN","Lebanon","Eastern Mediterranean Region",117,66,56.41025641
+"Bloodstream","Escherichia coli","Ciprofloxacin","LBN","Lebanon","Eastern Mediterranean Region",128,67,52.34375
+"Bloodstream","Escherichia coli","Co-trimoxazole","LBN","Lebanon","Eastern Mediterranean Region",138,73,52.898550725
+"Bloodstream","Escherichia coli","Ertapenem","LBN","Lebanon","Eastern Mediterranean Region",113,7,6.194690265
+"Bloodstream","Escherichia coli","Imipenem","LBN","Lebanon","Eastern Mediterranean Region",128,8,6.25
+"Bloodstream","Escherichia coli","Levofloxacin","LBN","Lebanon","Eastern Mediterranean Region",69,35,50.724637681
+"Bloodstream","Escherichia coli","Meropenem","LBN","Lebanon","Eastern Mediterranean Region",54,4,7.407407407
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LBN","Lebanon","Eastern Mediterranean Region",117,66,56.41025641
+"Bloodstream","Escherichia coli","Cefepime","LBR","Liberia","African Region",29,11,37.931034483
+"Bloodstream","Escherichia coli","Cefotaxime","LBR","Liberia","African Region",30,12,40
+"Bloodstream","Escherichia coli","Ceftazidime","LBR","Liberia","African Region",15,3,20
+"Bloodstream","Escherichia coli","Ceftriaxone","LBR","Liberia","African Region",29,11,37.931034483
+"Bloodstream","Escherichia coli","Ciprofloxacin","LBR","Liberia","African Region",31,15,48.387096774
+"Bloodstream","Escherichia coli","Co-trimoxazole","LBR","Liberia","African Region",32,30,93.75
+"Bloodstream","Escherichia coli","Ertapenem","LBR","Liberia","African Region",26,3,11.538461538
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LBR","Liberia","African Region",30,12,40
+"Bloodstream","Escherichia coli","Cefepime","LBY","Libya","Eastern Mediterranean Region",12,6,50
+"Bloodstream","Escherichia coli","Ceftriaxone","LBY","Libya","Eastern Mediterranean Region",13,8,61.538461538
+"Bloodstream","Escherichia coli","Ciprofloxacin","LBY","Libya","Eastern Mediterranean Region",13,6,46.153846154
+"Bloodstream","Escherichia coli","Imipenem","LBY","Libya","Eastern Mediterranean Region",10,2,20
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LBY","Libya","Eastern Mediterranean Region",13,8,61.538461538
+"Bloodstream","Escherichia coli","Cefotaxime","LKA","Sri Lanka","South-East Asia Region",260,161,61.923076923
+"Bloodstream","Escherichia coli","Ceftriaxone","LKA","Sri Lanka","South-East Asia Region",70,40,57.142857143
+"Bloodstream","Escherichia coli","Ciprofloxacin","LKA","Sri Lanka","South-East Asia Region",244,156,63.93442623
+"Bloodstream","Escherichia coli","Imipenem","LKA","Sri Lanka","South-East Asia Region",186,19,10.215053763
+"Bloodstream","Escherichia coli","Meropenem","LKA","Sri Lanka","South-East Asia Region",222,16,7.207207207
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LKA","Sri Lanka","South-East Asia Region",260,161,61.923076923
+"Bloodstream","Escherichia coli","Ampicillin","LTU","Lithuania","European Region",1138,648,56.942003515
+"Bloodstream","Escherichia coli","Cefotaxime","LTU","Lithuania","European Region",832,136,16.346153846
+"Bloodstream","Escherichia coli","Ceftazidime","LTU","Lithuania","European Region",1108,153,13.80866426
+"Bloodstream","Escherichia coli","Ceftriaxone","LTU","Lithuania","European Region",393,54,13.740458015
+"Bloodstream","Escherichia coli","Ciprofloxacin","LTU","Lithuania","European Region",1136,213,18.75
+"Bloodstream","Escherichia coli","Imipenem","LTU","Lithuania","European Region",921,0,0
+"Bloodstream","Escherichia coli","Meropenem","LTU","Lithuania","European Region",1111,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LTU","Lithuania","European Region",832,136,16.346153846
+"Bloodstream","Escherichia coli","Ampicillin","LUX","Luxembourg","European Region",427,224,52.459016393
+"Bloodstream","Escherichia coli","Cefepime","LUX","Luxembourg","European Region",428,36,8.411214953
+"Bloodstream","Escherichia coli","Cefotaxime","LUX","Luxembourg","European Region",428,46,10.747663551
+"Bloodstream","Escherichia coli","Ceftazidime","LUX","Luxembourg","European Region",428,43,10.046728972
+"Bloodstream","Escherichia coli","Ciprofloxacin","LUX","Luxembourg","European Region",428,93,21.728971963
+"Bloodstream","Escherichia coli","Ertapenem","LUX","Luxembourg","European Region",35,0,0
+"Bloodstream","Escherichia coli","Meropenem","LUX","Luxembourg","European Region",428,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LUX","Luxembourg","European Region",428,46,10.747663551
+"Bloodstream","Escherichia coli","Ampicillin","LVA","Latvia","European Region",372,201,54.032258065
+"Bloodstream","Escherichia coli","Cefotaxime","LVA","Latvia","European Region",39,13,33.333333333
+"Bloodstream","Escherichia coli","Ceftazidime","LVA","Latvia","European Region",367,77,20.980926431
+"Bloodstream","Escherichia coli","Ceftriaxone","LVA","Latvia","European Region",166,47,28.313253012
+"Bloodstream","Escherichia coli","Ciprofloxacin","LVA","Latvia","European Region",377,104,27.586206897
+"Bloodstream","Escherichia coli","Imipenem","LVA","Latvia","European Region",339,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","LVA","Latvia","European Region",150,41,27.333333333
+"Bloodstream","Escherichia coli","Meropenem","LVA","Latvia","European Region",377,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","LVA","Latvia","European Region",39,13,33.333333333
+"Bloodstream","Escherichia coli","Ampicillin","MKD","North Macedonia","European Region",45,42,93.333333333
+"Bloodstream","Escherichia coli","Cefotaxime","MKD","North Macedonia","European Region",21,18,85.714285714
+"Bloodstream","Escherichia coli","Ceftazidime","MKD","North Macedonia","European Region",47,34,72.340425532
+"Bloodstream","Escherichia coli","Ceftriaxone","MKD","North Macedonia","European Region",36,30,83.333333333
+"Bloodstream","Escherichia coli","Ciprofloxacin","MKD","North Macedonia","European Region",49,34,69.387755102
+"Bloodstream","Escherichia coli","Co-trimoxazole","MKD","North Macedonia","European Region",15,7,46.666666667
+"Bloodstream","Escherichia coli","Colistin","MKD","North Macedonia","European Region",29,1,3.448275862
+"Bloodstream","Escherichia coli","Ertapenem","MKD","North Macedonia","European Region",30,0,0
+"Bloodstream","Escherichia coli","Imipenem","MKD","North Macedonia","European Region",48,1,2.083333333
+"Bloodstream","Escherichia coli","Levofloxacin","MKD","North Macedonia","European Region",13,10,76.923076923
+"Bloodstream","Escherichia coli","Meropenem","MKD","North Macedonia","European Region",49,1,2.040816327
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MKD","North Macedonia","European Region",21,18,85.714285714
+"Bloodstream","Escherichia coli","Ampicillin","MLI","Mali","African Region",70,68,97.142857143
+"Bloodstream","Escherichia coli","Cefepime","MLI","Mali","African Region",70,40,57.142857143
+"Bloodstream","Escherichia coli","Cefotaxime","MLI","Mali","African Region",74,45,60.810810811
+"Bloodstream","Escherichia coli","Ceftriaxone","MLI","Mali","African Region",67,40,59.701492537
+"Bloodstream","Escherichia coli","Ciprofloxacin","MLI","Mali","African Region",72,32,44.444444444
+"Bloodstream","Escherichia coli","Co-trimoxazole","MLI","Mali","African Region",70,69,98.571428571
+"Bloodstream","Escherichia coli","Ertapenem","MLI","Mali","African Region",70,9,12.857142857
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MLI","Mali","African Region",74,45,60.810810811
+"Bloodstream","Escherichia coli","Cefepime","MLT","Malta","European Region",277,23,8.303249097
+"Bloodstream","Escherichia coli","Cefotaxime","MLT","Malta","European Region",277,32,11.55234657
+"Bloodstream","Escherichia coli","Ceftazidime","MLT","Malta","European Region",277,33,11.913357401
+"Bloodstream","Escherichia coli","Ciprofloxacin","MLT","Malta","European Region",277,98,35.379061372
+"Bloodstream","Escherichia coli","Colistin","MLT","Malta","European Region",40,0,0
+"Bloodstream","Escherichia coli","Imipenem","MLT","Malta","European Region",277,0,0
+"Bloodstream","Escherichia coli","Meropenem","MLT","Malta","European Region",277,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MLT","Malta","European Region",277,33,11.913357401
+"Bloodstream","Escherichia coli","Ampicillin","MMR","Myanmar","South-East Asia Region",57,53,92.98245614
+"Bloodstream","Escherichia coli","Cefepime","MMR","Myanmar","South-East Asia Region",228,110,48.245614035
+"Bloodstream","Escherichia coli","Cefotaxime","MMR","Myanmar","South-East Asia Region",36,29,80.555555556
+"Bloodstream","Escherichia coli","Ceftazidime","MMR","Myanmar","South-East Asia Region",46,30,65.217391304
+"Bloodstream","Escherichia coli","Ceftriaxone","MMR","Myanmar","South-East Asia Region",194,141,72.680412371
+"Bloodstream","Escherichia coli","Ciprofloxacin","MMR","Myanmar","South-East Asia Region",52,36,69.230769231
+"Bloodstream","Escherichia coli","Co-trimoxazole","MMR","Myanmar","South-East Asia Region",199,135,67.83919598
+"Bloodstream","Escherichia coli","Ertapenem","MMR","Myanmar","South-East Asia Region",164,22,13.414634146
+"Bloodstream","Escherichia coli","Imipenem","MMR","Myanmar","South-East Asia Region",228,37,16.228070175
+"Bloodstream","Escherichia coli","Levofloxacin","MMR","Myanmar","South-East Asia Region",231,144,62.337662338
+"Bloodstream","Escherichia coli","Meropenem","MMR","Myanmar","South-East Asia Region",57,8,14.035087719
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MMR","Myanmar","South-East Asia Region",36,29,80.555555556
+"Bloodstream","Escherichia coli","Ampicillin","MOZ","Mozambique","African Region",19,18,94.736842105
+"Bloodstream","Escherichia coli","Ceftazidime","MOZ","Mozambique","African Region",19,6,31.578947368
+"Bloodstream","Escherichia coli","Ceftriaxone","MOZ","Mozambique","African Region",19,6,31.578947368
+"Bloodstream","Escherichia coli","Ciprofloxacin","MOZ","Mozambique","African Region",19,4,21.052631579
+"Bloodstream","Escherichia coli","Co-trimoxazole","MOZ","Mozambique","African Region",19,19,100
+"Bloodstream","Escherichia coli","Imipenem","MOZ","Mozambique","African Region",18,0,0
+"Bloodstream","Escherichia coli","Meropenem","MOZ","Mozambique","African Region",19,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MOZ","Mozambique","African Region",19,6,31.578947368
+"Bloodstream","Escherichia coli","Cefotaxime","MUS","Mauritius","African Region",368,182,49.456521739
+"Bloodstream","Escherichia coli","Ceftazidime","MUS","Mauritius","African Region",366,163,44.535519126
+"Bloodstream","Escherichia coli","Ceftriaxone","MUS","Mauritius","African Region",367,182,49.591280654
+"Bloodstream","Escherichia coli","Ciprofloxacin","MUS","Mauritius","African Region",368,171,46.467391304
+"Bloodstream","Escherichia coli","Co-trimoxazole","MUS","Mauritius","African Region",368,158,42.934782609
+"Bloodstream","Escherichia coli","Colistin","MUS","Mauritius","African Region",367,0,0
+"Bloodstream","Escherichia coli","Imipenem","MUS","Mauritius","African Region",367,10,2.72479564
+"Bloodstream","Escherichia coli","Meropenem","MUS","Mauritius","African Region",367,10,2.72479564
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MUS","Mauritius","African Region",367,182,49.591280654
+"Bloodstream","Escherichia coli","Ampicillin","MWI","Malawi","African Region",356,258,72.471910112
+"Bloodstream","Escherichia coli","Cefepime","MWI","Malawi","African Region",356,27,7.584269663
+"Bloodstream","Escherichia coli","Ceftazidime","MWI","Malawi","African Region",356,201,56.460674157
+"Bloodstream","Escherichia coli","Ceftriaxone","MWI","Malawi","African Region",357,56,15.68627451
+"Bloodstream","Escherichia coli","Ciprofloxacin","MWI","Malawi","African Region",356,215,60.393258427
+"Bloodstream","Escherichia coli","Co-trimoxazole","MWI","Malawi","African Region",356,245,68.820224719
+"Bloodstream","Escherichia coli","Meropenem","MWI","Malawi","African Region",356,145,40.730337079
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MWI","Malawi","African Region",356,201,56.460674157
+"Bloodstream","Escherichia coli","Ampicillin","MYS","Malaysia","Western Pacific Region",4742,3274,69.04259806
+"Bloodstream","Escherichia coli","Cefepime","MYS","Malaysia","Western Pacific Region",4819,693,14.380576883
+"Bloodstream","Escherichia coli","Cefotaxime","MYS","Malaysia","Western Pacific Region",4766,1229,25.786823332
+"Bloodstream","Escherichia coli","Ceftazidime","MYS","Malaysia","Western Pacific Region",4932,862,17.477696675
+"Bloodstream","Escherichia coli","Ceftriaxone","MYS","Malaysia","Western Pacific Region",1162,283,24.354561102
+"Bloodstream","Escherichia coli","Ciprofloxacin","MYS","Malaysia","Western Pacific Region",5001,1264,25.274945011
+"Bloodstream","Escherichia coli","Co-trimoxazole","MYS","Malaysia","Western Pacific Region",4541,1843,40.585774059
+"Bloodstream","Escherichia coli","Colistin","MYS","Malaysia","Western Pacific Region",40,0,0
+"Bloodstream","Escherichia coli","Doripenem","MYS","Malaysia","Western Pacific Region",508,3,0.590551181
+"Bloodstream","Escherichia coli","Ertapenem","MYS","Malaysia","Western Pacific Region",4811,45,0.935356475
+"Bloodstream","Escherichia coli","Imipenem","MYS","Malaysia","Western Pacific Region",4919,38,0.772514739
+"Bloodstream","Escherichia coli","Meropenem","MYS","Malaysia","Western Pacific Region",4850,38,0.783505155
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","MYS","Malaysia","Western Pacific Region",4766,1229,25.786823332
+"Bloodstream","Escherichia coli","Cefotaxime","NGA","Nigeria","African Region",26,21,80.769230769
+"Bloodstream","Escherichia coli","Ceftazidime","NGA","Nigeria","African Region",30,20,66.666666667
+"Bloodstream","Escherichia coli","Meropenem","NGA","Nigeria","African Region",29,4,13.793103448
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","NGA","Nigeria","African Region",26,21,80.769230769
+"Bloodstream","Escherichia coli","Ampicillin","NLD","Netherlands (Kingdom of the)","European Region",5357,2256,42.113123017
+"Bloodstream","Escherichia coli","Cefepime","NLD","Netherlands (Kingdom of the)","European Region",835,54,6.467065868
+"Bloodstream","Escherichia coli","Cefotaxime","NLD","Netherlands (Kingdom of the)","European Region",6793,445,6.550861181
+"Bloodstream","Escherichia coli","Ceftazidime","NLD","Netherlands (Kingdom of the)","European Region",7482,457,6.107992515
+"Bloodstream","Escherichia coli","Ceftriaxone","NLD","Netherlands (Kingdom of the)","European Region",3711,237,6.386418755
+"Bloodstream","Escherichia coli","Ciprofloxacin","NLD","Netherlands (Kingdom of the)","European Region",7489,998,13.326211777
+"Bloodstream","Escherichia coli","Ertapenem","NLD","Netherlands (Kingdom of the)","European Region",832,2,0.240384615
+"Bloodstream","Escherichia coli","Imipenem","NLD","Netherlands (Kingdom of the)","European Region",7418,3,0.040442168
+"Bloodstream","Escherichia coli","Levofloxacin","NLD","Netherlands (Kingdom of the)","European Region",1105,185,16.742081448
+"Bloodstream","Escherichia coli","Meropenem","NLD","Netherlands (Kingdom of the)","European Region",7486,3,0.040074806
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","NLD","Netherlands (Kingdom of the)","European Region",6793,445,6.550861181
+"Bloodstream","Escherichia coli","Ampicillin","NOR","Norway","European Region",3758,1492,39.701969133
+"Bloodstream","Escherichia coli","Cefepime","NOR","Norway","European Region",564,14,2.482269504
+"Bloodstream","Escherichia coli","Cefotaxime","NOR","Norway","European Region",3377,180,5.330174711
+"Bloodstream","Escherichia coli","Ceftazidime","NOR","Norway","European Region",3429,168,4.899387577
+"Bloodstream","Escherichia coli","Ceftriaxone","NOR","Norway","European Region",423,20,4.728132388
+"Bloodstream","Escherichia coli","Ciprofloxacin","NOR","Norway","European Region",3735,372,9.959839357
+"Bloodstream","Escherichia coli","Ertapenem","NOR","Norway","European Region",478,4,0.836820084
+"Bloodstream","Escherichia coli","Imipenem","NOR","Norway","European Region",511,0,0
+"Bloodstream","Escherichia coli","Meropenem","NOR","Norway","European Region",3645,1,0.027434842
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","NOR","Norway","European Region",3377,180,5.330174711
+"Bloodstream","Escherichia coli","Ampicillin","NPL","Nepal","South-East Asia Region",144,125,86.805555556
+"Bloodstream","Escherichia coli","Cefepime","NPL","Nepal","South-East Asia Region",39,24,61.538461538
+"Bloodstream","Escherichia coli","Cefotaxime","NPL","Nepal","South-East Asia Region",30,16,53.333333333
+"Bloodstream","Escherichia coli","Ceftazidime","NPL","Nepal","South-East Asia Region",37,27,72.972972973
+"Bloodstream","Escherichia coli","Ceftriaxone","NPL","Nepal","South-East Asia Region",130,83,63.846153846
+"Bloodstream","Escherichia coli","Ciprofloxacin","NPL","Nepal","South-East Asia Region",173,79,45.664739884
+"Bloodstream","Escherichia coli","Co-trimoxazole","NPL","Nepal","South-East Asia Region",119,57,47.899159664
+"Bloodstream","Escherichia coli","Imipenem","NPL","Nepal","South-East Asia Region",108,14,12.962962963
+"Bloodstream","Escherichia coli","Levofloxacin","NPL","Nepal","South-East Asia Region",114,31,27.192982456
+"Bloodstream","Escherichia coli","Meropenem","NPL","Nepal","South-East Asia Region",159,9,5.660377358
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","NPL","Nepal","South-East Asia Region",37,27,72.972972973
+"Bloodstream","Escherichia coli","Ampicillin","OMN","Oman","Eastern Mediterranean Region",175,128,73.142857143
+"Bloodstream","Escherichia coli","Cefepime","OMN","Oman","Eastern Mediterranean Region",65,54,83.076923077
+"Bloodstream","Escherichia coli","Cefotaxime","OMN","Oman","Eastern Mediterranean Region",62,47,75.806451613
+"Bloodstream","Escherichia coli","Ceftazidime","OMN","Oman","Eastern Mediterranean Region",128,101,78.90625
+"Bloodstream","Escherichia coli","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",150,97,64.666666667
+"Bloodstream","Escherichia coli","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",180,90,50
+"Bloodstream","Escherichia coli","Co-trimoxazole","OMN","Oman","Eastern Mediterranean Region",178,76,42.696629213
+"Bloodstream","Escherichia coli","Colistin","OMN","Oman","Eastern Mediterranean Region",19,4,21.052631579
+"Bloodstream","Escherichia coli","Imipenem","OMN","Oman","Eastern Mediterranean Region",17,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","OMN","Oman","Eastern Mediterranean Region",17,3,17.647058824
+"Bloodstream","Escherichia coli","Meropenem","OMN","Oman","Eastern Mediterranean Region",109,1,0.917431193
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","OMN","Oman","Eastern Mediterranean Region",128,101,78.90625
+"Bloodstream","Escherichia coli","Ampicillin","PAK","Pakistan","Eastern Mediterranean Region",221,209,94.570135747
+"Bloodstream","Escherichia coli","Cefepime","PAK","Pakistan","Eastern Mediterranean Region",149,120,80.536912752
+"Bloodstream","Escherichia coli","Cefotaxime","PAK","Pakistan","Eastern Mediterranean Region",153,123,80.392156863
+"Bloodstream","Escherichia coli","Ceftazidime","PAK","Pakistan","Eastern Mediterranean Region",44,32,72.727272727
+"Bloodstream","Escherichia coli","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",463,381,82.289416847
+"Bloodstream","Escherichia coli","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",477,350,73.375262055
+"Bloodstream","Escherichia coli","Co-trimoxazole","PAK","Pakistan","Eastern Mediterranean Region",313,212,67.731629393
+"Bloodstream","Escherichia coli","Colistin","PAK","Pakistan","Eastern Mediterranean Region",90,0,0
+"Bloodstream","Escherichia coli","Ertapenem","PAK","Pakistan","Eastern Mediterranean Region",129,32,24.80620155
+"Bloodstream","Escherichia coli","Imipenem","PAK","Pakistan","Eastern Mediterranean Region",476,110,23.109243697
+"Bloodstream","Escherichia coli","Levofloxacin","PAK","Pakistan","Eastern Mediterranean Region",190,119,62.631578947
+"Bloodstream","Escherichia coli","Meropenem","PAK","Pakistan","Eastern Mediterranean Region",382,85,22.251308901
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","PAK","Pakistan","Eastern Mediterranean Region",463,381,82.289416847
+"Bloodstream","Escherichia coli","Ampicillin","PER","Peru","Region of the Americas",35,29,82.857142857
+"Bloodstream","Escherichia coli","Cefepime","PER","Peru","Region of the Americas",167,44,26.347305389
+"Bloodstream","Escherichia coli","Cefotaxime","PER","Peru","Region of the Americas",117,72,61.538461538
+"Bloodstream","Escherichia coli","Ceftazidime","PER","Peru","Region of the Americas",149,47,31.543624161
+"Bloodstream","Escherichia coli","Ceftriaxone","PER","Peru","Region of the Americas",53,38,71.698113208
+"Bloodstream","Escherichia coli","Ciprofloxacin","PER","Peru","Region of the Americas",169,96,56.804733728
+"Bloodstream","Escherichia coli","Co-trimoxazole","PER","Peru","Region of the Americas",168,123,73.214285714
+"Bloodstream","Escherichia coli","Colistin","PER","Peru","Region of the Americas",131,6,4.580152672
+"Bloodstream","Escherichia coli","Imipenem","PER","Peru","Region of the Americas",162,5,3.086419753
+"Bloodstream","Escherichia coli","Levofloxacin","PER","Peru","Region of the Americas",36,19,52.777777778
+"Bloodstream","Escherichia coli","Meropenem","PER","Peru","Region of the Americas",162,4,2.469135802
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","PER","Peru","Region of the Americas",53,38,71.698113208
+"Bloodstream","Escherichia coli","Ampicillin","PHL","Philippines","Western Pacific Region",783,622,79.438058748
+"Bloodstream","Escherichia coli","Cefepime","PHL","Philippines","Western Pacific Region",786,152,19.338422392
+"Bloodstream","Escherichia coli","Cefotaxime","PHL","Philippines","Western Pacific Region",452,161,35.619469027
+"Bloodstream","Escherichia coli","Ceftazidime","PHL","Philippines","Western Pacific Region",795,238,29.937106918
+"Bloodstream","Escherichia coli","Ceftriaxone","PHL","Philippines","Western Pacific Region",800,282,35.25
+"Bloodstream","Escherichia coli","Ciprofloxacin","PHL","Philippines","Western Pacific Region",784,327,41.709183673
+"Bloodstream","Escherichia coli","Co-trimoxazole","PHL","Philippines","Western Pacific Region",794,473,59.571788413
+"Bloodstream","Escherichia coli","Colistin","PHL","Philippines","Western Pacific Region",315,6,1.904761905
+"Bloodstream","Escherichia coli","Doripenem","PHL","Philippines","Western Pacific Region",89,8,8.988764045
+"Bloodstream","Escherichia coli","Ertapenem","PHL","Philippines","Western Pacific Region",725,43,5.931034483
+"Bloodstream","Escherichia coli","Imipenem","PHL","Philippines","Western Pacific Region",795,56,7.044025157
+"Bloodstream","Escherichia coli","Levofloxacin","PHL","Philippines","Western Pacific Region",271,114,42.066420664
+"Bloodstream","Escherichia coli","Meropenem","PHL","Philippines","Western Pacific Region",766,55,7.180156658
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","PHL","Philippines","Western Pacific Region",452,161,35.619469027
+"Bloodstream","Escherichia coli","Ampicillin","POL","Poland","European Region",502,282,56.175298805
+"Bloodstream","Escherichia coli","Cefepime","POL","Poland","European Region",1722,260,15.098722416
+"Bloodstream","Escherichia coli","Cefotaxime","POL","Poland","European Region",1713,300,17.513134851
+"Bloodstream","Escherichia coli","Ceftazidime","POL","Poland","European Region",1839,298,16.204458945
+"Bloodstream","Escherichia coli","Ceftriaxone","POL","Poland","European Region",747,125,16.733601071
+"Bloodstream","Escherichia coli","Ciprofloxacin","POL","Poland","European Region",2145,709,33.053613054
+"Bloodstream","Escherichia coli","Colistin","POL","Poland","European Region",496,2,0.403225806
+"Bloodstream","Escherichia coli","Ertapenem","POL","Poland","European Region",610,4,0.655737705
+"Bloodstream","Escherichia coli","Imipenem","POL","Poland","European Region",1851,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","POL","Poland","European Region",504,151,29.96031746
+"Bloodstream","Escherichia coli","Meropenem","POL","Poland","European Region",2075,1,0.048192771
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","POL","Poland","European Region",1713,300,17.513134851
+"Bloodstream","Escherichia coli","Ampicillin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",129,113,87.596899225
+"Bloodstream","Escherichia coli","Cefepime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",80,36,45
+"Bloodstream","Escherichia coli","Cefotaxime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",285,135,47.368421053
+"Bloodstream","Escherichia coli","Ceftazidime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",227,100,44.052863436
+"Bloodstream","Escherichia coli","Ceftriaxone","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",277,130,46.931407942
+"Bloodstream","Escherichia coli","Ciprofloxacin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",259,111,42.857142857
+"Bloodstream","Escherichia coli","Co-trimoxazole","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",182,99,54.395604396
+"Bloodstream","Escherichia coli","Colistin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",45,1,2.222222222
+"Bloodstream","Escherichia coli","Ertapenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",278,2,0.71942446
+"Bloodstream","Escherichia coli","Imipenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",152,1,0.657894737
+"Bloodstream","Escherichia coli","Meropenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",303,1,0.330033003
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",285,135,47.368421053
+"Bloodstream","Escherichia coli","Ampicillin","QAT","Qatar","Eastern Mediterranean Region",454,297,65.418502203
+"Bloodstream","Escherichia coli","Cefepime","QAT","Qatar","Eastern Mediterranean Region",452,172,38.053097345
+"Bloodstream","Escherichia coli","Cefotaxime","QAT","Qatar","Eastern Mediterranean Region",10,4,40
+"Bloodstream","Escherichia coli","Ceftazidime","QAT","Qatar","Eastern Mediterranean Region",451,177,39.246119734
+"Bloodstream","Escherichia coli","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",451,179,39.689578714
+"Bloodstream","Escherichia coli","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",250,180,72
+"Bloodstream","Escherichia coli","Co-trimoxazole","QAT","Qatar","Eastern Mediterranean Region",452,198,43.805309735
+"Bloodstream","Escherichia coli","Colistin","QAT","Qatar","Eastern Mediterranean Region",163,1,0.613496933
+"Bloodstream","Escherichia coli","Ertapenem","QAT","Qatar","Eastern Mediterranean Region",453,11,2.428256071
+"Bloodstream","Escherichia coli","Imipenem","QAT","Qatar","Eastern Mediterranean Region",374,10,2.673796791
+"Bloodstream","Escherichia coli","Levofloxacin","QAT","Qatar","Eastern Mediterranean Region",228,164,71.929824561
+"Bloodstream","Escherichia coli","Meropenem","QAT","Qatar","Eastern Mediterranean Region",386,9,2.331606218
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","QAT","Qatar","Eastern Mediterranean Region",10,4,40
+"Bloodstream","Escherichia coli","Ampicillin","RUS","Russian Federation","European Region",76,61,80.263157895
+"Bloodstream","Escherichia coli","Cefotaxime","RUS","Russian Federation","European Region",93,60,64.516129032
+"Bloodstream","Escherichia coli","Ceftazidime","RUS","Russian Federation","European Region",134,60,44.776119403
+"Bloodstream","Escherichia coli","Ceftriaxone","RUS","Russian Federation","European Region",41,30,73.170731707
+"Bloodstream","Escherichia coli","Ciprofloxacin","RUS","Russian Federation","European Region",130,76,58.461538462
+"Bloodstream","Escherichia coli","Colistin","RUS","Russian Federation","European Region",18,1,5.555555556
+"Bloodstream","Escherichia coli","Ertapenem","RUS","Russian Federation","European Region",67,4,5.970149254
+"Bloodstream","Escherichia coli","Imipenem","RUS","Russian Federation","European Region",104,2,1.923076923
+"Bloodstream","Escherichia coli","Levofloxacin","RUS","Russian Federation","European Region",56,37,66.071428571
+"Bloodstream","Escherichia coli","Meropenem","RUS","Russian Federation","European Region",141,6,4.255319149
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","RUS","Russian Federation","European Region",41,30,73.170731707
+"Bloodstream","Escherichia coli","Ampicillin","SAU","Saudi Arabia","Eastern Mediterranean Region",468,370,79.05982906
+"Bloodstream","Escherichia coli","Cefepime","SAU","Saudi Arabia","Eastern Mediterranean Region",467,263,56.316916488
+"Bloodstream","Escherichia coli","Cefotaxime","SAU","Saudi Arabia","Eastern Mediterranean Region",362,202,55.801104972
+"Bloodstream","Escherichia coli","Ceftazidime","SAU","Saudi Arabia","Eastern Mediterranean Region",466,263,56.43776824
+"Bloodstream","Escherichia coli","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",405,236,58.271604938
+"Bloodstream","Escherichia coli","Ciprofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",467,225,48.17987152
+"Bloodstream","Escherichia coli","Co-trimoxazole","SAU","Saudi Arabia","Eastern Mediterranean Region",427,224,52.459016393
+"Bloodstream","Escherichia coli","Colistin","SAU","Saudi Arabia","Eastern Mediterranean Region",187,3,1.604278075
+"Bloodstream","Escherichia coli","Ertapenem","SAU","Saudi Arabia","Eastern Mediterranean Region",362,13,3.591160221
+"Bloodstream","Escherichia coli","Imipenem","SAU","Saudi Arabia","Eastern Mediterranean Region",449,10,2.227171492
+"Bloodstream","Escherichia coli","Levofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",421,198,47.03087886
+"Bloodstream","Escherichia coli","Meropenem","SAU","Saudi Arabia","Eastern Mediterranean Region",465,12,2.580645161
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","SAU","Saudi Arabia","Eastern Mediterranean Region",405,236,58.271604938
+"Bloodstream","Escherichia coli","Ampicillin","SGP","Singapore","Western Pacific Region",505,318,62.97029703
+"Bloodstream","Escherichia coli","Cefepime","SGP","Singapore","Western Pacific Region",504,153,30.357142857
+"Bloodstream","Escherichia coli","Cefotaxime","SGP","Singapore","Western Pacific Region",504,153,30.357142857
+"Bloodstream","Escherichia coli","Ceftazidime","SGP","Singapore","Western Pacific Region",504,153,30.357142857
+"Bloodstream","Escherichia coli","Ceftriaxone","SGP","Singapore","Western Pacific Region",502,153,30.478087649
+"Bloodstream","Escherichia coli","Ciprofloxacin","SGP","Singapore","Western Pacific Region",504,194,38.492063492
+"Bloodstream","Escherichia coli","Ertapenem","SGP","Singapore","Western Pacific Region",504,6,1.19047619
+"Bloodstream","Escherichia coli","Imipenem","SGP","Singapore","Western Pacific Region",504,2,0.396825397
+"Bloodstream","Escherichia coli","Levofloxacin","SGP","Singapore","Western Pacific Region",504,146,28.968253968
+"Bloodstream","Escherichia coli","Meropenem","SGP","Singapore","Western Pacific Region",505,2,0.396039604
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","SGP","Singapore","Western Pacific Region",502,153,30.478087649
+"Bloodstream","Escherichia coli","Cefotaxime","SWE","Sweden","European Region",19704,1514,7.683719042
+"Bloodstream","Escherichia coli","Ceftazidime","SWE","Sweden","European Region",19700,1266,6.426395939
+"Bloodstream","Escherichia coli","Ciprofloxacin","SWE","Sweden","European Region",19596,2760,14.084507042
+"Bloodstream","Escherichia coli","Ertapenem","SWE","Sweden","European Region",7208,20,0.277469478
+"Bloodstream","Escherichia coli","Imipenem","SWE","Sweden","European Region",13526,2,0.014786337
+"Bloodstream","Escherichia coli","Meropenem","SWE","Sweden","European Region",19692,2,0.010156409
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","SWE","Sweden","European Region",19704,1514,7.683719042
+"Bloodstream","Escherichia coli","Ampicillin","THA","Thailand","South-East Asia Region",1565,1261,80.575079872
+"Bloodstream","Escherichia coli","Cefepime","THA","Thailand","South-East Asia Region",864,162,18.75
+"Bloodstream","Escherichia coli","Cefotaxime","THA","Thailand","South-East Asia Region",2089,823,39.396840594
+"Bloodstream","Escherichia coli","Ceftazidime","THA","Thailand","South-East Asia Region",2295,451,19.651416122
+"Bloodstream","Escherichia coli","Ceftriaxone","THA","Thailand","South-East Asia Region",1808,648,35.840707965
+"Bloodstream","Escherichia coli","Ciprofloxacin","THA","Thailand","South-East Asia Region",2200,1032,46.909090909
+"Bloodstream","Escherichia coli","Co-trimoxazole","THA","Thailand","South-East Asia Region",2361,1216,51.503600169
+"Bloodstream","Escherichia coli","Colistin","THA","Thailand","South-East Asia Region",816,5,0.612745098
+"Bloodstream","Escherichia coli","Doripenem","THA","Thailand","South-East Asia Region",695,9,1.294964029
+"Bloodstream","Escherichia coli","Ertapenem","THA","Thailand","South-East Asia Region",2088,35,1.676245211
+"Bloodstream","Escherichia coli","Imipenem","THA","Thailand","South-East Asia Region",2394,33,1.378446115
+"Bloodstream","Escherichia coli","Levofloxacin","THA","Thailand","South-East Asia Region",1029,448,43.537414966
+"Bloodstream","Escherichia coli","Meropenem","THA","Thailand","South-East Asia Region",2407,34,1.412546739
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","THA","Thailand","South-East Asia Region",2089,823,39.396840594
+"Bloodstream","Escherichia coli","Ampicillin","TLS","Timor-Leste","South-East Asia Region",13,13,100
+"Bloodstream","Escherichia coli","Cefepime","TLS","Timor-Leste","South-East Asia Region",13,5,38.461538462
+"Bloodstream","Escherichia coli","Ceftazidime","TLS","Timor-Leste","South-East Asia Region",13,8,61.538461538
+"Bloodstream","Escherichia coli","Ceftriaxone","TLS","Timor-Leste","South-East Asia Region",13,8,61.538461538
+"Bloodstream","Escherichia coli","Ciprofloxacin","TLS","Timor-Leste","South-East Asia Region",13,5,38.461538462
+"Bloodstream","Escherichia coli","Co-trimoxazole","TLS","Timor-Leste","South-East Asia Region",13,13,100
+"Bloodstream","Escherichia coli","Colistin","TLS","Timor-Leste","South-East Asia Region",13,0,0
+"Bloodstream","Escherichia coli","Ertapenem","TLS","Timor-Leste","South-East Asia Region",13,1,7.692307692
+"Bloodstream","Escherichia coli","Imipenem","TLS","Timor-Leste","South-East Asia Region",13,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","TLS","Timor-Leste","South-East Asia Region",13,4,30.769230769
+"Bloodstream","Escherichia coli","Meropenem","TLS","Timor-Leste","South-East Asia Region",13,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","TLS","Timor-Leste","South-East Asia Region",13,8,61.538461538
+"Bloodstream","Escherichia coli","Cefepime","TTO","Trinidad and Tobago","Region of the Americas",20,1,5
+"Bloodstream","Escherichia coli","Ceftazidime","TTO","Trinidad and Tobago","Region of the Americas",20,1,5
+"Bloodstream","Escherichia coli","Ceftriaxone","TTO","Trinidad and Tobago","Region of the Americas",19,5,26.315789474
+"Bloodstream","Escherichia coli","Ciprofloxacin","TTO","Trinidad and Tobago","Region of the Americas",12,1,8.333333333
+"Bloodstream","Escherichia coli","Co-trimoxazole","TTO","Trinidad and Tobago","Region of the Americas",11,1,9.090909091
+"Bloodstream","Escherichia coli","Ertapenem","TTO","Trinidad and Tobago","Region of the Americas",19,0,0
+"Bloodstream","Escherichia coli","Imipenem","TTO","Trinidad and Tobago","Region of the Americas",20,1,5
+"Bloodstream","Escherichia coli","Levofloxacin","TTO","Trinidad and Tobago","Region of the Americas",16,5,31.25
+"Bloodstream","Escherichia coli","Meropenem","TTO","Trinidad and Tobago","Region of the Americas",19,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","TTO","Trinidad and Tobago","Region of the Americas",19,5,26.315789474
+"Bloodstream","Escherichia coli","Ampicillin","TUN","Tunisia","Eastern Mediterranean Region",67,50,74.626865672
+"Bloodstream","Escherichia coli","Cefepime","TUN","Tunisia","Eastern Mediterranean Region",80,23,28.75
+"Bloodstream","Escherichia coli","Cefotaxime","TUN","Tunisia","Eastern Mediterranean Region",80,24,30
+"Bloodstream","Escherichia coli","Ceftazidime","TUN","Tunisia","Eastern Mediterranean Region",74,23,31.081081081
+"Bloodstream","Escherichia coli","Ciprofloxacin","TUN","Tunisia","Eastern Mediterranean Region",80,26,32.5
+"Bloodstream","Escherichia coli","Co-trimoxazole","TUN","Tunisia","Eastern Mediterranean Region",80,31,38.75
+"Bloodstream","Escherichia coli","Ertapenem","TUN","Tunisia","Eastern Mediterranean Region",77,3,3.896103896
+"Bloodstream","Escherichia coli","Imipenem","TUN","Tunisia","Eastern Mediterranean Region",84,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","TUN","Tunisia","Eastern Mediterranean Region",18,6,33.333333333
+"Bloodstream","Escherichia coli","Meropenem","TUN","Tunisia","Eastern Mediterranean Region",14,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","TUN","Tunisia","Eastern Mediterranean Region",74,23,31.081081081
+"Bloodstream","Escherichia coli","Ampicillin","TZA","United Republic of Tanzania","African Region",14,13,92.857142857
+"Bloodstream","Escherichia coli","Cefotaxime","TZA","United Republic of Tanzania","African Region",15,11,73.333333333
+"Bloodstream","Escherichia coli","Ceftazidime","TZA","United Republic of Tanzania","African Region",21,15,71.428571429
+"Bloodstream","Escherichia coli","Ceftriaxone","TZA","United Republic of Tanzania","African Region",28,21,75
+"Bloodstream","Escherichia coli","Ciprofloxacin","TZA","United Republic of Tanzania","African Region",17,9,52.941176471
+"Bloodstream","Escherichia coli","Co-trimoxazole","TZA","United Republic of Tanzania","African Region",22,20,90.909090909
+"Bloodstream","Escherichia coli","Imipenem","TZA","United Republic of Tanzania","African Region",10,2,20
+"Bloodstream","Escherichia coli","Meropenem","TZA","United Republic of Tanzania","African Region",18,3,16.666666667
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","TZA","United Republic of Tanzania","African Region",28,21,75
+"Bloodstream","Escherichia coli","Ampicillin","UGA","Uganda","African Region",19,17,89.473684211
+"Bloodstream","Escherichia coli","Cefepime","UGA","Uganda","African Region",20,14,70
+"Bloodstream","Escherichia coli","Cefotaxime","UGA","Uganda","African Region",17,15,88.235294118
+"Bloodstream","Escherichia coli","Ceftazidime","UGA","Uganda","African Region",18,12,66.666666667
+"Bloodstream","Escherichia coli","Ceftriaxone","UGA","Uganda","African Region",23,16,69.565217391
+"Bloodstream","Escherichia coli","Ciprofloxacin","UGA","Uganda","African Region",23,13,56.52173913
+"Bloodstream","Escherichia coli","Co-trimoxazole","UGA","Uganda","African Region",22,17,77.272727273
+"Bloodstream","Escherichia coli","Colistin","UGA","Uganda","African Region",13,0,0
+"Bloodstream","Escherichia coli","Imipenem","UGA","Uganda","African Region",19,1,5.263157895
+"Bloodstream","Escherichia coli","Meropenem","UGA","Uganda","African Region",14,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","UGA","Uganda","African Region",17,15,88.235294118
+"Bloodstream","Escherichia coli","Ampicillin","UKR","Ukraine","European Region",21,15,71.428571429
+"Bloodstream","Escherichia coli","Cefotaxime","UKR","Ukraine","European Region",40,17,42.5
+"Bloodstream","Escherichia coli","Ceftazidime","UKR","Ukraine","European Region",45,20,44.444444444
+"Bloodstream","Escherichia coli","Ceftriaxone","UKR","Ukraine","European Region",24,12,50
+"Bloodstream","Escherichia coli","Ciprofloxacin","UKR","Ukraine","European Region",42,18,42.857142857
+"Bloodstream","Escherichia coli","Colistin","UKR","Ukraine","European Region",33,0,0
+"Bloodstream","Escherichia coli","Ertapenem","UKR","Ukraine","European Region",21,2,9.523809524
+"Bloodstream","Escherichia coli","Imipenem","UKR","Ukraine","European Region",40,2,5
+"Bloodstream","Escherichia coli","Levofloxacin","UKR","Ukraine","European Region",22,9,40.909090909
+"Bloodstream","Escherichia coli","Meropenem","UKR","Ukraine","European Region",45,2,4.444444444
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","UKR","Ukraine","European Region",24,12,50
+"Bloodstream","Escherichia coli","Ampicillin","XKX","Kosovo","European Region",10,5,50
+"Bloodstream","Escherichia coli","Cefotaxime","XKX","Kosovo","European Region",10,3,30
+"Bloodstream","Escherichia coli","Ceftazidime","XKX","Kosovo","European Region",10,2,20
+"Bloodstream","Escherichia coli","Ceftriaxone","XKX","Kosovo","European Region",10,3,30
+"Bloodstream","Escherichia coli","Ciprofloxacin","XKX","Kosovo","European Region",10,2,20
+"Bloodstream","Escherichia coli","Colistin","XKX","Kosovo","European Region",10,0,0
+"Bloodstream","Escherichia coli","Ertapenem","XKX","Kosovo","European Region",10,0,0
+"Bloodstream","Escherichia coli","Imipenem","XKX","Kosovo","European Region",10,0,0
+"Bloodstream","Escherichia coli","Levofloxacin","XKX","Kosovo","European Region",10,2,20
+"Bloodstream","Escherichia coli","Meropenem","XKX","Kosovo","European Region",10,0,0
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","XKX","Kosovo","European Region",10,3,30
+"Bloodstream","Escherichia coli","Cefepime","ZAF","South Africa","African Region",4268,1104,25.866916589
+"Bloodstream","Escherichia coli","Cefotaxime","ZAF","South Africa","African Region",4354,1228,28.20395039
+"Bloodstream","Escherichia coli","Ceftazidime","ZAF","South Africa","African Region",4286,1150,26.831544564
+"Bloodstream","Escherichia coli","Ciprofloxacin","ZAF","South Africa","African Region",4317,1248,28.908964559
+"Bloodstream","Escherichia coli","Co-trimoxazole","ZAF","South Africa","African Region",4333,3024,69.789983845
+"Bloodstream","Escherichia coli","Ertapenem","ZAF","South Africa","African Region",4240,22,0.518867925
+"Bloodstream","Escherichia coli","Imipenem","ZAF","South Africa","African Region",4274,10,0.233972859
+"Bloodstream","Escherichia coli","Levofloxacin","ZAF","South Africa","African Region",22,4,18.181818182
+"Bloodstream","Escherichia coli","Meropenem","ZAF","South Africa","African Region",4272,17,0.397940075
+"Bloodstream","Escherichia coli","Third generation cephalosporins resistance","ZAF","South Africa","African Region",4354,1228,28.20395039
+"Bloodstream","Escherichia coli","Ampicillin","ZMB","Zambia","African Region",14,13,92.857142857
+"Bloodstream","Escherichia coli","Cefepime","ZMB","Zambia","African Region",11,4,36.363636364
+"Bloodstream","Escherichia coli","Ciprofloxacin","ZMB","Zambia","African Region",21,12,57.142857143
+"Bloodstream","Escherichia coli","Co-trimoxazole","ZMB","Zambia","African Region",16,14,87.5
+"Bloodstream","Escherichia coli","Imipenem","ZMB","Zambia","African Region",10,1,10

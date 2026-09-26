@@ -1,0 +1,720 @@
+Filters
+"Year filter: 2021"
+"Region filter: All"
+"Income filter: All"
+"ATC/DDD index version filter: 2024"
+
+Footnotes
+"footnote","note"
+"a","Only J01 reported"
+"b","Only J01 and P01AB reported"
+"c","Only use in the community reported"
+"d","Only use in the public sector reported"
+"e","Data incomplete since not collected from all sources of data"
+
+
+"WHORegionName","COUNTRY","CountryTerritoryArea","footnotes","ATC3","ATC_NAME","DID","Percentage (%)"
+"European Region","ARM","Armenia","","A07A","Intestinal antiinfectives (A07A)",0.028493504,0.196923617064857
+"European Region","ARM","Armenia","","J01A","Tetracyclines (J01A)",1.100145919,7.60330191992606
+"European Region","ARM","Armenia","","J01B","Amphenicols (J01B)",0.277470276,1.91764587387722
+"European Region","ARM","Armenia","","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.412023716,23.5810959461425
+"European Region","ARM","Armenia","","J01D","Other beta-lactam antibacterials (J01D)",1.937413762,13.3898072263865
+"European Region","ARM","Armenia","","J01E","Sulfonamides and trimethoprim (J01E)",0.969576145,6.70091124956762
+"European Region","ARM","Armenia","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.361148533,23.2294886094247
+"European Region","ARM","Armenia","","J01G","Aminoglycoside antibacterials (J01G)",0.039137367,0.270485226107493
+"European Region","ARM","Armenia","","J01M","Quinolone antibacterials (J01M)",1.977127482,13.6642757294355
+"European Region","ARM","Armenia","","J01R","Combinations of antibacterials (J01R)",5.73e-06,3.96010376885072e-05
+"European Region","ARM","Armenia","","J01X","Other antibacterials (J01X)",0.985554414,6.81133987659487
+"European Region","ARM","Armenia","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.381220964,2.63468512443508
+"European Region","AUT","Austria","","A07A","Intestinal antiinfectives (A07A)",0.361662364,3.90071930857157
+"European Region","AUT","Austria","","J01A","Tetracyclines (J01A)",0.390558047,4.21237448708073
+"European Region","AUT","Austria","","J01B","Amphenicols (J01B)",0,0
+"European Region","AUT","Austria","","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.063298109,43.8248127755385
+"European Region","AUT","Austria","","J01D","Other beta-lactam antibacterials (J01D)",1.51781129,16.370395139238
+"European Region","AUT","Austria","","J01E","Sulfonamides and trimethoprim (J01E)",0.275352399,2.96982082282912
+"European Region","AUT","Austria","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.500176022,16.1801894743781
+"European Region","AUT","Austria","","J01G","Aminoglycoside antibacterials (J01G)",0.025170344,0.271475432937746
+"European Region","AUT","Austria","","J01M","Quinolone antibacterials (J01M)",0.630273783,6.79783510742784
+"European Region","AUT","Austria","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","AUT","Austria","","J01X","Other antibacterials (J01X)",0.390436587,4.21106447693209
+"European Region","AUT","Austria","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.116944952,1.26131297506637
+"European Region","BEL","Belgium","","A07A","Intestinal antiinfectives (A07A)",0.077093872,0.437510026844958
+"European Region","BEL","Belgium","","J01A","Tetracyclines (J01A)",1.82203365,10.3400953985541
+"European Region","BEL","Belgium","","J01B","Amphenicols (J01B)",0.010002416,0.0567640096306803
+"European Region","BEL","Belgium","","J01C","Beta-lactam antibacterials, penicillins (J01C)",8.143360377,46.2138134292883
+"European Region","BEL","Belgium","","J01D","Other beta-lactam antibacterials (J01D)",1.141428841,6.47764277383187
+"European Region","BEL","Belgium","","J01E","Sulfonamides and trimethoprim (J01E)",0.283112874,1.60667401818776
+"European Region","BEL","Belgium","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.745051873,15.5782513900331
+"European Region","BEL","Belgium","","J01G","Aminoglycoside antibacterials (J01G)",0.030504876,0.1731160826591
+"European Region","BEL","Belgium","","J01M","Quinolone antibacterials (J01M)",0.579549623,3.28896142506262
+"European Region","BEL","Belgium","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","BEL","Belgium","","J01X","Other antibacterials (J01X)",2.644779214,15.0092010544771
+"European Region","BEL","Belgium","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.144134993,0.817970391430434
+"African Region","BEN","Benin","","A07A","Intestinal antiinfectives (A07A)",0.001018578,0.00584318298471577
+"African Region","BEN","Benin","","J01A","Tetracyclines (J01A)",2.424906261,13.9107373257678
+"African Region","BEN","Benin","","J01B","Amphenicols (J01B)",0.053652014,0.307780587545119
+"African Region","BEN","Benin","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.568128123,43.4153864254504
+"African Region","BEN","Benin","","J01D","Other beta-lactam antibacterials (J01D)",0.487273617,2.79529786403722
+"African Region","BEN","Benin","","J01E","Sulfonamides and trimethoprim (J01E)",1.050289056,6.02509689101118
+"African Region","BEN","Benin","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.178201241,12.4954872662653
+"African Region","BEN","Benin","","J01G","Aminoglycoside antibacterials (J01G)",0.213630557,1.22551482132714
+"African Region","BEN","Benin","","J01M","Quinolone antibacterials (J01M)",1.66007515,9.52320084453961
+"African Region","BEN","Benin","","J01R","Combinations of antibacterials (J01R)",0.576014502,3.3043695593621
+"African Region","BEN","Benin","","J01X","Other antibacterials (J01X)",0.156350463,0.896921360027442
+"African Region","BEN","Benin","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",1.062363609,6.09436387168192
+"African Region","BFA","Burkina Faso","b","J01A","Tetracyclines (J01A)",0.885888191,4.80234859883972
+"African Region","BFA","Burkina Faso","b","J01B","Amphenicols (J01B)",0.01815486,0.098416445064828
+"African Region","BFA","Burkina Faso","b","J01C","Beta-lactam antibacterials, penicillins (J01C)",6.665226723,36.1318082116168
+"African Region","BFA","Burkina Faso","b","J01D","Other beta-lactam antibacterials (J01D)",0.687038754,3.72439731236974
+"African Region","BFA","Burkina Faso","b","J01E","Sulfonamides and trimethoprim (J01E)",2.733651738,14.818967819044
+"African Region","BFA","Burkina Faso","b","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.484022841,8.04480191013461
+"African Region","BFA","Burkina Faso","b","J01G","Aminoglycoside antibacterials (J01G)",0.032770977,0.177649569186501
+"African Region","BFA","Burkina Faso","b","J01M","Quinolone antibacterials (J01M)",2.709561036,14.6883735181264
+"African Region","BFA","Burkina Faso","b","J01R","Combinations of antibacterials (J01R)",0.095509548,0.51775173060594
+"African Region","BFA","Burkina Faso","b","J01X","Other antibacterials (J01X)",1.21227728,6.57168495545871
+"African Region","BFA","Burkina Faso","b","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",1.922876083,10.4237999295528
+"South-East Asia Region","BGD","Bangladesh","","A07A","Intestinal antiinfectives (A07A)",0.17213946,0.310888096802835
+"South-East Asia Region","BGD","Bangladesh","","J01A","Tetracyclines (J01A)",4.513554527,8.15159044134826
+"South-East Asia Region","BGD","Bangladesh","","J01B","Amphenicols (J01B)",0.000538558,0.000972648988430318
+"South-East Asia Region","BGD","Bangladesh","","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.694279557,6.67195970368067
+"South-East Asia Region","BGD","Bangladesh","","J01D","Other beta-lactam antibacterials (J01D)",21.754371468,39.288929701699
+"South-East Asia Region","BGD","Bangladesh","","J01E","Sulfonamides and trimethoprim (J01E)",0.356495316,0.643839305121355
+"South-East Asia Region","BGD","Bangladesh","","J01F","Macrolides, lincosamides and streptogramins (J01F)",13.771137974,24.871013744008
+"South-East Asia Region","BGD","Bangladesh","","J01G","Aminoglycoside antibacterials (J01G)",0.069359488,0.12526494052868
+"South-East Asia Region","BGD","Bangladesh","","J01M","Quinolone antibacterials (J01M)",7.176974404,12.9617922192984
+"South-East Asia Region","BGD","Bangladesh","","J01R","Combinations of antibacterials (J01R)",0,0
+"South-East Asia Region","BGD","Bangladesh","","J01X","Other antibacterials (J01X)",0.429035625,0.774848886576412
+"South-East Asia Region","BGD","Bangladesh","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",3.432345475,6.19890031194807
+"European Region","BLR","Belarus","","A07A","Intestinal antiinfectives (A07A)",0,0
+"European Region","BLR","Belarus","","J01A","Tetracyclines (J01A)",3.215881708,16.3208899916069
+"European Region","BLR","Belarus","","J01B","Amphenicols (J01B)",0.042026706,0.213289327038769
+"European Region","BLR","Belarus","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.19539349,36.5172715477925
+"European Region","BLR","Belarus","","J01D","Other beta-lactam antibacterials (J01D)",2.007359422,10.1875302871301
+"European Region","BLR","Belarus","","J01E","Sulfonamides and trimethoprim (J01E)",0.087427716,0.4437035515031
+"European Region","BLR","Belarus","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.914498461,14.7913428047922
+"European Region","BLR","Belarus","","J01G","Aminoglycoside antibacterials (J01G)",0.034004752,0.172577186282461
+"European Region","BLR","Belarus","","J01M","Quinolone antibacterials (J01M)",1.732193865,8.79104024394714
+"European Region","BLR","Belarus","","J01R","Combinations of antibacterials (J01R)",0.001098388,0.00557441826031903
+"European Region","BLR","Belarus","","J01X","Other antibacterials (J01X)",2.235897575,11.3473820455823
+"European Region","BLR","Belarus","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.238300903,1.20939859606415
+"South-East Asia Region","BTN","Bhutan","a","J01A","Tetracyclines (J01A)",2.622608119,27.3873546503215
+"South-East Asia Region","BTN","Bhutan","a","J01B","Amphenicols (J01B)",0.001850009,0.0193192617006791
+"South-East Asia Region","BTN","Bhutan","a","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.534904749,47.3570731999592
+"South-East Asia Region","BTN","Bhutan","a","J01D","Other beta-lactam antibacterials (J01D)",0.245059544,2.55910617882674
+"South-East Asia Region","BTN","Bhutan","a","J01E","Sulfonamides and trimethoprim (J01E)",0.597363529,6.23814389399846
+"South-East Asia Region","BTN","Bhutan","a","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.501000079,5.23184029821579
+"South-East Asia Region","BTN","Bhutan","a","J01G","Aminoglycoside antibacterials (J01G)",0.053506962,0.558762147474034
+"South-East Asia Region","BTN","Bhutan","a","J01M","Quinolone antibacterials (J01M)",0.59053171,6.16680061991024
+"South-East Asia Region","BTN","Bhutan","a","J01R","Combinations of antibacterials (J01R)",0,0
+"South-East Asia Region","BTN","Bhutan","a","J01X","Other antibacterials (J01X)",0.42915718,4.48159974959334
+"European Region","CHE","Switzerland","","A07A","Intestinal antiinfectives (A07A)",0.005640056,0.0639528338726796
+"European Region","CHE","Switzerland","","J01A","Tetracyclines (J01A)",1.303274394,14.7778835547021
+"European Region","CHE","Switzerland","","J01B","Amphenicols (J01B)",0,0
+"European Region","CHE","Switzerland","","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.344331002,37.9215108832533
+"European Region","CHE","Switzerland","","J01D","Other beta-lactam antibacterials (J01D)",0.82891566,9.39910977806648
+"European Region","CHE","Switzerland","","J01E","Sulfonamides and trimethoprim (J01E)",0.545593427,6.18650697775996
+"European Region","CHE","Switzerland","","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.968955867,10.9870316167444
+"European Region","CHE","Switzerland","","J01G","Aminoglycoside antibacterials (J01G)",0.014614618,0.165715772514789
+"European Region","CHE","Switzerland","","J01M","Quinolone antibacterials (J01M)",0.938949608,10.6467893750065
+"European Region","CHE","Switzerland","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","CHE","Switzerland","","J01X","Other antibacterials (J01X)",0.695242302,7.88338190987205
+"European Region","CHE","Switzerland","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.173569975,1.9681172982077
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01A","Tetracyclines (J01A)",0.71090904,4.30029126462949
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01B","Amphenicols (J01B)",0,0
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.587894968,33.8011961678775
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01D","Other beta-lactam antibacterials (J01D)",0.921220062,5.57246337086955
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01E","Sulfonamides and trimethoprim (J01E)",6.242420702,37.7604246176879
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.261678342,7.63189669507483
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01G","Aminoglycoside antibacterials (J01G)",0.005490935,0.0332146849829738
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01M","Quinolone antibacterials (J01M)",0.918109209,5.55364581021307
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01R","Combinations of antibacterials (J01R)",0.10840483,0.655741195093883
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","J01X","Other antibacterials (J01X)",0.026198484,0.158474721170708
+"African Region","CIV","C<U+00F4>te d'Ivoire","b","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.749322013,4.53265147240002
+"Region of the Americas","COL","Colombia","","A07A","Intestinal antiinfectives (A07A)",0.119781464,0.458653879566476
+"Region of the Americas","COL","Colombia","","J01A","Tetracyclines (J01A)",1.939727506,7.42738914869754
+"Region of the Americas","COL","Colombia","","J01B","Amphenicols (J01B)",0.037886473,0.145070674912944
+"Region of the Americas","COL","Colombia","","J01C","Beta-lactam antibacterials, penicillins (J01C)",8.73656838,33.4530973973135
+"Region of the Americas","COL","Colombia","","J01D","Other beta-lactam antibacterials (J01D)",2.728413103,10.4473364489096
+"Region of the Americas","COL","Colombia","","J01E","Sulfonamides and trimethoprim (J01E)",0.928182405,3.55409298552731
+"Region of the Americas","COL","Colombia","","J01F","Macrolides, lincosamides and streptogramins (J01F)",5.25386028,20.1174983144488
+"Region of the Americas","COL","Colombia","","J01G","Aminoglycoside antibacterials (J01G)",0.218380536,0.836198496106264
+"Region of the Americas","COL","Colombia","","J01M","Quinolone antibacterials (J01M)",2.711990739,10.3844537564736
+"Region of the Americas","COL","Colombia","","J01R","Combinations of antibacterials (J01R)",0,0
+"Region of the Americas","COL","Colombia","","J01X","Other antibacterials (J01X)",1.875541111,7.18161373321142
+"Region of the Americas","COL","Colombia","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",1.565540851,5.99459516483246
+"European Region","CYP","Cyprus","","A07A","Intestinal antiinfectives (A07A)",0.026164321,0.102225705392637
+"European Region","CYP","Cyprus","","J01A","Tetracyclines (J01A)",3.887321063,15.1880164500668
+"European Region","CYP","Cyprus","","J01B","Amphenicols (J01B)",0,0
+"European Region","CYP","Cyprus","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.382875373,28.8453746929206
+"European Region","CYP","Cyprus","","J01D","Other beta-lactam antibacterials (J01D)",5.157002876,20.1487459472369
+"European Region","CYP","Cyprus","","J01E","Sulfonamides and trimethoprim (J01E)",0.203433199,0.794826751592584
+"European Region","CYP","Cyprus","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.769713167,10.8214496463275
+"European Region","CYP","Cyprus","","J01G","Aminoglycoside antibacterials (J01G)",0.086524539,0.33805700644965
+"European Region","CYP","Cyprus","","J01M","Quinolone antibacterials (J01M)",4.695208313,18.3444845276817
+"European Region","CYP","Cyprus","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","CYP","Cyprus","","J01X","Other antibacterials (J01X)",0.831837868,3.25004470127878
+"European Region","CYP","Cyprus","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.554578569,2.16677457105285
+"European Region","DEU","Germany","c","A07A","Intestinal antiinfectives (A07A)",0.071317024,0.866008197032885
+"European Region","DEU","Germany","c","J01A","Tetracyclines (J01A)",1.299209761,15.7764056824796
+"European Region","DEU","Germany","c","J01B","Amphenicols (J01B)",0,0
+"European Region","DEU","Germany","c","J01C","Beta-lactam antibacterials, penicillins (J01C)",2.822818306,34.2777033395348
+"European Region","DEU","Germany","c","J01D","Other beta-lactam antibacterials (J01D)",1.431336497,17.3808309656098
+"European Region","DEU","Germany","c","J01E","Sulfonamides and trimethoprim (J01E)",0.486761646,5.91078471582352
+"European Region","DEU","Germany","c","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.147893663,13.9389624766185
+"European Region","DEU","Germany","c","J01G","Aminoglycoside antibacterials (J01G)",0.009757294,0.118483583735347
+"European Region","DEU","Germany","c","J01M","Quinolone antibacterials (J01M)",0.432245005,5.24878488278648
+"European Region","DEU","Germany","c","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","DEU","Germany","c","J01X","Other antibacterials (J01X)",0.463809088,5.63207000990881
+"European Region","DEU","Germany","c","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.069995938,0.84996614647024
+"European Region","DNK","Denmark","","A07A","Intestinal antiinfectives (A07A)",0.186038362,1.28831367974006
+"European Region","DNK","Denmark","","J01A","Tetracyclines (J01A)",1.688138532,11.6903413935234
+"European Region","DNK","Denmark","","J01B","Amphenicols (J01B)",0,0
+"European Region","DNK","Denmark","","J01C","Beta-lactam antibacterials, penicillins (J01C)",9.263729994,64.1512317587943
+"European Region","DNK","Denmark","","J01D","Other beta-lactam antibacterials (J01D)",0.230168815,1.59391659777169
+"European Region","DNK","Denmark","","J01E","Sulfonamides and trimethoprim (J01E)",0.65389882,4.5282423792351
+"European Region","DNK","Denmark","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.262430244,8.74231602330909
+"European Region","DNK","Denmark","","J01G","Aminoglycoside antibacterials (J01G)",0.050214846,0.347737274895165
+"European Region","DNK","Denmark","","J01M","Quinolone antibacterials (J01M)",0.41549587,2.87730448409611
+"European Region","DNK","Denmark","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","DNK","Denmark","","J01X","Other antibacterials (J01X)",0.417130478,2.88862412712443
+"European Region","DNK","Denmark","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.273209413,1.89197228151068
+"Eastern Mediterranean Region","EGY","Egypt","","A07A","Intestinal antiinfectives (A07A)",0.3698703713,1.2123811794732
+"Eastern Mediterranean Region","EGY","Egypt","","J01A","Tetracyclines (J01A)",1.345452756,4.41019807429153
+"Eastern Mediterranean Region","EGY","Egypt","","J01B","Amphenicols (J01B)",0.005627606,0.0184464724111587
+"Eastern Mediterranean Region","EGY","Egypt","","J01C","Beta-lactam antibacterials, penicillins (J01C)",9.564980394,31.3526119190283
+"Eastern Mediterranean Region","EGY","Egypt","","J01D","Other beta-lactam antibacterials (J01D)",3.5288628,11.5670980311991
+"Eastern Mediterranean Region","EGY","Egypt","","J01E","Sulfonamides and trimethoprim (J01E)",0.798689438,2.61798759244177
+"Eastern Mediterranean Region","EGY","Egypt","","J01F","Macrolides, lincosamides and streptogramins (J01F)",6.5778484416,21.5612286650412
+"Eastern Mediterranean Region","EGY","Egypt","","J01G","Aminoglycoside antibacterials (J01G)",0.072218979,0.236723289385495
+"Eastern Mediterranean Region","EGY","Egypt","","J01M","Quinolone antibacterials (J01M)",4.571678506,14.9852959559742
+"Eastern Mediterranean Region","EGY","Egypt","","J01R","Combinations of antibacterials (J01R)",0.11777069,0.386035160231211
+"Eastern Mediterranean Region","EGY","Egypt","","J01X","Other antibacterials (J01X)",0.939109345,3.07826358554665
+"Eastern Mediterranean Region","EGY","Egypt","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",2.615653212,8.57373007497623
+"European Region","ESP","Spain","","A07A","Intestinal antiinfectives (A07A)",0.641616659,3.1170337068004
+"European Region","ESP","Spain","","J01A","Tetracyclines (J01A)",1.671975725,8.12261436587331
+"European Region","ESP","Spain","","J01B","Amphenicols (J01B)",0,0
+"European Region","ESP","Spain","","J01C","Beta-lactam antibacterials, penicillins (J01C)",10.3154089781,50.1132210848178
+"European Region","ESP","Spain","","J01D","Other beta-lactam antibacterials (J01D)",2.368440139,11.5061035935509
+"European Region","ESP","Spain","","J01E","Sulfonamides and trimethoprim (J01E)",0.479932352,2.33155622938399
+"European Region","ESP","Spain","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.172359081,10.553523484419
+"European Region","ESP","Spain","","J01G","Aminoglycoside antibacterials (J01G)",0.076922158,0.37369503413381
+"European Region","ESP","Spain","","J01M","Quinolone antibacterials (J01M)",1.881615037,9.14106174034281
+"European Region","ESP","Spain","","J01R","Combinations of antibacterials (J01R)",0.149950491,0.728473502428605
+"European Region","ESP","Spain","","J01X","Other antibacterials (J01X)",0.720181909,3.49871103546402
+"European Region","ESP","Spain","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.105804103,0.514006222785405
+"European Region","EST","Estonia","","A07A","Intestinal antiinfectives (A07A)",0.005266532,0.0514543198196534
+"European Region","EST","Estonia","","J01A","Tetracyclines (J01A)",1.329943329,12.9936226329548
+"European Region","EST","Estonia","","J01B","Amphenicols (J01B)",0,0
+"European Region","EST","Estonia","","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.735108061,36.492220066575
+"European Region","EST","Estonia","","J01D","Other beta-lactam antibacterials (J01D)",1.390378315,13.5840759137741
+"European Region","EST","Estonia","","J01E","Sulfonamides and trimethoprim (J01E)",0.366439043,3.58013047541147
+"European Region","EST","Estonia","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.858478541,18.157441980145
+"European Region","EST","Estonia","","J01G","Aminoglycoside antibacterials (J01G)",0.021786189,0.212852316563806
+"European Region","EST","Estonia","","J01M","Quinolone antibacterials (J01M)",0.702296148,6.86147366185236
+"European Region","EST","Estonia","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","EST","Estonia","","J01X","Other antibacterials (J01X)",0.650969254,6.36000696247116
+"European Region","EST","Estonia","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.174689012,1.7067216704327
+"African Region","ETH","Ethiopia","b","J01A","Tetracyclines (J01A)",1.006993856,7.99380631662228
+"African Region","ETH","Ethiopia","b","J01B","Amphenicols (J01B)",0,0
+"African Region","ETH","Ethiopia","b","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.520457722,35.8846911297814
+"African Region","ETH","Ethiopia","b","J01D","Other beta-lactam antibacterials (J01D)",1.54654651,12.2769301787956
+"African Region","ETH","Ethiopia","b","J01E","Sulfonamides and trimethoprim (J01E)",0.624486562,4.95735360669503
+"African Region","ETH","Ethiopia","b","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.506288222,4.01906125140754
+"African Region","ETH","Ethiopia","b","J01G","Aminoglycoside antibacterials (J01G)",0.071014436,0.563732979785101
+"African Region","ETH","Ethiopia","b","J01M","Quinolone antibacterials (J01M)",2.590560881,20.5646159713336
+"African Region","ETH","Ethiopia","b","J01R","Combinations of antibacterials (J01R)",0,0
+"African Region","ETH","Ethiopia","b","J01X","Other antibacterials (J01X)",0.030502472,0.242137379382575
+"African Region","ETH","Ethiopia","b","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",1.700325404,13.4976711861969
+"European Region","FIN","Finland","","A07A","Intestinal antiinfectives (A07A)",0.123843607,1.14774196786338
+"European Region","FIN","Finland","","J01A","Tetracyclines (J01A)",2.308884947,21.3979890995901
+"European Region","FIN","Finland","","J01B","Amphenicols (J01B)",0,0
+"European Region","FIN","Finland","","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.491627196,32.3592566952798
+"European Region","FIN","Finland","","J01D","Other beta-lactam antibacterials (J01D)",2.191447595,20.3096182038269
+"European Region","FIN","Finland","","J01E","Sulfonamides and trimethoprim (J01E)",1.019430542,9.44774821016894
+"European Region","FIN","Finland","","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.493422838,4.5728811748422
+"European Region","FIN","Finland","","J01G","Aminoglycoside antibacterials (J01G)",0.012374621,0.114683932438301
+"European Region","FIN","Finland","","J01M","Quinolone antibacterials (J01M)",0.486666362,4.5102643692766
+"European Region","FIN","Finland","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","FIN","Finland","","J01X","Other antibacterials (J01X)",0.405748468,3.76034384334327
+"European Region","FIN","Finland","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.256749745,2.3794725033705
+"European Region","FRA","France","b","J01A","Tetracyclines (J01A)",3.128867669,14.4366658884775
+"European Region","FRA","France","b","J01B","Amphenicols (J01B)",1.21e-05,5.58296724982323e-05
+"European Region","FRA","France","b","J01C","Beta-lactam antibacterials, penicillins (J01C)",11.677123742,53.8785119204291
+"European Region","FRA","France","b","J01D","Other beta-lactam antibacterials (J01D)",1.214661242,5.6044743253848
+"European Region","FRA","France","b","J01E","Sulfonamides and trimethoprim (J01E)",0.548824282,2.53228759695351
+"European Region","FRA","France","b","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.468401954,11.3892622054394
+"European Region","FRA","France","b","J01G","Aminoglycoside antibacterials (J01G)",0.054434065,0.251160001793181
+"European Region","FRA","France","b","J01M","Quinolone antibacterials (J01M)",1.154147293,5.3252616018935
+"European Region","FRA","France","b","J01R","Combinations of antibacterials (J01R)",0.528851854,2.44013436437214
+"European Region","FRA","France","b","J01X","Other antibacterials (J01X)",0.585292322,2.70055195479255
+"European Region","FRA","France","b","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.31244631,1.44163431079183
+"African Region","GAB","Gabon","","A07A","Intestinal antiinfectives (A07A)",0,0
+"African Region","GAB","Gabon","","J01A","Tetracyclines (J01A)",1.898679476,10.1300697802778
+"African Region","GAB","Gabon","","J01B","Amphenicols (J01B)",0.050179611,0.267724472404418
+"African Region","GAB","Gabon","","J01C","Beta-lactam antibacterials, penicillins (J01C)",10.520647032,56.1310584092673
+"African Region","GAB","Gabon","","J01D","Other beta-lactam antibacterials (J01D)",1.455318284,7.76459426447932
+"African Region","GAB","Gabon","","J01E","Sulfonamides and trimethoprim (J01E)",0.332905385,1.77615802082871
+"African Region","GAB","Gabon","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.926179329,10.2767904002449
+"African Region","GAB","Gabon","","J01G","Aminoglycoside antibacterials (J01G)",0.071054334,0.379097878662258
+"African Region","GAB","Gabon","","J01M","Quinolone antibacterials (J01M)",1.327550472,7.08291161735862
+"African Region","GAB","Gabon","","J01R","Combinations of antibacterials (J01R)",0.080455501,0.429256148622957
+"African Region","GAB","Gabon","","J01X","Other antibacterials (J01X)",0.167297942,0.892588690181257
+"African Region","GAB","Gabon","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.912737541,4.86975031767247
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","A07A","Intestinal antiinfectives (A07A)",0.036941871,0.23310619317753
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01A","Tetracyclines (J01A)",4.501981719,28.407868682962
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01B","Amphenicols (J01B)",0.00058783,0.00370925483269506
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.811525694,36.6711970566337
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01D","Other beta-lactam antibacterials (J01D)",0.350022726,2.20867170435091
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01E","Sulfonamides and trimethoprim (J01E)",0.808733463,5.10317354676515
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.077391512,13.108508421288
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01G","Aminoglycoside antibacterials (J01G)",0.106876777,0.674401105064597
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01M","Quinolone antibacterials (J01M)",0.4534662395,2.86140863911238
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","J01X","Other antibacterials (J01X)",1.406846203,8.87731330033589
+"European Region","GBR","United Kingdom of Great Britain and Northern Ireland","d","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.29328342,1.85064209547715
+"European Region","GEO","Georgia","","A07A","Intestinal antiinfectives (A07A)",0.072458047,0.291614707875774
+"European Region","GEO","Georgia","","J01A","Tetracyclines (J01A)",1.548060613,6.23032585233752
+"European Region","GEO","Georgia","","J01B","Amphenicols (J01B)",0.169028422,0.680271908297958
+"European Region","GEO","Georgia","","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.280985774,17.2292584135666
+"European Region","GEO","Georgia","","J01D","Other beta-lactam antibacterials (J01D)",9.756085687,39.2643494465912
+"European Region","GEO","Georgia","","J01E","Sulfonamides and trimethoprim (J01E)",0.941424411,3.78885735908515
+"European Region","GEO","Georgia","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.443405811,9.83373277776496
+"European Region","GEO","Georgia","","J01G","Aminoglycoside antibacterials (J01G)",0.216072435,0.86960527672699
+"European Region","GEO","Georgia","","J01M","Quinolone antibacterials (J01M)",2.884412307,11.6086078375683
+"European Region","GEO","Georgia","","J01R","Combinations of antibacterials (J01R)",0.310506366,1.24966414309591
+"European Region","GEO","Georgia","","J01X","Other antibacterials (J01X)",1.916209357,7.71197755123569
+"European Region","GEO","Georgia","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.308536129,1.24173472585394
+"Western Pacific Region","HKG","China, Hong Kong SAR","","A07A","Intestinal antiinfectives (A07A)",0.082277468,0.602963415694191
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01A","Tetracyclines (J01A)",2.084076544,15.2729774272877
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01B","Amphenicols (J01B)",0,0
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01C","Beta-lactam antibacterials, penicillins (J01C)",6.268281863,45.9365696893884
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01D","Other beta-lactam antibacterials (J01D)",1.264419114,9.26618777143777
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01E","Sulfonamides and trimethoprim (J01E)",0.202380782,1.48313032172528
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.518254173,11.126396379189
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01G","Aminoglycoside antibacterials (J01G)",0.035121755,0.257386789782769
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01M","Quinolone antibacterials (J01M)",1.411143084,10.3414418873691
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01R","Combinations of antibacterials (J01R)",0,0
+"Western Pacific Region","HKG","China, Hong Kong SAR","","J01X","Other antibacterials (J01X)",0.313080926,2.29438689739043
+"Western Pacific Region","HKG","China, Hong Kong SAR","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.466480065,3.41855942073531
+"Region of the Americas","HND","Honduras","d","A07A","Intestinal antiinfectives (A07A)",0,0
+"Region of the Americas","HND","Honduras","d","J01A","Tetracyclines (J01A)",0.235371505,5.16200288025199
+"Region of the Americas","HND","Honduras","d","J01B","Amphenicols (J01B)",0,0
+"Region of the Americas","HND","Honduras","d","J01C","Beta-lactam antibacterials, penicillins (J01C)",1.798660348,39.4469581055321
+"Region of the Americas","HND","Honduras","d","J01D","Other beta-lactam antibacterials (J01D)",0.16727157,3.66848283578028
+"Region of the Americas","HND","Honduras","d","J01E","Sulfonamides and trimethoprim (J01E)",0.681829043,14.9533966900771
+"Region of the Americas","HND","Honduras","d","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.200403071,26.3263988135069
+"Region of the Americas","HND","Honduras","d","J01G","Aminoglycoside antibacterials (J01G)",0.033718602,0.739492746337627
+"Region of the Americas","HND","Honduras","d","J01M","Quinolone antibacterials (J01M)",0.34699624,7.61007833261979
+"Region of the Americas","HND","Honduras","d","J01R","Combinations of antibacterials (J01R)",0,0
+"Region of the Americas","HND","Honduras","d","J01X","Other antibacterials (J01X)",0.04915921,1.07812533896536
+"Region of the Americas","HND","Honduras","d","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.046283818,1.01506425692889
+"European Region","HRV","Croatia","","A07A","Intestinal antiinfectives (A07A)",0.003714219,0.0202544163594131
+"European Region","HRV","Croatia","","J01A","Tetracyclines (J01A)",0.995234983,5.42722540623896
+"European Region","HRV","Croatia","","J01B","Amphenicols (J01B)",0,0
+"European Region","HRV","Croatia","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.269048702,39.6396493979379
+"European Region","HRV","Croatia","","J01D","Other beta-lactam antibacterials (J01D)",2.933221639,15.9954737054402
+"European Region","HRV","Croatia","","J01E","Sulfonamides and trimethoprim (J01E)",0.507751069,2.76887322973231
+"European Region","HRV","Croatia","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.228543003,17.6059231340511
+"European Region","HRV","Croatia","","J01G","Aminoglycoside antibacterials (J01G)",0.086948496,0.474148411768064
+"European Region","HRV","Croatia","","J01M","Quinolone antibacterials (J01M)",1.661986586,9.06316194510975
+"European Region","HRV","Croatia","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","HRV","Croatia","","J01X","Other antibacterials (J01X)",1.301731741,7.09861660566535
+"European Region","HRV","Croatia","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.349642455,1.90667374769699
+"European Region","HUN","Hungary","","A07A","Intestinal antiinfectives (A07A)",0.451554353,3.58911827790012
+"European Region","HUN","Hungary","","J01A","Tetracyclines (J01A)",1.292201252,10.2708856673974
+"European Region","HUN","Hungary","","J01B","Amphenicols (J01B)",0,0
+"European Region","HUN","Hungary","","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.515706454,27.9441139476355
+"European Region","HUN","Hungary","","J01D","Other beta-lactam antibacterials (J01D)",1.718885875,13.6623302833864
+"European Region","HUN","Hungary","","J01E","Sulfonamides and trimethoprim (J01E)",0.405320902,3.22163798913298
+"European Region","HUN","Hungary","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.064389147,24.3568797975832
+"European Region","HUN","Hungary","","J01G","Aminoglycoside antibacterials (J01G)",0.030065059,0.238968026918889
+"European Region","HUN","Hungary","","J01M","Quinolone antibacterials (J01M)",1.540055922,12.2409247567115
+"European Region","HUN","Hungary","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","HUN","Hungary","","J01X","Other antibacterials (J01X)",0.407199762,3.23657185196215
+"European Region","HUN","Hungary","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.155826964,1.2385694013719
+"European Region","IRL","Ireland","","A07A","Intestinal antiinfectives (A07A)",0.001549745,0.0087359939742625
+"European Region","IRL","Ireland","","J01A","Tetracyclines (J01A)",2.992534546,16.8690744358771
+"European Region","IRL","Ireland","","J01B","Amphenicols (J01B)",4.79e-05,0.000270014816222781
+"European Region","IRL","Ireland","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.90140522,44.5406362918585
+"European Region","IRL","Ireland","","J01D","Other beta-lactam antibacterials (J01D)",1.153880581,6.50448544930587
+"European Region","IRL","Ireland","","J01E","Sulfonamides and trimethoprim (J01E)",1.01411585,5.71662431871314
+"European Region","IRL","Ireland","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.6452367,14.9113382341598
+"European Region","IRL","Ireland","","J01G","Aminoglycoside antibacterials (J01G)",0.071284734,0.401835790198327
+"European Region","IRL","Ireland","","J01M","Quinolone antibacterials (J01M)",0.424471642,2.39276894376643
+"European Region","IRL","Ireland","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","IRL","Ireland","","J01X","Other antibacterials (J01X)",1.5175642438,8.55458936108394
+"European Region","IRL","Ireland","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.017676111,0.0996411662463148
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","A07A","Intestinal antiinfectives (A07A)",0.096077229,0.15909685487773
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01A","Tetracyclines (J01A)",4.769982822,7.89874221706578
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01B","Amphenicols (J01B)",0,0
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01C","Beta-lactam antibacterials, penicillins (J01C)",17.446454165,28.8900503824893
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01D","Other beta-lactam antibacterials (J01D)",11.78342425,19.5124875829315
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01E","Sulfonamides and trimethoprim (J01E)",0.457936917,0.75830999692033
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01F","Macrolides, lincosamides and streptogramins (J01F)",17.482988522,28.9505486020381
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01G","Aminoglycoside antibacterials (J01G)",0.173507524,0.28731575268498
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01M","Quinolone antibacterials (J01M)",4.330726993,7.17136673373862
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01R","Combinations of antibacterials (J01R)",0,0
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","J01X","Other antibacterials (J01X)",0.549159188,0.909367396909499
+"Eastern Mediterranean Region","IRN","Iran (Islamic Republic of)","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",3.298886521,5.46271448034409
+"European Region","ISL","Iceland","","A07A","Intestinal antiinfectives (A07A)",0.130477169,0.805617906564768
+"European Region","ISL","Iceland","","J01A","Tetracyclines (J01A)",4.390857894,27.1109020198596
+"European Region","ISL","Iceland","","J01B","Amphenicols (J01B)",0,0
+"European Region","ISL","Iceland","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.867210881,48.5752872248078
+"European Region","ISL","Iceland","","J01D","Other beta-lactam antibacterials (J01D)",0.819831983,5.06196854929695
+"European Region","ISL","Iceland","","J01E","Sulfonamides and trimethoprim (J01E)",0.557014658,3.43922991388517
+"European Region","ISL","Iceland","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.179751077,7.28425210482817
+"European Region","ISL","Iceland","","J01G","Aminoglycoside antibacterials (J01G)",0.021726071,0.13414539854783
+"European Region","ISL","Iceland","","J01M","Quinolone antibacterials (J01M)",0.490851895,3.0307147151794
+"European Region","ISL","Iceland","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","ISL","Iceland","","J01X","Other antibacterials (J01X)",0.603655383,3.7272082898964
+"European Region","ISL","Iceland","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.134535212,0.830673877133916
+"European Region","ITA","Italy","","A07A","Intestinal antiinfectives (A07A)",2.202145519,11.1934573778946
+"European Region","ITA","Italy","","J01A","Tetracyclines (J01A)",0.678735876,3.44999957237338
+"European Region","ITA","Italy","","J01B","Amphenicols (J01B)",0.025270039,0.128447054040589
+"European Region","ITA","Italy","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.508016496,38.1630831911002
+"European Region","ITA","Italy","","J01D","Other beta-lactam antibacterials (J01D)",1.989293862,10.1115370734064
+"European Region","ITA","Italy","","J01E","Sulfonamides and trimethoprim (J01E)",1.024162979,5.20579796137171
+"European Region","ITA","Italy","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.386990456,17.2159982078695
+"European Region","ITA","Italy","","J01G","Aminoglycoside antibacterials (J01G)",0.053218189,0.270506887560612
+"European Region","ITA","Italy","","J01M","Quinolone antibacterials (J01M)",1.755724144,8.92430731922238
+"European Region","ITA","Italy","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","ITA","Italy","","J01X","Other antibacterials (J01X)",0.9615198657,4.88738439029191
+"European Region","ITA","Italy","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.088428665,0.449480964868798
+"Eastern Mediterranean Region","JOR","Jordan","","A07A","Intestinal antiinfectives (A07A)",0.008752749,0.0318505417571118
+"Eastern Mediterranean Region","JOR","Jordan","","J01A","Tetracyclines (J01A)",1.9065538,6.93779421974515
+"Eastern Mediterranean Region","JOR","Jordan","","J01B","Amphenicols (J01B)",0,0
+"Eastern Mediterranean Region","JOR","Jordan","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.486314671,27.2420902319447
+"Eastern Mediterranean Region","JOR","Jordan","","J01D","Other beta-lactam antibacterials (J01D)",5.444392278,19.8117007116891
+"Eastern Mediterranean Region","JOR","Jordan","","J01E","Sulfonamides and trimethoprim (J01E)",0.204799735,0.745249579470738
+"Eastern Mediterranean Region","JOR","Jordan","","J01F","Macrolides, lincosamides and streptogramins (J01F)",5.02571153,18.2881555206785
+"Eastern Mediterranean Region","JOR","Jordan","","J01G","Aminoglycoside antibacterials (J01G)",0.053280149,0.193882128980237
+"Eastern Mediterranean Region","JOR","Jordan","","J01M","Quinolone antibacterials (J01M)",3.873573188,14.0956177966057
+"Eastern Mediterranean Region","JOR","Jordan","","J01R","Combinations of antibacterials (J01R)",0.686406969,2.4977791352759
+"Eastern Mediterranean Region","JOR","Jordan","","J01X","Other antibacterials (J01X)",0.228253625,0.830596377695125
+"Eastern Mediterranean Region","JOR","Jordan","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",2.562652425,9.32528375615778
+"African Region","KEN","Kenya","e","A07A","Intestinal antiinfectives (A07A)",0.006796919,0.0361472085752448
+"African Region","KEN","Kenya","e","J01A","Tetracyclines (J01A)",1.174632874,6.24690385391046
+"African Region","KEN","Kenya","e","J01B","Amphenicols (J01B)",0,0
+"African Region","KEN","Kenya","e","J01C","Beta-lactam antibacterials, penicillins (J01C)",9.06289986,48.1980926263763
+"African Region","KEN","Kenya","e","J01D","Other beta-lactam antibacterials (J01D)",2.33100655,12.3967020870944
+"African Region","KEN","Kenya","e","J01E","Sulfonamides and trimethoprim (J01E)",0.002153645,0.0114534622248747
+"African Region","KEN","Kenya","e","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.037555877,16.1542554567562
+"African Region","KEN","Kenya","e","J01G","Aminoglycoside antibacterials (J01G)",0.141664197,0.75339507159105
+"African Region","KEN","Kenya","e","J01M","Quinolone antibacterials (J01M)",2.051433634,10.9098842352646
+"African Region","KEN","Kenya","e","J01R","Combinations of antibacterials (J01R)",0.162546494,0.86445079333633
+"African Region","KEN","Kenya","e","J01X","Other antibacterials (J01X)",0.172085883,0.915182938866297
+"African Region","KEN","Kenya","e","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.660664963,3.51353226600426
+"Western Pacific Region","KOR","Republic of Korea","","A07A","Intestinal antiinfectives (A07A)",0.497869734,2.46650618286972
+"Western Pacific Region","KOR","Republic of Korea","","J01A","Tetracyclines (J01A)",1.728720028,8.56428568825741
+"Western Pacific Region","KOR","Republic of Korea","","J01B","Amphenicols (J01B)",0,0
+"Western Pacific Region","KOR","Republic of Korea","","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.796612087,23.762989716931
+"Western Pacific Region","KOR","Republic of Korea","","J01D","Other beta-lactam antibacterials (J01D)",7.217457903,35.7561493030051
+"Western Pacific Region","KOR","Republic of Korea","","J01E","Sulfonamides and trimethoprim (J01E)",3.90529e-05,0.000193472735398278
+"Western Pacific Region","KOR","Republic of Korea","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.167651694,15.6929251867894
+"Western Pacific Region","KOR","Republic of Korea","","J01G","Aminoglycoside antibacterials (J01G)",0.253640492,1.25656532024523
+"Western Pacific Region","KOR","Republic of Korea","","J01M","Quinolone antibacterials (J01M)",1.76642545,8.75108285655186
+"Western Pacific Region","KOR","Republic of Korea","","J01R","Combinations of antibacterials (J01R)",5.23e-06,2.59100452497252e-05
+"Western Pacific Region","KOR","Republic of Korea","","J01X","Other antibacterials (J01X)",0.7223104139,3.57841214311601
+"Western Pacific Region","KOR","Republic of Korea","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.034489321,0.170864219453594
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01A","Tetracyclines (J01A)",2.235832474,10.9530079263334
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01B","Amphenicols (J01B)",0.186245699,0.912389743468996
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01C","Beta-lactam antibacterials, penicillins (J01C)",11.062178196,54.1919517102876
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01D","Other beta-lactam antibacterials (J01D)",1.681916459,8.23945645350603
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01E","Sulfonamides and trimethoprim (J01E)",0.486575481,2.38366029750783
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.740916498,13.4273387998085
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01G","Aminoglycoside antibacterials (J01G)",0.433993825,2.12607065175169
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01M","Quinolone antibacterials (J01M)",0.867716304,4.25081202014993
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01R","Combinations of antibacterials (J01R)",0,0
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","J01X","Other antibacterials (J01X)",0.032077241,0.157141592231792
+"Western Pacific Region","LAO","Lao People's Democratic Republic","b","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.685501863,3.35817080495421
+"European Region","LTU","Lithuania","","A07A","Intestinal antiinfectives (A07A)",0,0
+"European Region","LTU","Lithuania","","J01A","Tetracyclines (J01A)",1.400178073,10.2137318192671
+"European Region","LTU","Lithuania","","J01B","Amphenicols (J01B)",0,0
+"European Region","LTU","Lithuania","","J01C","Beta-lactam antibacterials, penicillins (J01C)",6.131468943,44.7265820323749
+"European Region","LTU","Lithuania","","J01D","Other beta-lactam antibacterials (J01D)",1.930805857,14.0844465420136
+"European Region","LTU","Lithuania","","J01E","Sulfonamides and trimethoprim (J01E)",0.292967761,2.13708113292611
+"European Region","LTU","Lithuania","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.552461297,11.3245762472025
+"European Region","LTU","Lithuania","","J01G","Aminoglycoside antibacterials (J01G)",0.048747136,0.355590609267697
+"European Region","LTU","Lithuania","","J01M","Quinolone antibacterials (J01M)",0.779305812,5.68472019556057
+"European Region","LTU","Lithuania","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","LTU","Lithuania","","J01X","Other antibacterials (J01X)",1.542661417,11.2530900926118
+"European Region","LTU","Lithuania","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.030184175,0.220181328775762
+"European Region","LVA","Latvia","","A07A","Intestinal antiinfectives (A07A)",0.00767967,0.0647568320824988
+"European Region","LVA","Latvia","","J01A","Tetracyclines (J01A)",2.783401541,23.4703139859793
+"European Region","LVA","Latvia","","J01B","Amphenicols (J01B)",0.000130765,0.00110264205978485
+"European Region","LVA","Latvia","","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.812013549,32.143818847529
+"European Region","LVA","Latvia","","J01D","Other beta-lactam antibacterials (J01D)",0.995789704,8.39673926762598
+"European Region","LVA","Latvia","","J01E","Sulfonamides and trimethoprim (J01E)",0.456482287,3.84916888458671
+"European Region","LVA","Latvia","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.748464174,14.7434721697655
+"European Region","LVA","Latvia","","J01G","Aminoglycoside antibacterials (J01G)",0.044018607,0.371175524730165
+"European Region","LVA","Latvia","","J01M","Quinolone antibacterials (J01M)",0.817245336,6.8912100381341
+"European Region","LVA","Latvia","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","LVA","Latvia","","J01X","Other antibacterials (J01X)",1.032018112,8.70222595305286
+"European Region","LVA","Latvia","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.161999138,1.3660158544541
+"South-East Asia Region","MDV","Maldives","","A07A","Intestinal antiinfectives (A07A)",0,0
+"South-East Asia Region","MDV","Maldives","","J01A","Tetracyclines (J01A)",0,0
+"South-East Asia Region","MDV","Maldives","","J01B","Amphenicols (J01B)",0,0
+"South-East Asia Region","MDV","Maldives","","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.623862348,23.7715565525799
+"South-East Asia Region","MDV","Maldives","","J01D","Other beta-lactam antibacterials (J01D)",4.916609971,25.2765898239073
+"South-East Asia Region","MDV","Maldives","","J01E","Sulfonamides and trimethoprim (J01E)",0,0
+"South-East Asia Region","MDV","Maldives","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.0461453,15.6604175938859
+"South-East Asia Region","MDV","Maldives","","J01G","Aminoglycoside antibacterials (J01G)",0.01191034,0.0612317797464102
+"South-East Asia Region","MDV","Maldives","","J01M","Quinolone antibacterials (J01M)",4.744493439,24.3917283020582
+"South-East Asia Region","MDV","Maldives","","J01R","Combinations of antibacterials (J01R)",0,0
+"South-East Asia Region","MDV","Maldives","","J01X","Other antibacterials (J01X)",0.081777802,0.420424636090115
+"South-East Asia Region","MDV","Maldives","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",2.02644009,10.4180513117321
+"African Region","MLI","Mali","b","J01A","Tetracyclines (J01A)",1.147989264,5.6587714406097
+"African Region","MLI","Mali","b","J01B","Amphenicols (J01B)",0.034342179,0.169282542814361
+"African Region","MLI","Mali","b","J01C","Beta-lactam antibacterials, penicillins (J01C)",3.070411119,15.134945330924
+"African Region","MLI","Mali","b","J01D","Other beta-lactam antibacterials (J01D)",0.443160714,2.18446746030144
+"African Region","MLI","Mali","b","J01E","Sulfonamides and trimethoprim (J01E)",5.547852767,27.3469724666407
+"African Region","MLI","Mali","b","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.148846774,5.66299835566039
+"African Region","MLI","Mali","b","J01G","Aminoglycoside antibacterials (J01G)",0.062589943,0.308523949678495
+"African Region","MLI","Mali","b","J01M","Quinolone antibacterials (J01M)",1.928837192,9.50779694371376
+"African Region","MLI","Mali","b","J01R","Combinations of antibacterials (J01R)",0.088416487,0.43583046218683
+"African Region","MLI","Mali","b","J01X","Other antibacterials (J01X)",0.015538186,0.0765922173081241
+"African Region","MLI","Mali","b","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",6.798914679,33.5138188301622
+"European Region","MLT","Malta","","A07A","Intestinal antiinfectives (A07A)",0.014054374,0.0834459517435023
+"European Region","MLT","Malta","","J01A","Tetracyclines (J01A)",2.268320395,13.4678466803269
+"European Region","MLT","Malta","","J01B","Amphenicols (J01B)",0.000148492,0.000881651240126109
+"European Region","MLT","Malta","","J01C","Beta-lactam antibacterials, penicillins (J01C)",6.420690618,38.1219853313698
+"European Region","MLT","Malta","","J01D","Other beta-lactam antibacterials (J01D)",1.712474563,10.1675869552122
+"European Region","MLT","Malta","","J01E","Sulfonamides and trimethoprim (J01E)",0.507070899,3.01066513303889
+"European Region","MLT","Malta","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.638265069,15.6643433307198
+"European Region","MLT","Malta","","J01G","Aminoglycoside antibacterials (J01G)",0.068375456,0.405970056141665
+"European Region","MLT","Malta","","J01M","Quinolone antibacterials (J01M)",1.522087236,9.03718785658164
+"European Region","MLT","Malta","","J01R","Combinations of antibacterials (J01R)",0.188695456,1.12035384255422
+"European Region","MLT","Malta","","J01X","Other antibacterials (J01X)",1.029376771,6.11178586529348
+"European Region","MLT","Malta","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.472928181,2.80794734577779
+"European Region","MNE","Montenegro","","A07A","Intestinal antiinfectives (A07A)",0.068944892,0.214181258998495
+"European Region","MNE","Montenegro","","J01A","Tetracyclines (J01A)",2.267959693,7.04554678836224
+"European Region","MNE","Montenegro","","J01B","Amphenicols (J01B)",0,0
+"European Region","MNE","Montenegro","","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.524233585,23.3744629295244
+"European Region","MNE","Montenegro","","J01D","Other beta-lactam antibacterials (J01D)",8.990353895,27.9290497122416
+"European Region","MNE","Montenegro","","J01E","Sulfonamides and trimethoprim (J01E)",0.960788531,2.984744645055
+"European Region","MNE","Montenegro","","J01F","Macrolides, lincosamides and streptogramins (J01F)",7.158623819,22.2386752342732
+"European Region","MNE","Montenegro","","J01G","Aminoglycoside antibacterials (J01G)",0.77798493,2.41685478003586
+"European Region","MNE","Montenegro","","J01M","Quinolone antibacterials (J01M)",3.234439451,10.0479715563204
+"European Region","MNE","Montenegro","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","MNE","Montenegro","","J01X","Other antibacterials (J01X)",0.431783351,1.34135973019973
+"European Region","MNE","Montenegro","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.774862047,2.40715336498912
+"European Region","NOR","Norway","","A07A","Intestinal antiinfectives (A07A)",0.10620468,1.00727672527741
+"European Region","NOR","Norway","","J01A","Tetracyclines (J01A)",2.558636198,24.2668655533606
+"European Region","NOR","Norway","","J01B","Amphenicols (J01B)",2.53e-05,0.000239952713472876
+"European Region","NOR","Norway","","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.391146075,51.1312304120512
+"European Region","NOR","Norway","","J01D","Other beta-lactam antibacterials (J01D)",0.290828149,2.75830053386735
+"European Region","NOR","Norway","","J01E","Sulfonamides and trimethoprim (J01E)",0.766351971,7.26830968050343
+"European Region","NOR","Norway","","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.622056863,5.89977202416107
+"European Region","NOR","Norway","","J01G","Aminoglycoside antibacterials (J01G)",0.07994765,0.758247255070347
+"European Region","NOR","Norway","","J01M","Quinolone antibacterials (J01M)",0.245908035,2.33226483253095
+"European Region","NOR","Norway","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","NOR","Norway","","J01X","Other antibacterials (J01X)",0.292849963,2.77747601827199
+"European Region","NOR","Norway","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.189789187,1.80001701219214
+"South-East Asia Region","NPL","Nepal","","A07A","Intestinal antiinfectives (A07A)",0.075423312,0.096643909880159
+"South-East Asia Region","NPL","Nepal","","J01A","Tetracyclines (J01A)",4.343804825,5.5659486558254
+"South-East Asia Region","NPL","Nepal","","J01B","Amphenicols (J01B)",0.133460236,0.171009714086392
+"South-East Asia Region","NPL","Nepal","","J01C","Beta-lactam antibacterials, penicillins (J01C)",20.695941616,26.5188131279854
+"South-East Asia Region","NPL","Nepal","","J01D","Other beta-lactam antibacterials (J01D)",17.476813626,22.3939728483878
+"South-East Asia Region","NPL","Nepal","","J01E","Sulfonamides and trimethoprim (J01E)",0.617271902,0.790943389869201
+"South-East Asia Region","NPL","Nepal","","J01F","Macrolides, lincosamides and streptogramins (J01F)",19.936735439,25.5460017861757
+"South-East Asia Region","NPL","Nepal","","J01G","Aminoglycoside antibacterials (J01G)",0.06089061,0.0780223841852491
+"South-East Asia Region","NPL","Nepal","","J01M","Quinolone antibacterials (J01M)",6.268139652,8.03170144058563
+"South-East Asia Region","NPL","Nepal","","J01R","Combinations of antibacterials (J01R)",0,0
+"South-East Asia Region","NPL","Nepal","","J01X","Other antibacterials (J01X)",0.18057011,0.231374106693835
+"South-East Asia Region","NPL","Nepal","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",8.253436909,10.5755686363253
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01A","Tetracyclines (J01A)",0.798151464,17.8119346428335
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01B","Amphenicols (J01B)",0,0
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01C","Beta-lactam antibacterials, penicillins (J01C)",2.303986226,51.4168725191997
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01D","Other beta-lactam antibacterials (J01D)",0.839419916,18.7329014053964
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01E","Sulfonamides and trimethoprim (J01E)",0.061525835,1.37304033293831
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.254549853,5.68065780679803
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01G","Aminoglycoside antibacterials (J01G)",0.006022931,0.134410645308665
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01M","Quinolone antibacterials (J01M)",0.132628629,2.9598047213713
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01R","Combinations of antibacterials (J01R)",0,0
+"Eastern Mediterranean Region","OMN","Oman","a,d","J01X","Other antibacterials (J01X)",0.084707694,1.89037792615405
+"Region of the Americas","PER","Peru","b,d","J01A","Tetracyclines (J01A)",0.672183777,7.78926975813633
+"Region of the Americas","PER","Peru","b,d","J01B","Amphenicols (J01B)",0.020066156,0.232526739622349
+"Region of the Americas","PER","Peru","b,d","J01C","Beta-lactam antibacterials, penicillins (J01C)",2.58643888,29.9716697108743
+"Region of the Americas","PER","Peru","b,d","J01D","Other beta-lactam antibacterials (J01D)",1.171202704,13.5719041653019
+"Region of the Americas","PER","Peru","b,d","J01E","Sulfonamides and trimethoprim (J01E)",0.508293562,5.89010893480994
+"Region of the Americas","PER","Peru","b,d","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.702083632,19.7237556367809
+"Region of the Americas","PER","Peru","b,d","J01G","Aminoglycoside antibacterials (J01G)",0.211773471,2.45403228949969
+"Region of the Americas","PER","Peru","b,d","J01M","Quinolone antibacterials (J01M)",1.116109178,12.9334800458503
+"Region of the Americas","PER","Peru","b,d","J01R","Combinations of antibacterials (J01R)",0,0
+"Region of the Americas","PER","Peru","b,d","J01X","Other antibacterials (J01X)",0.301861788,3.49797626312746
+"Region of the Americas","PER","Peru","b,d","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.339599099,3.93527645599671
+"European Region","POL","Poland","","A07A","Intestinal antiinfectives (A07A)",0.415221291,2.00267993351383
+"European Region","POL","Poland","","J01A","Tetracyclines (J01A)",1.736119893,8.37358908911364
+"European Region","POL","Poland","","J01B","Amphenicols (J01B)",0,0
+"European Region","POL","Poland","","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.424919361,26.1652698950964
+"European Region","POL","Poland","","J01D","Other beta-lactam antibacterials (J01D)",2.786224483,13.4384146076195
+"European Region","POL","Poland","","J01E","Sulfonamides and trimethoprim (J01E)",0.29259082,1.41121319317019
+"European Region","POL","Poland","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.729210659,17.9865905638861
+"European Region","POL","Poland","","J01G","Aminoglycoside antibacterials (J01G)",0.057100363,0.275404353425739
+"European Region","POL","Poland","","J01M","Quinolone antibacterials (J01M)",1.4187691,6.84295451231926
+"European Region","POL","Poland","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","POL","Poland","","J01X","Other antibacterials (J01X)",4.6519043485,22.4368925517518
+"European Region","POL","Poland","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.221222322,1.06699130010348
+"European Region","PRT","Portugal","","A07A","Intestinal antiinfectives (A07A)",0.138784662,0.919656684803647
+"European Region","PRT","Portugal","","J01A","Tetracyclines (J01A)",0.949943379,6.29480063641553
+"European Region","PRT","Portugal","","J01B","Amphenicols (J01B)",9.86e-06,6.53372986718371e-05
+"European Region","PRT","Portugal","","J01C","Beta-lactam antibacterials, penicillins (J01C)",6.959489661,46.1170643594644
+"European Region","PRT","Portugal","","J01D","Other beta-lactam antibacterials (J01D)",1.778071104,11.7823897344636
+"European Region","PRT","Portugal","","J01E","Sulfonamides and trimethoprim (J01E)",0.438215394,2.90383469374998
+"European Region","PRT","Portugal","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.016161973,13.3600990872922
+"European Region","PRT","Portugal","","J01G","Aminoglycoside antibacterials (J01G)",0.041284087,0.273569038814717
+"European Region","PRT","Portugal","","J01M","Quinolone antibacterials (J01M)",1.230247335,8.15223504737593
+"European Region","PRT","Portugal","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","PRT","Portugal","","J01X","Other antibacterials (J01X)",1.382453995,9.16083261373118
+"European Region","PRT","Portugal","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.156259357,1.03545276659008
+"Eastern Mediterranean Region","QAT","Qatar","d,e","A07A","Intestinal antiinfectives (A07A)",0.003194544,0.0976861120522475
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01A","Tetracyclines (J01A)",0.348253688,10.6492659949515
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01B","Amphenicols (J01B)",0,0
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01C","Beta-lactam antibacterials, penicillins (J01C)",1.727747929,52.8328856294772
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01D","Other beta-lactam antibacterials (J01D)",0.33030417,10.1003868351616
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01E","Sulfonamides and trimethoprim (J01E)",0.020375419,0.623060901194504
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.508811925,15.5589839172883
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01G","Aminoglycoside antibacterials (J01G)",0.005575894,0.170505526320957
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01M","Quinolone antibacterials (J01M)",0.105703158,3.23230186739154
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01R","Combinations of antibacterials (J01R)",0,0
+"Eastern Mediterranean Region","QAT","Qatar","d,e","J01X","Other antibacterials (J01X)",0.128969015,3.94374960888252
+"Eastern Mediterranean Region","QAT","Qatar","d,e","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.091277324,2.79117360727957
+"European Region","ROU","Romania","","A07A","Intestinal antiinfectives (A07A)",0.996445703,3.72818565508855
+"European Region","ROU","Romania","","J01A","Tetracyclines (J01A)",1.049587404,3.92701447913658
+"European Region","ROU","Romania","","J01B","Amphenicols (J01B)",0.003438959,0.0128668100766928
+"European Region","ROU","Romania","","J01C","Beta-lactam antibacterials, penicillins (J01C)",10.706630939,40.0586883569581
+"European Region","ROU","Romania","","J01D","Other beta-lactam antibacterials (J01D)",4.641336611,17.3654866707449
+"European Region","ROU","Romania","","J01E","Sulfonamides and trimethoprim (J01E)",0.741466849,2.77418635239526
+"European Region","ROU","Romania","","J01F","Macrolides, lincosamides and streptogramins (J01F)",4.720977786,17.6634628527841
+"European Region","ROU","Romania","","J01G","Aminoglycoside antibacterials (J01G)",0.149209928,0.558266558319831
+"European Region","ROU","Romania","","J01M","Quinolone antibacterials (J01M)",3.322897629,12.4325683140264
+"European Region","ROU","Romania","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","ROU","Romania","","J01X","Other antibacterials (J01X)",0.2639548724,0.987582931924598
+"European Region","ROU","Romania","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.131416042,0.491691018545055
+"European Region","RUS","Russian Federation","","A07A","Intestinal antiinfectives (A07A)",0.115019898,0.688851652585926
+"European Region","RUS","Russian Federation","","J01A","Tetracyclines (J01A)",0.803753084,4.81365963465238
+"European Region","RUS","Russian Federation","","J01B","Amphenicols (J01B)",0.125032985,0.748819811551226
+"European Region","RUS","Russian Federation","","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.304854238,25.7816778448875
+"European Region","RUS","Russian Federation","","J01D","Other beta-lactam antibacterials (J01D)",2.31032134009,13.8364639579625
+"European Region","RUS","Russian Federation","","J01E","Sulfonamides and trimethoprim (J01E)",0.357753242,2.1425763390059
+"European Region","RUS","Russian Federation","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.186820834,19.0858002499373
+"European Region","RUS","Russian Federation","","J01G","Aminoglycoside antibacterials (J01G)",0.097474293,0.583771408123616
+"European Region","RUS","Russian Federation","","J01M","Quinolone antibacterials (J01M)",3.557516112,21.3058861593866
+"European Region","RUS","Russian Federation","","J01R","Combinations of antibacterials (J01R)",0.188312898,1.12780182599836
+"European Region","RUS","Russian Federation","","J01X","Other antibacterials (J01X)",1.151858604,6.89845597768412
+"European Region","RUS","Russian Federation","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.4986218146,2.98623513822454
+"Eastern Mediterranean Region","SDN","Sudan","a","J01A","Tetracyclines (J01A)",1.088522416,7.17916883550266
+"Eastern Mediterranean Region","SDN","Sudan","a","J01B","Amphenicols (J01B)",0,0
+"Eastern Mediterranean Region","SDN","Sudan","a","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.289547334,28.2909971223471
+"Eastern Mediterranean Region","SDN","Sudan","a","J01D","Other beta-lactam antibacterials (J01D)",9.460995271,62.3984232240204
+"Eastern Mediterranean Region","SDN","Sudan","a","J01E","Sulfonamides and trimethoprim (J01E)",0,0
+"Eastern Mediterranean Region","SDN","Sudan","a","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.293822848,1.93785980197971
+"Eastern Mediterranean Region","SDN","Sudan","a","J01G","Aminoglycoside antibacterials (J01G)",0,0
+"Eastern Mediterranean Region","SDN","Sudan","a","J01M","Quinolone antibacterials (J01M)",0.008938122,0.0589498993930877
+"Eastern Mediterranean Region","SDN","Sudan","a","J01R","Combinations of antibacterials (J01R)",0,0
+"Eastern Mediterranean Region","SDN","Sudan","a","J01X","Other antibacterials (J01X)",0.020408537,0.134601116756977
+"African Region","SEN","Senegal","a","J01A","Tetracyclines (J01A)",0.980358736,7.59522436622692
+"African Region","SEN","Senegal","a","J01B","Amphenicols (J01B)",0.007448116,0.057703481438334
+"African Region","SEN","Senegal","a","J01C","Beta-lactam antibacterials, penicillins (J01C)",7.135179082,55.2790361639609
+"African Region","SEN","Senegal","a","J01D","Other beta-lactam antibacterials (J01D)",0.595995846,4.6174140194628
+"African Region","SEN","Senegal","a","J01E","Sulfonamides and trimethoprim (J01E)",1.465769518,11.355892439751
+"African Region","SEN","Senegal","a","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.011754589,7.83846037662554
+"African Region","SEN","Senegal","a","J01G","Aminoglycoside antibacterials (J01G)",0.039459932,0.305711599244684
+"African Region","SEN","Senegal","a","J01M","Quinolone antibacterials (J01M)",1.58091183,12.2479451767464
+"African Region","SEN","Senegal","a","J01R","Combinations of antibacterials (J01R)",0.088960429,0.689211401050645
+"African Region","SEN","Senegal","a","J01X","Other antibacterials (J01X)",0.00172974,0.0134009754927479
+"European Region","SVN","Slovenia","","A07A","Intestinal antiinfectives (A07A)",0.070594359,0.684313529114002
+"European Region","SVN","Slovenia","","J01A","Tetracyclines (J01A)",0.559916168,5.42760376834172
+"European Region","SVN","Slovenia","","J01B","Amphenicols (J01B)",0,0
+"European Region","SVN","Slovenia","","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.148935483,49.9117246967571
+"European Region","SVN","Slovenia","","J01D","Other beta-lactam antibacterials (J01D)",0.784547274,7.60508801882753
+"European Region","SVN","Slovenia","","J01E","Sulfonamides and trimethoprim (J01E)",0.58526891,5.67336312640511
+"European Region","SVN","Slovenia","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.359558197,13.1790143150806
+"European Region","SVN","Slovenia","","J01G","Aminoglycoside antibacterials (J01G)",0.054101011,0.524433599093171
+"European Region","SVN","Slovenia","","J01M","Quinolone antibacterials (J01M)",0.974570364,9.44709598055501
+"European Region","SVN","Slovenia","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","SVN","Slovenia","","J01X","Other antibacterials (J01X)",0.668909623,6.48414280202539
+"European Region","SVN","Slovenia","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.109682686,1.06322016380038
+"European Region","SWE","Sweden","","A07A","Intestinal antiinfectives (A07A)",0.112742781,1.18895601866212
+"European Region","SWE","Sweden","","J01A","Tetracyclines (J01A)",1.938723245,20.4452706436513
+"European Region","SWE","Sweden","","J01B","Amphenicols (J01B)",0,0
+"European Region","SWE","Sweden","","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.128853979,54.0875588936484
+"European Region","SWE","Sweden","","J01D","Other beta-lactam antibacterials (J01D)",0.215897112,2.27679473973743
+"European Region","SWE","Sweden","","J01E","Sulfonamides and trimethoprim (J01E)",0.310432734,3.27374279936413
+"European Region","SWE","Sweden","","J01F","Macrolides, lincosamides and streptogramins (J01F)",0.512118303,5.40066630624342
+"European Region","SWE","Sweden","","J01G","Aminoglycoside antibacterials (J01G)",0.01908525,0.201268078132392
+"European Region","SWE","Sweden","","J01M","Quinolone antibacterials (J01M)",0.61393925,6.47444350676792
+"European Region","SWE","Sweden","","J01R","Combinations of antibacterials (J01R)",0,0
+"European Region","SWE","Sweden","","J01X","Other antibacterials (J01X)",0.482928471,5.09283793681428
+"European Region","SWE","Sweden","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.1477811064,1.55846107697864
+"European Region","TJK","Tajikistan","","A07A","Intestinal antiinfectives (A07A)",0.003371948,0.0168453987733535
+"European Region","TJK","Tajikistan","","J01A","Tetracyclines (J01A)",1.438440295,7.18608364688164
+"European Region","TJK","Tajikistan","","J01B","Amphenicols (J01B)",0.119771512,0.598348159973847
+"European Region","TJK","Tajikistan","","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.800971222,28.9801840085724
+"European Region","TJK","Tajikistan","","J01D","Other beta-lactam antibacterials (J01D)",2.855423525,14.2649732277721
+"European Region","TJK","Tajikistan","","J01E","Sulfonamides and trimethoprim (J01E)",0.432088699,2.15860577924526
+"European Region","TJK","Tajikistan","","J01F","Macrolides, lincosamides and streptogramins (J01F)",3.372946366,16.8503863572047
+"European Region","TJK","Tajikistan","","J01G","Aminoglycoside antibacterials (J01G)",0.461818432,2.30712800076539
+"European Region","TJK","Tajikistan","","J01M","Quinolone antibacterials (J01M)",3.803643103,19.0020382466013
+"European Region","TJK","Tajikistan","","J01R","Combinations of antibacterials (J01R)",0.024476131,0.122276555606385
+"European Region","TJK","Tajikistan","","J01X","Other antibacterials (J01X)",1.289906954,6.44404866879672
+"European Region","TJK","Tajikistan","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.41416869,2.06908194980689
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01A","Tetracyclines (J01A)",1.826021474,7.9666383944524
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01B","Amphenicols (J01B)",0,0
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01C","Beta-lactam antibacterials, penicillins (J01C)",12.119627783,52.8759893557089
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01D","Other beta-lactam antibacterials (J01D)",1.234624126,5.38646675570741
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01E","Sulfonamides and trimethoprim (J01E)",0.181986036,0.793975844367204
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01F","Macrolides, lincosamides and streptogramins (J01F)",4.134659958,18.0388572853157
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01G","Aminoglycoside antibacterials (J01G)",0.115054041,0.501962300837378
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01M","Quinolone antibacterials (J01M)",1.880815007,8.20569377796291
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01R","Combinations of antibacterials (J01R)",0.890313226,3.88429360242035
+"Eastern Mediterranean Region","TUN","Tunisia","b","J01X","Other antibacterials (J01X)",0.112852873,0.492358958406236
+"Eastern Mediterranean Region","TUN","Tunisia","b","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.424898458,1.85376372482157
+"African Region","TZA","United Republic of Tanzania","","A07A","Intestinal antiinfectives (A07A)",0,0
+"African Region","TZA","United Republic of Tanzania","","J01A","Tetracyclines (J01A)",2.965667403,8.3235227025819
+"African Region","TZA","United Republic of Tanzania","","J01B","Amphenicols (J01B)",0.176625665,0.495722389840128
+"African Region","TZA","United Republic of Tanzania","","J01C","Beta-lactam antibacterials, penicillins (J01C)",13.607727937,38.1918189138816
+"African Region","TZA","United Republic of Tanzania","","J01D","Other beta-lactam antibacterials (J01D)",0.788875348,2.21407898334889
+"African Region","TZA","United Republic of Tanzania","","J01E","Sulfonamides and trimethoprim (J01E)",4.044326402,11.350916353481
+"African Region","TZA","United Republic of Tanzania","","J01F","Macrolides, lincosamides and streptogramins (J01F)",7.887470934,22.137190205042
+"African Region","TZA","United Republic of Tanzania","","J01G","Aminoglycoside antibacterials (J01G)",0.439456861,1.23339156496062
+"African Region","TZA","United Republic of Tanzania","","J01M","Quinolone antibacterials (J01M)",2.67699963,7.51333988854189
+"African Region","TZA","United Republic of Tanzania","","J01R","Combinations of antibacterials (J01R)",0.209158286,0.587029327763804
+"African Region","TZA","United Republic of Tanzania","","J01X","Other antibacterials (J01X)",0.138007276,0.387334970113466
+"African Region","TZA","United Republic of Tanzania","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",2.695639374,7.56565470044473
+"African Region","UGA","Uganda","","A07A","Intestinal antiinfectives (A07A)",1.49e-05,7.58838722902544e-05
+"African Region","UGA","Uganda","","J01A","Tetracyclines (J01A)",1.318503269,6.71497541470328
+"African Region","UGA","Uganda","","J01B","Amphenicols (J01B)",0.089027237,0.453404797507531
+"African Region","UGA","Uganda","","J01C","Beta-lactam antibacterials, penicillins (J01C)",4.663611351,23.7512005483668
+"African Region","UGA","Uganda","","J01D","Other beta-lactam antibacterials (J01D)",2.295780003,11.692125943233
+"African Region","UGA","Uganda","","J01E","Sulfonamides and trimethoprim (J01E)",4.207543392,21.4285023767941
+"African Region","UGA","Uganda","","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.485809633,7.56704620390616
+"African Region","UGA","Uganda","","J01G","Aminoglycoside antibacterials (J01G)",0.094685515,0.482221713288387
+"African Region","UGA","Uganda","","J01M","Quinolone antibacterials (J01M)",3.233379948,16.4672074523424
+"African Region","UGA","Uganda","","J01R","Combinations of antibacterials (J01R)",0.08937911,0.455196843534
+"African Region","UGA","Uganda","","J01X","Other antibacterials (J01X)",0.15397766,0.784189334697464
+"African Region","UGA","Uganda","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",2.003553751,10.2038534877546
+"European Region","UKR","Ukraine","","A07A","Intestinal antiinfectives (A07A)",0.056929527,0.431106439161792
+"European Region","UKR","Ukraine","","J01A","Tetracyclines (J01A)",0.793854738,6.01157092541622
+"European Region","UKR","Ukraine","","J01B","Amphenicols (J01B)",0.22247191,1.68469822230602
+"European Region","UKR","Ukraine","","J01C","Beta-lactam antibacterials, penicillins (J01C)",2.029138779,15.3659241465294
+"European Region","UKR","Ukraine","","J01D","Other beta-lactam antibacterials (J01D)",2.571268475,19.4712736044025
+"European Region","UKR","Ukraine","","J01E","Sulfonamides and trimethoprim (J01E)",0.270705745,2.04995537355492
+"European Region","UKR","Ukraine","","J01F","Macrolides, lincosamides and streptogramins (J01F)",2.76628532,20.9480646837403
+"European Region","UKR","Ukraine","","J01G","Aminoglycoside antibacterials (J01G)",0.10468205,0.792718791070523
+"European Region","UKR","Ukraine","","J01M","Quinolone antibacterials (J01M)",2.59147991,19.6243273926977
+"European Region","UKR","Ukraine","","J01R","Combinations of antibacterials (J01R)",0.159100678,1.20481111253229
+"European Region","UKR","Ukraine","","J01X","Other antibacterials (J01X)",1.452553774,10.9996572639742
+"European Region","UKR","Ukraine","","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.186974856,1.41589204461419
+"African Region","ZAF","South Africa","d","A07A","Intestinal antiinfectives (A07A)",0,0
+"African Region","ZAF","South Africa","d","J01A","Tetracyclines (J01A)",0.171201664,1.19248764586553
+"African Region","ZAF","South Africa","d","J01B","Amphenicols (J01B)",0,0
+"African Region","ZAF","South Africa","d","J01C","Beta-lactam antibacterials, penicillins (J01C)",5.801579344,40.4103063754604
+"African Region","ZAF","South Africa","d","J01D","Other beta-lactam antibacterials (J01D)",0.293467555,2.04411817983184
+"African Region","ZAF","South Africa","d","J01E","Sulfonamides and trimethoprim (J01E)",4.595971629,32.0127693871653
+"African Region","ZAF","South Africa","d","J01F","Macrolides, lincosamides and streptogramins (J01F)",1.974156314,13.7507834938592
+"African Region","ZAF","South Africa","d","J01G","Aminoglycoside antibacterials (J01G)",0.010565443,0.0735925104711389
+"African Region","ZAF","South Africa","d","J01M","Quinolone antibacterials (J01M)",0.646542587,4.50342613213991
+"African Region","ZAF","South Africa","d","J01R","Combinations of antibacterials (J01R)",0,0
+"African Region","ZAF","South Africa","d","J01X","Other antibacterials (J01X)",0.147946433,1.03050571752837
+"African Region","ZAF","South Africa","d","P01A","Agents against amoebiasis and other protozoal diseases (P01A)",0.715251433,4.98201055767842

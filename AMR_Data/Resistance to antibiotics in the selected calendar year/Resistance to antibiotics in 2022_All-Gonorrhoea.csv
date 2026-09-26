@@ -1,0 +1,179 @@
+Filters
+Region filter: All
+Infection type filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin",0,4.720412595,14.896551724,25.323770653,47.552447552,30,16031
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime",0,0,0.181239705,1.086996303,63.636363636,26,10629
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone",0,0,0,0.201034388,46.666666667,35,17630
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin",25,54.46969697,69.001982816,85.369532428,100,34,15936
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin",0,0,0,0.16286645,25.862068966,6,6623
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,5.46875,21,10146
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin",2.040816327,6.022321935,12.696132597,20.20873496,30.612244898,8,7762
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime",0,0.263830039,0.697674419,0.838249698,2.040816327,7,4340
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone",0,0,0.076335878,0.350877193,2.040816327,9,10374
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin",50.927318296,54.167564075,74.033149171,78.125,85.620915033,9,8068
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin",0,0,0,0,0,2,2459
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0,5,6604
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","ARE","United Arab Emirates","Eastern Mediterranean Region",120,8,6.666666667
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","ARE","United Arab Emirates","Eastern Mediterranean Region",161,26,16.149068323
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",306,31,10.130718954
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","ARE","United Arab Emirates","Eastern Mediterranean Region",306,262,85.620915033
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","ARE","United Arab Emirates","Eastern Mediterranean Region",36,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","AUS","Australia","Western Pacific Region",4643,147,3.166056429
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","AUS","Australia","Western Pacific Region",4643,27,0.581520569
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","AUS","Australia","Western Pacific Region",4643,2515,54.167564075
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin","AUS","Australia","Western Pacific Region",2278,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","AUS","Australia","Western Pacific Region",4251,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","AUT","Austria","European Region",307,79,25.732899023
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","AUT","Austria","European Region",307,3,0.977198697
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","AUT","Austria","European Region",307,1,0.325732899
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","AUT","Austria","European Region",307,242,78.827361564
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","BEL","Belgium","European Region",180,79,43.888888889
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","BEL","Belgium","European Region",180,1,0.555555556
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","BEL","Belgium","European Region",180,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","BEL","Belgium","European Region",180,98,54.444444444
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","BEL","Belgium","European Region",180,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",36,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","BHR","Bahrain","Eastern Mediterranean Region",36,36,100
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","CAN","Canada","Region of the Americas",1993,139,6.974410437
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","CAN","Canada","Region of the Americas",1994,6,0.300902708
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","CAN","Canada","Region of the Americas",1995,7,0.350877193
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","CAN","Canada","Region of the Americas",1995,1016,50.927318296
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","CAN","Canada","Region of the Americas",1682,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","COL","Colombia","Region of the Americas",229,25,10.917030568
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","COL","Colombia","Region of the Americas",195,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","COL","Colombia","Region of the Americas",230,190,82.608695652
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","CZE","Czechia","European Region",88,16,18.181818182
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","CZE","Czechia","European Region",88,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","CZE","Czechia","European Region",88,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","CZE","Czechia","European Region",88,54,61.363636364
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","CZE","Czechia","European Region",87,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","DEU","Germany","European Region",148,35,23.648648649
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","DEU","Germany","European Region",148,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","DEU","Germany","European Region",148,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","DEU","Germany","European Region",148,92,62.162162162
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","DNK","Denmark","European Region",116,2,1.724137931
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","DNK","Denmark","European Region",116,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","DNK","Denmark","European Region",116,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","DNK","Denmark","European Region",116,32,27.586206897
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","DNK","Denmark","European Region",116,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","FRA","France","European Region",200,25,12.5
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","FRA","France","European Region",200,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","FRA","France","European Region",200,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","FRA","France","European Region",200,134,67
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","FRA","France","European Region",200,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",1290,107,8.294573643
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",1290,9,0.697674419
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2620,2,0.076335878
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",1290,574,44.496124031
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",1288,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","GRC","Greece","European Region",83,20,24.096385542
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","GRC","Greece","European Region",83,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","GRC","Greece","European Region",83,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","GRC","Greece","European Region",83,54,65.060240964
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","GRC","Greece","European Region",83,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","IRL","Ireland","European Region",143,68,47.552447552
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","IRL","Ireland","European Region",143,1,0.699300699
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","IRL","Ireland","European Region",143,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","IRL","Ireland","European Region",143,78,54.545454545
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","IRL","Ireland","European Region",143,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","IRQ","Iraq","Eastern Mediterranean Region",11,7,63.636363636
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","IRQ","Iraq","Eastern Mediterranean Region",15,7,46.666666667
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","IRQ","Iraq","Eastern Mediterranean Region",12,3,25
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","ISL","Iceland","European Region",49,15,30.612244898
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","ISL","Iceland","European Region",49,1,2.040816327
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","ISL","Iceland","European Region",49,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","ISL","Iceland","European Region",49,26,53.06122449
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","ITA","Italy","European Region",81,16,19.75308642
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","ITA","Italy","European Region",81,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","ITA","Italy","European Region",81,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","ITA","Italy","European Region",81,70,86.419753086
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","ITA","Italy","European Region",81,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","JPN","Japan","Western Pacific Region",950,175,18.421052632
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","JPN","Japan","Western Pacific Region",706,183,25.920679887
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","JPN","Japan","Western Pacific Region",950,18,1.894736842
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","JPN","Japan","Western Pacific Region",950,792,83.368421053
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","JPN","Japan","Western Pacific Region",950,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",10,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","KWT","Kuwait","Eastern Mediterranean Region",13,11,84.615384615
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","MLT","Malta","European Region",50,8,16
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","MLT","Malta","European Region",49,1,2.040816327
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","MLT","Malta","European Region",50,39,78
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","MLT","Malta","European Region",49,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","NLD","Netherlands (Kingdom of the)","European Region",190,59,31.052631579
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","NLD","Netherlands (Kingdom of the)","European Region",190,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","NLD","Netherlands (Kingdom of the)","European Region",190,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","NLD","Netherlands (Kingdom of the)","European Region",190,90,47.368421053
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","NOR","Norway","European Region",441,81,18.367346939
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","NOR","Norway","European Region",441,1,0.22675737
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","NOR","Norway","European Region",441,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","NOR","Norway","European Region",441,242,54.875283447
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","NOR","Norway","European Region",441,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",40,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","OMN","Oman","Eastern Mediterranean Region",40,39,97.5
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","PAK","Pakistan","Eastern Mediterranean Region",39,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","PAK","Pakistan","Eastern Mediterranean Region",40,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",41,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","PAK","Pakistan","Eastern Mediterranean Region",40,36,90
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","PER","Peru","Region of the Americas",58,8,13.793103448
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","PER","Peru","Region of the Americas",58,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","PER","Peru","Region of the Americas",58,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","PER","Peru","Region of the Americas",58,56,96.551724138
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin","PER","Peru","Region of the Americas",58,15,25.862068966
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","PER","Peru","Region of the Americas",58,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","PHL","Philippines","Western Pacific Region",18,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","PHL","Philippines","Western Pacific Region",29,2,6.896551724
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","PHL","Philippines","Western Pacific Region",37,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","PHL","Philippines","Western Pacific Region",34,24,70.588235294
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","PHL","Philippines","Western Pacific Region",29,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","POL","Poland","European Region",15,6,40
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","POL","Poland","European Region",15,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","POL","Poland","European Region",15,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","POL","Poland","European Region",15,10,66.666666667
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","POL","Poland","European Region",15,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","QAT","Qatar","Eastern Mediterranean Region",98,2,2.040816327
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",89,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","QAT","Qatar","Eastern Mediterranean Region",96,75,78.125
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",17,1,5.882352941
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","SAU","Saudi Arabia","Eastern Mediterranean Region",15,14,93.333333333
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","SGP","Singapore","Western Pacific Region",181,17,9.392265193
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","SGP","Singapore","Western Pacific Region",181,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","SGP","Singapore","Western Pacific Region",181,134,74.033149171
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin","SGP","Singapore","Western Pacific Region",181,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","SGP","Singapore","Western Pacific Region",181,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","SWE","Sweden","European Region",89,29,32.584269663
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","SWE","Sweden","European Region",89,1,1.123595506
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","SWE","Sweden","European Region",89,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","SWE","Sweden","European Region",89,60,67.415730337
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","SWE","Sweden","European Region",89,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","THA","Thailand","South-East Asia Region",62,1,1.612903226
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","THA","Thailand","South-East Asia Region",59,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","THA","Thailand","South-East Asia Region",80,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","THA","Thailand","South-East Asia Region",91,81,89.010989011
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin","THA","Thailand","South-East Asia Region",60,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","THA","Thailand","South-East Asia Region",59,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","UGA","Uganda","African Region",127,37,29.133858268
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","UGA","Uganda","African Region",105,10,9.523809524
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","UGA","Uganda","African Region",92,8,8.695652174
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","UGA","Uganda","African Region",42,42,100
+"Gonorrhoea","Neisseria gonorrhoeae","Spectinomycin","UGA","Uganda","African Region",128,7,5.46875
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","USA","United States of America","Region of the Americas",3684,150,4.071661238
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","USA","United States of America","Region of the Americas",3684,5,0.135722041
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","USA","United States of America","Region of the Americas",3684,1,0.027144408
+"Gonorrhoea","Neisseria gonorrhoeae","Ciprofloxacin","USA","United States of America","Region of the Americas",3684,1158,31.433224756
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin","USA","United States of America","Region of the Americas",3684,8,0.217155266
+"Gonorrhoea","Neisseria gonorrhoeae","Azithromycin","ZAF","South Africa","African Region",359,5,1.39275766
+"Gonorrhoea","Neisseria gonorrhoeae","Cefixime","ZAF","South Africa","African Region",362,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Ceftriaxone","ZAF","South Africa","African Region",362,0,0
+"Gonorrhoea","Neisseria gonorrhoeae","Gentamicin","ZAF","South Africa","African Region",362,0,0

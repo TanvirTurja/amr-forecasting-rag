@@ -1,0 +1,48 @@
+Filters
+Region filter: All
+Infection type filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Ceftriaxone
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2018,"STOOL","Salmonella spp.","Ceftriaxone",1.041666667,2.303652423,3.260869565,6.577380952,11.111111111
+2019,"STOOL","Salmonella spp.","Ceftriaxone",1.428571429,2.170620899,5.166051661,9.293680297,28.205128205
+2020,"STOOL","Salmonella spp.","Ceftriaxone",1.257861635,2.161547213,3.703703704,8.931698774,42.857142857
+2021,"STOOL","Salmonella spp.","Ceftriaxone",1.27388535,3.044182607,4.467927327,5.979437229,10.526315789
+2022,"STOOL","Salmonella spp.","Ceftriaxone",0,4.166666667,6.12244898,12.244897959,31.944444444
+2023,"STOOL","Salmonella spp.","Ceftriaxone",0.869565217,5.647058824,6.885245902,11.111111111,25.641025641
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Ceftriaxone",205,177,4,2.259887006
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"STOOL","Salmonella spp.","Ceftriaxone",42,35,3,8.571428571
+"PHL","Philippines","Western Pacific Region",2018,"STOOL","Salmonella spp.","Ceftriaxone",67,36,4,11.111111111
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Ceftriaxone",166,92,3,3.260869565
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Ceftriaxone",818,240,11,4.583333333
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Ceftriaxone",316,271,14,5.166051661
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"STOOL","Salmonella spp.","Ceftriaxone",30,27,4,14.814814815
+"PHL","Philippines","Western Pacific Region",2019,"STOOL","Salmonella spp.","Ceftriaxone",77,39,3,7.692307692
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Ceftriaxone",235,79,11,13.924050633
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Ceftriaxone",1005,396,21,5.303030303
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Ceftriaxone",172,156,4,2.564102564
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"STOOL","Salmonella spp.","Ceftriaxone",26,26,4,15.384615385
+"PHL","Philippines","Western Pacific Region",2020,"STOOL","Salmonella spp.","Ceftriaxone",43,27,1,3.703703704
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Ceftriaxone",103,46,6,13.043478261
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Ceftriaxone",1068,418,15,3.588516746
+"BHR","Bahrain","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Ceftriaxone",178,168,3,1.785714286
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2021,"STOOL","Salmonella spp.","Ceftriaxone",35,32,1,3.125
+"PHL","Philippines","Western Pacific Region",2021,"STOOL","Salmonella spp.","Ceftriaxone",46,38,4,10.526315789
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Ceftriaxone",97,68,4,5.882352941
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2021,"STOOL","Salmonella spp.","Ceftriaxone",1289,638,33,5.172413793
+"BHR","Bahrain","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Ceftriaxone",234,219,6,2.739726027
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2022,"STOOL","Salmonella spp.","Ceftriaxone",67,49,6,12.244897959
+"PHL","Philippines","Western Pacific Region",2022,"STOOL","Salmonella spp.","Ceftriaxone",70,48,12,25
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Ceftriaxone",92,49,3,6.12244898
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2022,"STOOL","Salmonella spp.","Ceftriaxone",1509,681,32,4.6989721
+"BHR","Bahrain","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Ceftriaxone",389,305,21,6.885245902
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2023,"STOOL","Salmonella spp.","Ceftriaxone",63,55,6,10.909090909
+"PHL","Philippines","Western Pacific Region",2023,"STOOL","Salmonella spp.","Ceftriaxone",60,38,5,13.157894737
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Ceftriaxone",206,81,9,11.111111111
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2023,"STOOL","Salmonella spp.","Ceftriaxone",1777,850,48,5.647058824
