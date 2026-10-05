@@ -2,7 +2,7 @@
 
 This project forecasts antimicrobial resistance (AMR) rates using WHO GLASS surveillance data and pairs those forecasts with a local RAG-based Q&A system that can answer policy questions grounded in WHO documents.
 
-The paper is on arXiv: **[arxiv.org/abs/2602.22673](https://arxiv.org/abs/2602.22673)** (a v3 correction was submitted in September 2026; until arXiv moderation completes, the page may still show v2 — the correction is summarized below).
+The paper is on arXiv: **[arxiv.org/abs/2602.22673](https://arxiv.org/abs/2602.22673)**. Version 3 (posted 26 September 2026) is a correction: a leakage audit found four feature-construction defects in the original benchmark and withdrew its headline claim. The original v1/v2 text is preserved below the correction notice; every number in this README comes from the corrected analysis.
 
 ---
 
@@ -137,7 +137,7 @@ the above: XGBoost 6.13, LightGBM 6.30, LSTM 7.16, Linear 8.13, Ridge 8.15, naiv
 If you use this code or data in your research, please cite the preprint:
 
 **Plain text:**
-> Turja, M. T. H. (2026). Forecasting Antimicrobial Resistance Trends Using Machine Learning on WHO GLASS Surveillance Data: A Retrieval-Augmented Generation Approach for Policy Decision Support. *arXiv preprint arXiv:2602.22673*.
+> Turja, M. T. H. (2026). Forecasting Antimicrobial Resistance Trends Using Machine Learning on WHO GLASS Surveillance Data: A Retrieval-Augmented Generation Approach for Policy Decision Support. *arXiv preprint arXiv:2602.22673* (v3 documents the corrected analysis).
 
 **BibTeX:**
 ```bibtex
@@ -149,6 +149,7 @@ If you use this code or data in your research, please cite the preprint:
       archivePrefix={arXiv},
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2602.22673}, 
+      note={v3 documents the leakage audit that corrected these results}
 }
 ```
 
